@@ -1,0 +1,20 @@
+{
+  "id": "github:kairoz9/dsh-mcp-admin",
+  "kind": "plugin",
+  "name": "dsh-mcp-admin",
+  "description": "View MCP server status (/mcp) and manage MCP servers per profile from the settings page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kairoz9/dsh-mcp-admin",
+  "repositoryUrl": "https://github.com/kairoz9/dsh-mcp-admin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 362
+}
