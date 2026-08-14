@@ -1,0 +1,20 @@
+{
+  "id": "github:Gingerate/dsh-vision-skill",
+  "kind": "plugin",
+  "name": "dsh-vision-skill",
+  "description": "让 DSH 里任何模型（包括 DeepSeek 纯文本模型）都能识别图片：识图技能 + 幂等宿主补丁，装上即用 / Let every DSH model see images: vision skill + idempotent host patch.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gingerate/dsh-vision-skill",
+  "repositoryUrl": "https://github.com/Gingerate/dsh-vision-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 339
+}
