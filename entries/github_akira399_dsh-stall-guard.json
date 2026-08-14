@@ -1,0 +1,20 @@
+{
+  "id": "github:akira399/dsh-stall-guard",
+  "kind": "plugin",
+  "name": "dsh-stall-guard",
+  "description": "DeepSeek Harness watchdog plugin: detects truly stalled agent turns (never killing in-progress tasks — in-flight operations are exempt), nudges/terminates only on real silence, records every event to JSONL with a loopback status route",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "akira399/dsh-stall-guard",
+  "repositoryUrl": "https://github.com/akira399/dsh-stall-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 192
+}
