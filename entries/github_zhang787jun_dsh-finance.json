@@ -1,0 +1,20 @@
+{
+  "id": "github:zhang787jun/dsh-finance",
+  "kind": "plugin",
+  "name": "dsh-finance",
+  "description": "Finance and accounting workflows for DeepSeek Harness, adapted from Anthropic Finance",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhang787jun/dsh-finance",
+  "repositoryUrl": "https://github.com/zhang787jun/dsh-finance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 306
+}
