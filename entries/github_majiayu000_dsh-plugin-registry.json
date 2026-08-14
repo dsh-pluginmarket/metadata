@@ -1,0 +1,20 @@
+{
+  "id": "github:majiayu000/dsh-plugin-registry",
+  "kind": "plugin",
+  "name": "dsh-plugin-registry",
+  "description": "Searchable DeepSeek Harness plugin registry with curated listings and manifest-verified GitHub discovery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "majiayu000/dsh-plugin-registry",
+  "repositoryUrl": "https://github.com/majiayu000/dsh-plugin-registry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 298
+}
