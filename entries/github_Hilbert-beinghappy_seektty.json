@@ -1,0 +1,20 @@
+{
+  "id": "github:Hilbert-beinghappy/seektty",
+  "kind": "plugin",
+  "name": "seektty",
+  "description": "Pluggable DeepSeek-colored TUI for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Hilbert-beinghappy/seektty",
+  "repositoryUrl": "https://github.com/Hilbert-beinghappy/seektty",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 287
+}
