@@ -27,6 +27,7 @@ body:
     id: npmPackage
     attributes:
       label: npm package
+      description: Optional; GitHub and npm can be submitted together
       placeholder: '@scope/package'
   - type: textarea
     id: description

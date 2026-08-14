@@ -31,17 +31,21 @@ if (!name) throw new Error('Name is required');
 if (!description) throw new Error('Description is required');
 if (githubRepo && !/^[\w.-]+\/[\w.-]+$/.test(githubRepo)) throw new Error('GitHub repository must use owner/repository format');
 if (!githubRepo && !npmPackage) throw new Error('GitHub repository or npm package is required');
-if (githubRepo && npmPackage) throw new Error('Submit either a GitHub repository or npm package, not both');
 if (!tags.length) throw new Error('At least one tag is required');
 
+// A project may publish both on GitHub and npm. GitHub is the canonical
+// source when present, while both locators are retained in the registry entry.
 const source = githubRepo ? 'github' : 'npm';
+const sources = [ ...(githubRepo ? ['github'] : []), ...(npmPackage ? ['npm'] : []) ];
 const locator = githubRepo || npmPackage;
-const id = `${source}:${locator}`;
 const entry = {
-  id, kind, name, description, source, sources: [source],
-  ...(githubRepo ? { githubRepo, repositoryUrl: `https://github.com/${githubRepo}` } : { npmPackage, repositoryUrl: `https://www.npmjs.com/package/${npmPackage}` }),
+  id: `${source}:${locator}`, kind, name, description, source, sources,
+  ...(githubRepo ? { githubRepo, repositoryUrl: `https://github.com/${githubRepo}` } : {}),
+  ...(npmPackage ? { npmPackage } : {}),
+  ...(!githubRepo && npmPackage ? { repositoryUrl: `https://www.npmjs.com/package/${npmPackage}` } : {}),
   tags, status: 'pending', official: false, submittedBy: submitter, issueNumber,
 };
+const id = entry.id;
 const safeName = id.replace(/[^a-zA-Z0-9._-]/g, '_');
 mkdirSync('entries', { recursive: true });
 writeFileSync(`entries/${safeName}.json`, `${JSON.stringify(entry, null, 2)}\n`);

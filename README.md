@@ -23,6 +23,7 @@ Each entry is one JSON file under `entries/`:
   "source": "github",
   "sources": ["github"],
   "githubRepo": "owner/repository",
+  "npmPackage": "@scope/package",
   "repositoryUrl": "https://github.com/owner/repository",
   "tags": ["tooling"],
   "status": "active",
