@@ -1,0 +1,20 @@
+{
+  "id": "github:Muelsysel/DeepSeek-Harness-Desktop",
+  "kind": "plugin",
+  "name": "DeepSeek-Harness-Desktop",
+  "description": "dsh-desktop: DeepSeek Harness 桌面插件 - click-to-launch Codex-like native window over the live dsh web UI. Everything is a plugin - this one is the window.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Muelsysel/DeepSeek-Harness-Desktop",
+  "repositoryUrl": "https://github.com/Muelsysel/DeepSeek-Harness-Desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 151
+}
