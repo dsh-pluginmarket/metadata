@@ -1,0 +1,20 @@
+{
+  "id": "github:life1996cou/dsh-timer",
+  "kind": "plugin",
+  "name": "dsh-timer",
+  "description": "能自由设置计划任务时间,含一键避开高峰模式,只用低峰价格跑.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "life1996cou/dsh-timer",
+  "repositoryUrl": "https://github.com/life1996cou/dsh-timer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 340
+}
