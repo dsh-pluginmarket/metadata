@@ -1,0 +1,20 @@
+{
+  "id": "github:zdjmrq/dsh-usage-balance",
+  "kind": "plugin",
+  "name": "dsh-usage-balance",
+  "description": "DeepSeek Harness 侧边栏用量/余额插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zdjmrq/dsh-usage-balance",
+  "repositoryUrl": "https://github.com/zdjmrq/dsh-usage-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 336
+}
