@@ -1,0 +1,20 @@
+{
+  "id": "github:JiamingZang/dsh-llm-qodersdk",
+  "kind": "plugin",
+  "name": "dsh-llm-qodersdk",
+  "description": "dsh插件，将dsh的LLM请求路由到本机Qoder CLI，可使用Qoder credits与模型。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JiamingZang/dsh-llm-qodersdk",
+  "repositoryUrl": "https://github.com/JiamingZang/dsh-llm-qodersdk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 223
+}
