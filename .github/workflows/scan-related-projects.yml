@@ -13,6 +13,16 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     steps:
+      # Create the issues with the GitHub App token instead of GITHUB_TOKEN:
+      # events created via GITHUB_TOKEN do not trigger new workflow runs, so
+      # issues opened here would never fire the validate-and-pr workflow.
+      # owner/repositories are omitted so the token defaults to this repository.
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.METADATA_APP_ID }}
+          private-key: ${{ secrets.METADATA_APP_PRIVATE_KEY }}
       - uses: actions/checkout@v4
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -20,6 +30,6 @@ jobs:
           node-version: 22
       - name: Scan GitHub projects and open issues
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: node scripts/scan-related-projects.mjs

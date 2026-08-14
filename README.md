@@ -35,7 +35,7 @@ Supported kinds: `plugin`, `skill`, `preset`. Supported sources: `github`, `npm`
 
 ## GitHub App setup
 
-The workflows use the `deepseek-harness-plugin` GitHub App to create branches, comment on issues, and open pull requests. Add these repository secrets:
+The workflows use the `deepseek-harness-plugin` GitHub App to create branches, comment on issues, and open pull requests. The project scanner also opens Issues with the App token: GitHub never triggers workflows for events created with `GITHUB_TOKEN`, so the scanner must use the App token for the validate-and-pr workflow to run. Add these repository secrets:
 
 - `METADATA_APP_ID`: `4595886`
 - `METADATA_APP_PRIVATE_KEY`: the complete downloaded `.pem` private key
