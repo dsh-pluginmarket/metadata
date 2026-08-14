@@ -1,0 +1,20 @@
+{
+  "id": "github:weopenfire-git/hme-plugin",
+  "kind": "plugin",
+  "name": "hme-plugin",
+  "description": "Related DeepSeek Harness project: weopenfire-git/hme-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weopenfire-git/hme-plugin",
+  "repositoryUrl": "https://github.com/weopenfire-git/hme-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 304
+}
