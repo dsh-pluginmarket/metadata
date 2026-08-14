@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-mnemon",
+  "kind": "plugin",
+  "name": "dsh-mnemon",
+  "description": "Mnemon 与 DSH 的深度集成插件，为 DSH 提供完备的本地记忆系统：运行时记忆、可检索档案与受监督记忆体。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-mnemon",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-mnemon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 290
+}
