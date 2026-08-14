@@ -1,0 +1,20 @@
+{
+  "id": "github:MrMu666/dsh-LAN",
+  "kind": "plugin",
+  "name": "dsh-LAN",
+  "description": "为DeepSeek  harness开启局域网访问及移动端页面的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MrMu666/dsh-LAN",
+  "repositoryUrl": "https://github.com/MrMu666/dsh-LAN",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 413
+}
