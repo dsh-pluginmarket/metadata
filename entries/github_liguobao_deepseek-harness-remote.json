@@ -1,0 +1,20 @@
+{
+  "id": "github:liguobao/deepseek-harness-remote",
+  "kind": "plugin",
+  "name": "deepseek-harness-remote",
+  "description": "DSH Remote 是 DeepSeek Harness 的安全远程控制方案。Harness、代码仓库和执行环境始终留在 Host 机器上，已配对的客户端通过受限协议查看会话、继续对话、接收 Agent 流式输出，并处理 Harness 权限请求。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liguobao/deepseek-harness-remote",
+  "repositoryUrl": "https://github.com/liguobao/deepseek-harness-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 186
+}
