@@ -7,7 +7,7 @@ body:
     id: kind
     attributes:
       label: Kind
-      description: plugin, skill, or preset
+      description: plugin, skill, preset, or theme
       placeholder: plugin
     validations:
       required: true

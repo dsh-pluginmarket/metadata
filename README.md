@@ -31,7 +31,7 @@ Each entry is one JSON file under `entries/`:
 }
 ```
 
-Supported kinds: `plugin`, `skill`, `preset`. Supported sources: `github`, `npm`, `manual`. GitHub and npm may be provided together.
+Supported kinds: `plugin`, `skill`, `preset`, `theme`. Supported sources: `github`, `npm`, `manual`. GitHub and npm may be provided together.
 
 ## GitHub App setup
 

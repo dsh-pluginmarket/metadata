@@ -26,7 +26,7 @@ const npmPackage = optionalField('npm package');
 const description = field('Description').trim();
 const tags = field('Tags').split(',').map((tag) => tag.trim()).filter(Boolean);
 
-if (!['plugin', 'skill', 'preset'].includes(kind)) throw new Error('Kind must be plugin, skill, or preset');
+if (!['plugin', 'skill', 'preset', 'theme'].includes(kind)) throw new Error('Kind must be plugin, skill, preset, or theme');
 if (!name) throw new Error('Name is required');
 if (!description) throw new Error('Description is required');
 if (githubRepo && !/^[\w.-]+\/[\w.-]+$/.test(githubRepo)) throw new Error('GitHub repository must use owner/repository format');

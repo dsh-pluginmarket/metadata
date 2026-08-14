@@ -1,7 +1,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-const allowedKinds = new Set(['plugin', 'skill', 'preset']);
+const allowedKinds = new Set(['plugin', 'skill', 'preset', 'theme']);
 const allowedSources = new Set(['github', 'npm', 'manual']);
 const dir = new URL('../entries/', import.meta.url);
 const files = (await readdir(dir)).filter((name) => name.endsWith('.json'));
