@@ -1,0 +1,20 @@
+{
+  "id": "github:Ox0400/dsh-vault",
+  "kind": "plugin",
+  "name": "dsh-vault",
+  "description": "Encrypted credential vault for DeepSeek Harness — AES-256-GCM + TOTP, model tools + Settings UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ox0400/dsh-vault",
+  "repositoryUrl": "https://github.com/Ox0400/dsh-vault",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 382
+}
