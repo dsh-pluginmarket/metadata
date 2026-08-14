@@ -1,0 +1,20 @@
+{
+  "id": "github:KirschBluteX/engineer-software",
+  "kind": "plugin",
+  "name": "engineer-software",
+  "description": "A runtime-neutral, evidence-driven software engineering workflow for Codex and DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KirschBluteX/engineer-software",
+  "repositoryUrl": "https://github.com/KirschBluteX/engineer-software",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 8
+}

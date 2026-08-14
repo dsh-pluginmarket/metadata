@@ -1,0 +1,20 @@
+{
+  "id": "github:kirkchinese/Claudecode--DSH",
+  "kind": "plugin",
+  "name": "Claudecode--DSH",
+  "description": "To hell with ClaudeCode!",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kirkchinese/Claudecode--DSH",
+  "repositoryUrl": "https://github.com/kirkchinese/Claudecode--DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 67
+}

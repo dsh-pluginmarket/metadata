@@ -1,0 +1,20 @@
+{
+  "id": "github:chen-001/dsh-grok-tui",
+  "kind": "plugin",
+  "name": "dsh-grok-tui",
+  "description": "Use dsh via grok-build's TUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chen-001/dsh-grok-tui",
+  "repositoryUrl": "https://github.com/chen-001/dsh-grok-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 6
+}

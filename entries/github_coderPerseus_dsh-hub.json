@@ -1,0 +1,20 @@
+{
+  "id": "github:coderPerseus/dsh-hub",
+  "kind": "plugin",
+  "name": "dsh-hub",
+  "description": "Discover The Best DSH plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "coderPerseus/dsh-hub",
+  "repositoryUrl": "https://github.com/coderPerseus/dsh-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 82
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:AdamPlatin123/awesome-dsh-plugins",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugins",
+  "description": "前部索引仓库（Radar）：自动扫描发现的所有 dsh 插件候选；经测试合格的将移入后序精选目录仓库",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AdamPlatin123/awesome-dsh-plugins",
+  "repositoryUrl": "https://github.com/AdamPlatin123/awesome-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 49
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:fly3366/DeepJIT",
+  "kind": "plugin",
+  "name": "DeepJIT",
+  "description": "JIT compiler plugin for deepseek-harness: compiles recurring agent workflows into hot skills and flow templates",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fly3366/DeepJIT",
+  "repositoryUrl": "https://github.com/fly3366/DeepJIT",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 14
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:Asaiuta/reverse-workbench-skill",
+  "kind": "plugin",
+  "name": "reverse-workbench-skill",
+  "description": "Related DeepSeek Harness project: Asaiuta/reverse-workbench-skill",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Asaiuta/reverse-workbench-skill",
+  "repositoryUrl": "https://github.com/Asaiuta/reverse-workbench-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 80
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:Qinling-Melon-Farmers/dsh-memoir",
+  "kind": "plugin",
+  "name": "dsh-memoir",
+  "description": "DSH 项目持久化记忆插件（TypeScript）：会话归纳 + 经验教训沉淀，写入 PROJECT_MEMORY.md 与全局索引；每轮工作结束自动提醒蒸馏、自动注入未来 AGENTS；附 Web GUI 记忆面板（项目/全局 tab、检索、手动记录/删除）。dsh-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Qinling-Melon-Farmers/dsh-memoir",
+  "repositoryUrl": "https://github.com/Qinling-Melon-Farmers/dsh-memoir",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 62
+}

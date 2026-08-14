@@ -1,0 +1,20 @@
+{
+  "id": "github:openma-ai/backchat",
+  "kind": "plugin",
+  "name": "backchat",
+  "description": "Local-first desktop workspace for ACP agents—DeepSeek Harness, Claude Code, Codex, Gemini CLI, OpenCode, Hermes, and OpenClaw—with projects, tools, files, browser, and sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "openma-ai/backchat",
+  "repositoryUrl": "https://github.com/openma-ai/backchat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 46
+}

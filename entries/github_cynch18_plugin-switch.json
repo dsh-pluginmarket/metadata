@@ -1,0 +1,20 @@
+{
+  "id": "github:cynch18/plugin-switch",
+  "kind": "plugin",
+  "name": "plugin-switch",
+  "description": "DSH web plugin: toggle plugins on/off from the GUI without restarting the server",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cynch18/plugin-switch",
+  "repositoryUrl": "https://github.com/cynch18/plugin-switch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 37
+}

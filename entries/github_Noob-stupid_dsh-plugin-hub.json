@@ -1,0 +1,20 @@
+{
+  "id": "github:Noob-stupid/dsh-plugin-hub",
+  "kind": "plugin",
+  "name": "dsh-plugin-hub",
+  "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noob-stupid/dsh-plugin-hub",
+  "repositoryUrl": "https://github.com/Noob-stupid/dsh-plugin-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 81
+}

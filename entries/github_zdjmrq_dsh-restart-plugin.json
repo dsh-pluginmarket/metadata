@@ -1,0 +1,20 @@
+{
+  "id": "github:zdjmrq/dsh-restart-plugin",
+  "kind": "plugin",
+  "name": "dsh-restart-plugin",
+  "description": "DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zdjmrq/dsh-restart-plugin",
+  "repositoryUrl": "https://github.com/zdjmrq/dsh-restart-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 39
+}

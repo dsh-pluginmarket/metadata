@@ -1,0 +1,20 @@
+{
+  "id": "github:birdman1992/dsh-birdman-plugins",
+  "kind": "plugin",
+  "name": "dsh-birdman-plugins",
+  "description": "Community plugins for DeepSeek Harness (DSH): model metadata autofill and workspace artifacts view.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "birdman1992/dsh-birdman-plugins",
+  "repositoryUrl": "https://github.com/birdman1992/dsh-birdman-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 77
+}

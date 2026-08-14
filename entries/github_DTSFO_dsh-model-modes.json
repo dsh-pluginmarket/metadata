@@ -1,0 +1,20 @@
+{
+  "id": "github:DTSFO/dsh-model-modes",
+  "kind": "plugin",
+  "name": "dsh-model-modes",
+  "description": "Capability-aware reasoning controls and Fast model routing for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DTSFO/dsh-model-modes",
+  "repositoryUrl": "https://github.com/DTSFO/dsh-model-modes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 76
+}

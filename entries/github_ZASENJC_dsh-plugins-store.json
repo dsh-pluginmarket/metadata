@@ -1,0 +1,20 @@
+{
+  "id": "github:ZASENJC/dsh-plugins-store",
+  "kind": "plugin",
+  "name": "dsh-plugins-store",
+  "description": "自动分类、收录和验证 GitHub dsh-plugin Topic 项目的静态 DSH 插件市场。 A static DSH plugin marketplace that automatically categorizes, curates, and verifies GitHub dsh-plugin Topic projects.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZASENJC/dsh-plugins-store",
+  "repositoryUrl": "https://github.com/ZASENJC/dsh-plugins-store",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 22
+}

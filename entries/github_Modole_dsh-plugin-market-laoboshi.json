@@ -1,0 +1,20 @@
+{
+  "id": "github:Modole/dsh-plugin-market-laoboshi",
+  "kind": "plugin",
+  "name": "dsh-plugin-market-laoboshi",
+  "description": "劳博士专属 DSH 插件市场：在 Web GUI 与对话工具中查询（支持正则筛选）、下载安装、上传发布 GitHub dsh-plugin 生态插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Modole/dsh-plugin-market-laoboshi",
+  "repositoryUrl": "https://github.com/Modole/dsh-plugin-market-laoboshi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 24
+}

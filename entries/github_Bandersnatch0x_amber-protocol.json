@@ -1,0 +1,20 @@
+{
+  "id": "github:Bandersnatch0x/amber-protocol",
+  "kind": "plugin",
+  "name": "amber-protocol",
+  "description": "Amber Protocol: repository-local governance for coding agents, including a DeepSeek Harness (dsh) patch overlay.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Bandersnatch0x/amber-protocol",
+  "repositoryUrl": "https://github.com/Bandersnatch0x/amber-protocol",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 69
+}

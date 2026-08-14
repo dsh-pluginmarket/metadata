@@ -1,0 +1,20 @@
+{
+  "id": "github:lql341/dsh-scnet",
+  "kind": "plugin",
+  "name": "dsh-scnet",
+  "description": "dsh plugin for scnet.cn",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lql341/dsh-scnet",
+  "repositoryUrl": "https://github.com/lql341/dsh-scnet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 17
+}

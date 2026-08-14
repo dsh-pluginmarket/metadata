@@ -1,0 +1,20 @@
+{
+  "id": "github:SZMY-haruhi/dsh-web-search-Tavily",
+  "kind": "plugin",
+  "name": "dsh-web-search-Tavily",
+  "description": "Adds Tavily Search API as a web search provider for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SZMY-haruhi/dsh-web-search-Tavily",
+  "repositoryUrl": "https://github.com/SZMY-haruhi/dsh-web-search-Tavily",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 15
+}

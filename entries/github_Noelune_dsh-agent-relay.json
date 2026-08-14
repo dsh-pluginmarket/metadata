@@ -1,0 +1,20 @@
+{
+  "id": "github:Noelune/dsh-agent-relay",
+  "kind": "plugin",
+  "name": "dsh-agent-relay",
+  "description": "Related DeepSeek Harness project: Noelune/dsh-agent-relay",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noelune/dsh-agent-relay",
+  "repositoryUrl": "https://github.com/Noelune/dsh-agent-relay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 56
+}

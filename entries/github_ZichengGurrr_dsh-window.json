@@ -1,0 +1,20 @@
+{
+  "id": "github:ZichengGurrr/dsh-window",
+  "kind": "plugin",
+  "name": "dsh-window",
+  "description": "Related DeepSeek Harness project: ZichengGurrr/dsh-window",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZichengGurrr/dsh-window",
+  "repositoryUrl": "https://github.com/ZichengGurrr/dsh-window",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 9
+}

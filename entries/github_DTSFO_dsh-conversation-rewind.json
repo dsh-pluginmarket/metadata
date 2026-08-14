@@ -1,0 +1,20 @@
+{
+  "id": "github:DTSFO/dsh-conversation-rewind",
+  "kind": "plugin",
+  "name": "dsh-conversation-rewind",
+  "description": "Related DeepSeek Harness project: DTSFO/dsh-conversation-rewind",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DTSFO/dsh-conversation-rewind",
+  "repositoryUrl": "https://github.com/DTSFO/dsh-conversation-rewind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 75
+}

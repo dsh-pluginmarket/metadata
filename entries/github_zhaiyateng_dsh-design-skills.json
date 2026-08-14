@@ -1,0 +1,20 @@
+{
+  "id": "github:zhaiyateng/dsh-design-skills",
+  "kind": "plugin",
+  "name": "dsh-design-skills",
+  "description": "Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhaiyateng/dsh-design-skills",
+  "repositoryUrl": "https://github.com/zhaiyateng/dsh-design-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 42
+}

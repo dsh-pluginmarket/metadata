@@ -1,0 +1,20 @@
+{
+  "id": "github:NinjaSln-labs/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "DSH plugin collection: DeepSeek Harness community plugins (session-health, knowledge, ...)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NinjaSln-labs/dsh-plugins",
+  "repositoryUrl": "https://github.com/NinjaSln-labs/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 5
+}

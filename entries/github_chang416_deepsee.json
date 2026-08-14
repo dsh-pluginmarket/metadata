@@ -1,0 +1,20 @@
+{
+  "id": "github:chang416/deepsee",
+  "kind": "plugin",
+  "name": "deepsee",
+  "description": "Vision + smart model routing for DeepSeek Harness. Gemini sees. DeepSeek codes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chang416/deepsee",
+  "repositoryUrl": "https://github.com/chang416/deepsee",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 16
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:dsh-market/dsh-market",
+  "kind": "plugin",
+  "name": "dsh-market",
+  "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dsh-market/dsh-market",
+  "repositoryUrl": "https://github.com/dsh-market/dsh-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 40
+}

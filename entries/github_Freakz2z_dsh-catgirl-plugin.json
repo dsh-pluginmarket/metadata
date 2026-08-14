@@ -1,0 +1,20 @@
+{
+  "id": "github:Freakz2z/dsh-catgirl-plugin",
+  "kind": "plugin",
+  "name": "dsh-catgirl-plugin",
+  "description": "A token-efficient persona runtime for DeepSeek Harness. 把人格留在界面，把智能留给模型。Measured: -67% input tokens, -66% cache reads, 0-token catgirl rendering.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Freakz2z/dsh-catgirl-plugin",
+  "repositoryUrl": "https://github.com/Freakz2z/dsh-catgirl-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 23
+}

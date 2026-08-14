@@ -1,0 +1,20 @@
+{
+  "id": "github:dshworks/dsh-watch",
+  "kind": "plugin",
+  "name": "dsh-watch",
+  "description": "Put a watch on a stream: background listeners that wake the DeepSeek Harness agent with new matching lines — the harness analog of Claude Code's Monitor tool, built on the first-class jobs subsystem. Not affiliated with DeepSeek.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dshworks/dsh-watch",
+  "repositoryUrl": "https://github.com/dshworks/dsh-watch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 79
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:openma-ai/deepseek-harness-tui",
+  "kind": "plugin",
+  "name": "deepseek-harness-tui",
+  "description": "TUI Plugin of DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "openma-ai/deepseek-harness-tui",
+  "repositoryUrl": "https://github.com/openma-ai/deepseek-harness-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 74
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:zhn1100/dsh-forge",
+  "kind": "plugin",
+  "name": "dsh-forge",
+  "description": "Reproducible DeepSeek Harness plugin development environment",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhn1100/dsh-forge",
+  "repositoryUrl": "https://github.com/zhn1100/dsh-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 10
+}

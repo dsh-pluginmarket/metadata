@@ -1,0 +1,20 @@
+{
+  "id": "github:Karbo123/DSH-EvoResearch",
+  "kind": "plugin",
+  "name": "DSH-EvoResearch",
+  "description": "自进化科研工作流",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Karbo123/DSH-EvoResearch",
+  "repositoryUrl": "https://github.com/Karbo123/DSH-EvoResearch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 60
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:Easyhoov/deepseek-harness-desktop-windows",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop-windows",
+  "description": "Unofficial in-process desktop app for DeepSeek Harness: the host composition boots inside the Electron main process with zero ports and an IPC bridge. Not affiliated with DeepSeek.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Easyhoov/deepseek-harness-desktop-windows",
+  "repositoryUrl": "https://github.com/Easyhoov/deepseek-harness-desktop-windows",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 3
+}

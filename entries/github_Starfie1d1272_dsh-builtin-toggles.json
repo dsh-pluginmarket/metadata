@@ -1,0 +1,20 @@
+{
+  "id": "github:Starfie1d1272/dsh-builtin-toggles",
+  "kind": "plugin",
+  "name": "dsh-builtin-toggles",
+  "description": "Built-in plugin catalog and safe GUI toggles for DeepSeek Harness Web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Starfie1d1272/dsh-builtin-toggles",
+  "repositoryUrl": "https://github.com/Starfie1d1272/dsh-builtin-toggles",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 35
+}

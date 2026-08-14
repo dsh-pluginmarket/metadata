@@ -1,0 +1,20 @@
+{
+  "id": "github:knlght/DSH-shutdown",
+  "kind": "plugin",
+  "name": "DSH-shutdown",
+  "description": "一键结束 DeepSeek Harness 服务：Settings 关机页 + 二次确认 + 优雅退出，关掉浏览器不再留下后台进程",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "knlght/DSH-shutdown",
+  "repositoryUrl": "https://github.com/knlght/DSH-shutdown",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 48
+}
