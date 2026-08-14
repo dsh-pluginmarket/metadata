@@ -1,0 +1,20 @@
+{
+  "id": "github:NoWint/Oh-My-DSH",
+  "kind": "plugin",
+  "name": "Oh-My-DSH",
+  "description": "🐋 Oh-My-DSH — DeepSeek Harness Plugin Ecosystem【每一小时更新】",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NoWint/Oh-My-DSH",
+  "repositoryUrl": "https://github.com/NoWint/Oh-My-DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 261
+}
