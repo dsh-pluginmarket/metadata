@@ -1,0 +1,20 @@
+{
+  "id": "github:dqsjqian/Aria",
+  "kind": "plugin",
+  "name": "Aria",
+  "description": "Modern C++20 MVVM framework — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters (Qt6, AppKit, ...).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dqsjqian/Aria",
+  "repositoryUrl": "https://github.com/dqsjqian/Aria",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 425
+}
