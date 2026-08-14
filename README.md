@@ -49,3 +49,5 @@ Install the App on `dsh-pluginmarket/metadata` with **Contents**, **Issues**, an
 ## Automatic project discovery
 
 `.github/workflows/scan-related-projects.yml` runs weekly and can also be started manually from **Actions → Scan related DSH projects → Run workflow**. It scans GitHub repositories with the `dsh-plugin` topic and the `deepseek-ai` organization, skips entries and duplicate Issues already known to this repository, and opens an `Add:` metadata Issue for each new project. The existing Issue workflow then validates the submission and creates the maintainer-review PR.
+
+Manual runs accept an optional **`github_token`** input: a personal access token or App token to use instead of the default GitHub App token, for example when the App token is hitting GitHub's rate limits. Leave it empty to use the default. The scanner spaces out Issue creation and retries rate-limited requests automatically.

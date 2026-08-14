@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '17 3 * * 1'
   workflow_dispatch:
+    inputs:
+      github_token:
+        description: 'Optional GitHub token (PAT or App token) to use instead of the default GitHub App token, e.g. when the App token is rate limited; leave empty for the default'
+        required: false
+        type: string
 
 permissions:
   contents: read
@@ -30,6 +35,8 @@ jobs:
           node-version: 22
       - name: Scan GitHub projects and open issues
         env:
-          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          # A manual run may supply its own token to bypass App-token rate
+          # limits; empty input falls back to the default GitHub App token.
+          GH_TOKEN: ${{ inputs.github_token || steps.app-token.outputs.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: node scripts/scan-related-projects.mjs
