@@ -1,0 +1,20 @@
+{
+  "id": "github:aka-danielZhang/dsh-mcp-settings",
+  "kind": "plugin",
+  "name": "dsh-mcp-settings",
+  "description": "DSH bundle for MCP server management, inventory status, and Web settings",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aka-danielZhang/dsh-mcp-settings",
+  "repositoryUrl": "https://github.com/aka-danielZhang/dsh-mcp-settings",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 133
+}
