@@ -1,0 +1,20 @@
+{
+  "id": "github:HOFO-GYG/dsh-quote-reply",
+  "kind": "plugin",
+  "name": "dsh-quote-reply",
+  "description": "DSH web plugin: quote any selected fragment of a conversation into the composer as a Markdown blockquote - smart floating button beside the mouse that dodges other overlays.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HOFO-GYG/dsh-quote-reply",
+  "repositoryUrl": "https://github.com/HOFO-GYG/dsh-quote-reply",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 335
+}
