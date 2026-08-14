@@ -1,0 +1,20 @@
+{
+  "id": "github:le-soleil-se-couche/dsh-skin-claude-code",
+  "kind": "plugin",
+  "name": "dsh-skin-claude-code",
+  "description": "完美复刻 Claude Code 皮肤，纪念我的 Vibe Coding 白月光。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "le-soleil-se-couche/dsh-skin-claude-code",
+  "repositoryUrl": "https://github.com/le-soleil-se-couche/dsh-skin-claude-code",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 265
+}
