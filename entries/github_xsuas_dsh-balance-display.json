@@ -1,0 +1,20 @@
+{
+  "id": "github:xsuas/dsh-balance-display",
+  "kind": "plugin",
+  "name": "dsh-balance-display",
+  "description": "DeepSeek Harness 余额显示插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xsuas/dsh-balance-display",
+  "repositoryUrl": "https://github.com/xsuas/dsh-balance-display",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 194
+}
