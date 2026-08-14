@@ -1,0 +1,20 @@
+{
+  "id": "github:862930522/opencode-anchored-standard",
+  "kind": "plugin",
+  "name": "opencode-anchored-standard",
+  "description": "Related DeepSeek Harness project: 862930522/opencode-anchored-standard",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "862930522/opencode-anchored-standard",
+  "repositoryUrl": "https://github.com/862930522/opencode-anchored-standard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 285
+}
