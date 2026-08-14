@@ -1,0 +1,20 @@
+{
+  "id": "github:AgentConnect/dsh-awiki",
+  "kind": "plugin",
+  "name": "dsh-awiki",
+  "description": "AWiki identity and messaging plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AgentConnect/dsh-awiki",
+  "repositoryUrl": "https://github.com/AgentConnect/dsh-awiki",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 208
+}
