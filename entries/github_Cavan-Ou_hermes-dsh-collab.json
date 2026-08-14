@@ -1,0 +1,20 @@
+{
+  "id": "github:Cavan-Ou/hermes-dsh-collab",
+  "kind": "plugin",
+  "name": "hermes-dsh-collab",
+  "description": "Battle-tested multi-agent collaboration playbook for DeepSeek Harness: model-tier routing, spec discipline, git single-writer rule — as an installable skill. 多 agent 管线里运行 DSH 的实战协作规范",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Cavan-Ou/hermes-dsh-collab",
+  "repositoryUrl": "https://github.com/Cavan-Ou/hermes-dsh-collab",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 129
+}
