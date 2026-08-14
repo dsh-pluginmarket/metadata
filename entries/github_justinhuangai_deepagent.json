@@ -1,0 +1,20 @@
+{
+  "id": "github:justinhuangai/deepagent",
+  "kind": "plugin",
+  "name": "deepagent",
+  "description": "The agent that gets your work done. Built on DeepSeek Harness: Everything is a Plugin. 帮你完成工作的智能体。基于 DeepSeek Harness 构建：一切皆插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "justinhuangai/deepagent",
+  "repositoryUrl": "https://github.com/justinhuangai/deepagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 441
+}
