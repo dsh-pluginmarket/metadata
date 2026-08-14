@@ -1,0 +1,20 @@
+{
+  "id": "github:LaoYueHanNi/dsh-token-usage",
+  "kind": "plugin",
+  "name": "dsh-token-usage",
+  "description": "Related DeepSeek Harness project: LaoYueHanNi/dsh-token-usage",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LaoYueHanNi/dsh-token-usage",
+  "repositoryUrl": "https://github.com/LaoYueHanNi/dsh-token-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 405
+}
