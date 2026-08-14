@@ -1,0 +1,20 @@
+{
+  "id": "github:Hoshino-Yumetsuki/dsh-onebot",
+  "kind": "plugin",
+  "name": "dsh-onebot",
+  "description": "OneBot Adapter For DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Hoshino-Yumetsuki/dsh-onebot",
+  "repositoryUrl": "https://github.com/Hoshino-Yumetsuki/dsh-onebot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 229
+}
