@@ -1,0 +1,20 @@
+{
+  "id": "github:Chance-Wu/dsh-change-center",
+  "kind": "plugin",
+  "name": "dsh-change-center",
+  "description": "文件变更的捕获 → 审查 → 拒绝 / 应用 → 回滚中心",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chance-Wu/dsh-change-center",
+  "repositoryUrl": "https://github.com/Chance-Wu/dsh-change-center",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 268
+}
