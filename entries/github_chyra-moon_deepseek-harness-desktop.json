@@ -1,0 +1,20 @@
+{
+  "id": "github:chyra-moon/deepseek-harness-desktop",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop",
+  "description": "DeepSeek Harness desktop shell: 1:1 replica of the official web UI as a Windows desktop app (community project)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chyra-moon/deepseek-harness-desktop",
+  "repositoryUrl": "https://github.com/chyra-moon/deepseek-harness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 352
+}
