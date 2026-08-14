@@ -1,0 +1,20 @@
+{
+  "id": "github:coderdailyone/dsh-plugin-web-search-tavily",
+  "kind": "plugin",
+  "name": "dsh-plugin-web-search-tavily",
+  "description": "Tavily search provider bundle for DeepSeek Harness (dsh) — community plugin registering a WebSearchProvider into ctx.web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "coderdailyone/dsh-plugin-web-search-tavily",
+  "repositoryUrl": "https://github.com/coderdailyone/dsh-plugin-web-search-tavily",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 138
+}
