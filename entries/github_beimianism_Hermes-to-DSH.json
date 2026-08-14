@@ -1,0 +1,20 @@
+{
+  "id": "github:beimianism/Hermes-to-DSH",
+  "kind": "plugin",
+  "name": "Hermes-to-DSH",
+  "description": "浏览本机 Hermes 的 技能 / MCP 服务 / 对话历史,并把选中的技能与 MCP 配置注入到当前 agent。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beimianism/Hermes-to-DSH",
+  "repositoryUrl": "https://github.com/beimianism/Hermes-to-DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 128
+}
