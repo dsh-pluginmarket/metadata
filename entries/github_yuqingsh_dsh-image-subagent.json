@@ -1,0 +1,20 @@
+{
+  "id": "github:yuqingsh/dsh-image-subagent",
+  "kind": "plugin",
+  "name": "dsh-image-subagent",
+  "description": "Related DeepSeek Harness project: yuqingsh/dsh-image-subagent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuqingsh/dsh-image-subagent",
+  "repositoryUrl": "https://github.com/yuqingsh/dsh-image-subagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 361
+}
