@@ -1,0 +1,20 @@
+{
+  "id": "github:Aa728848/dsh-chatgpt-subscription",
+  "kind": "plugin",
+  "name": "dsh-chatgpt-subscription",
+  "description": "Related DeepSeek Harness project: Aa728848/dsh-chatgpt-subscription",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aa728848/dsh-chatgpt-subscription",
+  "repositoryUrl": "https://github.com/Aa728848/dsh-chatgpt-subscription",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 416
+}
