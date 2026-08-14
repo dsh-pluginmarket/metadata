@@ -1,0 +1,20 @@
+{
+  "id": "github:morluto/jacobian",
+  "kind": "plugin",
+  "name": "jacobian",
+  "description": "Pure mathematics for agents: search for examples and counterexamples, compute exactly, and independently check what a result proves.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "morluto/jacobian",
+  "repositoryUrl": "https://github.com/morluto/jacobian",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 380
+}
