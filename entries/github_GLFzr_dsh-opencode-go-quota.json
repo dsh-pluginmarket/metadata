@@ -1,0 +1,20 @@
+{
+  "id": "github:GLFzr/dsh-opencode-go-quota",
+  "kind": "plugin",
+  "name": "dsh-opencode-go-quota",
+  "description": "DSH 插件：OpenCode Go 额度圆环 —— 输入框模型选择器左侧的进度圆环，点击切换 5小时/每周/每月用量（OpenCode Go quota ring for DeepSeek Harness Web）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GLFzr/dsh-opencode-go-quota",
+  "repositoryUrl": "https://github.com/GLFzr/dsh-opencode-go-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 260
+}
