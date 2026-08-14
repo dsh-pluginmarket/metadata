@@ -1,0 +1,20 @@
+{
+  "id": "github:woshi-Tom/dsh-status-plugin",
+  "kind": "plugin",
+  "name": "dsh-status-plugin",
+  "description": "dsh status plugin；可以方便的查看宿主机的运行状态，故障时方便排查",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "woshi-Tom/dsh-status-plugin",
+  "repositoryUrl": "https://github.com/woshi-Tom/dsh-status-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 185
+}
