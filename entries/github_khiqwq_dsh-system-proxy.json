@@ -1,0 +1,20 @@
+{
+  "id": "github:khiqwq/dsh-system-proxy",
+  "kind": "plugin",
+  "name": "dsh-system-proxy",
+  "description": "DSH host plugin - smart outbound HTTP(S) routing: named proxies (http/https/socks4/4a/5/5h), per-host/provider/plugin rules, direct-first fallback with health memory (global fetch + node http/https)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "khiqwq/dsh-system-proxy",
+  "repositoryUrl": "https://github.com/khiqwq/dsh-system-proxy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 234
+}
