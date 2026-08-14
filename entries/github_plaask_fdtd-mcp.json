@@ -1,0 +1,20 @@
+{
+  "id": "github:plaask/fdtd-mcp",
+  "kind": "plugin",
+  "name": "fdtd-mcp",
+  "description": "MCP server for Lumerical FDTD",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "plaask/fdtd-mcp",
+  "repositoryUrl": "https://github.com/plaask/fdtd-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 322
+}
