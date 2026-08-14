@@ -1,0 +1,20 @@
+{
+  "id": "github:Quophic/dsh-persona-memory",
+  "kind": "plugin",
+  "name": "dsh-persona-memory",
+  "description": "Related DeepSeek Harness project: Quophic/dsh-persona-memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Quophic/dsh-persona-memory",
+  "repositoryUrl": "https://github.com/Quophic/dsh-persona-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 310
+}
