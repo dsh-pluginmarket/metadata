@@ -1,0 +1,20 @@
+{
+  "id": "github:Monokuna-Hugo/dsh-kaoyan-english",
+  "kind": "plugin",
+  "name": "dsh-kaoyan-english",
+  "description": "考研英语阅读命题助手，一个运行在 DeepSeek Harness（DSH）中的动态 Cordis 插件：自动抓取《卫报》《今日心理学》《经济学人》等外刊文章|Postgraduate Entrance Exam English Reading Proposition Assistant, a dynamic Cordis plugin running in DeepSeek Harness (DSH): automatically crawls articles from foreign publications such as The Guardian, Psychology Today, etc",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Monokuna-Hugo/dsh-kaoyan-english",
+  "repositoryUrl": "https://github.com/Monokuna-Hugo/dsh-kaoyan-english",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 273
+}
