@@ -1,0 +1,20 @@
+{
+  "id": "github:Wha1eChai/dsh-cross-session",
+  "kind": "plugin",
+  "name": "dsh-cross-session",
+  "description": "Same-runtime cross-Session discovery and communication for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wha1eChai/dsh-cross-session",
+  "repositoryUrl": "https://github.com/Wha1eChai/dsh-cross-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 134
+}
