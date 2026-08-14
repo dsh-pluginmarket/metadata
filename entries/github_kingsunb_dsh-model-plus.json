@@ -1,0 +1,20 @@
+{
+  "id": "github:kingsunb/dsh-model-plus",
+  "kind": "plugin",
+  "name": "dsh-model-plus",
+  "description": "Related DeepSeek Harness project: kingsunb/dsh-model-plus",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kingsunb/dsh-model-plus",
+  "repositoryUrl": "https://github.com/kingsunb/dsh-model-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 217
+}
