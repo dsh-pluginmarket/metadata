@@ -1,0 +1,20 @@
+{
+  "id": "github:LaplaceYoung/dsh-of-your-own",
+  "kind": "plugin",
+  "name": "dsh-of-your-own",
+  "description": "/fuck — migrates your Claude Code & Codex habits into DeepSeek Harness. One command, parallel scan, boot-time recall.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LaplaceYoung/dsh-of-your-own",
+  "repositoryUrl": "https://github.com/LaplaceYoung/dsh-of-your-own",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 196
+}
