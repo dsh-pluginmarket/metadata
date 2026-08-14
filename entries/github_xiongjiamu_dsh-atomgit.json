@@ -1,0 +1,20 @@
+{
+  "id": "github:xiongjiamu/dsh-atomgit",
+  "kind": "plugin",
+  "name": "dsh-atomgit",
+  "description": "AtomGit plugin bundle for DeepSeek Harness (dsh): atomgit-skills workflows + ag CLI + platform-hosted GitCode MCP tools",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiongjiamu/dsh-atomgit",
+  "repositoryUrl": "https://github.com/xiongjiamu/dsh-atomgit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 320
+}
