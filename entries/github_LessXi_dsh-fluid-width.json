@@ -1,0 +1,20 @@
+{
+  "id": "github:LessXi/dsh-fluid-width",
+  "kind": "plugin",
+  "name": "dsh-fluid-width",
+  "description": "让 DSH Web GUI 聊天显示区自适应屏幕宽度（覆盖硬编码 748px 为 min(100%,2000px)）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LessXi/dsh-fluid-width",
+  "repositoryUrl": "https://github.com/LessXi/dsh-fluid-width",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 165
+}
