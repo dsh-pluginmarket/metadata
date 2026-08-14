@@ -1,0 +1,20 @@
+{
+  "id": "github:BlockRunAI/dsh-clawrouter",
+  "kind": "plugin",
+  "name": "dsh-clawrouter",
+  "description": "A safety gate for DeepSeek Harness: a stronger model reviews dangerous tool calls before they run. Plus vision and 67 models from one wallet, paid per request over x402.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BlockRunAI/dsh-clawrouter",
+  "repositoryUrl": "https://github.com/BlockRunAI/dsh-clawrouter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 209
+}
