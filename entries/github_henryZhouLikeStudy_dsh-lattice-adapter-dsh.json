@@ -1,0 +1,20 @@
+{
+  "id": "github:henryZhouLikeStudy/dsh-lattice-adapter-dsh",
+  "kind": "plugin",
+  "name": "dsh-lattice-adapter-dsh",
+  "description": "DSH Lattice adapter for DeepSeek Harness: capability detection and session mapping",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "henryZhouLikeStudy/dsh-lattice-adapter-dsh",
+  "repositoryUrl": "https://github.com/henryZhouLikeStudy/dsh-lattice-adapter-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 114
+}
