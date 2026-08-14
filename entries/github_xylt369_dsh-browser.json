@@ -1,0 +1,20 @@
+{
+  "id": "github:xylt369/dsh-browser",
+  "kind": "plugin",
+  "name": "dsh-browser",
+  "description": "Browser capability for DeepSeek Harness: headed Edge/Playwright provider, SSRF-safe navigation, a11y-ref clicking, permission gate with auto-remember, gated evaluate",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xylt369/dsh-browser",
+  "repositoryUrl": "https://github.com/xylt369/dsh-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 342
+}
