@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-Math",
+  "kind": "plugin",
+  "name": "DeepSeek-Math",
+  "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-Math",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-Math",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 513
+}
