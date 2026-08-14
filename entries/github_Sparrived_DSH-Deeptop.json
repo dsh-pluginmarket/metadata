@@ -1,0 +1,20 @@
+{
+  "id": "github:Sparrived/DSH-Deeptop",
+  "kind": "plugin",
+  "name": "DSH-Deeptop",
+  "description": "Deeptop, a lightweight native desktop client for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sparrived/DSH-Deeptop",
+  "repositoryUrl": "https://github.com/Sparrived/DSH-Deeptop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 351
+}
