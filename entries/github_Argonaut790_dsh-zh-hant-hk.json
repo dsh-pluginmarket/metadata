@@ -1,0 +1,20 @@
+{
+  "id": "github:Argonaut790/dsh-zh-hant-hk",
+  "kind": "plugin",
+  "name": "dsh-zh-hant-hk",
+  "description": "DeepSeek Harness plugin: Hong Kong Traditional Chinese wording (對話, 設定, 儲存)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Argonaut790/dsh-zh-hant-hk",
+  "repositoryUrl": "https://github.com/Argonaut790/dsh-zh-hant-hk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 84
+}
