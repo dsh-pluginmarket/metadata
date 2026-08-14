@@ -1,0 +1,1 @@
+{"id":"manual:standard-preset","kind":"preset","name":"standard-preset","displayName":"标准模式","description":"功能完整的编码 Agent，支持文件编辑、Shell、网页检索、Skills、计划和子代理。","source":"manual","sources":["manual"],"tags":["official","agent","preset"],"status":"active","official":true}

@@ -1,0 +1,50 @@
+name: Add registry entry
+description: Submit a DSH plugin, skill, or preset for review
+title: "Add: "
+labels: [metadata-submission]
+body:
+  - type: input
+    id: kind
+    attributes:
+      label: Kind
+      description: plugin, skill, or preset
+      placeholder: plugin
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: githubRepo
+    attributes:
+      label: GitHub repository
+      description: owner/repository
+      placeholder: owner/repository
+  - type: input
+    id: npmPackage
+    attributes:
+      label: npm package
+      placeholder: '@scope/package'
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags
+      placeholder: tooling, mcp
+    validations:
+      required: true
+  - type: input
+    id: submitter
+    attributes:
+      label: Submitter GitHub username
+    validations:
+      required: true

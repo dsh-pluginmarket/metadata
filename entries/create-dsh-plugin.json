@@ -1,0 +1,1 @@
+{"id":"npm:create-dsh-plugin","kind":"plugin","name":"create-dsh-plugin","description":"Scaffold a DeepSeek Harness plugin in seconds.","source":"npm","sources":["npm"],"npmPackage":"create-dsh-plugin","repositoryUrl":"https://www.npmjs.com/package/create-dsh-plugin","tags":["scaffold","developer-tools"],"version":"0.1.1","status":"active","official":false}
