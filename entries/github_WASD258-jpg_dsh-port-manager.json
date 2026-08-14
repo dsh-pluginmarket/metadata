@@ -1,0 +1,20 @@
+{
+  "id": "github:WASD258-jpg/dsh-port-manager",
+  "kind": "plugin",
+  "name": "dsh-port-manager",
+  "description": "DSH web port manager plugin: list local listening ports and hot-switch the DSH web port.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WASD258-jpg/dsh-port-manager",
+  "repositoryUrl": "https://github.com/WASD258-jpg/dsh-port-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 240
+}
