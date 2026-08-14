@@ -1,0 +1,61 @@
+name: Update registry entry
+description: Propose changes to an existing DSH registry entry
+title: "Update: "
+labels: [metadata-submission]
+body:
+  - type: input
+    id: id
+    attributes:
+      label: Entry id
+      description: The id of the existing entry, e.g. github:owner/repository or npm:@scope/package
+      placeholder: github:owner/repository
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Leave empty to keep the current name
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Leave empty to keep the current description
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags that replace the current tags; leave empty to keep them
+      placeholder: tooling, mcp
+  - type: input
+    id: status
+    attributes:
+      label: Status
+      description: active or archived; leave empty to keep the current status
+      placeholder: active
+  - type: dropdown
+    id: official
+    attributes:
+      label: Official
+      description: Whether this is an official project; leave unselected to keep the current value
+      options:
+        - 'true'
+        - 'false'
+  - type: input
+    id: githubRepo
+    attributes:
+      label: GitHub repository
+      description: owner/repository; leave empty to keep the current value
+      placeholder: owner/repository
+  - type: input
+    id: npmPackage
+    attributes:
+      label: npm package
+      description: Leave empty to keep the current value
+      placeholder: '@scope/package'
+  - type: input
+    id: submitter
+    attributes:
+      label: Submitter GitHub username
+    validations:
+      required: true

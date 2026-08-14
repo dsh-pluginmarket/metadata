@@ -20,7 +20,7 @@ jobs:
   validate-submission:
     # Issue forms do not reliably preserve labels unless the label already exists.
     # Use the title prefix as the primary trigger and keep the label as optional metadata.
-    if: github.event_name == 'pull_request' || startsWith(github.event.issue.title, 'Add:')
+    if: github.event_name == 'pull_request' || startsWith(github.event.issue.title, 'Add:') || startsWith(github.event.issue.title, 'Update:')
     runs-on: ubuntu-latest
     steps:
       - name: Create GitHub App token
@@ -43,17 +43,24 @@ jobs:
         with:
           version: 11.20.0
       - run: pnpm install --frozen-lockfile
-      - name: Generate metadata from issue
-        if: github.event_name == 'issues'
+      - name: Generate metadata from add issue
+        if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'Add:')
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_USER: ${{ github.event.issue.user.login }}
         run: node scripts/issue-to-entry.mjs
+      - name: Apply metadata update from issue
+        if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'Update:')
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: node scripts/issue-to-update.mjs
       - name: Validate metadata
         run: pnpm validate
-      - name: Open pull request from issue
-        if: github.event_name == 'issues'
+      - name: Open add pull request from issue
+        if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'Add:')
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ steps.app-token.outputs.token }}
@@ -62,6 +69,19 @@ jobs:
           title: "metadata: add entry from issue #${{ github.event.issue.number }}"
           body: |
             Generated from #${{ github.event.issue.number }}. A maintainer must review and merge this pull request before publication.
+
+            Closes #${{ github.event.issue.number }}
+          labels: metadata-submission
+      - name: Open update pull request from issue
+        if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'Update:')
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          commit-message: "metadata: update entry from issue #${{ github.event.issue.number }}"
+          branch: metadata/update-issue-${{ github.event.issue.number }}
+          title: "metadata: update entry from issue #${{ github.event.issue.number }}"
+          body: |
+            Updated from #${{ github.event.issue.number }}. A maintainer must review and merge this pull request before publication.
 
             Closes #${{ github.event.issue.number }}
           labels: metadata-submission

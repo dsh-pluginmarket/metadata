@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       issue_number:
-        description: 'Optional issue number; leave empty to scan all open Add: issues'
+        description: 'Optional issue number; leave empty to scan all open Add:/Update: issues'
         required: false
         type: string
 
@@ -49,7 +49,7 @@ jobs:
           if [ -n "${ISSUE_NUMBER}" ]; then
             issues="${ISSUE_NUMBER}"
           else
-            issues=$(gh issue list --state open --limit 100 --json number,title,labels --jq '.[] | select((.title | startswith("Add:")) or ([.labels[].name] | index("metadata-submission"))) | .number')
+            issues=$(gh issue list --state open --limit 100 --json number,title,labels --jq '.[] | select((.title | startswith("Add:")) or (.title | startswith("Update:")) or ([.labels[].name] | index("metadata-submission"))) | .number')
           fi
           count=0
           closes=""
@@ -61,10 +61,15 @@ jobs:
               exit 0
             fi
             issue=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${number}")
+            title=$(jq -r .title <<<"${issue}")
             export ISSUE_BODY="$(jq -r .body <<<"${issue}")"
             export ISSUE_NUMBER="${number}"
             export ISSUE_USER="$(jq -r .user.login <<<"${issue}")"
-            node scripts/issue-to-entry.mjs
+            if [[ "${title}" == Update:* ]]; then
+              node scripts/issue-to-update.mjs
+            else
+              node scripts/issue-to-entry.mjs
+            fi
             gh issue comment "${number}" --body "This existing metadata issue was detected by the backfill workflow. A pull request is being prepared for maintainer review."
             closes="${closes}Closes #${number}"$'\n'
             count=$((count + 1))

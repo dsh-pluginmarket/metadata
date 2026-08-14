@@ -8,7 +8,11 @@ Open a GitHub Issue using the **Add registry entry** template. The issue title s
 
 If no workflow run appears, verify that Actions are enabled in repository settings and that this workflow has been merged into the default branch. The workflow also validates metadata changes on pull requests.
 
-For issues that were created before the automatic workflow was installed, run **Actions → Backfill existing metadata issues → Run workflow**. Leave the issue number empty to scan all open issues whose title starts with `Add:` (or that have the `metadata-submission` label), or provide one issue number to process only that issue. The workflow generates one maintainer-review PR, avoids creating duplicate backfill PRs, and lists the processed issues in the PR body so merging the PR closes them automatically.
+For issues that were created before the automatic workflow was installed, run **Actions → Backfill existing metadata issues → Run workflow**. Leave the issue number empty to scan all open issues whose title starts with `Add:` or `Update:` (or that have the `metadata-submission` label), or provide one issue number to process only that issue. The workflow generates one maintainer-review PR, avoids creating duplicate backfill PRs, and lists the processed issues in the PR body so merging the PR closes them automatically.
+
+## Update an entry
+
+Open a GitHub Issue using the **Update registry entry** template. The issue title starts with `Update:` so the workflow triggers automatically. Fill in the id of the existing entry (for example `github:owner/repository`) and only the fields you want to change; empty fields keep the current values. The workflow applies the changes to the existing metadata file, validates it, and opens a maintainer-review pull request with `Closes #<issue>`, so merging the pull request publishes the update and closes the issue automatically. Supported status values are `active` and `archived`.
 
 ## File format
 
