@@ -1,0 +1,20 @@
+{
+  "id": "github:fuilyha56-wq/dsh-for-mofox-ada",
+  "kind": "plugin",
+  "name": "dsh-for-mofox-ada",
+  "description": "DeepSeek Harness integration plugin for Neo-MoFox",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fuilyha56-wq/dsh-for-mofox-ada",
+  "repositoryUrl": "https://github.com/fuilyha56-wq/dsh-for-mofox-ada",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 170
+}
