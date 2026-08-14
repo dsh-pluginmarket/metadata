@@ -1,0 +1,20 @@
+{
+  "id": "github:jitengfei/dsh-whale-arcade",
+  "kind": "plugin",
+  "name": "dsh-whale-arcade",
+  "description": "Community-maintained whale arcade for DeepSeek Harness while waiting for model responses",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jitengfei/dsh-whale-arcade",
+  "repositoryUrl": "https://github.com/jitengfei/dsh-whale-arcade",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 400
+}
