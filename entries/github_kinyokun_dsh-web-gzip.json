@@ -1,0 +1,20 @@
+{
+  "id": "github:kinyokun/dsh-web-gzip",
+  "kind": "plugin",
+  "name": "dsh-web-gzip",
+  "description": "DSH 插件：给 DeepSeek Harness Web 响应加透明 gzip 压缩，加速远程访问会话记录加载（实测单页 12.6MB→1.06MB）。Zero-dep gzip middleware for DSH web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kinyokun/dsh-web-gzip",
+  "repositoryUrl": "https://github.com/kinyokun/dsh-web-gzip",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 231
+}
