@@ -1,0 +1,20 @@
+{
+  "id": "github:jinsiyu/dsh-webproxy-router-plugin",
+  "kind": "plugin",
+  "name": "dsh-webproxy-router-plugin",
+  "description": "一个deepseek harness webfetch的代理插件，让llm也能科学上网",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jinsiyu/dsh-webproxy-router-plugin",
+  "repositoryUrl": "https://github.com/jinsiyu/dsh-webproxy-router-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 218
+}
