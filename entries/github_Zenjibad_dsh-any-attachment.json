@@ -1,0 +1,20 @@
+{
+  "id": "github:Zenjibad/dsh-any-attachment",
+  "kind": "plugin",
+  "name": "dsh-any-attachment",
+  "description": "dsh bundle: attach any file type in the DeepSeek Harness Web UI — text-likes inline, binaries as workspace path references, rasters via the built-in pipeline",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zenjibad/dsh-any-attachment",
+  "repositoryUrl": "https://github.com/Zenjibad/dsh-any-attachment",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 313
+}
