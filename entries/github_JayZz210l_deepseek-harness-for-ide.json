@@ -1,0 +1,20 @@
+{
+  "id": "github:JayZz210l/deepseek-harness-for-ide",
+  "kind": "plugin",
+  "name": "deepseek-harness-for-ide",
+  "description": "把 DeepSeek Harness 完整搬进 JetBrains IDE：智能体对话、工具审批、目标与计划、子智能体与 Workflow。装插件、配一次 API Key，即可对话。DeepSeek Harness — agent chat, tool approvals, goals, subagents & workflows — embedded in your JetBrains IDE. Install, set your API key once, and chat.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayZz210l/deepseek-harness-for-ide",
+  "repositoryUrl": "https://github.com/JayZz210l/deepseek-harness-for-ide",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 123
+}
