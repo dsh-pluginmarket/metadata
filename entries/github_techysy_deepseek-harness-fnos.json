@@ -1,0 +1,20 @@
+{
+  "id": "github:techysy/deepseek-harness-fnos",
+  "kind": "plugin",
+  "name": "deepseek-harness-fnos",
+  "description": "DeepSeek Harness (DeepSeek 官方 agent 浏览器 UI) fnOS 应用 — 本地常驻服务, 官方统一网关接入",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "techysy/deepseek-harness-fnos",
+  "repositoryUrl": "https://github.com/techysy/deepseek-harness-fnos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 294
+}
