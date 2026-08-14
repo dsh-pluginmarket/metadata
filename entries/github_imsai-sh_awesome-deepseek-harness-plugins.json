@@ -1,0 +1,20 @@
+{
+  "id": "github:imsai-sh/awesome-deepseek-harness-plugins",
+  "kind": "plugin",
+  "name": "awesome-deepseek-harness-plugins",
+  "description": "Curated community plugin directory and live marketplace for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "imsai-sh/awesome-deepseek-harness-plugins",
+  "repositoryUrl": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 238
+}
