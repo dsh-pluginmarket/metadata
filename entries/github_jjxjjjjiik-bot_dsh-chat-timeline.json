@@ -1,0 +1,20 @@
+{
+  "id": "github:jjxjjjjiik-bot/dsh-chat-timeline",
+  "kind": "plugin",
+  "name": "dsh-chat-timeline",
+  "description": "1:1 port of DeepSeek's official web right-side chat navigation rail (ScrollNav) as a DeepSeek Harness (DSH) plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jjxjjjjiik-bot/dsh-chat-timeline",
+  "repositoryUrl": "https://github.com/jjxjjjjiik-bot/dsh-chat-timeline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 370
+}
