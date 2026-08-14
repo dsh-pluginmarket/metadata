@@ -54,8 +54,10 @@ jobs:
           count=0
           closes=""
           for number in ${issues}; do
-            if gh pr list --state all --search "head:metadata/backfill-existing" --json number --jq '.[].number' | grep -q .; then
-              echo "A backfill PR already exists; stop to avoid duplicate entries."
+            # Only an open backfill PR blocks a new run: a merged or closed PR from
+            # a previous run must not be counted, otherwise later backfills never run.
+            if gh pr list --state open --search "head:metadata/backfill-existing" --json number --jq '.[].number' | grep -q .; then
+              echo "An open backfill PR already exists; stop to avoid duplicate entries."
               exit 0
             fi
             issue=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${number}")
