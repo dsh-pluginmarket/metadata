@@ -1,0 +1,20 @@
+{
+  "id": "github:yeruizhi/dsh-lark-meeting-notifier",
+  "kind": "plugin",
+  "name": "dsh-lark-meeting-notifier",
+  "description": "一个只有副作用的DeepSeekHarness插件：在你跟 AI 聊得神魂颠倒时，提醒你「该去跟碳基生命开会了」。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yeruizhi/dsh-lark-meeting-notifier",
+  "repositoryUrl": "https://github.com/yeruizhi/dsh-lark-meeting-notifier",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 164
+}
