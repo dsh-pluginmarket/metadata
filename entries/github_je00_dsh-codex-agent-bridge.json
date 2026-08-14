@@ -1,0 +1,20 @@
+{
+  "id": "github:je00/dsh-codex-agent-bridge",
+  "kind": "plugin",
+  "name": "dsh-codex-agent-bridge",
+  "description": "Use the Codex models included with your ChatGPT subscription directly in DeepSeek Harness—no API key or separate API billing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "je00/dsh-codex-agent-bridge",
+  "repositoryUrl": "https://github.com/je00/dsh-codex-agent-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 389
+}
