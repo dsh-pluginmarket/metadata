@@ -1,0 +1,20 @@
+{
+  "id": "github:SaiSenBox/dsh-boot-guard",
+  "kind": "plugin",
+  "name": "dsh-boot-guard",
+  "description": "A loader-independent rescue console for DeepSeek Harness when a broken plugin prevents the Web UI from starting.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SaiSenBox/dsh-boot-guard",
+  "repositoryUrl": "https://github.com/SaiSenBox/dsh-boot-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 296
+}
