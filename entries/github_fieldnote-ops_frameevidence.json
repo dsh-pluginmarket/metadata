@@ -1,0 +1,20 @@
+{
+  "id": "github:fieldnote-ops/frameevidence",
+  "kind": "plugin",
+  "name": "frameevidence",
+  "description": "Bounded, read-only design evidence for agent harnesses.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fieldnote-ops/frameevidence",
+  "repositoryUrl": "https://github.com/fieldnote-ops/frameevidence",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 442
+}
