@@ -1,0 +1,20 @@
+{
+  "id": "github:Yan-Zero/dsh-remote-ssh",
+  "kind": "plugin",
+  "name": "dsh-remote-ssh",
+  "description": "Use SSH hosts as transparent workspaces in DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yan-Zero/dsh-remote-ssh",
+  "repositoryUrl": "https://github.com/Yan-Zero/dsh-remote-ssh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 420
+}
