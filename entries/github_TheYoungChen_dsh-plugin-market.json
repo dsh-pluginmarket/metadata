@@ -1,0 +1,20 @@
+{
+  "id": "github:TheYoungChen/dsh-plugin-market",
+  "kind": "plugin",
+  "name": "dsh-plugin-market",
+  "description": "DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TheYoungChen/dsh-plugin-market",
+  "repositoryUrl": "https://github.com/TheYoungChen/dsh-plugin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 422
+}
