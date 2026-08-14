@@ -1,0 +1,20 @@
+{
+  "id": "github:hellodigua/dsh-share",
+  "kind": "plugin",
+  "name": "dsh-share",
+  "description": "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hellodigua/dsh-share",
+  "repositoryUrl": "https://github.com/hellodigua/dsh-share",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 237
+}
