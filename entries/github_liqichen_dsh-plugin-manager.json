@@ -1,0 +1,20 @@
+{
+  "id": "github:liqichen/dsh-plugin-manager",
+  "kind": "plugin",
+  "name": "dsh-plugin-manager",
+  "description": "DSH 插件管理器:在 DeepSeek Harness 设置面板内嵌 GUI,管理 MCP 服务 / Skills / 内置插件包,改动热生效无需重启",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liqichen/dsh-plugin-manager",
+  "repositoryUrl": "https://github.com/liqichen/dsh-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 225
+}
