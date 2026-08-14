@@ -1,0 +1,20 @@
+{
+  "id": "github:Leslie-SSS/seeWxapkg",
+  "kind": "plugin",
+  "name": "seeWxapkg",
+  "description": "极简实用的微信小程序反编译 Web 工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Leslie-SSS/seeWxapkg",
+  "repositoryUrl": "https://github.com/Leslie-SSS/seeWxapkg",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 358
+}
