@@ -1,0 +1,20 @@
+{
+  "id": "github:ccq1/dsh-side-panel",
+  "kind": "plugin",
+  "name": "dsh-side-panel",
+  "description": "DSH 侧边栏，集成文件浏览器、终端和 Git 审查，方便预览文件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccq1/dsh-side-panel",
+  "repositoryUrl": "https://github.com/ccq1/dsh-side-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 155
+}
