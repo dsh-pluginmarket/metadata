@@ -1,0 +1,20 @@
+{
+  "id": "github:zoumutou/dsh-cost-balance",
+  "kind": "plugin",
+  "name": "dsh-cost-balance",
+  "description": "DeepSeek Harness 插件：输入框下方 iOS 风格统计条——会话花费、账户余额、缓存命中、Token 用量一键展开",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zoumutou/dsh-cost-balance",
+  "repositoryUrl": "https://github.com/zoumutou/dsh-cost-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 427
+}
