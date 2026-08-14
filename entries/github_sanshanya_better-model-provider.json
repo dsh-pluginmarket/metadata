@@ -1,0 +1,20 @@
+{
+  "id": "github:sanshanya/better-model-provider",
+  "kind": "plugin",
+  "name": "better-model-provider",
+  "description": "Per-model capability declaration for DeepSeek Harness: reasoning-effort levels (wire spellings) + request modalities (vision) for OpenAI-compatible providers. Settings section, zero runtime harness deps, no YAML.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sanshanya/better-model-provider",
+  "repositoryUrl": "https://github.com/sanshanya/better-model-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 88
+}
