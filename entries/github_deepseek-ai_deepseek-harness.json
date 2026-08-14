@@ -1,0 +1,22 @@
+{
+  "id": "github:deepseek-ai/deepseek-harness",
+  "kind": "plugin",
+  "name": "DeepSeek Harness",
+  "description": "DeepSeek Harness 开发者预览版面向全球 Harness 开发者开放测试，并同步开放源代码。\n\n模型、工具、技能、会话、沙箱、存储、循环、调度、UI 等所有 Agent 能力均由插件组合而成，可以自由替换和灵活重组。",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "deepseek-ai/deepseek-harness",
+  "repositoryUrl": "https://github.com/deepseek-ai/deepseek-harness",
+  "npmPackage": "@deepseek-ai/dsh",
+  "tags": [
+    "base",
+    "harness"
+  ],
+  "status": "pending",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 1
+}
