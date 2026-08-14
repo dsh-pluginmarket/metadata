@@ -1,0 +1,20 @@
+{
+  "id": "github:dlpufan/dsh-theme-cyberpunk",
+  "kind": "plugin",
+  "name": "dsh-theme-cyberpunk",
+  "description": "DeepSeek Harness 赛博朋克主题插件：RGB 流动霓虹、自定义背景图库、本地音乐播放器与一键启停。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dlpufan/dsh-theme-cyberpunk",
+  "repositoryUrl": "https://github.com/dlpufan/dsh-theme-cyberpunk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 120
+}
