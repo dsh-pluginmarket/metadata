@@ -1,0 +1,20 @@
+{
+  "id": "github:Lanxing6480/dsh-galgame",
+  "kind": "plugin",
+  "name": "dsh-galgame",
+  "description": "我要成为Galgame高手！！将你的Vibe coding界面修改成为Galgame的样子，在不影响工作的情况下和赏心悦目的DeepSeek娘进行友好互动",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lanxing6480/dsh-galgame",
+  "repositoryUrl": "https://github.com/Lanxing6480/dsh-galgame",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 263
+}
