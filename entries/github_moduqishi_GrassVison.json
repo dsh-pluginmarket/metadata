@@ -1,0 +1,20 @@
+{
+  "id": "github:moduqishi/GrassVison",
+  "kind": "plugin",
+  "name": "GrassVison",
+  "description": "给 DeepSeek 等纯文本大模型外挂图像理解能力的实现无感添加视觉能力。提供 OpenAI 兼容的 API，自动将图片请求交给视觉模型分析，再将结构化结果注入文本模型，使增强后的模型体验接近原生多模态。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "moduqishi/GrassVison",
+  "repositoryUrl": "https://github.com/moduqishi/GrassVison",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 451
+}
