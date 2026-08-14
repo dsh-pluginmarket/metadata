@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepGEMM",
+  "kind": "plugin",
+  "name": "DeepGEMM",
+  "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepGEMM",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepGEMM",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 457
+}
