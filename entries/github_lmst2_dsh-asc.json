@@ -1,0 +1,20 @@
+{
+  "id": "github:lmst2/dsh-asc",
+  "kind": "plugin",
+  "name": "dsh-asc",
+  "description": "Related DeepSeek Harness project: lmst2/dsh-asc",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lmst2/dsh-asc",
+  "repositoryUrl": "https://github.com/lmst2/dsh-asc",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 159
+}
