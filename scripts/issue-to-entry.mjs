@@ -43,7 +43,7 @@ const entry = {
   ...(githubRepo ? { githubRepo, repositoryUrl: `https://github.com/${githubRepo}` } : {}),
   ...(npmPackage ? { npmPackage } : {}),
   ...(!githubRepo && npmPackage ? { repositoryUrl: `https://www.npmjs.com/package/${npmPackage}` } : {}),
-  tags, status: 'pending', official: false, submittedBy: submitter, issueNumber,
+  tags, status: 'active', official: false, submittedBy: submitter, issueNumber,
 };
 const id = entry.id;
 const safeName = id.replace(/[^a-zA-Z0-9._-]/g, '_');
