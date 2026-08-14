@@ -1,0 +1,20 @@
+{
+  "id": "github:cofy-x/axern",
+  "kind": "plugin",
+  "name": "axern",
+  "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cofy-x/axern",
+  "repositoryUrl": "https://github.com/cofy-x/axern",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 369
+}
