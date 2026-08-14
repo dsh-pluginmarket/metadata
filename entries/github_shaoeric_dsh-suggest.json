@@ -1,0 +1,20 @@
+{
+  "id": "github:shaoeric/dsh-suggest",
+  "kind": "plugin",
+  "name": "dsh-suggest",
+  "description": "dsh-suggestion",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shaoeric/dsh-suggest",
+  "repositoryUrl": "https://github.com/shaoeric/dsh-suggest",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 288
+}
