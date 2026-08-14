@@ -1,0 +1,20 @@
+{
+  "id": "github:kyorakuyk/dsh-hotreload-plugin-manager",
+  "kind": "plugin",
+  "name": "dsh-hotreload-plugin-manager",
+  "description": "DeepSeek Harness plugin: hot install / uninstall / update / enable-disable of profile plugin bundles from the running dsh web — no restart, Web UI included.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kyorakuyk/dsh-hotreload-plugin-manager",
+  "repositoryUrl": "https://github.com/kyorakuyk/dsh-hotreload-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 148
+}
