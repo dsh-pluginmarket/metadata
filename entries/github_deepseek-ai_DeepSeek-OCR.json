@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-OCR",
+  "kind": "plugin",
+  "name": "DeepSeek-OCR",
+  "description": "Contexts Optical Compression",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-OCR",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-OCR",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 474
+}
