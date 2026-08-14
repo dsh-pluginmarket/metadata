@@ -1,0 +1,20 @@
+{
+  "id": "github:JustGenius-s/DSH-Plugs",
+  "kind": "plugin",
+  "name": "DSH-Plugs",
+  "description": "DSH Plugins Cellection",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JustGenius-s/DSH-Plugs",
+  "repositoryUrl": "https://github.com/JustGenius-s/DSH-Plugs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 193
+}
