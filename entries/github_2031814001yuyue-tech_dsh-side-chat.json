@@ -1,0 +1,20 @@
+{
+  "id": "github:2031814001yuyue-tech/dsh-side-chat",
+  "kind": "plugin",
+  "name": "dsh-side-chat",
+  "description": "dsh-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2031814001yuyue-tech/dsh-side-chat",
+  "repositoryUrl": "https://github.com/2031814001yuyue-tech/dsh-side-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 438
+}
