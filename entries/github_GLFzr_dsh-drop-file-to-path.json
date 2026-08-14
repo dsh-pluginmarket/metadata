@@ -1,0 +1,20 @@
+{
+  "id": "github:GLFzr/dsh-drop-file-to-path",
+  "kind": "plugin",
+  "name": "dsh-drop-file-to-path",
+  "description": "DSH 拖拽文件转路径插件：Codex 式拖拽，路径自动插入输入框（Drop File to Path for DeepSeek Harness）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GLFzr/dsh-drop-file-to-path",
+  "repositoryUrl": "https://github.com/GLFzr/dsh-drop-file-to-path",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 426
+}
