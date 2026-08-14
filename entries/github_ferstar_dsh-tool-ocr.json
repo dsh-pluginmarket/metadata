@@ -1,0 +1,20 @@
+{
+  "id": "github:ferstar/dsh-tool-ocr",
+  "kind": "plugin",
+  "name": "dsh-tool-ocr",
+  "description": "Standalone ocr tool plugin for DeepSeek Harness: local image text recognition (nbocr / PP-OCRv6) for models without vision input",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ferstar/dsh-tool-ocr",
+  "repositoryUrl": "https://github.com/ferstar/dsh-tool-ocr",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 150
+}
