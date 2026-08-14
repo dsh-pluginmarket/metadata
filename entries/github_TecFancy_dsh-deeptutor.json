@@ -1,0 +1,20 @@
+{
+  "id": "github:TecFancy/dsh-deeptutor",
+  "kind": "plugin",
+  "name": "dsh-deeptutor",
+  "description": "Learning assistant extension for DeepSeek Harness (dsh): brings DeepTutor tutoring to your agent — deep explanations, self-test questions, learning paths, personal knowledge-base search (RAG), and note archiving. | 面向 DeepSeek Harness 的学习辅助扩展:为 agent 接入 DeepTutor 辅导能力 —— 深度讲解、自测题、学习路径规划、个人知识库检索(RAG)与笔记归档。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TecFancy/dsh-deeptutor",
+  "repositoryUrl": "https://github.com/TecFancy/dsh-deeptutor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 428
+}
