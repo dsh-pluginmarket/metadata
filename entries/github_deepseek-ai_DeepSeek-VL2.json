@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-VL2",
+  "kind": "plugin",
+  "name": "DeepSeek-VL2",
+  "description": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-VL2",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-VL2",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 503
+}
