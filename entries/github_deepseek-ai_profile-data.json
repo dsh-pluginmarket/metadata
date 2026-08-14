@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/profile-data",
+  "kind": "plugin",
+  "name": "profile-data",
+  "description": "Analyze computation-communication overlap in V3/R1.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/profile-data",
+  "repositoryUrl": "https://github.com/deepseek-ai/profile-data",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 501
+}
