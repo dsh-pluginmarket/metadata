@@ -1,0 +1,20 @@
+{
+  "id": "github:Yuki-takuya-kun/dsh-engine-switch",
+  "kind": "plugin",
+  "name": "dsh-engine-switch",
+  "description": "Route DeepSeek Harness top-level sessions to pluggable loop engines by agent-preset — Claude Code ships as a built-in engine.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yuki-takuya-kun/dsh-engine-switch",
+  "repositoryUrl": "https://github.com/Yuki-takuya-kun/dsh-engine-switch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 198
+}
