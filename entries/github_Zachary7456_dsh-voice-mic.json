@@ -1,0 +1,20 @@
+{
+  "id": "github:Zachary7456/dsh-voice-mic",
+  "kind": "plugin",
+  "name": "dsh-voice-mic",
+  "description": "DeepSeek Harness (dsh) 语音输入插件：麦克风按钮/快捷键录音，实时转写回填输入框。三种识别引擎：浏览器 Web Speech、本地 SenseVoice/Paraformer 离线后端（一键部署）、OpenAI 兼容云端 ASR API。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zachary7456/dsh-voice-mic",
+  "repositoryUrl": "https://github.com/Zachary7456/dsh-voice-mic",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 89
+}
