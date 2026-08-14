@@ -1,0 +1,20 @@
+{
+  "id": "github:fuhefei/dsh-sentinel",
+  "kind": "plugin",
+  "name": "dsh-sentinel",
+  "description": "Condition-driven wakeup for DeepSeek Harness: durable file/command/http/process/webhook watches that wake the agent, with dock, sidebar branch, and a global dashboard.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fuhefei/dsh-sentinel",
+  "repositoryUrl": "https://github.com/fuhefei/dsh-sentinel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 166
+}
