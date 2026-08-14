@@ -8,14 +8,22 @@ function field(label) {
   const sections = body.split(/^###\s+/m);
   const section = sections.find((part) => part.toLowerCase().startsWith(`${label.toLowerCase()}\n`));
   const value = section?.slice(section.indexOf('\n') + 1).trim() ?? '';
-  return value === '_No response_' ? '' : value;
+  return value;
+}
+
+function optionalField(label) {
+  const value = field(label).trim();
+  // GitHub Issue Forms use `_No response_` for an unanswered optional field.
+  // Be tolerant of CRLF, HTML comments, and common manual placeholders.
+  if (!value || /^_?no response_?$/i.test(value) || /^(n\/a|none|null|-)$/i.test(value)) return '';
+  return value;
 }
 
 const kind = field('Kind').toLowerCase();
 const name = field('Name');
-const githubRepo = field('GitHub repository');
-const npmPackage = field('npm package');
-const description = field('Description');
+const githubRepo = optionalField('GitHub repository');
+const npmPackage = optionalField('npm package');
+const description = field('Description').trim();
 const tags = field('Tags').split(',').map((tag) => tag.trim()).filter(Boolean);
 
 if (!['plugin', 'skill', 'preset'].includes(kind)) throw new Error('Kind must be plugin, skill, or preset');
