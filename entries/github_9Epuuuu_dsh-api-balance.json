@@ -1,0 +1,20 @@
+{
+  "id": "github:9Epuuuu/dsh-api-balance",
+  "kind": "plugin",
+  "name": "dsh-api-balance",
+  "description": "DeepSeek account balance readout for DSH Web (dsh-plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "9Epuuuu/dsh-api-balance",
+  "repositoryUrl": "https://github.com/9Epuuuu/dsh-api-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 312
+}
