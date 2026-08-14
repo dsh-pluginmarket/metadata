@@ -1,0 +1,20 @@
+{
+  "id": "github:liustack/pptfast",
+  "kind": "plugin",
+  "name": "pptfast",
+  "description": "Related DeepSeek Harness project: liustack/pptfast",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liustack/pptfast",
+  "repositoryUrl": "https://github.com/liustack/pptfast",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 169
+}
