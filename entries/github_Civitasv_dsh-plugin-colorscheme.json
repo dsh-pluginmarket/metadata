@@ -1,0 +1,20 @@
+{
+  "id": "github:Civitasv/dsh-plugin-colorscheme",
+  "kind": "plugin",
+  "name": "dsh-plugin-colorscheme",
+  "description": "Colorscheme Plugin For DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Civitasv/dsh-plugin-colorscheme",
+  "repositoryUrl": "https://github.com/Civitasv/dsh-plugin-colorscheme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 388
+}
