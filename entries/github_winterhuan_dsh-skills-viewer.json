@@ -1,0 +1,20 @@
+{
+  "id": "github:winterhuan/dsh-skills-viewer",
+  "kind": "plugin",
+  "name": "dsh-skills-viewer",
+  "description": "Read-only Skills settings page plugin for DeepSeek Harness Web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "winterhuan/dsh-skills-viewer",
+  "repositoryUrl": "https://github.com/winterhuan/dsh-skills-viewer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 410
+}
