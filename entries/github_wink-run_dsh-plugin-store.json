@@ -1,0 +1,20 @@
+{
+  "id": "github:wink-run/dsh-plugin-store",
+  "kind": "plugin",
+  "name": "dsh-plugin-store",
+  "description": "deepseek harness  plugin store",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wink-run/dsh-plugin-store",
+  "repositoryUrl": "https://github.com/wink-run/dsh-plugin-store",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 152
+}
