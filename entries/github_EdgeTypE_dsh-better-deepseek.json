@@ -1,0 +1,20 @@
+{
+  "id": "github:EdgeTypE/dsh-better-deepseek",
+  "kind": "plugin",
+  "name": "dsh-better-deepseek",
+  "description": "DeepSeek Harness bridge plugin for Better DeepSeek Chrome extension.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EdgeTypE/dsh-better-deepseek",
+  "repositoryUrl": "https://github.com/EdgeTypE/dsh-better-deepseek",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 199
+}
