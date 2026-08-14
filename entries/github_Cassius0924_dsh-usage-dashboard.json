@@ -1,0 +1,20 @@
+{
+  "id": "github:Cassius0924/dsh-usage-dashboard",
+  "kind": "plugin",
+  "name": "dsh-usage-dashboard",
+  "description": "DeepSeek 额度与用量仪表盘 — DSH (DeepSeek Harness) 动态 Cordis 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Cassius0924/dsh-usage-dashboard",
+  "repositoryUrl": "https://github.com/Cassius0924/dsh-usage-dashboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 91
+}
