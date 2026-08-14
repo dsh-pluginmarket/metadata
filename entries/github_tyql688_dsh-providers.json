@@ -1,0 +1,20 @@
+{
+  "id": "github:tyql688/dsh-providers",
+  "kind": "plugin",
+  "name": "dsh-providers",
+  "description": "Model providers for DeepSeek Harness: sign in with OAuth or an API key, and keep every provider's model catalog current",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tyql688/dsh-providers",
+  "repositoryUrl": "https://github.com/tyql688/dsh-providers",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 367
+}
