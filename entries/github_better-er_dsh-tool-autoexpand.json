@@ -1,0 +1,20 @@
+{
+  "id": "github:better-er/dsh-tool-autoexpand",
+  "kind": "plugin",
+  "name": "dsh-tool-autoexpand",
+  "description": "自动展开 DSH 界面中新增的工具调用结果卡片，带侧栏开关。标准 dsh 客户端插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "better-er/dsh-tool-autoexpand",
+  "repositoryUrl": "https://github.com/better-er/dsh-tool-autoexpand",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 444
+}
