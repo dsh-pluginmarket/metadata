@@ -1,0 +1,20 @@
+{
+  "id": "github:geohotstan/dsh-computer-use",
+  "kind": "plugin",
+  "name": "dsh-computer-use",
+  "description": "Desktop computer use for DeepSeek Harness: macOS app listing, accessibility-tree window capture, screenshots, and synthesized input, cloned from Codex Computer Use",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "geohotstan/dsh-computer-use",
+  "repositoryUrl": "https://github.com/geohotstan/dsh-computer-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 415
+}
