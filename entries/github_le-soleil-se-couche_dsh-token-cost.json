@@ -1,0 +1,20 @@
+{
+  "id": "github:le-soleil-se-couche/dsh-token-cost",
+  "kind": "plugin",
+  "name": "dsh-token-cost",
+  "description": "在对话页面直接查看消耗费用（嵌入官方底部状态条，点击看明细）；在设置中查看 Harness 消耗的总费用、缓存命中和输入输出",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "le-soleil-se-couche/dsh-token-cost",
+  "repositoryUrl": "https://github.com/le-soleil-se-couche/dsh-token-cost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 375
+}
