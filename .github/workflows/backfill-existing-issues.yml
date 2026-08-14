@@ -1,0 +1,67 @@
+name: Backfill existing metadata issues
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 'Optional issue number; leave empty to scan all open Add: issues'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.20.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Find existing issues and generate entries
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ inputs.issue_number }}
+        run: |
+          set -euo pipefail
+          mkdir -p entries
+          if [ -n "${ISSUE_NUMBER}" ]; then
+            issues="${ISSUE_NUMBER}"
+          else
+            issues=$(gh issue list --state open --limit 100 --json number,title,labels --jq '.[] | select((.title | startswith("Add:")) or ([.labels[].name] | index("metadata-submission"))) | .number')
+          fi
+          count=0
+          for number in ${issues}; do
+            if gh pr list --state all --search "head:metadata/backfill-existing" --json number --jq '.[].number' | grep -q .; then
+              echo "A backfill PR already exists; stop to avoid duplicate entries."
+              exit 0
+            fi
+            issue=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${number}")
+            export ISSUE_BODY="$(jq -r .body <<<"${issue}")"
+            export ISSUE_NUMBER="${number}"
+            export ISSUE_USER="$(jq -r .user.login <<<"${issue}")"
+            node scripts/issue-to-entry.mjs
+            gh issue comment "${number}" --body "This existing metadata issue was detected by the backfill workflow. A pull request is being prepared for maintainer review."
+            count=$((count + 1))
+          done
+          if [ "${count}" -eq 0 ]; then echo "No matching existing issues found."; exit 0; fi
+          pnpm validate
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'metadata: backfill existing issue submissions'
+          branch: metadata/backfill-existing
+          title: 'metadata: backfill existing issue submissions'
+          body: 'Generated from existing metadata submission issues. A maintainer must review and merge this pull request before publication.'
+          labels: metadata-submission
