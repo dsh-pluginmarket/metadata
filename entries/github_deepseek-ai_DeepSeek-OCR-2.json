@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-OCR-2",
+  "kind": "plugin",
+  "name": "DeepSeek-OCR-2",
+  "description": "Visual Causal Flow",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-OCR-2",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 471
+}
