@@ -1,0 +1,20 @@
+{
+  "id": "github:AKS1st/dsh-cyber-particle",
+  "kind": "plugin",
+  "name": "dsh-cyber-particle",
+  "description": "Particle-network background plugin for DeepSeek Harness web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AKS1st/dsh-cyber-particle",
+  "repositoryUrl": "https://github.com/AKS1st/dsh-cyber-particle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 203
+}
