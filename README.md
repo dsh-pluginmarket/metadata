@@ -41,3 +41,7 @@ The workflows use the `deepseek-harness-plugin` GitHub App to create branches, c
 - `METADATA_APP_PRIVATE_KEY`: the complete downloaded `.pem` private key
 
 Install the App on `dsh-pluginmarket/metadata` with **Contents**, **Issues**, and **Pull requests** set to **Read and write**. The Client ID and Client secret are OAuth credentials and are not used by Actions. Never commit or share the private key.
+
+## Automatic project discovery
+
+`.github/workflows/scan-related-projects.yml` runs weekly and can also be started manually from **Actions → Scan related DSH projects → Run workflow**. It scans GitHub repositories with the `dsh-plugin` topic and the `deepseek-ai` organization, skips entries and duplicate Issues already known to this repository, and opens an `Add:` metadata Issue for each new project. The existing Issue workflow then validates the submission and creates the maintainer-review PR.
