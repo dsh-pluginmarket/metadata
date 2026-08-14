@@ -1,0 +1,20 @@
+{
+  "id": "github:LayneChai/superpowers-dsh",
+  "kind": "plugin",
+  "name": "superpowers-dsh",
+  "description": "Superpowers skills for DeepSeek Harness: TDD, debugging, planning, and collaboration skills adapted from obra/superpowers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LayneChai/superpowers-dsh",
+  "repositoryUrl": "https://github.com/LayneChai/superpowers-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 301
+}
