@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-MoE",
+  "kind": "plugin",
+  "name": "DeepSeek-MoE",
+  "description": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-MoE",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-MoE",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 515
+}
