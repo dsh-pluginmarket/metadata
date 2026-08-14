@@ -1,13 +1,27 @@
 const token = process.env.GH_TOKEN;
 const repository = process.env.GITHUB_REPOSITORY;
 const [owner, repo] = repository.split('/');
-const api = async (path, options = {}) => {
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+// GitHub applies aggressive secondary rate limits to content creation, so
+// space issue POSTs out and retry any rate-limited request, honoring the
+// Retry-After header (secondary limits) and X-RateLimit-Reset (primary limits).
+const api = async (path, options = {}, attempt = 0) => {
   const response = await fetch(`https://api.github.com${path}`, {
     ...options,
     headers: { Accept: 'application/vnd.github+json', Authorization: `Bearer ${token}`, 'X-GitHub-Api-Version': '2022-11-28', ...options.headers },
   });
-  if (!response.ok) throw new Error(`${options.method ?? 'GET'} ${path}: ${response.status} ${await response.text()}`);
-  return response.json();
+  const text = await response.text();
+  const retryAfter = Number(response.headers.get('retry-after'));
+  const reset = Number(response.headers.get('x-ratelimit-reset'));
+  const limited = !response.ok && (response.status === 429 || (response.status === 403 && (retryAfter > 0 || /rate limit/i.test(text))) || Number(response.headers.get('x-ratelimit-remaining')) === 0);
+  if (limited && attempt < 5) {
+    const waitMs = retryAfter > 0 ? retryAfter * 1000 : reset > 0 ? reset * 1000 - Date.now() : 60_000;
+    console.log(`GitHub rate limit (${response.status}) on ${options.method ?? 'GET'} ${path}; retrying in ${Math.ceil(waitMs / 1000)}s`);
+    await sleep(Math.max(waitMs, 1000));
+    return api(path, options, attempt + 1);
+  }
+  if (!response.ok) throw new Error(`${options.method ?? 'GET'} ${path}: ${response.status} ${text}`);
+  return JSON.parse(text);
 };
 const pages = async (query) => {
   const result = [];
@@ -40,5 +54,6 @@ for (const project of candidates.values()) {
   await api(`/repos/${owner}/${repo}/issues`, { method: 'POST', body: JSON.stringify({ title: `Add: ${project.full_name}`, body, labels: ['metadata-submission'] }), headers: { 'Content-Type': 'application/json' } });
   created++;
   console.log(`Opened issue for ${project.full_name}`);
+  await sleep(2000);
 }
 console.log(`Scanned ${candidates.size} projects; opened ${created} issues.`);
