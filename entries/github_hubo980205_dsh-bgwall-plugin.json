@@ -1,0 +1,20 @@
+{
+  "id": "github:hubo980205/dsh-bgwall-plugin",
+  "kind": "plugin",
+  "name": "dsh-bgwall-plugin",
+  "description": "Related DeepSeek Harness project: hubo980205/dsh-bgwall-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hubo980205/dsh-bgwall-plugin",
+  "repositoryUrl": "https://github.com/hubo980205/dsh-bgwall-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 249
+}
