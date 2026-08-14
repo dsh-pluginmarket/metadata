@@ -1,0 +1,20 @@
+{
+  "id": "github:MorGogh/widget-dock",
+  "kind": "plugin",
+  "name": "widget-dock",
+  "description": "DSH plugin: draggable widget panel (balance, tokens, stats, commands, goal, cost) for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MorGogh/widget-dock",
+  "repositoryUrl": "https://github.com/MorGogh/widget-dock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 331
+}
