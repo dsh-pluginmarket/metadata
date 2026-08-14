@@ -1,0 +1,20 @@
+{
+  "id": "github:anywhere-labs/deepseek-harness-desktop",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop",
+  "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "anywhere-labs/deepseek-harness-desktop",
+  "repositoryUrl": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 33
+}

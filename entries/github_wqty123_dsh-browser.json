@@ -1,0 +1,20 @@
+{
+  "id": "github:wqty123/dsh-browser",
+  "kind": "plugin",
+  "name": "dsh-browser",
+  "description": "Shared real browser plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wqty123/dsh-browser",
+  "repositoryUrl": "https://github.com/wqty123/dsh-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 53
+}

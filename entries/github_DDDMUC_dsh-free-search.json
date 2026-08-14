@@ -1,0 +1,20 @@
+{
+  "id": "github:DDDMUC/dsh-free-search",
+  "kind": "plugin",
+  "name": "dsh-free-search",
+  "description": "Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DDDMUC/dsh-free-search",
+  "repositoryUrl": "https://github.com/DDDMUC/dsh-free-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 52
+}

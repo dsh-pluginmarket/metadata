@@ -1,0 +1,20 @@
+{
+  "id": "github:knlght/DSH-update-check",
+  "kind": "plugin",
+  "name": "DSH-update-check",
+  "description": "让 DeepSeek Harness 拥有版本可见性：dsh_check_updates 模型工具 + Settings 更新检查页 + 周期复查，只报告不升级",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "knlght/DSH-update-check",
+  "repositoryUrl": "https://github.com/knlght/DSH-update-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 51
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github:jinhuang712/dsh-survey",
+  "kind": "plugin",
+  "name": "dsh-survey",
+  "description": "问卷式批量提问插件 for DeepSeek Harness：一次性问 10+ 题（单选/多选/是否 toggle/对比题/开放题），可跳过、全屏浮层、提交后对半 recap",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jinhuang712/dsh-survey",
+  "repositoryUrl": "https://github.com/jinhuang712/dsh-survey",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 34
+}

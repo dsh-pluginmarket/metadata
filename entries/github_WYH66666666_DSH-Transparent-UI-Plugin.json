@@ -1,0 +1,20 @@
+{
+  "id": "github:WYH66666666/DSH-Transparent-UI-Plugin",
+  "kind": "plugin",
+  "name": "DSH-Transparent-UI-Plugin",
+  "description": "Related DeepSeek Harness project: WYH66666666/DSH-Transparent-UI-Plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WYH66666666/DSH-Transparent-UI-Plugin",
+  "repositoryUrl": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 4
+}

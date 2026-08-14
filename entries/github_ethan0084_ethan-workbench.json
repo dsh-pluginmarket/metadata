@@ -1,0 +1,20 @@
+{
+  "id": "github:ethan0084/ethan-workbench",
+  "kind": "plugin",
+  "name": "ethan-workbench",
+  "description": "A desktop-style project and AI workbench plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ethan0084/ethan-workbench",
+  "repositoryUrl": "https://github.com/ethan0084/ethan-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 45
+}

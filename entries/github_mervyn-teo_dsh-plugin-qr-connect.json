@@ -1,0 +1,20 @@
+{
+  "id": "github:mervyn-teo/dsh-plugin-qr-connect",
+  "kind": "plugin",
+  "name": "dsh-plugin-qr-connect",
+  "description": "DeepSeek Harness dynamic plugin: QR-code sidebar button for connecting mobile devices to the web UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mervyn-teo/dsh-plugin-qr-connect",
+  "repositoryUrl": "https://github.com/mervyn-teo/dsh-plugin-qr-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 43
+}

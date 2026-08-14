@@ -1,0 +1,20 @@
+{
+  "id": "github:elviszhang007/dsh-moyan",
+  "kind": "plugin",
+  "name": "dsh-moyan",
+  "description": "简洁、克制、安静，旨在为您的Vibe Coding增加些许文艺感。每次打开WebUI，左下角都会出现一句话，从古诗词到文采句，再到脍炙人口的游戏台词，应有尽有。语料库可高度自定义，插件风格完全适配原生Harness界面，功能简洁明确，绝不喧宾夺主。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elviszhang007/dsh-moyan",
+  "repositoryUrl": "https://github.com/elviszhang007/dsh-moyan",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 59
+}

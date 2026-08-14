@@ -1,0 +1,20 @@
+{
+  "id": "github:Yi-111-a/dsh-jingling",
+  "kind": "plugin",
+  "name": "dsh-jingling",
+  "description": "dsh · dsh-plugin · deepseek · deepseek-harness · deepseek-harness-plugin · ai-companion · desktop-pet · character-card · local-first · privacy · jingling · 鲸灵",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yi-111-a/dsh-jingling",
+  "repositoryUrl": "https://github.com/Yi-111-a/dsh-jingling",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 57
+}

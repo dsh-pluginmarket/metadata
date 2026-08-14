@@ -1,0 +1,20 @@
+{
+  "id": "github:m1k-rsch/corti",
+  "kind": "plugin",
+  "name": "corti",
+  "description": "Persistent memory layer for AI agent swarms. Postgres-backed retrieval, Markdown as source of truth, sub-second cascade sync. Self-hosted.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "m1k-rsch/corti",
+  "repositoryUrl": "https://github.com/m1k-rsch/corti",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 27
+}

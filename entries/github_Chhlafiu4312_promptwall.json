@@ -1,0 +1,20 @@
+{
+  "id": "github:Chhlafiu4312/promptwall",
+  "kind": "plugin",
+  "name": "promptwall",
+  "description": "Local prompt-injection and secret-exfiltration firewall for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chhlafiu4312/promptwall",
+  "repositoryUrl": "https://github.com/Chhlafiu4312/promptwall",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 47
+}

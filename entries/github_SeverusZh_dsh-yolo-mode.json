@@ -1,0 +1,20 @@
+{
+  "id": "github:SeverusZh/dsh-yolo-mode",
+  "kind": "plugin",
+  "name": "dsh-yolo-mode",
+  "description": "dsh-yolo-mode - an LLM-powered auto-approval plugin for DeepSeek Harness sandbox escalations (built-in presets + custom permission levels, fail-closed)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SeverusZh/dsh-yolo-mode",
+  "repositoryUrl": "https://github.com/SeverusZh/dsh-yolo-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 32
+}

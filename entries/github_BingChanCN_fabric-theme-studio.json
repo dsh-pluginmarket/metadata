@@ -1,0 +1,20 @@
+{
+  "id": "github:BingChanCN/fabric-theme-studio",
+  "kind": "plugin",
+  "name": "fabric-theme-studio",
+  "description": "Related DeepSeek Harness project: BingChanCN/fabric-theme-studio",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BingChanCN/fabric-theme-studio",
+  "repositoryUrl": "https://github.com/BingChanCN/fabric-theme-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 26
+}

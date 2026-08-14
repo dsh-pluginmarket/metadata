@@ -1,0 +1,20 @@
+{
+  "id": "github:TtTRz/dsh-wecom",
+  "kind": "plugin",
+  "name": "dsh-wecom",
+  "description": "WeCom AI Bot channel for DeepSeek Harness — every chat runs a persistent, preset-backed agent with real tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TtTRz/dsh-wecom",
+  "repositoryUrl": "https://github.com/TtTRz/dsh-wecom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 65
+}

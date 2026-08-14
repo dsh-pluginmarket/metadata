@@ -1,0 +1,20 @@
+{
+  "id": "github:starslittle/dsh-blue-whale",
+  "kind": "plugin",
+  "name": "dsh-blue-whale",
+  "description": "Official DeepSeek Chat blue-whale default skin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "starslittle/dsh-blue-whale",
+  "repositoryUrl": "https://github.com/starslittle/dsh-blue-whale",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 38
+}

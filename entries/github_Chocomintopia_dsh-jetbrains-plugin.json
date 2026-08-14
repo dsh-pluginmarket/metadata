@@ -1,0 +1,20 @@
+{
+  "id": "github:Chocomintopia/dsh-jetbrains-plugin",
+  "kind": "plugin",
+  "name": "dsh-jetbrains-plugin",
+  "description": "在 JetBrains IDE 中内嵌使用 DeepSeek Harness Web UI，像终端一样随时隐藏/显示",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chocomintopia/dsh-jetbrains-plugin",
+  "repositoryUrl": "https://github.com/Chocomintopia/dsh-jetbrains-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 13
+}

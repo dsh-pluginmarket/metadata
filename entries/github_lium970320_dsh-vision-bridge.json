@@ -1,0 +1,20 @@
+{
+  "id": "github:lium970320/dsh-vision-bridge",
+  "kind": "plugin",
+  "name": "dsh-vision-bridge",
+  "description": "DSH 视觉桥接插件：让无视觉能力的主模型看图（会话收图 + 自动转文字 + view_image 工具）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lium970320/dsh-vision-bridge",
+  "repositoryUrl": "https://github.com/lium970320/dsh-vision-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 66
+}

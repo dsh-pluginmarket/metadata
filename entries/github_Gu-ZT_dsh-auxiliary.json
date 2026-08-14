@@ -1,0 +1,20 @@
+{
+  "id": "github:Gu-ZT/dsh-auxiliary",
+  "kind": "plugin",
+  "name": "dsh-auxiliary",
+  "description": "Auxiliary models for DeepSeek Harness: vision understanding and context compression through dedicated model routes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gu-ZT/dsh-auxiliary",
+  "repositoryUrl": "https://github.com/Gu-ZT/dsh-auxiliary",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 78
+}

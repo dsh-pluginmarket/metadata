@@ -1,0 +1,20 @@
+{
+  "id": "github:Shmilyol/dsh-hiyori-skin",
+  "kind": "plugin",
+  "name": "dsh-hiyori-skin",
+  "description": "Related DeepSeek Harness project: Shmilyol/dsh-hiyori-skin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shmilyol/dsh-hiyori-skin",
+  "repositoryUrl": "https://github.com/Shmilyol/dsh-hiyori-skin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 55
+}

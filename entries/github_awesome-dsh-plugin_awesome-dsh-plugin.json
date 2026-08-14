@@ -1,0 +1,20 @@
+{
+  "id": "github:awesome-dsh-plugin/awesome-dsh-plugin",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugin",
+  "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "awesome-dsh-plugin/awesome-dsh-plugin",
+  "repositoryUrl": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 12
+}

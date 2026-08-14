@@ -1,0 +1,20 @@
+{
+  "id": "github:OoWJZZoO/dsh-read-image",
+  "kind": "plugin",
+  "name": "dsh-read-image",
+  "description": "Related DeepSeek Harness project: OoWJZZoO/dsh-read-image",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "OoWJZZoO/dsh-read-image",
+  "repositoryUrl": "https://github.com/OoWJZZoO/dsh-read-image",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 64
+}

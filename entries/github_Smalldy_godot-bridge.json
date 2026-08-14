@@ -1,0 +1,20 @@
+{
+  "id": "github:Smalldy/godot-bridge",
+  "kind": "plugin",
+  "name": "godot-bridge",
+  "description": "DSH (DeepSeek Harness) plugin that launches and drives a running Godot 4.x game through its in-game TCP interaction server — replaces the godot-mcp MCP server with native agent tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Smalldy/godot-bridge",
+  "repositoryUrl": "https://github.com/Smalldy/godot-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 18
+}

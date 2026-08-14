@@ -1,0 +1,20 @@
+{
+  "id": "github:whyihaveyou/dsh-suite",
+  "kind": "plugin",
+  "name": "dsh-suite",
+  "description": "The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "whyihaveyou/dsh-suite",
+  "repositoryUrl": "https://github.com/whyihaveyou/dsh-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 70
+}

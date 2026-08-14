@@ -1,0 +1,20 @@
+{
+  "id": "github:chenzhaoxuan0/dsh-tray",
+  "kind": "plugin",
+  "name": "dsh-tray",
+  "description": "DeepSeek Harness tray app + web settings plugin: show tray icon / restart / exit the dsh service. 系统托盘 + 设置页控制（MIT）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenzhaoxuan0/dsh-tray",
+  "repositoryUrl": "https://github.com/chenzhaoxuan0/dsh-tray",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 25
+}

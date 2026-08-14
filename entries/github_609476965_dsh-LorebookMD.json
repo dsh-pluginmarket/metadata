@@ -1,0 +1,20 @@
+{
+  "id": "github:609476965/dsh-LorebookMD",
+  "kind": "plugin",
+  "name": "dsh-LorebookMD",
+  "description": "DSH lorebook-driven fiction writer plugin: import Tavern/SillyTavern character cards & world books, save local Markdown settings, generate novel prose referencing the world.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "609476965/dsh-LorebookMD",
+  "repositoryUrl": "https://github.com/609476965/dsh-LorebookMD",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 36
+}

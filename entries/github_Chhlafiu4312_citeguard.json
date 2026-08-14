@@ -1,0 +1,20 @@
+{
+  "id": "github:Chhlafiu4312/citeguard",
+  "kind": "plugin",
+  "name": "citeguard",
+  "description": "Citation extraction and evidence verification for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chhlafiu4312/citeguard",
+  "repositoryUrl": "https://github.com/Chhlafiu4312/citeguard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 44
+}

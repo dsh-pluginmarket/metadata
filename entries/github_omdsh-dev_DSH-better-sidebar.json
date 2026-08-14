@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/DSH-better-sidebar",
+  "kind": "plugin",
+  "name": "DSH-better-sidebar",
+  "description": "一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/DSH-better-sidebar",
+  "repositoryUrl": "https://github.com/omdsh-dev/DSH-better-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 11
+}

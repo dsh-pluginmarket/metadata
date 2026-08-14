@@ -1,0 +1,20 @@
+{
+  "id": "github:Aik358/dsh-auto-memory",
+  "kind": "plugin",
+  "name": "dsh-auto-memory",
+  "description": "DSH 自动记忆插件:三层记忆(用户级/项目笔记/每日日志)自动注入与检索、每日反思、可视化面板与设置页,支持继承其他 AI 工具的历史记忆。An auto-memory plugin for the DeepSeek Harness Web GUI: three-layer memory (user-level / project notes / daily logs) with automatic injection and retrieval, daily reflections, a visual panel and settings page, and inheritance of memories from other AI tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aik358/dsh-auto-memory",
+  "repositoryUrl": "https://github.com/Aik358/dsh-auto-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 72
+}

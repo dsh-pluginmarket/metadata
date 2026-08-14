@@ -1,0 +1,20 @@
+{
+  "id": "github:the-beating-light-of-the-nail/dsh-meme-hub",
+  "kind": "plugin",
+  "name": "dsh-meme-hub",
+  "description": "🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "the-beating-light-of-the-nail/dsh-meme-hub",
+  "repositoryUrl": "https://github.com/the-beating-light-of-the-nail/dsh-meme-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 20
+}

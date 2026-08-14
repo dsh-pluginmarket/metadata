@@ -1,0 +1,20 @@
+{
+  "id": "github:wtiaw/dsh-model-router",
+  "kind": "plugin",
+  "name": "dsh-model-router",
+  "description": "dsh-model-router: thinking/execution model routing for DeepSeek Harness — step 1 uses a configurable strong model, later steps use the default model (with composer UI).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wtiaw/dsh-model-router",
+  "repositoryUrl": "https://github.com/wtiaw/dsh-model-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 73
+}

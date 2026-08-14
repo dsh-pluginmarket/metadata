@@ -1,0 +1,20 @@
+{
+  "id": "github:railgun0325/dsh-phone",
+  "kind": "plugin",
+  "name": "dsh-phone",
+  "description": "让 DeepSeek Harness 的 agent 跑在手机里，通过 Magisk root 原生操作安卓系统（截图/点击/滑动/开应用）+ 移动端布局 + WebView APK",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "railgun0325/dsh-phone",
+  "repositoryUrl": "https://github.com/railgun0325/dsh-phone",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 50
+}

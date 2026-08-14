@@ -1,0 +1,20 @@
+{
+  "id": "github:BingChanCN/fabric",
+  "kind": "plugin",
+  "name": "fabric",
+  "description": "Related DeepSeek Harness project: BingChanCN/fabric",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BingChanCN/fabric",
+  "repositoryUrl": "https://github.com/BingChanCN/fabric",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 28
+}

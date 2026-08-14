@@ -1,0 +1,20 @@
+{
+  "id": "github:Noelune/unified-agent-memory",
+  "kind": "plugin",
+  "name": "unified-agent-memory",
+  "description": "Related DeepSeek Harness project: Noelune/unified-agent-memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noelune/unified-agent-memory",
+  "repositoryUrl": "https://github.com/Noelune/unified-agent-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 54
+}

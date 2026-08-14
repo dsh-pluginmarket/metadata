@@ -1,0 +1,20 @@
+{
+  "id": "github:bibibala/dsh-git-guard",
+  "kind": "plugin",
+  "name": "dsh-git-guard",
+  "description": "Git-aware write guard plugin for DeepSeek Harness: blocks whole-file writes that would overwrite the user's uncommitted changes, and reports what happened to protected files at turn end",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bibibala/dsh-git-guard",
+  "repositoryUrl": "https://github.com/bibibala/dsh-git-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 19
+}

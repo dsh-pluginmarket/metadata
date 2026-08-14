@@ -1,0 +1,20 @@
+{
+  "id": "github:tomowang/dsh-tui",
+  "kind": "plugin",
+  "name": "dsh-tui",
+  "description": "An open-source terminal front door for DeepSeek Harness (dsh).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tomowang/dsh-tui",
+  "repositoryUrl": "https://github.com/tomowang/dsh-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "github-actions[bot]",
+  "issueNumber": 29
+}
