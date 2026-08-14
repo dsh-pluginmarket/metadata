@@ -1,0 +1,20 @@
+{
+  "id": "github:YOGEMOW/DeepSeek_Prism",
+  "kind": "plugin",
+  "name": "DeepSeek_Prism",
+  "description": "为纯文本 DeepSeek 模型提供按需识图的 Codex Skill（VEP/1 视觉证据包 + 多 Provider 降级）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YOGEMOW/DeepSeek_Prism",
+  "repositoryUrl": "https://github.com/YOGEMOW/DeepSeek_Prism",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 85
+}
