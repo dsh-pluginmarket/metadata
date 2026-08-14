@@ -1,0 +1,20 @@
+{
+  "id": "github:kakadeka/Baton",
+  "kind": "plugin",
+  "name": "Baton",
+  "description": "Pass your project, not your context.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kakadeka/Baton",
+  "repositoryUrl": "https://github.com/kakadeka/Baton",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 449
+}
