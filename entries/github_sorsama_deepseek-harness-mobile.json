@@ -1,0 +1,20 @@
+{
+  "id": "github:sorsama/deepseek-harness-mobile",
+  "kind": "plugin",
+  "name": "deepseek-harness-mobile",
+  "description": "Android companion for DeepSeek Harness | chat, goals, approvals & notifications from your phone, over your LAN. Kotlin + Jetpack Compose.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sorsama/deepseek-harness-mobile",
+  "repositoryUrl": "https://github.com/sorsama/deepseek-harness-mobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 433
+}
