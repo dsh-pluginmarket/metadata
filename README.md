@@ -31,4 +31,13 @@ Each entry is one JSON file under `entries/`:
 }
 ```
 
-Supported kinds: `plugin`, `skill`, `preset`. Supported sources: `github`, `npm`, `manual`.
+Supported kinds: `plugin`, `skill`, `preset`. Supported sources: `github`, `npm`, `manual`. GitHub and npm may be provided together.
+
+## GitHub App setup
+
+The workflows use the `deepseek-harness-plugin` GitHub App to create branches, comment on issues, and open pull requests. Add these repository secrets:
+
+- `METADATA_APP_ID`: `4595886`
+- `METADATA_APP_PRIVATE_KEY`: the complete downloaded `.pem` private key
+
+Install the App on `dsh-pluginmarket/metadata` with **Contents**, **Issues**, and **Pull requests** set to **Read and write**. The Client ID and Client secret are OAuth credentials and are not used by Actions. Never commit or share the private key.
