@@ -1,0 +1,20 @@
+{
+  "id": "github:yangyue1974/dsh-plugin-audiolib",
+  "kind": "plugin",
+  "name": "dsh-plugin-audiolib",
+  "description": "Ambient soundtrack for DeepSeek Harness, driven by agent state. Streams 100k+ cleared tracks from AudioLib.ai — a track always finishes, so a state change never cuts one off.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yangyue1974/dsh-plugin-audiolib",
+  "repositoryUrl": "https://github.com/yangyue1974/dsh-plugin-audiolib",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 356
+}
