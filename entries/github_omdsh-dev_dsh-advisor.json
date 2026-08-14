@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-advisor",
+  "kind": "plugin",
+  "name": "dsh-advisor",
+  "description": "Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-advisor",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-advisor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 317
+}
