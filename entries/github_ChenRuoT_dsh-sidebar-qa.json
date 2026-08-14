@@ -1,0 +1,20 @@
+{
+  "id": "github:ChenRuoT/dsh-sidebar-qa",
+  "kind": "plugin",
+  "name": "dsh-sidebar-qa",
+  "description": "一个基于DSH-better-sidebar的侧边栏提问tab，实现类codex的侧边提问或claude code的/btw功能",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChenRuoT/dsh-sidebar-qa",
+  "repositoryUrl": "https://github.com/ChenRuoT/dsh-sidebar-qa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 252
+}
