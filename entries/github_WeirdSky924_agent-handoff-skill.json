@@ -1,0 +1,20 @@
+{
+  "id": "github:WeirdSky924/agent-handoff-skill",
+  "kind": "plugin",
+  "name": "agent-handoff-skill",
+  "description": "Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objective, status, decisions, validation, risks, and next actions without relying on previous chat history.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WeirdSky924/agent-handoff-skill",
+  "repositoryUrl": "https://github.com/WeirdSky924/agent-handoff-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 374
+}
