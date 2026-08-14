@@ -1,0 +1,20 @@
+{
+  "id": "github:huguangyu666/dsh-store",
+  "kind": "plugin",
+  "name": "dsh-store",
+  "description": "Related DeepSeek Harness project: huguangyu666/dsh-store",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huguangyu666/dsh-store",
+  "repositoryUrl": "https://github.com/huguangyu666/dsh-store",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 242
+}
