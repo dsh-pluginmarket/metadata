@@ -1,0 +1,20 @@
+{
+  "id": "github:Fu3rte/dsh-sight",
+  "kind": "plugin",
+  "name": "dsh-sight",
+  "description": "Plug-in vision for text-only DeepSeek Harness (dsh) models: built-in free/cheap VLM presets + multi-image batch analysis",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fu3rte/dsh-sight",
+  "repositoryUrl": "https://github.com/Fu3rte/dsh-sight",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 205
+}
