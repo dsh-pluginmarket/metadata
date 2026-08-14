@@ -4,7 +4,9 @@ This repository is the source of truth for DSH Registry entries.
 
 ## Add an entry
 
-Open a GitHub Issue using the **Add registry entry** template. A GitHub Actions workflow validates the submitted fields and opens a pull request containing a metadata file. A maintainer reviews and merges that pull request; the Registry only publishes metadata from the default branch.
+Open a GitHub Issue using the **Add registry entry** template. The issue title starts with `Add:` so the workflow can trigger even if GitHub does not apply the optional label automatically. A GitHub Actions workflow validates the submitted fields and opens a pull request containing a metadata file. A maintainer reviews and merges that pull request; the Registry only publishes metadata from the default branch.
+
+If no workflow run appears, verify that Actions are enabled in repository settings and that this workflow has been merged into the default branch. The workflow also validates metadata changes on pull requests.
 
 ## File format
 

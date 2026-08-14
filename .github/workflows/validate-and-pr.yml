@@ -1,48 +1,49 @@
 name: Validate metadata submission
+
 on:
   issues:
     types: [opened]
+  pull_request:
+    paths:
+      - 'entries/**'
+      - 'scripts/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+
 permissions:
   contents: write
   pull-requests: write
   issues: write
+
 jobs:
-  validate-and-pr:
-    if: contains(github.event.issue.labels.*.name, 'metadata-submission')
+  validate-submission:
+    # Issue forms do not reliably preserve labels unless the label already exists.
+    # Use the title prefix as the primary trigger and keep the label as optional metadata.
+    if: github.event_name == 'pull_request' || startsWith(github.event.issue.title, 'Add:')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.20.0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Parse issue and create metadata
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Generate metadata from issue
+        if: github.event_name == 'issues'
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_USER: ${{ github.event.issue.user.login }}
-        run: |
-          mkdir -p entries
-          node --input-type=module <<'NODE'
-          import { writeFileSync } from 'node:fs';
-          const body = process.env.ISSUE_BODY ?? '';
-          const field = (label) => { const match = body.match(new RegExp(`### ${label}\\s*\\n\\s*([^\\n]+)`, 'i')); return match?.[1]?.trim() ?? ''; };
-          const kind = field('Kind').toLowerCase();
-          const name = field('Name');
-          const githubRepo = field('GitHub repository');
-          const npmPackage = field('npm package');
-          const description = field('Description');
-          const tags = field('Tags').split(',').map((x) => x.trim()).filter(Boolean);
-          if (!['plugin', 'skill', 'preset'].includes(kind) || !name || !description || (!githubRepo && !npmPackage)) throw new Error('Missing or invalid required fields');
-          const source = githubRepo ? 'github' : 'npm';
-          const id = `${source}:${githubRepo || npmPackage}`;
-          const entry = { id, kind, name, description, source, sources: [source], ...(githubRepo ? { githubRepo, repositoryUrl: `https://github.com/${githubRepo}` } : { npmPackage, repositoryUrl: `https://www.npmjs.com/package/${npmPackage}` }), tags, status: 'pending', official: false, submittedBy: process.env.ISSUE_USER, issueNumber: Number(process.env.ISSUE_NUMBER) };
-          writeFileSync(`entries/${id.replace(/[^a-zA-Z0-9._-]/g, '_')}.json`, JSON.stringify(entry, null, 2) + '\\n');
-          NODE
+        run: node scripts/issue-to-entry.mjs
       - name: Validate metadata
-        run: node scripts/validate.mjs
-      - name: Open pull request
+        run: pnpm validate
+      - name: Open pull request from issue
+        if: github.event_name == 'issues'
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -52,6 +53,13 @@ jobs:
           body: "Generated from #${{ github.event.issue.number }}. A maintainer must review and merge this pull request before publication."
           labels: metadata-submission
       - name: Comment on issue
+        if: github.event_name == 'issues' && success()
         uses: actions/github-script@v7
         with:
-          script: github.rest.issues.createComment({owner: context.repo.owner, repo: context.repo.repo, issue_number: context.issue.number, body: 'Metadata validated and a pull request was opened. It will become public only after maintainer review and merge.'})
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'Metadata validated and a pull request was opened. It will become public only after maintainer review and merge.'
+            })
