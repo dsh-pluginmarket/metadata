@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/awesome-deepseek-coder",
+  "kind": "plugin",
+  "name": "awesome-deepseek-coder",
+  "description": "A curated list of open-source projects related to DeepSeek Coder",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/awesome-deepseek-coder",
+  "repositoryUrl": "https://github.com/deepseek-ai/awesome-deepseek-coder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 483
+}
