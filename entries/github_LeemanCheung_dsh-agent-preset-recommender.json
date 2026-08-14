@@ -1,0 +1,20 @@
+{
+  "id": "github:LeemanCheung/dsh-agent-preset-recommender",
+  "kind": "plugin",
+  "name": "dsh-agent-preset-recommender",
+  "description": "Privacy-safe local Codex, Claude Code, WorkBuddy and CodeBuddy activity scanner that recommends DSH agent presets.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LeemanCheung/dsh-agent-preset-recommender",
+  "repositoryUrl": "https://github.com/LeemanCheung/dsh-agent-preset-recommender",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 278
+}
