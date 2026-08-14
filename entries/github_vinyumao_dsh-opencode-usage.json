@@ -1,0 +1,20 @@
+{
+  "id": "github:vinyumao/dsh-opencode-usage",
+  "kind": "plugin",
+  "name": "dsh-opencode-usage",
+  "description": "DSH plugin: OpenCode Go 套餐用量显示（滚动/每周/每月用量百分比与重置倒计时 + Agent 工具 opencode_go_usage）。官方 bundle 插件，安装: dsh plugin --profile web add github:vinyumao/dsh-opencode-usage#<ref>",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vinyumao/dsh-opencode-usage",
+  "repositoryUrl": "https://github.com/vinyumao/dsh-opencode-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 364
+}
