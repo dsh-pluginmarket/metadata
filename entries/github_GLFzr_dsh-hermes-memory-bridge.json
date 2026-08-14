@@ -1,0 +1,20 @@
+{
+  "id": "github:GLFzr/dsh-hermes-memory-bridge",
+  "kind": "plugin",
+  "name": "dsh-hermes-memory-bridge",
+  "description": "Bridge DeepSeek Harness (DSH) session compaction summaries into Hermes Agent persistent memory. 把 DSH 会话压缩总结自动桥接进 Hermes 永久记忆。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GLFzr/dsh-hermes-memory-bridge",
+  "repositoryUrl": "https://github.com/GLFzr/dsh-hermes-memory-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 455
+}
