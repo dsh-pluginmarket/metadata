@@ -1,0 +1,20 @@
+{
+  "id": "github:2472786266-spec/deepseek-hsrness-devkit",
+  "kind": "plugin",
+  "name": "deepseek-hsrness-devkit",
+  "description": "DSH DevKit: multimodal gallery + multi-agent supervision console (DeepSeek Harness dynamic Cordis plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2472786266-spec/deepseek-hsrness-devkit",
+  "repositoryUrl": "https://github.com/2472786266-spec/deepseek-hsrness-devkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 355
+}
