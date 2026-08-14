@@ -1,0 +1,20 @@
+{
+  "id": "github:Chu-Xin-r/wanjiaqi-meme",
+  "kind": "plugin",
+  "name": "wanjiaqi-meme",
+  "description": "玩机器(6657直播间)烂梗 Skill：22771条真实弹幕烂梗蒸馏成AI Skill，生成玩机器式弹幕/解说吐槽/CS×DOTA双料梗",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chu-Xin-r/wanjiaqi-meme",
+  "repositoryUrl": "https://github.com/Chu-Xin-r/wanjiaqi-meme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 87
+}
