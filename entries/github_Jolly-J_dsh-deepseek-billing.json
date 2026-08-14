@@ -1,0 +1,20 @@
+{
+  "id": "github:Jolly-J/dsh-deepseek-billing",
+  "kind": "plugin",
+  "name": "dsh-deepseek-billing",
+  "description": "DSH WebUI 插件:DeepSeek 余额显示与按会话费用估算",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jolly-J/dsh-deepseek-billing",
+  "repositoryUrl": "https://github.com/Jolly-J/dsh-deepseek-billing",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 280
+}
