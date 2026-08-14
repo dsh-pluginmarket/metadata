@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DreamCraft3D",
+  "kind": "plugin",
+  "name": "DreamCraft3D",
+  "description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DreamCraft3D",
+  "repositoryUrl": "https://github.com/deepseek-ai/DreamCraft3D",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 497
+}
