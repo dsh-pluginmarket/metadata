@@ -1,0 +1,20 @@
+{
+  "id": "github:limbo947/dsh-recall-plugin",
+  "kind": "plugin",
+  "name": "dsh-recall-plugin",
+  "description": "DSH 消息撤回插件：撤回一条消息，项目文件也一起回去（影子 git 快照 + 会话 fork 整段回退）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "limbo947/dsh-recall-plugin",
+  "repositoryUrl": "https://github.com/limbo947/dsh-recall-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 107
+}
