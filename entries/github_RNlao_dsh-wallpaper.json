@@ -1,0 +1,20 @@
+{
+  "id": "github:RNlao/dsh-wallpaper",
+  "kind": "plugin",
+  "name": "dsh-wallpaper",
+  "description": "Related DeepSeek Harness project: RNlao/dsh-wallpaper",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RNlao/dsh-wallpaper",
+  "repositoryUrl": "https://github.com/RNlao/dsh-wallpaper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 156
+}
