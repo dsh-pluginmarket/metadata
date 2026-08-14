@@ -1,0 +1,20 @@
+{
+  "id": "github:zdjmrq/dsh-user-plugins-manager",
+  "kind": "plugin",
+  "name": "dsh-user-plugins-manager",
+  "description": "DSH 用户插件管理器:在 设置→插件 统一管理插件目录散件、运行树插件与 npm 插件包——挂载/卸载/启用/停用(cordis.patch.yml 补丁层 + HMR 热生效)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zdjmrq/dsh-user-plugins-manager",
+  "repositoryUrl": "https://github.com/zdjmrq/dsh-user-plugins-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 308
+}
