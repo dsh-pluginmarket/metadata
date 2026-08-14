@@ -1,0 +1,20 @@
+{
+  "id": "github:D4Cluv-Train/dsh-plugin-manager",
+  "kind": "plugin",
+  "name": "dsh-plugin-manager",
+  "description": "vibe的一个插件管理的小插件，欠测试，也许会有很多bug，谨慎使用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "D4Cluv-Train/dsh-plugin-manager",
+  "repositoryUrl": "https://github.com/D4Cluv-Train/dsh-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 393
+}
