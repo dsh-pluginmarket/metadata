@@ -1,0 +1,20 @@
+{
+  "id": "github:WhitePlusMS/dsh-input-plus",
+  "kind": "plugin",
+  "name": "dsh-input-plus",
+  "description": "DSH Web UI plugin for workspace file references, prompt history, and lightweight composer enhancements.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WhitePlusMS/dsh-input-plus",
+  "repositoryUrl": "https://github.com/WhitePlusMS/dsh-input-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 212
+}
