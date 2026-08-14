@@ -1,0 +1,20 @@
+{
+  "id": "github:Komeiji-Shiki/graycode-for-dsh",
+  "kind": "plugin",
+  "name": "graycode-for-dsh",
+  "description": "Related DeepSeek Harness project: Komeiji-Shiki/graycode-for-dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Komeiji-Shiki/graycode-for-dsh",
+  "repositoryUrl": "https://github.com/Komeiji-Shiki/graycode-for-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 431
+}
