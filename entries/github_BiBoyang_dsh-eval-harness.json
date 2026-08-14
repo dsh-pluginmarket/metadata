@@ -1,0 +1,20 @@
+{
+  "id": "github:BiBoyang/dsh-eval-harness",
+  "kind": "plugin",
+  "name": "dsh-eval-harness",
+  "description": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BiBoyang/dsh-eval-harness",
+  "repositoryUrl": "https://github.com/BiBoyang/dsh-eval-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 172
+}
