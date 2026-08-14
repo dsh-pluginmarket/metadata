@@ -1,0 +1,20 @@
+{
+  "id": "github:2002yxy/dsh-nailong-desktop-pet",
+  "kind": "plugin",
+  "name": "dsh-nailong-desktop-pet",
+  "description": "Nailong (奶龙) desktop-pet plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2002yxy/dsh-nailong-desktop-pet",
+  "repositoryUrl": "https://github.com/2002yxy/dsh-nailong-desktop-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 330
+}
