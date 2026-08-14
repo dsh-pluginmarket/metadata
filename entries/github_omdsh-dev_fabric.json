@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/fabric",
+  "kind": "plugin",
+  "name": "fabric",
+  "description": "一种类似MC Fabric的hook处理器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/fabric",
+  "repositoryUrl": "https://github.com/omdsh-dev/fabric",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 303
+}
