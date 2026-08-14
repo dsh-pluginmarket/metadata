@@ -1,0 +1,20 @@
+{
+  "id": "github:yoke233/dsh-prime-agent",
+  "kind": "plugin",
+  "name": "dsh-prime-agent",
+  "description": "Prime Agent-inspired persistent RLM control plane for DeepSeek Harness Code Mode",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yoke233/dsh-prime-agent",
+  "repositoryUrl": "https://github.com/yoke233/dsh-prime-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 407
+}
