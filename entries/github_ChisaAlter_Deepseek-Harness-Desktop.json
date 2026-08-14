@@ -1,0 +1,20 @@
+{
+  "id": "github:ChisaAlter/Deepseek-Harness-Desktop",
+  "kind": "plugin",
+  "name": "Deepseek-Harness-Desktop",
+  "description": "DSH桌面端，支持主题和背景图等多种个性化配置。Electron desktop shell for DeepSeek Harness web UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChisaAlter/Deepseek-Harness-Desktop",
+  "repositoryUrl": "https://github.com/ChisaAlter/Deepseek-Harness-Desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 247
+}
