@@ -1,0 +1,20 @@
+{
+  "id": "github:CH4ACKO3/dsh-ui-workspace",
+  "kind": "plugin",
+  "name": "dsh-ui-workspace",
+  "description": "Composable workspace primitives for DeepSeek Harness UI plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CH4ACKO3/dsh-ui-workspace",
+  "repositoryUrl": "https://github.com/CH4ACKO3/dsh-ui-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 399
+}
