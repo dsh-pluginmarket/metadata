@@ -1,0 +1,20 @@
+{
+  "id": "github:Ayase34/gal-view",
+  "kind": "plugin",
+  "name": "gal-view",
+  "description": "把dsh会话界面切换成galgame游戏界面的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ayase34/gal-view",
+  "repositoryUrl": "https://github.com/Ayase34/gal-view",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 377
+}
