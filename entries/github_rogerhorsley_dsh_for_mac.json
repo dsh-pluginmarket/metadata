@@ -1,0 +1,20 @@
+{
+  "id": "github:rogerhorsley/dsh_for_mac",
+  "kind": "plugin",
+  "name": "dsh_for_mac",
+  "description": "One-click macOS desktop client for DeepSeek Harness — Electron shell around the local dsh web runtime",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rogerhorsley/dsh_for_mac",
+  "repositoryUrl": "https://github.com/rogerhorsley/dsh_for_mac",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 146
+}
