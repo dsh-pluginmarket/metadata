@@ -1,0 +1,20 @@
+{
+  "id": "github:CAPTAIN1275/dsh-ui-web",
+  "kind": "plugin",
+  "name": "dsh-ui-web",
+  "description": "Related DeepSeek Harness project: CAPTAIN1275/dsh-ui-web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CAPTAIN1275/dsh-ui-web",
+  "repositoryUrl": "https://github.com/CAPTAIN1275/dsh-ui-web",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 368
+}
