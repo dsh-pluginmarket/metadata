@@ -1,0 +1,20 @@
+{
+  "id": "github:baimaomaomao556/eagleeye-mcp",
+  "kind": "plugin",
+  "name": "eagleeye-mcp",
+  "description": "EagleEye MCP — pixel-accurate visual toolbox for Agents (screenshot, measure, OCR, regression)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "baimaomaomao556/eagleeye-mcp",
+  "repositoryUrl": "https://github.com/baimaomaomao556/eagleeye-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 216
+}
