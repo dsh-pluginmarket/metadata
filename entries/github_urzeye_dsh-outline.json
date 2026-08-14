@@ -1,0 +1,20 @@
+{
+  "id": "github:urzeye/dsh-outline",
+  "kind": "plugin",
+  "name": "dsh-outline",
+  "description": "DeepSeek Harness（DSH）Web GUI 的实时大纲插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "urzeye/dsh-outline",
+  "repositoryUrl": "https://github.com/urzeye/dsh-outline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 452
+}
