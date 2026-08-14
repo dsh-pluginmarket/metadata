@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-llm-fallbacks",
+  "kind": "plugin",
+  "name": "dsh-llm-fallbacks",
+  "description": "An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-llm-fallbacks",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-llm-fallbacks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 394
+}
