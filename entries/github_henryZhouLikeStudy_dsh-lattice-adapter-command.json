@@ -1,0 +1,20 @@
+{
+  "id": "github:henryZhouLikeStudy/dsh-lattice-adapter-command",
+  "kind": "plugin",
+  "name": "dsh-lattice-adapter-command",
+  "description": "DSH Lattice command adapter: safe shell:false subprocess execution with JSONL/JSON-RPC sessions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "henryZhouLikeStudy/dsh-lattice-adapter-command",
+  "repositoryUrl": "https://github.com/henryZhouLikeStudy/dsh-lattice-adapter-command",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 113
+}
