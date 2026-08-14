@@ -1,0 +1,20 @@
+{
+  "id": "github:LemCAE/dsh-balance",
+  "kind": "plugin",
+  "name": "dsh-balance",
+  "description": "一个适用于deepseek-harness的插件，功能是显示当前账户余额以及当前会话预估的费用消耗 | A plugin for deepseek-harness that displays the current account balance and the estimated cost consumption of the current session.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LemCAE/dsh-balance",
+  "repositoryUrl": "https://github.com/LemCAE/dsh-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 437
+}
