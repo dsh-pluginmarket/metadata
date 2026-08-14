@@ -1,0 +1,20 @@
+{
+  "id": "github:gtaifu/dsh-wechat-bridge",
+  "kind": "plugin",
+  "name": "dsh-wechat-bridge",
+  "description": "DeepSeek Harness (dsh) transport plugin: chat with your agents on WeChat via official Tencent iLink bot API — zero runtime deps, no OpenClaw, QR-code login, one friend = one persistent agent session.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gtaifu/dsh-wechat-bridge",
+  "repositoryUrl": "https://github.com/gtaifu/dsh-wechat-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 381
+}
