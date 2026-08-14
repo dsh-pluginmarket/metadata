@@ -1,0 +1,20 @@
+{
+  "id": "github:chnjames/dsh-plugin-market",
+  "kind": "plugin",
+  "name": "dsh-plugin-market",
+  "description": "DSH 插件市场 — 在 DeepSeek Harness 内发现、浏览、安装和管理社区插件（GitHub + npm 双源索引，Web UI + Agent 工具）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chnjames/dsh-plugin-market",
+  "repositoryUrl": "https://github.com/chnjames/dsh-plugin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 275
+}
