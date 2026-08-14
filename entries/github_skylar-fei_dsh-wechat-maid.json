@@ -1,0 +1,20 @@
+{
+  "id": "github:skylar-fei/dsh-wechat-maid",
+  "kind": "plugin",
+  "name": "dsh-wechat-maid",
+  "description": "一个适用于DSH的插件，提供微信远程控制、主动对话、未来任务、桌宠等功能，可通过桌宠面板实时检查未来任务的状态，并提供“自动编码”模式，使模型在对话完后发微信提醒你，以便你认真的刷手机。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "skylar-fei/dsh-wechat-maid",
+  "repositoryUrl": "https://github.com/skylar-fei/dsh-wechat-maid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 94
+}
