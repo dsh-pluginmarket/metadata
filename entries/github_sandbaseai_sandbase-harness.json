@@ -1,0 +1,20 @@
+{
+  "id": "github:sandbaseai/sandbase-harness",
+  "kind": "plugin",
+  "name": "sandbase-harness",
+  "description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local console. Includes a native DeepSeek Harness bundle over stdio MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sandbaseai/sandbase-harness",
+  "repositoryUrl": "https://github.com/sandbaseai/sandbase-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 445
+}
