@@ -1,0 +1,20 @@
+{
+  "id": "github:duntansen/dsh-update-checker",
+  "kind": "plugin",
+  "name": "dsh-update-checker",
+  "description": "DSH web plugin: check DeepSeek Harness updates from Settings (dsh --version vs npm latest/next) ｜ DSH Web 插件：在设置页自检 DeepSeek Harness 是否有新版本（本地版本 vs npm 最新版）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duntansen/dsh-update-checker",
+  "repositoryUrl": "https://github.com/duntansen/dsh-update-checker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 86
+}
