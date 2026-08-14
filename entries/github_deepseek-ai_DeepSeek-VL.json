@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-VL",
+  "kind": "plugin",
+  "name": "DeepSeek-VL",
+  "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-VL",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-VL",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 512
+}
