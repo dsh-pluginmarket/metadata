@@ -1,0 +1,20 @@
+{
+  "id": "github:upstash/skills",
+  "kind": "plugin",
+  "name": "skills",
+  "description": "Collection of skills for Upstash",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "upstash/skills",
+  "repositoryUrl": "https://github.com/upstash/skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 354
+}
