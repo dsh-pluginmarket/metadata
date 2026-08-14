@@ -1,0 +1,20 @@
+{
+  "id": "github:fieldnote-ops/relayloom",
+  "kind": "plugin",
+  "name": "relayloom",
+  "description": "Default-off external chat relay for agent harnesses; first adapter targets DingTalk Stream.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fieldnote-ops/relayloom",
+  "repositoryUrl": "https://github.com/fieldnote-ops/relayloom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 126
+}
