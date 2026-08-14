@@ -1,0 +1,20 @@
+{
+  "id": "github:DfsyJian/dsh-snapshot",
+  "kind": "plugin",
+  "name": "dsh-snapshot",
+  "description": "DeepSeek Harness plugin: automatic file snapshots with a sidebar timeline and settings card",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DfsyJian/dsh-snapshot",
+  "repositoryUrl": "https://github.com/DfsyJian/dsh-snapshot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 424
+}
