@@ -1,0 +1,20 @@
+{
+  "id": "github:xiehuan123/coding-coach",
+  "kind": "plugin",
+  "name": "coding-coach",
+  "description": "Related DeepSeek Harness project: xiehuan123/coding-coach",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiehuan123/coding-coach",
+  "repositoryUrl": "https://github.com/xiehuan123/coding-coach",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 453
+}
