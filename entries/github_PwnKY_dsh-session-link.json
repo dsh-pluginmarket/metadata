@@ -1,0 +1,20 @@
+{
+  "id": "github:PwnKY/dsh-session-link",
+  "kind": "plugin",
+  "name": "dsh-session-link",
+  "description": "DeepSeek Harness 的 Codex 式会话深度链接插件：dsh:// 深链，跨对话读取上下文",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PwnKY/dsh-session-link",
+  "repositoryUrl": "https://github.com/PwnKY/dsh-session-link",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 235
+}
