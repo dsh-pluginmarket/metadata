@@ -1,0 +1,20 @@
+{
+  "id": "github:2h0n/dsh-web-notification",
+  "kind": "plugin",
+  "name": "dsh-web-notification",
+  "description": "Desktop notifications when the model finishes a reply in DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2h0n/dsh-web-notification",
+  "repositoryUrl": "https://github.com/2h0n/dsh-web-notification",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 293
+}
