@@ -1,0 +1,20 @@
+{
+  "id": "github:fieldnote-ops/keyringseam",
+  "kind": "plugin",
+  "name": "keyringseam",
+  "description": "macOS Keychain credential provider for DeepSeek Harness, with a signed and notarized universal helper.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fieldnote-ops/keyringseam",
+  "repositoryUrl": "https://github.com/fieldnote-ops/keyringseam",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 403
+}
