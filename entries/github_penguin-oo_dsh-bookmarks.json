@@ -1,0 +1,20 @@
+{
+  "id": "github:penguin-oo/dsh-bookmarks",
+  "kind": "plugin",
+  "name": "dsh-bookmarks",
+  "description": "Bookmark assistant replies in DeepSeek Harness: per-message bookmarks with notes/tags, a cross-session center, and one-click Markdown export.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "penguin-oo/dsh-bookmarks",
+  "repositoryUrl": "https://github.com/penguin-oo/dsh-bookmarks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 189
+}
