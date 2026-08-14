@@ -1,0 +1,20 @@
+{
+  "id": "github:Fishsb/dsh-prompt-enhancer",
+  "kind": "plugin",
+  "name": "dsh-prompt-enhancer",
+  "description": "DeepSeek Harness DSH 提示词增强插件：✨ 一键优化草稿",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fishsb/dsh-prompt-enhancer",
+  "repositoryUrl": "https://github.com/Fishsb/dsh-prompt-enhancer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 348
+}
