@@ -1,0 +1,20 @@
+{
+  "id": "github:wulun811/LiuHe",
+  "kind": "plugin",
+  "name": "LiuHe",
+  "description": "LLM-native code toolkit: Rust multi-language parser (tree-sitter) + 44 MCP tools for atomic editing, impact analysis, reference tracing and deterministic zero-LLM code quality gates. Built for the handless, eyeless, memoryless LLM.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wulun811/LiuHe",
+  "repositoryUrl": "https://github.com/wulun811/LiuHe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 147
+}
