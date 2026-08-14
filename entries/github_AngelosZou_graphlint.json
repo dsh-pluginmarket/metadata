@@ -1,0 +1,20 @@
+{
+  "id": "github:AngelosZou/graphlint",
+  "kind": "plugin",
+  "name": "graphlint",
+  "description": "Related DeepSeek Harness project: AngelosZou/graphlint",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AngelosZou/graphlint",
+  "repositoryUrl": "https://github.com/AngelosZou/graphlint",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 323
+}
