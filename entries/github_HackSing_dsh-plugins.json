@@ -1,0 +1,20 @@
+{
+  "id": "github:HackSing/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "A bilingual, continuously maintained directory of plugins for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HackSing/dsh-plugins",
+  "repositoryUrl": "https://github.com/HackSing/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 447
+}
