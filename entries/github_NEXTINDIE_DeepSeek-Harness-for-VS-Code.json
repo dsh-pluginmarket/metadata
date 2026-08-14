@@ -1,0 +1,20 @@
+{
+  "id": "github:NEXTINDIE/DeepSeek-Harness-for-VS-Code",
+  "kind": "plugin",
+  "name": "DeepSeek-Harness-for-VS-Code",
+  "description": "Use DeepSeek Harness in VS Code like ChatGPT/Copilot: @dsh in native chat, standalone views, cross-project sessions, shared via DSH API. Auto-starts server.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NEXTINDIE/DeepSeek-Harness-for-VS-Code",
+  "repositoryUrl": "https://github.com/NEXTINDIE/DeepSeek-Harness-for-VS-Code",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 257
+}
