@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/Engram",
+  "kind": "plugin",
+  "name": "Engram",
+  "description": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/Engram",
+  "repositoryUrl": "https://github.com/deepseek-ai/Engram",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 477
+}
