@@ -1,0 +1,20 @@
+{
+  "id": "github:dfycaly98931680/dsh-trajectory-governance",
+  "kind": "plugin",
+  "name": "dsh-trajectory-governance",
+  "description": "Agent trajectory governance & anomaly diagnosis plugin for DeepSeek Harness (dsh): multi-branch trajectory trees, loop-deadlock / invalid-retry / goal-drift detection, cost attribution, alerts, one-click interrupt & breakpoint fork, independent GUI tab. Zero kernel modification.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dfycaly98931680/dsh-trajectory-governance",
+  "repositoryUrl": "https://github.com/dfycaly98931680/dsh-trajectory-governance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 316
+}
