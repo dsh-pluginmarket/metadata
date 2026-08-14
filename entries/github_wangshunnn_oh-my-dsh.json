@@ -1,0 +1,20 @@
+{
+  "id": "github:wangshunnn/oh-my-dsh",
+  "kind": "plugin",
+  "name": "oh-my-dsh",
+  "description": "🐋 All you need is oh-my-dsh ｜ DeepSeek Harness 社区插件索引与精选（自动更新）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangshunnn/oh-my-dsh",
+  "repositoryUrl": "https://github.com/wangshunnn/oh-my-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 239
+}
