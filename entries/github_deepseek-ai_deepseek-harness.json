@@ -9,8 +9,8 @@
   "repositoryUrl": "https://github.com/deepseek-ai/deepseek-harness",
   "npmPackage": "@deepseek-ai/dsh",
   "tags": ["base", "harness"],
-  "status": "pending",
-  "official": false,
+  "status": "active",
+  "official": true,
   "submittedBy": "yeying-xingchen",
   "issueNumber": 1
 }
