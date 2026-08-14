@@ -1,0 +1,20 @@
+{
+  "id": "github:kriskwok/dsh-feishu-gateway",
+  "kind": "plugin",
+  "name": "dsh-feishu-gateway",
+  "description": "DeepSeek Harness Feishu gateway plugin: chat with your DSH agent from Feishu (persistent sessions, /new, Markdown replies, proactive push)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kriskwok/dsh-feishu-gateway",
+  "repositoryUrl": "https://github.com/kriskwok/dsh-feishu-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 440
+}
