@@ -1,0 +1,20 @@
+{
+  "id": "github:Civitasv/dsh-plugin-diff-review",
+  "kind": "plugin",
+  "name": "dsh-plugin-diff-review",
+  "description": "Diff Review Plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Civitasv/dsh-plugin-diff-review",
+  "repositoryUrl": "https://github.com/Civitasv/dsh-plugin-diff-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 385
+}
