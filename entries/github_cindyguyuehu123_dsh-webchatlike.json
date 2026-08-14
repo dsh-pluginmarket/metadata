@@ -1,0 +1,20 @@
+{
+  "id": "github:cindyguyuehu123/dsh-webchatlike",
+  "kind": "plugin",
+  "name": "dsh-webchatlike",
+  "description": "Web-chat style message actions for DeepSeek Harness: edit your prompt, regenerate answers, and flip versions with a deepseek.com-style <i/N> pager. Deepseek网页版/app聊天体验插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cindyguyuehu123/dsh-webchatlike",
+  "repositoryUrl": "https://github.com/cindyguyuehu123/dsh-webchatlike",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 373
+}
