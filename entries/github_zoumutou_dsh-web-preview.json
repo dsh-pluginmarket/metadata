@@ -1,0 +1,20 @@
+{
+  "id": "github:zoumutou/dsh-web-preview",
+  "kind": "plugin",
+  "name": "dsh-web-preview",
+  "description": "DeepSeek Harness 侧边网页预览面板：本地静态托管、项目运行、元素标记批注、链接点击接管（Cordis 插件包）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zoumutou/dsh-web-preview",
+  "repositoryUrl": "https://github.com/zoumutou/dsh-web-preview",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 417
+}
