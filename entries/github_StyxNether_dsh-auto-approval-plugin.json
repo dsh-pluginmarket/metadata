@@ -1,0 +1,20 @@
+{
+  "id": "github:StyxNether/dsh-auto-approval-plugin",
+  "kind": "plugin",
+  "name": "dsh-auto-approval-plugin",
+  "description": "Trusted Auto: a middle permission tier for DeepSeek Harness between workspace-write and danger-full-access, auto-approving harmless commands and trusted-area targets",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "StyxNether/dsh-auto-approval-plugin",
+  "repositoryUrl": "https://github.com/StyxNether/dsh-auto-approval-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 187
+}
