@@ -1,0 +1,20 @@
+{
+  "id": "github:LuniteGlaze/dsh-plugin-catalog",
+  "kind": "plugin",
+  "name": "dsh-plugin-catalog",
+  "description": "Related DeepSeek Harness project: LuniteGlaze/dsh-plugin-catalog",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LuniteGlaze/dsh-plugin-catalog",
+  "repositoryUrl": "https://github.com/LuniteGlaze/dsh-plugin-catalog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 255
+}
