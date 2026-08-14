@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaohj233/dsh-tavily-search-provider",
+  "kind": "plugin",
+  "name": "dsh-tavily-search-provider",
+  "description": "Tavily search provider for DeepSeek Harness with full search-control mapping, credential-backed key UI, and guarded rc.6 patches.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaohj233/dsh-tavily-search-provider",
+  "repositoryUrl": "https://github.com/xiaohj233/dsh-tavily-search-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 180
+}
