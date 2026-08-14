@@ -1,0 +1,20 @@
+{
+  "id": "github:openma-ai/deepseek-harness-acp",
+  "kind": "plugin",
+  "name": "deepseek-harness-acp",
+  "description": "ACP server implementation for DeepSeek harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "openma-ai/deepseek-harness-acp",
+  "repositoryUrl": "https://github.com/openma-ai/deepseek-harness-acp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 378
+}
