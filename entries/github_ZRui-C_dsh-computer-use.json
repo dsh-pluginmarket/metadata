@@ -1,0 +1,20 @@
+{
+  "id": "github:ZRui-C/dsh-computer-use",
+  "kind": "plugin",
+  "name": "dsh-computer-use",
+  "description": "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZRui-C/dsh-computer-use",
+  "repositoryUrl": "https://github.com/ZRui-C/dsh-computer-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 270
+}
