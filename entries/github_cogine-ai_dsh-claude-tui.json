@@ -1,0 +1,20 @@
+{
+  "id": "github:cogine-ai/dsh-claude-tui",
+  "kind": "plugin",
+  "name": "dsh-claude-tui",
+  "description": "Claude-Code-Styled TUI for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cogine-ai/dsh-claude-tui",
+  "repositoryUrl": "https://github.com/cogine-ai/dsh-claude-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 214
+}
