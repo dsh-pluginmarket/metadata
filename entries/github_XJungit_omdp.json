@@ -1,0 +1,20 @@
+{
+  "id": "github:XJungit/omdp",
+  "kind": "plugin",
+  "name": "omdp",
+  "description": "only my DSH plugins — monorepo of DeepSeek Harness plugin bundles",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "XJungit/omdp",
+  "repositoryUrl": "https://github.com/XJungit/omdp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 175
+}
