@@ -1,0 +1,20 @@
+{
+  "id": "github:wellorbetter/dsh-plugin-window-stats",
+  "kind": "plugin",
+  "name": "dsh-plugin-window-stats",
+  "description": "🪟 DSH Web 插件：一屏看全所有会话的进度与 Token 消耗（全窗口总览 · 实时刷新 · 缓存命中 · 上下文占用 · 点击直达）。| DSH web plugin: all-sessions progress & token dashboard — overview, live updates, cache-hit ratio, context occupancy, click-to-jump.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wellorbetter/dsh-plugin-window-stats",
+  "repositoryUrl": "https://github.com/wellorbetter/dsh-plugin-window-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 401
+}
