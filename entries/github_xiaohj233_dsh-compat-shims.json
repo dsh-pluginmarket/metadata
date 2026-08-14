@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaohj233/dsh-compat-shims",
+  "kind": "plugin",
+  "name": "dsh-compat-shims",
+  "description": "Version-scoped compatibility shims for DeepSeek Harness 0.1.0-rc.6: pi-ai compat, sandbox schema shim, keyboard guard.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaohj233/dsh-compat-shims",
+  "repositoryUrl": "https://github.com/xiaohj233/dsh-compat-shims",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 178
+}
