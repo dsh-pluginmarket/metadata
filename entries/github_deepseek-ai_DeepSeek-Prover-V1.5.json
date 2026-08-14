@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-Prover-V1.5",
+  "kind": "plugin",
+  "name": "DeepSeek-Prover-V1.5",
+  "description": "Related DeepSeek Harness project: deepseek-ai/DeepSeek-Prover-V1.5",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-Prover-V1.5",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-Prover-V1.5",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 509
+}
