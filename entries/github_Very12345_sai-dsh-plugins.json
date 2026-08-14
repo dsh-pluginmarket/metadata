@@ -1,0 +1,20 @@
+{
+  "id": "github:Very12345/sai-dsh-plugins",
+  "kind": "plugin",
+  "name": "sai-dsh-plugins",
+  "description": "First-party DeepSeek Harness plugins for the sai Android coding agent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Very12345/sai-dsh-plugins",
+  "repositoryUrl": "https://github.com/Very12345/sai-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 344
+}
