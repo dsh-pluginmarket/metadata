@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaohj233/dsh-keepalive",
+  "kind": "plugin",
+  "name": "dsh-keepalive",
+  "description": "Opt-in detached watchdog for the DSH Web process with snapshot-checked repair and explicit patch restoration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaohj233/dsh-keepalive",
+  "repositoryUrl": "https://github.com/xiaohj233/dsh-keepalive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 183
+}
