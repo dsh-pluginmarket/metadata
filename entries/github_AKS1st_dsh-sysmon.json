@@ -1,0 +1,20 @@
+{
+  "id": "github:AKS1st/dsh-sysmon",
+  "kind": "plugin",
+  "name": "dsh-sysmon",
+  "description": "DSH Web system-status overlay: live CPU (x%/y), memory and disk usage pinned to the bottom-right corner (dsh plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AKS1st/dsh-sysmon",
+  "repositoryUrl": "https://github.com/AKS1st/dsh-sysmon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 184
+}
