@@ -1,0 +1,20 @@
+{
+  "id": "github:like-study1/Oh-My-DSH",
+  "kind": "plugin",
+  "name": "Oh-My-DSH",
+  "description": "🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 8 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "like-study1/Oh-My-DSH",
+  "repositoryUrl": "https://github.com/like-study1/Oh-My-DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 269
+}
