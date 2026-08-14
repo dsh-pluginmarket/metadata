@@ -60,7 +60,10 @@ jobs:
           commit-message: "metadata: add entry from issue #${{ github.event.issue.number }}"
           branch: metadata/issue-${{ github.event.issue.number }}
           title: "metadata: add entry from issue #${{ github.event.issue.number }}"
-          body: "Generated from #${{ github.event.issue.number }}. A maintainer must review and merge this pull request before publication."
+          body: |
+            Generated from #${{ github.event.issue.number }}. A maintainer must review and merge this pull request before publication.
+
+            Closes #${{ github.event.issue.number }}
           labels: metadata-submission
       - name: Comment on issue
         if: github.event_name == 'issues' && success()

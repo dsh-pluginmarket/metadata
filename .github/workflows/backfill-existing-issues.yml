@@ -39,6 +39,7 @@ jobs:
           version: 11.20.0
       - run: pnpm install --frozen-lockfile
       - name: Find existing issues and generate entries
+        id: generate
         env:
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
           ISSUE_NUMBER: ${{ inputs.issue_number }}
@@ -51,6 +52,7 @@ jobs:
             issues=$(gh issue list --state open --limit 100 --json number,title,labels --jq '.[] | select((.title | startswith("Add:")) or ([.labels[].name] | index("metadata-submission"))) | .number')
           fi
           count=0
+          closes=""
           for number in ${issues}; do
             if gh pr list --state all --search "head:metadata/backfill-existing" --json number --jq '.[].number' | grep -q .; then
               echo "A backfill PR already exists; stop to avoid duplicate entries."
@@ -62,10 +64,16 @@ jobs:
             export ISSUE_USER="$(jq -r .user.login <<<"${issue}")"
             node scripts/issue-to-entry.mjs
             gh issue comment "${number}" --body "This existing metadata issue was detected by the backfill workflow. A pull request is being prepared for maintainer review."
+            closes="${closes}Closes #${number}"$'\n'
             count=$((count + 1))
           done
           if [ "${count}" -eq 0 ]; then echo "No matching existing issues found."; exit 0; fi
           pnpm validate
+          {
+            echo "closes<<EOF"
+            printf '%s' "${closes}"
+            echo "EOF"
+          } >> "${GITHUB_OUTPUT}"
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
@@ -73,5 +81,8 @@ jobs:
           commit-message: 'metadata: backfill existing issue submissions'
           branch: metadata/backfill-existing
           title: 'metadata: backfill existing issue submissions'
-          body: 'Generated from existing metadata submission issues. A maintainer must review and merge this pull request before publication.'
+          body: |
+            Generated from existing metadata submission issues. A maintainer must review and merge this pull request before publication.
+
+            ${{ steps.generate.outputs.closes }}
           labels: metadata-submission

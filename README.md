@@ -4,11 +4,11 @@ This repository is the source of truth for DSH Registry entries.
 
 ## Add an entry
 
-Open a GitHub Issue using the **Add registry entry** template. The issue title starts with `Add:` so the workflow can trigger even if GitHub does not apply the optional label automatically. A GitHub Actions workflow validates the submitted fields and opens a pull request containing a metadata file. A maintainer reviews and merges that pull request; the Registry only publishes metadata from the default branch. Generated entries use `status: active` because the pull request itself is the moderation gate.
+Open a GitHub Issue using the **Add registry entry** template. The issue title starts with `Add:` so the workflow can trigger even if GitHub does not apply the optional label automatically. A GitHub Actions workflow validates the submitted fields and opens a pull request containing a metadata file. A maintainer reviews and merges that pull request; the Registry only publishes metadata from the default branch. Generated entries use `status: active` because the pull request itself is the moderation gate. Merging the pull request automatically closes the originating issue.
 
 If no workflow run appears, verify that Actions are enabled in repository settings and that this workflow has been merged into the default branch. The workflow also validates metadata changes on pull requests.
 
-For issues that were created before the automatic workflow was installed, run **Actions → Backfill existing metadata issues → Run workflow**. Leave the issue number empty to scan all open issues whose title starts with `Add:` (or that have the `metadata-submission` label), or provide one issue number to process only that issue. The workflow generates one maintainer-review PR and avoids creating duplicate backfill PRs.
+For issues that were created before the automatic workflow was installed, run **Actions → Backfill existing metadata issues → Run workflow**. Leave the issue number empty to scan all open issues whose title starts with `Add:` (or that have the `metadata-submission` label), or provide one issue number to process only that issue. The workflow generates one maintainer-review PR, avoids creating duplicate backfill PRs, and lists the processed issues in the PR body so merging the PR closes them automatically.
 
 ## File format
 
