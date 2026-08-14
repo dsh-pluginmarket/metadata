@@ -1,0 +1,20 @@
+{
+  "id": "github:luokai-demo/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Related DeepSeek Harness project: luokai-demo/dsh-plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luokai-demo/dsh-plugins",
+  "repositoryUrl": "https://github.com/luokai-demo/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 244
+}
