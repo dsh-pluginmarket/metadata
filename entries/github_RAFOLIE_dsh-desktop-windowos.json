@@ -1,0 +1,20 @@
+{
+  "id": "github:RAFOLIE/dsh-desktop-windowos",
+  "kind": "plugin",
+  "name": "dsh-desktop-windowos",
+  "description": "DeepSeek Harness desktop shell — Tauri v2, tray + native webchat + task-done toasts, single portable exe",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RAFOLIE/dsh-desktop-windowos",
+  "repositoryUrl": "https://github.com/RAFOLIE/dsh-desktop-windowos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 190
+}
