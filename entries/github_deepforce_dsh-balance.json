@@ -1,0 +1,20 @@
+{
+  "id": "github:deepforce/dsh-balance",
+  "kind": "plugin",
+  "name": "dsh-balance",
+  "description": "DSH plugin: /balance command + composer-dock balance readout with top-up link & session-cost estimate",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepforce/dsh-balance",
+  "repositoryUrl": "https://github.com/deepforce/dsh-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 181
+}
