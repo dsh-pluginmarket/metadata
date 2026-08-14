@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSeek-LLM",
+  "kind": "plugin",
+  "name": "DeepSeek-LLM",
+  "description": "DeepSeek LLM: Let there be answers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSeek-LLM",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSeek-LLM",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 514
+}
