@@ -1,0 +1,20 @@
+{
+  "id": "github:cwbcheng/dsh-knowledge-graph",
+  "kind": "plugin",
+  "name": "dsh-knowledge-graph",
+  "description": "DSH Cordis plugin: turn any source text into an AI knowledge graph (facts/inferences/concepts/definitions/examples/counter-examples/rules) with two-way linking between the graph and the original text.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cwbcheng/dsh-knowledge-graph",
+  "repositoryUrl": "https://github.com/cwbcheng/dsh-knowledge-graph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 145
+}
