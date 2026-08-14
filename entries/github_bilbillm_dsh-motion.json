@@ -1,0 +1,20 @@
+{
+  "id": "github:bilbillm/dsh-motion",
+  "kind": "plugin",
+  "name": "dsh-motion",
+  "description": "Restrained, semantic interface motion for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bilbillm/dsh-motion",
+  "repositoryUrl": "https://github.com/bilbillm/dsh-motion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 276
+}
