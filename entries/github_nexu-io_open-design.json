@@ -1,0 +1,20 @@
+{
+  "id": "github:nexu-io/open-design",
+  "kind": "plugin",
+  "name": "open-design",
+  "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nexu-io/open-design",
+  "repositoryUrl": "https://github.com/nexu-io/open-design",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 651
+}
