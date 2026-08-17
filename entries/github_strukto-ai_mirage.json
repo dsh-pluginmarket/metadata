@@ -1,0 +1,20 @@
+{
+  "id": "github:strukto-ai/mirage",
+  "kind": "plugin",
+  "name": "mirage",
+  "description": "The World's First Unified Virtual Filesystem For AI Agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "strukto-ai/mirage",
+  "repositoryUrl": "https://github.com/strukto-ai/mirage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 775
+}
