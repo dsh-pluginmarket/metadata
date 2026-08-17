@@ -1,0 +1,20 @@
+{
+  "id": "github:lehhair/dsh-mobile",
+  "kind": "plugin",
+  "name": "dsh-mobile",
+  "description": "Related DeepSeek Harness project: lehhair/dsh-mobile",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lehhair/dsh-mobile",
+  "repositoryUrl": "https://github.com/lehhair/dsh-mobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 639
+}
