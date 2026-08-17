@@ -1,0 +1,20 @@
+{
+  "id": "github:ARFCON/DSH_Automatic-update-plugin",
+  "kind": "plugin",
+  "name": "DSH_Automatic-update-plugin",
+  "description": "DSH 的更新插件和错误自动修复插件的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ARFCON/DSH_Automatic-update-plugin",
+  "repositoryUrl": "https://github.com/ARFCON/DSH_Automatic-update-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 824
+}
