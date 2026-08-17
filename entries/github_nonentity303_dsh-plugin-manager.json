@@ -1,0 +1,20 @@
+{
+  "id": "github:nonentity303/dsh-plugin-manager",
+  "kind": "plugin",
+  "name": "dsh-plugin-manager",
+  "description": "Related DeepSeek Harness project: nonentity303/dsh-plugin-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nonentity303/dsh-plugin-manager",
+  "repositoryUrl": "https://github.com/nonentity303/dsh-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 898
+}
