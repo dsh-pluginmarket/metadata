@@ -1,0 +1,20 @@
+{
+  "id": "github:rrrrrredy/skill-security-guard",
+  "kind": "plugin",
+  "name": "skill-security-guard",
+  "description": "Static security scanner for agent skills: A-F risk rating, safe zip scanning, CI-tested rules",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rrrrrredy/skill-security-guard",
+  "repositoryUrl": "https://github.com/rrrrrredy/skill-security-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 947
+}
