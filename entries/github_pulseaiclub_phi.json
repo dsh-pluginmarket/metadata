@@ -1,0 +1,20 @@
+{
+  "id": "github:pulseaiclub/phi",
+  "kind": "plugin",
+  "name": "phi",
+  "description": "a coding Agent from pi. ∞ providers, sub-agents, hashline edits, and a permission gate",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pulseaiclub/phi",
+  "repositoryUrl": "https://github.com/pulseaiclub/phi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 706
+}
