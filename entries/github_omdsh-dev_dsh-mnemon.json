@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-mnemon",
+  "kind": "plugin",
+  "name": "dsh-mnemon",
+  "description": "Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, WebUI, and headless tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-mnemon",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-mnemon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 772
+}
