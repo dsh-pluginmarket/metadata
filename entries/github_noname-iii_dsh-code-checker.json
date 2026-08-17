@@ -1,0 +1,20 @@
+{
+  "id": "github:noname-iii/dsh-code-checker",
+  "kind": "plugin",
+  "name": "dsh-code-checker",
+  "description": "A plugin for Deepseek Harness (well it may support other AI agent IDEs but I hadn't test it out yet) that checks for error when AI had finished writing the code.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "noname-iii/dsh-code-checker",
+  "repositoryUrl": "https://github.com/noname-iii/dsh-code-checker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 598
+}
