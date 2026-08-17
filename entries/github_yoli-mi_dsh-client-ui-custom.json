@@ -1,0 +1,20 @@
+{
+  "id": "github:yoli-mi/dsh-client-ui-custom",
+  "kind": "plugin",
+  "name": "dsh-client-ui-custom",
+  "description": "Configurable DSH web-surface plugin: wallpaper & frosted-glass themes, accent colors, custom keyboard shortcuts, app-usage panel, history strip, message Markdown — zero shell edits.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yoli-mi/dsh-client-ui-custom",
+  "repositoryUrl": "https://github.com/yoli-mi/dsh-client-ui-custom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 725
+}
