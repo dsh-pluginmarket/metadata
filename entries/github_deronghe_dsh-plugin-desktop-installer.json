@@ -1,0 +1,20 @@
+{
+  "id": "github:deronghe/dsh-plugin-desktop-installer",
+  "kind": "plugin",
+  "name": "dsh-plugin-desktop-installer",
+  "description": "DSH Desktop installer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deronghe/dsh-plugin-desktop-installer",
+  "repositoryUrl": "https://github.com/deronghe/dsh-plugin-desktop-installer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 982
+}
