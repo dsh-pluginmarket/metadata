@@ -1,0 +1,23 @@
+{
+  "id": "github:wz-heng/dsh-feishu-bridge",
+  "kind": "plugin",
+  "name": "dsh-feishu-bridge",
+  "description": "Feishu (Lark) channel bridge for DeepSeek Harness (dsh): message a Feishu bot, it runs a dsh agent turn, and the reply comes back to the chat. Security-first design: fail-closed allowlist (empty allowlist rejects everyone), full webhook signature/timestamp/replay verification at the bridge boundary, one-time identity-bound card nonces, and per-chat session ownership. Supports both ws and webhook transports, sticky sessions with /new /sessions /switch commands, and installs either standalone or via dsh plugin add. Independent community project, not affiliated with DeepSeek.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wz-heng/dsh-feishu-bridge",
+  "repositoryUrl": "https://github.com/wz-heng/dsh-feishu-bridge",
+  "tags": [
+    "feishu",
+    "lark",
+    "bridge",
+    "channel",
+    "im"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "wz-heng",
+  "issueNumber": 1220
+}
