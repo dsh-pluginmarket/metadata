@@ -1,0 +1,20 @@
+{
+  "id": "github:ChrisZhangWG/dsh-codex-meter",
+  "kind": "plugin",
+  "name": "dsh-codex-meter",
+  "description": "Codex-style compact meter for the DSH web GUI: a tiny monospace pill showing live session cost, today's consumption and remaining DeepSeek API balance — click to open the platform usage page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChrisZhangWG/dsh-codex-meter",
+  "repositoryUrl": "https://github.com/ChrisZhangWG/dsh-codex-meter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1058
+}
