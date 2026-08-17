@@ -1,0 +1,20 @@
+{
+  "id": "github:534119219/chicheng-peak",
+  "kind": "plugin",
+  "name": "chicheng-peak",
+  "description": "DSH 峰谷提醒插件：DeepSeek 官方峰谷时段感知——高峰橙/低峰蓝贴边呼吸边框、流光效果、服务端消息推送提醒（自定义标题内容）。Peak/valley breathing border + push reminder for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "534119219/chicheng-peak",
+  "repositoryUrl": "https://github.com/534119219/chicheng-peak",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 878
+}
