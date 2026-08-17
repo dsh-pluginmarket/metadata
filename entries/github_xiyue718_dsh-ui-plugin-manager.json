@@ -1,0 +1,20 @@
+{
+  "id": "github:xiyue718/dsh-ui-plugin-manager",
+  "kind": "plugin",
+  "name": "dsh-ui-plugin-manager",
+  "description": "Related DeepSeek Harness project: xiyue718/dsh-ui-plugin-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiyue718/dsh-ui-plugin-manager",
+  "repositoryUrl": "https://github.com/xiyue718/dsh-ui-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 602
+}
