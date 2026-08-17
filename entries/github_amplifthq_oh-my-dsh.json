@@ -1,0 +1,20 @@
+{
+  "id": "github:amplifthq/oh-my-dsh",
+  "kind": "plugin",
+  "name": "oh-my-dsh",
+  "description": "A curated distribution of DeepSeek Harness. Overlay, not a fork.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "amplifthq/oh-my-dsh",
+  "repositoryUrl": "https://github.com/amplifthq/oh-my-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 836
+}
