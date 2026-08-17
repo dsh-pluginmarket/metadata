@@ -1,0 +1,20 @@
+{
+  "id": "github:ruimin251204/dsh-plugin-surgery",
+  "kind": "plugin",
+  "name": "dsh-plugin-surgery",
+  "description": "Related DeepSeek Harness project: ruimin251204/dsh-plugin-surgery",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ruimin251204/dsh-plugin-surgery",
+  "repositoryUrl": "https://github.com/ruimin251204/dsh-plugin-surgery",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1103
+}
