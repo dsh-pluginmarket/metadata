@@ -1,0 +1,20 @@
+{
+  "id": "github:XMoon/dsh-pi-tui",
+  "kind": "plugin",
+  "name": "dsh-pi-tui",
+  "description": "A third-party TUI mode for DeepSeek Harness (dsh), built on a vendored fork of pi-tui",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "XMoon/dsh-pi-tui",
+  "repositoryUrl": "https://github.com/XMoon/dsh-pi-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1064
+}
