@@ -1,0 +1,20 @@
+{
+  "id": "github:wanshichenguang/dsh-tool-vision",
+  "kind": "plugin",
+  "name": "dsh-tool-vision",
+  "description": "DSH plugin: image_describe (识图) tool over the DashScope OpenAI-compatible vision API (qwen3.7-flash). Bring your own DASHSCOPE_API_KEY.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wanshichenguang/dsh-tool-vision",
+  "repositoryUrl": "https://github.com/wanshichenguang/dsh-tool-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 781
+}
