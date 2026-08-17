@@ -1,0 +1,20 @@
+{
+  "id": "github:Loner1024/deepseek-harness-sdk-rs",
+  "kind": "plugin",
+  "name": "deepseek-harness-sdk-rs",
+  "description": "Rust SDK for DeepSeek Harness: drive the harness JSON-RPC runtime as a subprocess",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Loner1024/deepseek-harness-sdk-rs",
+  "repositoryUrl": "https://github.com/Loner1024/deepseek-harness-sdk-rs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 963
+}
