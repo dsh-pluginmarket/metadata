@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaozhe7772222/dsh-api-key-pool",
+  "kind": "plugin",
+  "name": "dsh-api-key-pool",
+  "description": "API Key rotation pool for DeepSeek Harness: multi-key round-robin, failover on 401/403/429, cooldown & recovery, Web UI management panel",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaozhe7772222/dsh-api-key-pool",
+  "repositoryUrl": "https://github.com/xiaozhe7772222/dsh-api-key-pool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1008
+}
