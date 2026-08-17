@@ -1,0 +1,20 @@
+{
+  "id": "github:JonyChan8394/dsh-llm-balance",
+  "kind": "plugin",
+  "name": "dsh-llm-balance",
+  "description": "Show LLM API balances under the chat input: DeepSeek, OpenRouter, SiliconFlow and any custom provider with a balance endpoint. DSH plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JonyChan8394/dsh-llm-balance",
+  "repositoryUrl": "https://github.com/JonyChan8394/dsh-llm-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 718
+}
