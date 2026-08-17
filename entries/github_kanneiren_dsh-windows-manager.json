@@ -1,0 +1,20 @@
+{
+  "id": "github:kanneiren/dsh-windows-manager",
+  "kind": "plugin",
+  "name": "dsh-windows-manager",
+  "description": "Lightweight DeepSeek Harness manager for Windows | 轻量级 DeepSeek Harness Windows 托盘管理器 | tray",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kanneiren/dsh-windows-manager",
+  "repositoryUrl": "https://github.com/kanneiren/dsh-windows-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 850
+}
