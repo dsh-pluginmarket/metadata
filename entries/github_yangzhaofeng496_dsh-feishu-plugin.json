@@ -1,0 +1,20 @@
+{
+  "id": "github:yangzhaofeng496/dsh-feishu-plugin",
+  "kind": "plugin",
+  "name": "dsh-feishu-plugin",
+  "description": "Feishu bot bridge plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yangzhaofeng496/dsh-feishu-plugin",
+  "repositoryUrl": "https://github.com/yangzhaofeng496/dsh-feishu-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 934
+}
