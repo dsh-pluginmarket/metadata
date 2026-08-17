@@ -1,0 +1,20 @@
+{
+  "id": "github:kirkchinese/claude2dsh",
+  "kind": "plugin",
+  "name": "claude2dsh",
+  "description": "Related DeepSeek Harness project: kirkchinese/claude2dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kirkchinese/claude2dsh",
+  "repositoryUrl": "https://github.com/kirkchinese/claude2dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 811
+}
