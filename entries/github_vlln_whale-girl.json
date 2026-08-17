@@ -1,0 +1,20 @@
+{
+  "id": "github:vlln/whale-girl",
+  "kind": "plugin",
+  "name": "whale-girl",
+  "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vlln/whale-girl",
+  "repositoryUrl": "https://github.com/vlln/whale-girl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 760
+}
