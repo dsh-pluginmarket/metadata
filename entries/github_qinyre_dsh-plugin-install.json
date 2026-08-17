@@ -1,0 +1,20 @@
+{
+  "id": "github:qinyre/dsh-plugin-install",
+  "kind": "plugin",
+  "name": "dsh-plugin-install",
+  "description": "给 dsh 设置页加「安装」标签页，按包名安装任意第三方插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qinyre/dsh-plugin-install",
+  "repositoryUrl": "https://github.com/qinyre/dsh-plugin-install",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 627
+}
