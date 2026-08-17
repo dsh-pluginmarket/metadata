@@ -1,0 +1,20 @@
+{
+  "id": "github:PeanutsDou/peanut-dsh-plugin",
+  "kind": "plugin",
+  "name": "peanut-dsh-plugin",
+  "description": "PeanutsDou 的 DeepSeek Harness 插件合集：dsh-launcher 桌面壳等个人维护插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PeanutsDou/peanut-dsh-plugin",
+  "repositoryUrl": "https://github.com/PeanutsDou/peanut-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 640
+}
