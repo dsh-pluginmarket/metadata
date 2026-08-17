@@ -1,0 +1,20 @@
+{
+  "id": "github:DietCokewithSugar/dsh-user-experience",
+  "kind": "plugin",
+  "name": "dsh-user-experience",
+  "description": "Persona-driven UX walkthrough plugin for DeepSeek Harness (DSH) - scans React + TypeScript source code for UX issues, pinpoints them, and suggests fixes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DietCokewithSugar/dsh-user-experience",
+  "repositoryUrl": "https://github.com/DietCokewithSugar/dsh-user-experience",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 866
+}
