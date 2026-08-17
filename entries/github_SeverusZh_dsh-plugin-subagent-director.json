@@ -1,0 +1,20 @@
+{
+  "id": "github:SeverusZh/dsh-plugin-subagent-director",
+  "kind": "plugin",
+  "name": "dsh-plugin-subagent-director",
+  "description": "Subagent Director: per-subagent LLM provider/model selection with role templates for DeepSeek Harness (dsh plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SeverusZh/dsh-plugin-subagent-director",
+  "repositoryUrl": "https://github.com/SeverusZh/dsh-plugin-subagent-director",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 812
+}
