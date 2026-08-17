@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepEP",
+  "kind": "plugin",
+  "name": "DeepEP",
+  "description": "DeepEP: an efficient expert-parallel communication library",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepEP",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepEP",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1116
+}
