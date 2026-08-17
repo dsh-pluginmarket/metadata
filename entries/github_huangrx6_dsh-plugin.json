@@ -1,0 +1,20 @@
+{
+  "id": "github:huangrx6/dsh-plugin",
+  "kind": "plugin",
+  "name": "dsh-plugin",
+  "description": "DeepSeek Harness (DSH) 插件合集：Skill 管理（导入/详情/多格式文件预览）、MCP 服务器管理（补丁层读写/测试连接/工具明细）、布局设置",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huangrx6/dsh-plugin",
+  "repositoryUrl": "https://github.com/huangrx6/dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 827
+}
