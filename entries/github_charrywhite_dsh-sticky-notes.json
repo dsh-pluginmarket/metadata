@@ -1,0 +1,20 @@
+{
+  "id": "github:charrywhite/dsh-sticky-notes",
+  "kind": "plugin",
+  "name": "dsh-sticky-notes",
+  "description": "Sticky notes for DeepSeek Harness: draggable notes with text & image support, 9 skins, and AI-powered read/write. DeepSeek Harness 便签插件:可拖拽,支持文字与图片、9 款皮肤,AI 可读写。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "charrywhite/dsh-sticky-notes",
+  "repositoryUrl": "https://github.com/charrywhite/dsh-sticky-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1065
+}
