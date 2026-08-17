@@ -1,0 +1,20 @@
+{
+  "id": "github:zhongjie10086/dsh-adaptive-native-standard",
+  "kind": "plugin",
+  "name": "dsh-adaptive-native-standard",
+  "description": "Windows-native Adaptive Standard preset for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhongjie10086/dsh-adaptive-native-standard",
+  "repositoryUrl": "https://github.com/zhongjie10086/dsh-adaptive-native-standard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1045
+}
