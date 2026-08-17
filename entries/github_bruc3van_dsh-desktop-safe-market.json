@@ -1,0 +1,20 @@
+{
+  "id": "github:bruc3van/dsh-desktop-safe-market",
+  "kind": "plugin",
+  "name": "dsh-desktop-safe-market",
+  "description": "唯一主打安全，提倡先审查再安装的 DSH 市场 (review-before-install DSH marketplace)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bruc3van/dsh-desktop-safe-market",
+  "repositoryUrl": "https://github.com/bruc3van/dsh-desktop-safe-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 875
+}
