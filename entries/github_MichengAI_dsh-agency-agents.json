@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-agency-agents",
+  "kind": "plugin",
+  "name": "dsh-agency-agents",
+  "description": "DSH agency agents 基于 DeepSeek Harness 的全行业智能体",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-agency-agents",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-agency-agents",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 881
+}
