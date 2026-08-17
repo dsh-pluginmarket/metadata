@@ -1,0 +1,20 @@
+{
+  "id": "github:MuYu-Zh/dsh-open-browser",
+  "kind": "plugin",
+  "name": "dsh-open-browser",
+  "description": "源码启动自动唤醒web ui",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MuYu-Zh/dsh-open-browser",
+  "repositoryUrl": "https://github.com/MuYu-Zh/dsh-open-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1071
+}
