@@ -1,0 +1,20 @@
+{
+  "id": "github:Yidien/dsh-capture-window",
+  "kind": "plugin",
+  "name": "dsh-capture-window",
+  "description": "DeepSeek Harness 旁路捕获插件：随手丢想法进独立的安静新会话，不打断主线上下文。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yidien/dsh-capture-window",
+  "repositoryUrl": "https://github.com/Yidien/dsh-capture-window",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 924
+}
