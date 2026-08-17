@@ -1,0 +1,20 @@
+{
+  "id": "github:hialuoy/deepseek-harness-desktop",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop",
+  "description": "DeepSeek Harness 的官方桌面应用——以原生 WebView 加载 DeepSeek Harness 工作台,轻量、低内存、无需技术背景即可安装使用。  The official desktop app for DeepSeek Harness — a lightweight native shell that runs the DeepSeek Harness workspace in your system's built-in WebView. Small, fast, and installs without any technical setup.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hialuoy/deepseek-harness-desktop",
+  "repositoryUrl": "https://github.com/hialuoy/deepseek-harness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 712
+}
