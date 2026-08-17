@@ -1,0 +1,20 @@
+{
+  "id": "github:FlashingChen/dsh-desktop-hub",
+  "kind": "plugin",
+  "name": "dsh-desktop-hub",
+  "description": "DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FlashingChen/dsh-desktop-hub",
+  "repositoryUrl": "https://github.com/FlashingChen/dsh-desktop-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1090
+}
