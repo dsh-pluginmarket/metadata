@@ -1,0 +1,20 @@
+{
+  "id": "github:duhu2000/qcc-mcp-oauth",
+  "kind": "plugin",
+  "name": "qcc-mcp-oauth",
+  "description": "DeepSeek Harness 插件：一键 OAuth 授权连接企查查（Qichacha）MCP 服务 / One-click OAuth connect to Qichacha MCP services for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duhu2000/qcc-mcp-oauth",
+  "repositoryUrl": "https://github.com/duhu2000/qcc-mcp-oauth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 686
+}
