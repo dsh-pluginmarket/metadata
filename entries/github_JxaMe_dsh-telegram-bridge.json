@@ -1,0 +1,20 @@
+{
+  "id": "github:JxaMe/dsh-telegram-bridge",
+  "kind": "plugin",
+  "name": "dsh-telegram-bridge",
+  "description": "Related DeepSeek Harness project: JxaMe/dsh-telegram-bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JxaMe/dsh-telegram-bridge",
+  "repositoryUrl": "https://github.com/JxaMe/dsh-telegram-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1069
+}
