@@ -1,0 +1,20 @@
+{
+  "id": "github:kaixinbaba/dsh-complete-notify",
+  "kind": "plugin",
+  "name": "dsh-complete-notify",
+  "description": "任务完成时播放提示音并弹出小通知（页面内 toast + 后台时系统通知）。纯浏览器方案，零系统依赖，跨 Windows/macOS/Linux。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kaixinbaba/dsh-complete-notify",
+  "repositoryUrl": "https://github.com/kaixinbaba/dsh-complete-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 988
+}
