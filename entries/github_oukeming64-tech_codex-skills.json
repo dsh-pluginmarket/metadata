@@ -1,0 +1,20 @@
+{
+  "id": "github:oukeming64-tech/codex-skills",
+  "kind": "plugin",
+  "name": "codex-skills",
+  "description": "Evidence-first agent skills for handoff auditing and documentation sync, packaged for Codex and DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oukeming64-tech/codex-skills",
+  "repositoryUrl": "https://github.com/oukeming64-tech/codex-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 985
+}
