@@ -1,0 +1,20 @@
+{
+  "id": "github:xgone/dsh-remote",
+  "kind": "plugin",
+  "name": "dsh-remote",
+  "description": "Remote access for DeepSeek Harness: account/password auth + MFA (TOTP) login gate, signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xgone/dsh-remote",
+  "repositoryUrl": "https://github.com/xgone/dsh-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 745
+}
