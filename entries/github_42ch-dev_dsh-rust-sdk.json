@@ -1,0 +1,20 @@
+{
+  "id": "github:42ch-dev/dsh-rust-sdk",
+  "kind": "plugin",
+  "name": "dsh-rust-sdk",
+  "description": "Rust SDK for DSH(Deepseek Harness)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "42ch-dev/dsh-rust-sdk",
+  "repositoryUrl": "https://github.com/42ch-dev/dsh-rust-sdk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 608
+}
