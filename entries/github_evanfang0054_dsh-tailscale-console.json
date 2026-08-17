@@ -1,0 +1,20 @@
+{
+  "id": "github:evanfang0054/dsh-tailscale-console",
+  "kind": "plugin",
+  "name": "dsh-tailscale-console",
+  "description": "为 DeepSeek Harness 提供基于 Tailscale 的安全远程访问运营面板：一键健康检查、HTTPS 入口开关、macOS 代理绕过、中继服务器运维、ACL 生成。Tailscale remote-access control panel for DeepSeek Harness: health checks, HTTPS serve toggle, proxy bypass, relay ops, ACL helper.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "evanfang0054/dsh-tailscale-console",
+  "repositoryUrl": "https://github.com/evanfang0054/dsh-tailscale-console",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 919
+}
