@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/awesome-deepseek-agent",
+  "kind": "plugin",
+  "name": "awesome-deepseek-agent",
+  "description": "Related DeepSeek Harness project: deepseek-ai/awesome-deepseek-agent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/awesome-deepseek-agent",
+  "repositoryUrl": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1121
+}
