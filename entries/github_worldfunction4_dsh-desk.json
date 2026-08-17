@@ -1,0 +1,20 @@
+{
+  "id": "github:worldfunction4/dsh-desk",
+  "kind": "plugin",
+  "name": "dsh-desk",
+  "description": "Minimal Qt desktop shell for DeepSeek Harness (dsh): wraps the local dsh web UI into a native Windows desktop window.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "worldfunction4/dsh-desk",
+  "repositoryUrl": "https://github.com/worldfunction4/dsh-desk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1047
+}
