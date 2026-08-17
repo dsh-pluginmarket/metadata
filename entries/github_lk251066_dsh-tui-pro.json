@@ -1,0 +1,20 @@
+{
+  "id": "github:lk251066/dsh-tui-pro",
+  "kind": "plugin",
+  "name": "dsh-tui-pro",
+  "description": "Fixed framed terminal workbench plugin for DeepSeek Harness with transcript-only scrolling and persistent sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lk251066/dsh-tui-pro",
+  "repositoryUrl": "https://github.com/lk251066/dsh-tui-pro",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1044
+}
