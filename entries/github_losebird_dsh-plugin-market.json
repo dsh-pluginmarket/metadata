@@ -1,0 +1,20 @@
+{
+  "id": "github:losebird/dsh-plugin-market",
+  "kind": "plugin",
+  "name": "dsh-plugin-market",
+  "description": "DeepSeek Harness plugins market｜DSH 插件市场",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "losebird/dsh-plugin-market",
+  "repositoryUrl": "https://github.com/losebird/dsh-plugin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 666
+}
