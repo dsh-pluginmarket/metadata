@@ -1,0 +1,20 @@
+{
+  "id": "github:Onenightcarnival/deepseek-harness-desktop",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop",
+  "description": "DeepSeek Harness（dsh）的 桌面安装包：Windows exe 和 macOS dmg。本仓库只包含打包用的 Electron 壳和 CI 配置，不包含上游源码——构建时直接安装 npm 发布版 @deepseek-ai/dsh。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Onenightcarnival/deepseek-harness-desktop",
+  "repositoryUrl": "https://github.com/Onenightcarnival/deepseek-harness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 930
+}
