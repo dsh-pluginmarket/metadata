@@ -1,0 +1,20 @@
+{
+  "id": "github:edison7009/EchoBird",
+  "kind": "plugin",
+  "name": "EchoBird",
+  "description": "One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "edison7009/EchoBird",
+  "repositoryUrl": "https://github.com/edison7009/EchoBird",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1002
+}
