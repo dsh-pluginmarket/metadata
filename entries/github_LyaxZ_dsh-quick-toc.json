@@ -1,0 +1,20 @@
+{
+  "id": "github:LyaxZ/dsh-quick-toc",
+  "kind": "plugin",
+  "name": "dsh-quick-toc",
+  "description": "DeepSeek Harness 对话大纲插件：按回合分组的 Markdown 标题目录，自动跟随高亮，平滑跳转导航。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LyaxZ/dsh-quick-toc",
+  "repositoryUrl": "https://github.com/LyaxZ/dsh-quick-toc",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 759
+}
