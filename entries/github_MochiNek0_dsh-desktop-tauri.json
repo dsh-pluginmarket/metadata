@@ -1,0 +1,20 @@
+{
+  "id": "github:MochiNek0/dsh-desktop-tauri",
+  "kind": "plugin",
+  "name": "dsh-desktop-tauri",
+  "description": "Cross-platform desktop client for DeepSeek Harness (dsh web), built with Tauri — the CLI's web UI in a native window, sharing the same session data.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MochiNek0/dsh-desktop-tauri",
+  "repositoryUrl": "https://github.com/MochiNek0/dsh-desktop-tauri",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 764
+}
