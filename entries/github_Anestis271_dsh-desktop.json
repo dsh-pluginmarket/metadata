@@ -1,0 +1,20 @@
+{
+  "id": "github:Anestis271/dsh-desktop",
+  "kind": "plugin",
+  "name": "dsh-desktop",
+  "description": "Turn the official DeepSeek Harness WebUI into a natural desktop experience.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Anestis271/dsh-desktop",
+  "repositoryUrl": "https://github.com/Anestis271/dsh-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 900
+}
