@@ -1,0 +1,20 @@
+{
+  "id": "github:siegfly/dsh-deepseek-vision",
+  "kind": "plugin",
+  "name": "dsh-deepseek-vision",
+  "description": "Vision-language gateway plugin for DeepSeek Harness - paste an image, DeepSeek sees text",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "siegfly/dsh-deepseek-vision",
+  "repositoryUrl": "https://github.com/siegfly/dsh-deepseek-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 999
+}
