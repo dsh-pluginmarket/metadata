@@ -1,0 +1,20 @@
+{
+  "id": "github:wssfk12138/dsh-damage-pulse",
+  "kind": "plugin",
+  "name": "dsh-damage-pulse",
+  "description": "DeepSeek Harness token balance monitor with game-style damage pulse animations",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wssfk12138/dsh-damage-pulse",
+  "repositoryUrl": "https://github.com/wssfk12138/dsh-damage-pulse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 845
+}
