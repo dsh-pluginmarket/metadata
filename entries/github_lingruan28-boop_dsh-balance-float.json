@@ -1,0 +1,20 @@
+{
+  "id": "github:lingruan28-boop/dsh-balance-float",
+  "kind": "plugin",
+  "name": "dsh-balance-float",
+  "description": "DeepSeek API 余额悬浮窗：打开 Harness 即显示，可拖动缩放，放大查看官方用量 | A floating DeepSeek balance & usage widget for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lingruan28-boop/dsh-balance-float",
+  "repositoryUrl": "https://github.com/lingruan28-boop/dsh-balance-float",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 805
+}
