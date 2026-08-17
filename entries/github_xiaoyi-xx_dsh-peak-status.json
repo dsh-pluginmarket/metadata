@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoyi-xx/dsh-peak-status",
+  "kind": "plugin",
+  "name": "dsh-peak-status",
+  "description": "DeepSeek Harness Web GUI 的高峰时段指示灯。在会话头部右上角（原生 conversation.session.header.utilities 工具位）显示一个融入界面的小胶囊，实时告诉你当前北京时间是否处于 DeepSeek API 的高峰时段，带秒级时钟、下一转折倒计时和价格提示。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoyi-xx/dsh-peak-status",
+  "repositoryUrl": "https://github.com/xiaoyi-xx/dsh-peak-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1095
+}
