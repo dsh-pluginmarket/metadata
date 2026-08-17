@@ -1,0 +1,20 @@
+{
+  "id": "github:AtropinolTT/dsh-guide-dog",
+  "kind": "plugin",
+  "name": "dsh-guide-dog",
+  "description": "Guide Dog for DSH — MiniMax multimodal plugin: image/video/music/speech generation & vision tools, hard-metric voice mode (host event-driven auto TTS, session-safe playback), voice input (mic → faster-whisper → composer), recorder page, two-layer settings.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AtropinolTT/dsh-guide-dog",
+  "repositoryUrl": "https://github.com/AtropinolTT/dsh-guide-dog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 940
+}
