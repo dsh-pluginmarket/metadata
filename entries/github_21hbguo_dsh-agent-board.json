@@ -1,0 +1,20 @@
+{
+  "id": "github:21hbguo/dsh-agent-board",
+  "kind": "plugin",
+  "name": "dsh-agent-board",
+  "description": "DSH (DeepSeek Harness) Agent 实时看板：主 agent 与子代理树形层级监控 + 停滞自动告警 + SSE 实时推送，点击直达会话",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "21hbguo/dsh-agent-board",
+  "repositoryUrl": "https://github.com/21hbguo/dsh-agent-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1029
+}
