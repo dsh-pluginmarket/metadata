@@ -1,0 +1,20 @@
+{
+  "id": "github:H97y/dsh-devflow",
+  "kind": "plugin",
+  "name": "dsh-devflow",
+  "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool → LLM refine/design/plan/review → workspace-routed implementation → verify → merge → report",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "H97y/dsh-devflow",
+  "repositoryUrl": "https://github.com/H97y/dsh-devflow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 865
+}
