@@ -1,0 +1,20 @@
+{
+  "id": "github:keepview/dsh-lark",
+  "kind": "plugin",
+  "name": "dsh-lark",
+  "description": "Minimal Lark/Feishu gateway plugin for DeepSeek Harness (dsh) — chat with your agent from Feishu, one topic = one session. 极简 DeepSeek Harness 飞书网关插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "keepview/dsh-lark",
+  "repositoryUrl": "https://github.com/keepview/dsh-lark",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 708
+}
