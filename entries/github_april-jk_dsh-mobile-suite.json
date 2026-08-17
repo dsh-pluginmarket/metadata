@@ -1,0 +1,20 @@
+{
+  "id": "github:april-jk/dsh-mobile-suite",
+  "kind": "plugin",
+  "name": "dsh-mobile-suite",
+  "description": "Remote DeepSeek Harness from a paired mobile device through an outbound-only Relay",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "april-jk/dsh-mobile-suite",
+  "repositoryUrl": "https://github.com/april-jk/dsh-mobile-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1088
+}
