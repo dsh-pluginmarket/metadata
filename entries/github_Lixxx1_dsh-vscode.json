@@ -1,0 +1,20 @@
+{
+  "id": "github:Lixxx1/dsh-vscode",
+  "kind": "plugin",
+  "name": "dsh-vscode",
+  "description": "A Claude Code/Codex-style VS Code sidebar for DeepSeek Harness. 像 Claude Code 、Codex 一样，在 VS Code 侧边栏中使用 DeepSeek Harness。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lixxx1/dsh-vscode",
+  "repositoryUrl": "https://github.com/Lixxx1/dsh-vscode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 941
+}
