@@ -1,0 +1,20 @@
+{
+  "id": "github:drscrewdriver/dsh-seatbelt-sandbox",
+  "kind": "plugin",
+  "name": "dsh-seatbelt-sandbox",
+  "description": "dsh-seatbelt 方面沙箱增强尝试使用非exec工具直接对接系统seatbelt相关api",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drscrewdriver/dsh-seatbelt-sandbox",
+  "repositoryUrl": "https://github.com/drscrewdriver/dsh-seatbelt-sandbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 840
+}
