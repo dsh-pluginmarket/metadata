@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaozhiaixue/dsh-archive-panel",
+  "kind": "plugin",
+  "name": "dsh-archive-panel",
+  "description": "View and unarchive archived sessions in DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaozhiaixue/dsh-archive-panel",
+  "repositoryUrl": "https://github.com/xiaozhiaixue/dsh-archive-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 765
+}
