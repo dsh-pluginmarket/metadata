@@ -1,0 +1,20 @@
+{
+  "id": "github:TwistedRiCen/dsh-vision-bridge",
+  "kind": "plugin",
+  "name": "dsh-vision-bridge",
+  "description": "DSH-native Vision Evidence bridge for text-only reasoning models with native image attachments and strict multi-image validation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TwistedRiCen/dsh-vision-bridge",
+  "repositoryUrl": "https://github.com/TwistedRiCen/dsh-vision-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 904
+}
