@@ -1,0 +1,20 @@
+{
+  "id": "github:aust24lzy/dsh-plugin-hub",
+  "kind": "plugin",
+  "name": "dsh-plugin-hub",
+  "description": "DeepSeek Harness (DSH) 开源插件导航站 —— 实时同步 dsh-plugin 生态，按 Stars 动态排行",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aust24lzy/dsh-plugin-hub",
+  "repositoryUrl": "https://github.com/aust24lzy/dsh-plugin-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 915
+}
