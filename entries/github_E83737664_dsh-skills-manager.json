@@ -1,0 +1,20 @@
+{
+  "id": "github:E83737664/dsh-skills-manager",
+  "kind": "plugin",
+  "name": "dsh-skills-manager",
+  "description": "Related DeepSeek Harness project: E83737664/dsh-skills-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "E83737664/dsh-skills-manager",
+  "repositoryUrl": "https://github.com/E83737664/dsh-skills-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 995
+}
