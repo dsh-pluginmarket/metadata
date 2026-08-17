@@ -1,0 +1,20 @@
+{
+  "id": "github:u9521/dsh-subagent-custom-model",
+  "kind": "plugin",
+  "name": "dsh-subagent-custom-model",
+  "description": "Subagent custom model configuration plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "u9521/dsh-subagent-custom-model",
+  "repositoryUrl": "https://github.com/u9521/dsh-subagent-custom-model",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 677
+}
