@@ -1,0 +1,20 @@
+{
+  "id": "github:wwumit/skills-tools",
+  "kind": "plugin",
+  "name": "skills-tools",
+  "description": "通用工具技能（Excel/CSV/PPT/健身等）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wwumit/skills-tools",
+  "repositoryUrl": "https://github.com/wwumit/skills-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 887
+}
