@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaobright/dsh-anchored-standard",
+  "kind": "plugin",
+  "name": "dsh-anchored-standard",
+  "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaobright/dsh-anchored-standard",
+  "repositoryUrl": "https://github.com/xiaobright/dsh-anchored-standard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1105
+}
