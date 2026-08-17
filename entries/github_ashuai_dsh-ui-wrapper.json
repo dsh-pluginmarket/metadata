@@ -1,0 +1,20 @@
+{
+  "id": "github:ashuai/dsh-ui-wrapper",
+  "kind": "plugin",
+  "name": "dsh-ui-wrapper",
+  "description": "DSH — Minimal Shell for the dsh Web UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ashuai/dsh-ui-wrapper",
+  "repositoryUrl": "https://github.com/ashuai/dsh-ui-wrapper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 952
+}
