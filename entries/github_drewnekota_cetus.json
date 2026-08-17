@@ -1,0 +1,20 @@
+{
+  "id": "github:drewnekota/cetus",
+  "kind": "plugin",
+  "name": "cetus",
+  "description": "One macOS app for Claude Code, Codex, and every agent runtime you use — scheduled runs, global hotkey launcher, per-run git worktrees, one review board.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drewnekota/cetus",
+  "repositoryUrl": "https://github.com/drewnekota/cetus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 830
+}
