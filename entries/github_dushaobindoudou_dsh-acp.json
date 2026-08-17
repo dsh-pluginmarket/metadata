@@ -1,0 +1,20 @@
+{
+  "id": "github:dushaobindoudou/dsh-acp",
+  "kind": "plugin",
+  "name": "dsh-acp",
+  "description": "Agent Client Protocol (ACP) server plugin for the DeepSeek Harness (dsh) - drive dsh agents from Zed and any ACP v1 client",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dushaobindoudou/dsh-acp",
+  "repositoryUrl": "https://github.com/dushaobindoudou/dsh-acp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 642
+}
