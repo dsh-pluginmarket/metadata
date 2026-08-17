@@ -1,0 +1,20 @@
+{
+  "id": "github:reddapidev/dsh-reddit-radar",
+  "kind": "plugin",
+  "name": "dsh-reddit-radar",
+  "description": "A dsh plugin that periodically scans reddapi.dev for new Reddit leads matching your one-sentence ICP, dedupes what you've already seen, and writes a dated markdown report. Also forwards 6 read-only Reddit search/lookup MCP tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "reddapidev/dsh-reddit-radar",
+  "repositoryUrl": "https://github.com/reddapidev/dsh-reddit-radar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1027
+}
