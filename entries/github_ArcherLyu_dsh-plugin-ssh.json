@@ -1,0 +1,20 @@
+{
+  "id": "github:ArcherLyu/dsh-plugin-ssh",
+  "kind": "plugin",
+  "name": "dsh-plugin-ssh",
+  "description": "Related DeepSeek Harness project: ArcherLyu/dsh-plugin-ssh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ArcherLyu/dsh-plugin-ssh",
+  "repositoryUrl": "https://github.com/ArcherLyu/dsh-plugin-ssh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 804
+}
