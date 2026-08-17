@@ -1,0 +1,20 @@
+{
+  "id": "github:Temoa/dsh-sessions-rm",
+  "kind": "plugin",
+  "name": "dsh-sessions-rm",
+  "description": "Session management for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Temoa/dsh-sessions-rm",
+  "repositoryUrl": "https://github.com/Temoa/dsh-sessions-rm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 646
+}
