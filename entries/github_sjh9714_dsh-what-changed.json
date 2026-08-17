@@ -1,0 +1,20 @@
+{
+  "id": "github:sjh9714/dsh-what-changed",
+  "kind": "plugin",
+  "name": "dsh-what-changed",
+  "description": "看得见 Agent 到底改了什么。一个会话里所有文件改动，一屏看完再决定要不要提交 | See what the agent actually changed. Every file it wrote this session, in one review panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sjh9714/dsh-what-changed",
+  "repositoryUrl": "https://github.com/sjh9714/dsh-what-changed",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 714
+}
