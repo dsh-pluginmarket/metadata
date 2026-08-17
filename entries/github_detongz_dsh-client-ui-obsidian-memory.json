@@ -1,0 +1,20 @@
+{
+  "id": "github:detongz/dsh-client-ui-obsidian-memory",
+  "kind": "plugin",
+  "name": "dsh-client-ui-obsidian-memory",
+  "description": "deepseek harness plugin obsidian memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "detongz/dsh-client-ui-obsidian-memory",
+  "repositoryUrl": "https://github.com/detongz/dsh-client-ui-obsidian-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 689
+}
