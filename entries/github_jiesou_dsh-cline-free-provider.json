@@ -1,0 +1,20 @@
+{
+  "id": "github:jiesou/dsh-cline-free-provider",
+  "kind": "plugin",
+  "name": "dsh-cline-free-provider",
+  "description": "Cline 免费模型接入 DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jiesou/dsh-cline-free-provider",
+  "repositoryUrl": "https://github.com/jiesou/dsh-cline-free-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 809
+}
