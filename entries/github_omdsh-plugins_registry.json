@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-plugins/registry",
+  "kind": "plugin",
+  "name": "registry",
+  "description": "A generated manifest of every plugin in the omdsh collection, so omdsh-plughub can offer them without enumerating a GitHub account one request at a time.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-plugins/registry",
+  "repositoryUrl": "https://github.com/omdsh-plugins/registry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1024
+}
