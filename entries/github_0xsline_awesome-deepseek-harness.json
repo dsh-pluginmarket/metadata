@@ -1,0 +1,20 @@
+{
+  "id": "github:0xsline/awesome-deepseek-harness",
+  "kind": "plugin",
+  "name": "awesome-deepseek-harness",
+  "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "0xsline/awesome-deepseek-harness",
+  "repositoryUrl": "https://github.com/0xsline/awesome-deepseek-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1049
+}
