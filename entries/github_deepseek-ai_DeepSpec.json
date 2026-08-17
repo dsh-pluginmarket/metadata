@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSpec",
+  "kind": "plugin",
+  "name": "DeepSpec",
+  "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSpec",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSpec",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1118
+}
