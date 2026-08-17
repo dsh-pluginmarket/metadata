@@ -1,0 +1,20 @@
+{
+  "id": "github:AuraxM/dsh-plugin-confirm-check",
+  "kind": "plugin",
+  "name": "dsh-plugin-confirm-check",
+  "description": "Related DeepSeek Harness project: AuraxM/dsh-plugin-confirm-check",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AuraxM/dsh-plugin-confirm-check",
+  "repositoryUrl": "https://github.com/AuraxM/dsh-plugin-confirm-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 826
+}
