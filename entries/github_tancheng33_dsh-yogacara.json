@@ -1,0 +1,20 @@
+{
+  "id": "github:tancheng33/dsh-yogacara",
+  "kind": "plugin",
+  "name": "dsh-yogacara",
+  "description": "A Yogācāra (唯识) self-model plugin for DeepSeek Harness: eight consciousnesses, the 51 mental factors, a perfumed seed store, and a measurable self — written back into the agent's own prompt.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tancheng33/dsh-yogacara",
+  "repositoryUrl": "https://github.com/tancheng33/dsh-yogacara",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 699
+}
