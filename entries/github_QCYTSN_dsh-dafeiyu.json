@@ -1,0 +1,20 @@
+{
+  "id": "github:QCYTSN/dsh-dafeiyu",
+  "kind": "plugin",
+  "name": "dsh-dafeiyu",
+  "description": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QCYTSN/dsh-dafeiyu",
+  "repositoryUrl": "https://github.com/QCYTSN/dsh-dafeiyu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 867
+}
