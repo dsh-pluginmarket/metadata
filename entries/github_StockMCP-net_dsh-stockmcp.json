@@ -1,0 +1,20 @@
+{
+  "id": "github:StockMCP-net/dsh-stockmcp",
+  "kind": "plugin",
+  "name": "dsh-stockmcp",
+  "description": "A DSH plugin for obtaining various US stock and macroeconomic data.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "StockMCP-net/dsh-stockmcp",
+  "repositoryUrl": "https://github.com/StockMCP-net/dsh-stockmcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 801
+}
