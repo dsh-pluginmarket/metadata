@@ -1,0 +1,20 @@
+{
+  "id": "github:daetz-coder/dsh-multi-chat",
+  "kind": "plugin",
+  "name": "dsh-multi-chat",
+  "description": "Multi-window wall for DeepSeek Harness: run & monitor N DSH conversations side-by-side in one screen, plus an authenticated LAN gateway for phone/tablet access. npx dsh-multi-chat install",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daetz-coder/dsh-multi-chat",
+  "repositoryUrl": "https://github.com/daetz-coder/dsh-multi-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 976
+}
