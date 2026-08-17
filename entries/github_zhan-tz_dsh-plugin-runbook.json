@@ -1,0 +1,20 @@
+{
+  "id": "github:zhan-tz/dsh-plugin-runbook",
+  "kind": "plugin",
+  "name": "dsh-plugin-runbook",
+  "description": "DSH 插件：Jupyter 式活体运行本——回合可回放的数据流 DAG，含 git 提交出处节点、子 agent 交接边、持久账本、悬停重跑与 LLM 解释",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhan-tz/dsh-plugin-runbook",
+  "repositoryUrl": "https://github.com/zhan-tz/dsh-plugin-runbook",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1066
+}
