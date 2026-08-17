@@ -1,0 +1,20 @@
+{
+  "id": "github:Mr-remon219/dsh-search-boost",
+  "kind": "plugin",
+  "name": "dsh-search-boost",
+  "description": "The plunge for dsh to boost model's search ability.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Mr-remon219/dsh-search-boost",
+  "repositoryUrl": "https://github.com/Mr-remon219/dsh-search-boost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 617
+}
