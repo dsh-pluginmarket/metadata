@@ -1,0 +1,20 @@
+{
+  "id": "github:Shiyao-Huang/awesome-deepseek-harness-plugin",
+  "kind": "plugin",
+  "name": "awesome-deepseek-harness-plugin",
+  "description": "Public DeepSeek Harness plugin Store and ecosystem dataset: install specs, source evidence, SQLite history, media, timelines, and two-hour refreshes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shiyao-Huang/awesome-deepseek-harness-plugin",
+  "repositoryUrl": "https://github.com/Shiyao-Huang/awesome-deepseek-harness-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 891
+}
