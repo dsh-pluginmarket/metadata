@@ -1,0 +1,20 @@
+{
+  "id": "github:kouyichi/dsh-tui-app",
+  "kind": "plugin",
+  "name": "dsh-tui-app",
+  "description": "DeepSeek Harness terminal UI plugin (Ink/React)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kouyichi/dsh-tui-app",
+  "repositoryUrl": "https://github.com/kouyichi/dsh-tui-app",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1111
+}
