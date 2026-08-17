@@ -1,0 +1,20 @@
+{
+  "id": "github:yangweigao/dsh-header-clock",
+  "kind": "plugin",
+  "name": "dsh-header-clock",
+  "description": "DeepSeek Harness 头部时钟插件：页面顶部动态显示 YYYY年MM月DD日 星期X HH:MM:SS",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yangweigao/dsh-header-clock",
+  "repositoryUrl": "https://github.com/yangweigao/dsh-header-clock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1086
+}
