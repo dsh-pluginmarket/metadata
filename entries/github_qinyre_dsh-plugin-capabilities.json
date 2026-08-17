@@ -1,0 +1,20 @@
+{
+  "id": "github:qinyre/dsh-plugin-capabilities",
+  "kind": "plugin",
+  "name": "dsh-plugin-capabilities",
+  "description": "在 dsh 设置页管理技能与 MCP 服务器，支持从 Claude Code、Codex 导入。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qinyre/dsh-plugin-capabilities",
+  "repositoryUrl": "https://github.com/qinyre/dsh-plugin-capabilities",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 623
+}
