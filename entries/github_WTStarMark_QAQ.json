@@ -1,0 +1,20 @@
+{
+  "id": "github:WTStarMark/QAQ",
+  "kind": "plugin",
+  "name": "QAQ",
+  "description": "QAQ: a launch resilience guard for DeepSeek Harness (DSH). Supervises dsh web, reads the real DOM via headless Chrome + CDP to catch host crashes and UI red-screens, and auto-rolls-back to the last known-good config. DSH 启动容灾守卫，检测宿主崩溃与 UI 红屏，自动回滚到最近一次成功配置。非侵入、一键懒人脚本、结构化日志。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WTStarMark/QAQ",
+  "repositoryUrl": "https://github.com/WTStarMark/QAQ",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1018
+}
