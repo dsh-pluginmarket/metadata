@@ -1,0 +1,20 @@
+{
+  "id": "github:welsione/dsh-mmx-bridge",
+  "kind": "plugin",
+  "name": "dsh-mmx-bridge",
+  "description": "MiniMax multimodal capability hub for DeepSeek Harness (DSH): image understanding (VLM), text/image-to-video, speech, music, audio cover, web search, quota — one mmx_multimodal model tool wrapping the mmx-cli.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "welsione/dsh-mmx-bridge",
+  "repositoryUrl": "https://github.com/welsione/dsh-mmx-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 756
+}
