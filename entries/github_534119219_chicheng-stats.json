@@ -1,0 +1,20 @@
+{
+  "id": "github:534119219/chicheng-stats",
+  "kind": "plugin",
+  "name": "chicheng-stats",
+  "description": "DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "534119219/chicheng-stats",
+  "repositoryUrl": "https://github.com/534119219/chicheng-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 918
+}
