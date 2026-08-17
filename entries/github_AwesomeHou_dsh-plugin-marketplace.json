@@ -1,0 +1,20 @@
+{
+  "id": "github:AwesomeHou/dsh-plugin-marketplace",
+  "kind": "plugin",
+  "name": "dsh-plugin-marketplace",
+  "description": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AwesomeHou/dsh-plugin-marketplace",
+  "repositoryUrl": "https://github.com/AwesomeHou/dsh-plugin-marketplace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1101
+}
