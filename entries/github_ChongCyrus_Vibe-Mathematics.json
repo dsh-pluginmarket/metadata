@@ -1,0 +1,20 @@
+{
+  "id": "github:ChongCyrus/Vibe-Mathematics",
+  "kind": "plugin",
+  "name": "Vibe-Mathematics",
+  "description": "Vibe Mathematics —— 多代理数学问题求解与形式化验证框架",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChongCyrus/Vibe-Mathematics",
+  "repositoryUrl": "https://github.com/ChongCyrus/Vibe-Mathematics",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1074
+}
