@@ -1,0 +1,20 @@
+{
+  "id": "github:seven282/oss-prompt-optimizer",
+  "kind": "plugin",
+  "name": "oss-prompt-optimizer",
+  "description": "用于优化 DeepSeek harness提示词优化器，提升 AI 输出质量",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "seven282/oss-prompt-optimizer",
+  "repositoryUrl": "https://github.com/seven282/oss-prompt-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1035
+}
