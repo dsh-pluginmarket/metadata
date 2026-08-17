@@ -1,0 +1,20 @@
+{
+  "id": "github:fengs2021/dsh-feishu-bridge",
+  "kind": "plugin",
+  "name": "dsh-feishu-bridge",
+  "description": "DSH 飞书机器人桥接插件：飞书消息进 DSH 会话，流式交互卡片实时回复（思维链/正文/工具链分区，打字机效果）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fengs2021/dsh-feishu-bridge",
+  "repositoryUrl": "https://github.com/fengs2021/dsh-feishu-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 920
+}
