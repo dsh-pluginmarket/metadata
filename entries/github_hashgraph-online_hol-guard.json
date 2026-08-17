@@ -1,0 +1,20 @@
+{
+  "id": "github:hashgraph-online/hol-guard",
+  "kind": "plugin",
+  "name": "hol-guard",
+  "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hashgraph-online/hol-guard",
+  "repositoryUrl": "https://github.com/hashgraph-online/hol-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 997
+}
