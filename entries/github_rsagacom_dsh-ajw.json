@@ -1,0 +1,20 @@
+{
+  "id": "github:rsagacom/dsh-ajw",
+  "kind": "plugin",
+  "name": "dsh-ajw",
+  "description": "DS安甲网 (ds.ajw.cn) · 为你的 DeepSeek Harness 机器人 安装上所需功能的装甲吧 — 每日聚合 DeepSeek Harness / DSH 插件生态开源项目",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rsagacom/dsh-ajw",
+  "repositoryUrl": "https://github.com/rsagacom/dsh-ajw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 862
+}
