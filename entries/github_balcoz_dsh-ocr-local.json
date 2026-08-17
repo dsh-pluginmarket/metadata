@@ -1,0 +1,20 @@
+{
+  "id": "github:balcoz/dsh-ocr-local",
+  "kind": "plugin",
+  "name": "dsh-ocr-local",
+  "description": "▎ Local OCR plugin for DeepSeek Harness — paste an image, get its text via PP-OCRv5 + ONNX Runtime, fully offline.   Supports TUI (cc-tui) and Web. ｜ DeepSeek Harness 本地 OCR 插件：粘贴图片，PP-OCRv5 + ONNX Runtime   识别文字，完全离线，支持 TUI 与 Web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "balcoz/dsh-ocr-local",
+  "repositoryUrl": "https://github.com/balcoz/dsh-ocr-local",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 851
+}
