@@ -1,0 +1,20 @@
+{
+  "id": "github:Nicotinamide/dsh-plugin-tg-bridge",
+  "kind": "plugin",
+  "name": "dsh-plugin-tg-bridge",
+  "description": "DSH (DeepSeek Harness) ↔️ Telegram bridge: message, approve, ask, switch sessions/models/modes, manage permissions from Telegram. Cordis profile plugin, bilingual.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Nicotinamide/dsh-plugin-tg-bridge",
+  "repositoryUrl": "https://github.com/Nicotinamide/dsh-plugin-tg-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 665
+}
