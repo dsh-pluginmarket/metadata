@@ -1,0 +1,20 @@
+{
+  "id": "github:xczhanjun/lazeword",
+  "kind": "plugin",
+  "name": "lazeword",
+  "description": "Related DeepSeek Harness project: xczhanjun/lazeword",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xczhanjun/lazeword",
+  "repositoryUrl": "https://github.com/xczhanjun/lazeword",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 600
+}
