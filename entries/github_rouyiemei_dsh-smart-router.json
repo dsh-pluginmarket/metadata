@@ -1,0 +1,20 @@
+{
+  "id": "github:rouyiemei/dsh-smart-router",
+  "kind": "plugin",
+  "name": "dsh-smart-router",
+  "description": "Automatic model routing for DeepSeek Harness: three difficulty tiers (hard/normal/easy) plus vision routing, picking models you already configured under Settings ? Models. ???? + ?????????",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rouyiemei/dsh-smart-router",
+  "repositoryUrl": "https://github.com/rouyiemei/dsh-smart-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 767
+}
