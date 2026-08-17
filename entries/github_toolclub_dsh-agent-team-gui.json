@@ -1,0 +1,20 @@
+{
+  "id": "github:toolclub/dsh-agent-team-gui",
+  "kind": "plugin",
+  "name": "dsh-agent-team-gui",
+  "description": "Persistent multi-model agent squads for DeepSeek Harness — reusable teams, per-agent model/tool policies, and ordinary-chat collaboration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "toolclub/dsh-agent-team-gui",
+  "repositoryUrl": "https://github.com/toolclub/dsh-agent-team-gui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 786
+}
