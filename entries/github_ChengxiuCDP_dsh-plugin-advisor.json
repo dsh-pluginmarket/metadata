@@ -1,0 +1,20 @@
+{
+  "id": "github:ChengxiuCDP/dsh-plugin-advisor",
+  "kind": "plugin",
+  "name": "dsh-plugin-advisor",
+  "description": "Related DeepSeek Harness project: ChengxiuCDP/dsh-plugin-advisor",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChengxiuCDP/dsh-plugin-advisor",
+  "repositoryUrl": "https://github.com/ChengxiuCDP/dsh-plugin-advisor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 697
+}
