@@ -1,0 +1,20 @@
+{
+  "id": "github:bradeGithub/DSH-Plugins-Marketplace",
+  "kind": "plugin",
+  "name": "DSH-Plugins-Marketplace",
+  "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bradeGithub/DSH-Plugins-Marketplace",
+  "repositoryUrl": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 800
+}
