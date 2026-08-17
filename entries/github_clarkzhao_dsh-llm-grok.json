@@ -1,0 +1,20 @@
+{
+  "id": "github:clarkzhao/dsh-llm-grok",
+  "kind": "plugin",
+  "name": "dsh-llm-grok",
+  "description": "dsh plugin for grok",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "clarkzhao/dsh-llm-grok",
+  "repositoryUrl": "https://github.com/clarkzhao/dsh-llm-grok",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 742
+}
