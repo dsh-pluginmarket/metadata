@@ -1,0 +1,20 @@
+{
+  "id": "github:beijingwahw/dsh-conv-export",
+  "kind": "plugin",
+  "name": "dsh-conv-export",
+  "description": "dsh-conv-export（对话导出）— export the current DeepSeek Harness conversation as Markdown, PDF, or a long PNG image",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beijingwahw/dsh-conv-export",
+  "repositoryUrl": "https://github.com/beijingwahw/dsh-conv-export",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1011
+}
