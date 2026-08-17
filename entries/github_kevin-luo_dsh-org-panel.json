@@ -1,0 +1,20 @@
+{
+  "id": "github:kevin-luo/dsh-org-panel",
+  "kind": "plugin",
+  "name": "dsh-org-panel",
+  "description": "deepseek harness 纯牛马 —— 多智能体数字员工指挥台插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kevin-luo/dsh-org-panel",
+  "repositoryUrl": "https://github.com/kevin-luo/dsh-org-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 814
+}
