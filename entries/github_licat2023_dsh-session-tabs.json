@@ -1,0 +1,20 @@
+{
+  "id": "github:licat2023/dsh-session-tabs",
+  "kind": "plugin",
+  "name": "dsh-session-tabs",
+  "description": "Related DeepSeek Harness project: licat2023/dsh-session-tabs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "licat2023/dsh-session-tabs",
+  "repositoryUrl": "https://github.com/licat2023/dsh-session-tabs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 620
+}
