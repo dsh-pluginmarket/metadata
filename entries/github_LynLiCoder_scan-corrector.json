@@ -1,0 +1,20 @@
+{
+  "id": "github:LynLiCoder/scan-corrector",
+  "kind": "plugin",
+  "name": "scan-corrector",
+  "description": "6 种检测方法融合决策（Tesseract OSD + 霍夫变换 + 四向试探 + 文字密度 + 区域 OSD + 多区域放大重检），自动检测并修正 PDF 页面方向（0°/90°/180°/270°）。100% 本地处理，零数据上传，生成可解释的 JSON 修正报告。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LynLiCoder/scan-corrector",
+  "repositoryUrl": "https://github.com/LynLiCoder/scan-corrector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 834
+}
