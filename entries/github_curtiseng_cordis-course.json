@@ -1,0 +1,20 @@
+{
+  "id": "github:curtiseng/cordis-course",
+  "kind": "plugin",
+  "name": "cordis-course",
+  "description": "动态可组合性演算 · 通俗课：Cordis 论文的交互式中文课程与译文",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "curtiseng/cordis-course",
+  "repositoryUrl": "https://github.com/curtiseng/cordis-course",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 769
+}
