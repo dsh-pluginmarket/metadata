@@ -1,0 +1,20 @@
+{
+  "id": "github:siberiah2o/dsh-plugin-terminal",
+  "kind": "plugin",
+  "name": "dsh-plugin-terminal",
+  "description": "Bottom terminal panel plugin for DeepSeek Harness (DSH Web GUI)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "siberiah2o/dsh-plugin-terminal",
+  "repositoryUrl": "https://github.com/siberiah2o/dsh-plugin-terminal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 750
+}
