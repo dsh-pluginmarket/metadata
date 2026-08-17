@@ -1,0 +1,20 @@
+{
+  "id": "github:eeyzs1/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "DeepSeek Harness (DSH) dynamic Cordis plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "eeyzs1/dsh-plugins",
+  "repositoryUrl": "https://github.com/eeyzs1/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 737
+}
