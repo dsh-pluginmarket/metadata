@@ -1,0 +1,20 @@
+{
+  "id": "github:Happy2Git/dsh-compass",
+  "kind": "plugin",
+  "name": "dsh-compass",
+  "description": "DeepSeek Harness context-and-files panel plugin: directory browser, injected context, and read-only git graph as one installable bundle",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Happy2Git/dsh-compass",
+  "repositoryUrl": "https://github.com/Happy2Git/dsh-compass",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 991
+}
