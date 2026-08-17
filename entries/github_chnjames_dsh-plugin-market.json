@@ -1,0 +1,20 @@
+{
+  "id": "github:chnjames/dsh-plugin-market",
+  "kind": "plugin",
+  "name": "dsh-plugin-market",
+  "description": "DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chnjames/dsh-plugin-market",
+  "repositoryUrl": "https://github.com/chnjames/dsh-plugin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1004
+}
