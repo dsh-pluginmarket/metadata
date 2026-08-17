@@ -1,0 +1,20 @@
+{
+  "id": "github:uckkk/dsh-context-dashboard",
+  "kind": "plugin",
+  "name": "dsh-context-dashboard",
+  "description": "DSH 会话上下文统计面板：每会话消息/轮次/工具调用/预估 token + 全局与按项目报告。Context usage dashboard for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "uckkk/dsh-context-dashboard",
+  "repositoryUrl": "https://github.com/uckkk/dsh-context-dashboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1033
+}
