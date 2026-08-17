@@ -1,0 +1,20 @@
+{
+  "id": "github:FeatherHunter/dsh-prompt",
+  "kind": "plugin",
+  "name": "dsh-prompt",
+  "description": "DSH prompt 调色板：预制+自定义 prompt 模板，点击即插入对话（含 /prompt 触发源与智能悬浮卡）| Prompt palette for DeepSeek Harness: preset + custom prompt templates with one-click insert, /prompt trigger and a smart suggestion card",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FeatherHunter/dsh-prompt",
+  "repositoryUrl": "https://github.com/FeatherHunter/dsh-prompt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 603
+}
