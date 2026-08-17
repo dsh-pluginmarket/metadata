@@ -1,0 +1,20 @@
+{
+  "id": "github:flg1217/dsh-llm-agy",
+  "kind": "plugin",
+  "name": "dsh-llm-agy",
+  "description": "AGY (Antigravity CLI) integration for DeepSeek Harness: LLM adapter subagents, deep web search, connectivity diagnostics panel",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "flg1217/dsh-llm-agy",
+  "repositoryUrl": "https://github.com/flg1217/dsh-llm-agy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 912
+}
