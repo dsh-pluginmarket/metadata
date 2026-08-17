@@ -1,0 +1,20 @@
+{
+  "id": "github:xun404/dsh-pihuo-plugins",
+  "kind": "plugin",
+  "name": "dsh-pihuo-plugins",
+  "description": "PiHuo: DeepSeek Harness plugins that run local ACP processes as chat workers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xun404/dsh-pihuo-plugins",
+  "repositoryUrl": "https://github.com/xun404/dsh-pihuo-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 935
+}
