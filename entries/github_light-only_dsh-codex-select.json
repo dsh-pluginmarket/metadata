@@ -1,0 +1,20 @@
+{
+  "id": "github:light-only/dsh-codex-select",
+  "kind": "plugin",
+  "name": "dsh-codex-select",
+  "description": "Related DeepSeek Harness project: light-only/dsh-codex-select",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "light-only/dsh-codex-select",
+  "repositoryUrl": "https://github.com/light-only/dsh-codex-select",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 821
+}
