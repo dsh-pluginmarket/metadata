@@ -1,0 +1,20 @@
+{
+  "id": "github:Li3NGa/DHS-multi-agent-plugin",
+  "kind": "plugin",
+  "name": "DHS-multi-agent-plugin",
+  "description": "agent工厂 让多个agent协同 deepseek harness插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Li3NGa/DHS-multi-agent-plugin",
+  "repositoryUrl": "https://github.com/Li3NGa/DHS-multi-agent-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 793
+}
