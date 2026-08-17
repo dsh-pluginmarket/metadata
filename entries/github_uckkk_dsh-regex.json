@@ -1,0 +1,20 @@
+{
+  "id": "github:uckkk/dsh-regex",
+  "kind": "plugin",
+  "name": "dsh-regex",
+  "description": "正则工具：测试匹配/替换/转义",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "uckkk/dsh-regex",
+  "repositoryUrl": "https://github.com/uckkk/dsh-regex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 954
+}
