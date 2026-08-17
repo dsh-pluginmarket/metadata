@@ -1,0 +1,20 @@
+{
+  "id": "github:a903067276-rgb/dsh-perm-guard",
+  "kind": "plugin",
+  "name": "dsh-perm-guard",
+  "description": "Related DeepSeek Harness project: a903067276-rgb/dsh-perm-guard",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a903067276-rgb/dsh-perm-guard",
+  "repositoryUrl": "https://github.com/a903067276-rgb/dsh-perm-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1041
+}
