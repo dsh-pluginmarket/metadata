@@ -1,0 +1,20 @@
+{
+  "id": "github:firecrawl/dsh-firecrawl",
+  "kind": "plugin",
+  "name": "dsh-firecrawl",
+  "description": "Firecrawl-backed web_search and web_fetch providers for the DeepSeek Harness web capability seam (ctx.web)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "firecrawl/dsh-firecrawl",
+  "repositoryUrl": "https://github.com/firecrawl/dsh-firecrawl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 959
+}
