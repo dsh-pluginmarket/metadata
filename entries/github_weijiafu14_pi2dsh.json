@@ -1,0 +1,20 @@
+{
+  "id": "github:weijiafu14/pi2dsh",
+  "kind": "plugin",
+  "name": "pi2dsh",
+  "description": "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weijiafu14/pi2dsh",
+  "repositoryUrl": "https://github.com/weijiafu14/pi2dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 823
+}
