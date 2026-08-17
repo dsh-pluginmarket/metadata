@@ -1,0 +1,20 @@
+{
+  "id": "github:Dasooul03/dsh-plugin-deepseek-pricing",
+  "kind": "plugin",
+  "name": "dsh-plugin-deepseek-pricing",
+  "description": "DSH Price Monitor（价格监控）· DeepSeek 实时定价、峰谷自动切换与会话费用监控的 dsh 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dasooul03/dsh-plugin-deepseek-pricing",
+  "repositoryUrl": "https://github.com/Dasooul03/dsh-plugin-deepseek-pricing",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 926
+}
