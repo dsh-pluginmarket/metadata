@@ -1,0 +1,20 @@
+{
+  "id": "github:rirko/dsh-melody-launcher",
+  "kind": "plugin",
+  "name": "dsh-melody-launcher",
+  "description": "dsh-旋律启动器：DeepSeek Harness 桌面启动器与插件管理器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rirko/dsh-melody-launcher",
+  "repositoryUrl": "https://github.com/rirko/dsh-melody-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1015
+}
