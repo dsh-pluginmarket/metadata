@@ -1,0 +1,20 @@
+{
+  "id": "github:fufankeji/deepseek-harness-studio",
+  "kind": "plugin",
+  "name": "deepseek-harness-studio",
+  "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fufankeji/deepseek-harness-studio",
+  "repositoryUrl": "https://github.com/fufankeji/deepseek-harness-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 657
+}
