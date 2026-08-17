@@ -1,0 +1,20 @@
+{
+  "id": "github:kalifun/helmsman",
+  "kind": "plugin",
+  "name": "helmsman",
+  "description": "Task-based AI workbench for indie developers: tasks-as-sessions, comment-as-control, project knowledge base that persists across tasks. Built on DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kalifun/helmsman",
+  "repositoryUrl": "https://github.com/kalifun/helmsman",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 716
+}
