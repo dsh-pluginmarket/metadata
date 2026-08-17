@@ -1,0 +1,20 @@
+{
+  "id": "github:CN-Leo/dsh-deepseek-balance",
+  "kind": "plugin",
+  "name": "dsh-deepseek-balance",
+  "description": "deepseek-harness 插件，实时查询deepseek账号余额",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CN-Leo/dsh-deepseek-balance",
+  "repositoryUrl": "https://github.com/CN-Leo/dsh-deepseek-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1038
+}
