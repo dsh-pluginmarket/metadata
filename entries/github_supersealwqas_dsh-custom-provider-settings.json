@@ -1,0 +1,20 @@
+{
+  "id": "github:supersealwqas/dsh-custom-provider-settings",
+  "kind": "plugin",
+  "name": "dsh-custom-provider-settings",
+  "description": "DeepSeek Harness 第三方 API 与自定义模型设置插件：支持请求头、User-Agent、模型列表、图像输入和思考等级 | WebUI plugin for third-party APIs and custom models with request headers, image input, and reasoning levels",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "supersealwqas/dsh-custom-provider-settings",
+  "repositoryUrl": "https://github.com/supersealwqas/dsh-custom-provider-settings",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 802
+}
