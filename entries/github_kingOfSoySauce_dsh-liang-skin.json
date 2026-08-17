@@ -1,0 +1,20 @@
+{
+  "id": "github:kingOfSoySauce/dsh-liang-skin",
+  "kind": "plugin",
+  "name": "dsh-liang-skin",
+  "description": "DeepSeek Harness 滑动变阻器皮肤",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kingOfSoySauce/dsh-liang-skin",
+  "repositoryUrl": "https://github.com/kingOfSoySauce/dsh-liang-skin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 873
+}
