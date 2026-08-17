@@ -1,0 +1,20 @@
+{
+  "id": "github:a179-sanae/dsh-auto-collapse",
+  "kind": "plugin",
+  "name": "dsh-auto-collapse",
+  "description": "Related DeepSeek Harness project: a179-sanae/dsh-auto-collapse",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a179-sanae/dsh-auto-collapse",
+  "repositoryUrl": "https://github.com/a179-sanae/dsh-auto-collapse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1080
+}
