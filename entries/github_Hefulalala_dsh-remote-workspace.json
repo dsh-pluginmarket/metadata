@@ -1,0 +1,20 @@
+{
+  "id": "github:Hefulalala/dsh-remote-workspace",
+  "kind": "plugin",
+  "name": "dsh-remote-workspace",
+  "description": "DSH plugin: SSH/SFTP remote sites and remote workspaces in the sidebar",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Hefulalala/dsh-remote-workspace",
+  "repositoryUrl": "https://github.com/Hefulalala/dsh-remote-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 946
+}
