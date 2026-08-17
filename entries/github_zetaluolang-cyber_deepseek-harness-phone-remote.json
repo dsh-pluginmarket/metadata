@@ -1,0 +1,20 @@
+{
+  "id": "github:zetaluolang-cyber/deepseek-harness-phone-remote",
+  "kind": "plugin",
+  "name": "deepseek-harness-phone-remote",
+  "description": "DeepSeek Harness phone remote control via Tailscale - persistent file/workspace plugin - tested on OPPO Find X8 Ultra",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zetaluolang-cyber/deepseek-harness-phone-remote",
+  "repositoryUrl": "https://github.com/zetaluolang-cyber/deepseek-harness-phone-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 668
+}
