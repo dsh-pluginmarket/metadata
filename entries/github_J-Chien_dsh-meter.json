@@ -1,0 +1,20 @@
+{
+  "id": "github:J-Chien/dsh-meter",
+  "kind": "plugin",
+  "name": "dsh-meter",
+  "description": "Per-session billing plugin for DeepSeek Harness: token buckets, cache hit rate, and peak-aware cost in the session header + a price-table settings page",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "J-Chien/dsh-meter",
+  "repositoryUrl": "https://github.com/J-Chien/dsh-meter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 803
+}
