@@ -1,0 +1,20 @@
+{
+  "id": "github:beancookie/awesome-dsh-plugin",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugin",
+  "description": "Awesome DeepSeek Harness (DSH) Plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beancookie/awesome-dsh-plugin",
+  "repositoryUrl": "https://github.com/beancookie/awesome-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1099
+}
