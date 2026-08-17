@@ -1,0 +1,20 @@
+{
+  "id": "github:xxxrickymorty-dev/dsh-c137",
+  "kind": "plugin",
+  "name": "dsh-c137",
+  "description": "C-137 skin for DeepSeek Harness: 28 posters, custom scenes, and overlay pets (Rick, Morty, portal gun).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xxxrickymorty-dev/dsh-c137",
+  "repositoryUrl": "https://github.com/xxxrickymorty-dev/dsh-c137",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1040
+}
