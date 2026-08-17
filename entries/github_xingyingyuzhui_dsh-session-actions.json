@@ -1,0 +1,20 @@
+{
+  "id": "github:xingyingyuzhui/dsh-session-actions",
+  "kind": "plugin",
+  "name": "dsh-session-actions",
+  "description": "Related DeepSeek Harness project: xingyingyuzhui/dsh-session-actions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xingyingyuzhui/dsh-session-actions",
+  "repositoryUrl": "https://github.com/xingyingyuzhui/dsh-session-actions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 894
+}
