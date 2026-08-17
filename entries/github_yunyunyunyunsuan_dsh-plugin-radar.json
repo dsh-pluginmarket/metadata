@@ -1,0 +1,20 @@
+{
+  "id": "github:yunyunyunyunsuan/dsh-plugin-radar",
+  "kind": "plugin",
+  "name": "dsh-plugin-radar",
+  "description": "DeepSeek Harness 插件雷达：定时扫描 GitHub topic:dsh-plugin 新插件，Web 界面左下角卡片推送，支持 README 关键词搜索与一键安装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yunyunyunyunsuan/dsh-plugin-radar",
+  "repositoryUrl": "https://github.com/yunyunyunyunsuan/dsh-plugin-radar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 611
+}
