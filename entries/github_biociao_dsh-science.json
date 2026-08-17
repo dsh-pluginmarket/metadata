@@ -1,0 +1,20 @@
+{
+  "id": "github:biociao/dsh-science",
+  "kind": "plugin",
+  "name": "dsh-science",
+  "description": "Related DeepSeek Harness project: biociao/dsh-science",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "biociao/dsh-science",
+  "repositoryUrl": "https://github.com/biociao/dsh-science",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1026
+}
