@@ -1,0 +1,20 @@
+{
+  "id": "github:yfzhou0904/dsh-plugin-gallery",
+  "kind": "plugin",
+  "name": "dsh-plugin-gallery",
+  "description": "A personal gallery of plugins for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yfzhou0904/dsh-plugin-gallery",
+  "repositoryUrl": "https://github.com/yfzhou0904/dsh-plugin-gallery",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 692
+}
