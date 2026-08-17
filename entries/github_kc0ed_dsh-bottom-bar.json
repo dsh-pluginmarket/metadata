@@ -1,0 +1,20 @@
+{
+  "id": "github:kc0ed/dsh-bottom-bar",
+  "kind": "plugin",
+  "name": "dsh-bottom-bar",
+  "description": "用于提供更丰富的DeepSeek Harness底栏信息显示插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kc0ed/dsh-bottom-bar",
+  "repositoryUrl": "https://github.com/kc0ed/dsh-bottom-bar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 631
+}
