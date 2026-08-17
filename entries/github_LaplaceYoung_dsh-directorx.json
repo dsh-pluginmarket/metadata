@@ -1,0 +1,20 @@
+{
+  "id": "github:LaplaceYoung/dsh-directorx",
+  "kind": "plugin",
+  "name": "dsh-directorx",
+  "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LaplaceYoung/dsh-directorx",
+  "repositoryUrl": "https://github.com/LaplaceYoung/dsh-directorx",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1010
+}
