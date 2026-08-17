@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/TileKernels",
+  "kind": "plugin",
+  "name": "TileKernels",
+  "description": "A kernel library written in tilelang",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/TileKernels",
+  "repositoryUrl": "https://github.com/deepseek-ai/TileKernels",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1125
+}
