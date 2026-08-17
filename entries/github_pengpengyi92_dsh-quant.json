@@ -1,0 +1,20 @@
+{
+  "id": "github:pengpengyi92/dsh-quant",
+  "kind": "plugin",
+  "name": "dsh-quant",
+  "description": "dsh plugin: quantitative tools for agents — market data (Binance public API), technical indicators (SMA/EMA/RSI/MACD/Bollinger/ATR) and MA-crossover backtest",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pengpengyi92/dsh-quant",
+  "repositoryUrl": "https://github.com/pengpengyi92/dsh-quant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 728
+}
