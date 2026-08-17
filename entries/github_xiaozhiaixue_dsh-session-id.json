@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaozhiaixue/dsh-session-id",
+  "kind": "plugin",
+  "name": "dsh-session-id",
+  "description": "Related DeepSeek Harness project: xiaozhiaixue/dsh-session-id",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaozhiaixue/dsh-session-id",
+  "repositoryUrl": "https://github.com/xiaozhiaixue/dsh-session-id",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 852
+}
