@@ -1,0 +1,20 @@
+{
+  "id": "github:ClaireXi99/dsh-data-insight",
+  "kind": "plugin",
+  "name": "dsh-data-insight",
+  "description": "Data analysis toolkit for DeepSeek Harness — CSV profiling, anomaly detection, and data summarization",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ClaireXi99/dsh-data-insight",
+  "repositoryUrl": "https://github.com/ClaireXi99/dsh-data-insight",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 654
+}
