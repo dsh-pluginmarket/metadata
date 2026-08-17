@@ -1,0 +1,20 @@
+{
+  "id": "github:Gin-7/dsh-pet-remielle",
+  "kind": "plugin",
+  "name": "dsh-pet-remielle",
+  "description": "Related DeepSeek Harness project: Gin-7/dsh-pet-remielle",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gin-7/dsh-pet-remielle",
+  "repositoryUrl": "https://github.com/Gin-7/dsh-pet-remielle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1089
+}
