@@ -1,0 +1,20 @@
+{
+  "id": "github:BingL-Li/vision-translation",
+  "kind": "plugin",
+  "name": "vision-translation",
+  "description": "Related DeepSeek Harness project: BingL-Li/vision-translation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BingL-Li/vision-translation",
+  "repositoryUrl": "https://github.com/BingL-Li/vision-translation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 895
+}
