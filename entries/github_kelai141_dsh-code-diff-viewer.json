@@ -1,0 +1,20 @@
+{
+  "id": "github:kelai141/dsh-code-diff-viewer",
+  "kind": "plugin",
+  "name": "dsh-code-diff-viewer",
+  "description": "用于dsh的代码可视化系统",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kelai141/dsh-code-diff-viewer",
+  "repositoryUrl": "https://github.com/kelai141/dsh-code-diff-viewer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1052
+}
