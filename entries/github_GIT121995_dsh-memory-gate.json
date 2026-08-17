@@ -1,0 +1,20 @@
+{
+  "id": "github:GIT121995/dsh-memory-gate",
+  "kind": "plugin",
+  "name": "dsh-memory-gate",
+  "description": "Retrieved ≠ injected: CBDC-gated memory for DeepSeek Harness — decides how memory is USED (use/verify/ignore + feedback learning + audit), not just stored",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GIT121995/dsh-memory-gate",
+  "repositoryUrl": "https://github.com/GIT121995/dsh-memory-gate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 618
+}
