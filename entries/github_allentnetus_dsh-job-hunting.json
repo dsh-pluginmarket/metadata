@@ -1,0 +1,20 @@
+{
+  "id": "github:allentnetus/dsh-job-hunting",
+  "kind": "plugin",
+  "name": "dsh-job-hunting",
+  "description": "DeepSeek Harness job hunting plugin and runtime skill for local job intelligence workflows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "allentnetus/dsh-job-hunting",
+  "repositoryUrl": "https://github.com/allentnetus/dsh-job-hunting",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 844
+}
