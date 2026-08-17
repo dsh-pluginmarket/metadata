@@ -1,0 +1,20 @@
+{
+  "id": "github:hairyf/deepseek-harness-desktop",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop",
+  "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hairyf/deepseek-harness-desktop",
+  "repositoryUrl": "https://github.com/hairyf/deepseek-harness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 739
+}
