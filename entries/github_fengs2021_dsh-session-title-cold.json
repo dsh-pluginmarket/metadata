@@ -1,0 +1,20 @@
+{
+  "id": "github:fengs2021/dsh-session-title-cold",
+  "kind": "plugin",
+  "name": "dsh-session-title-cold",
+  "description": "DSH 插件：冷会话标题回填——把持久化日志的 session/title 事件折叠进 projection 缓存，会话列表显示真实标题而不是工作区目录名",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fengs2021/dsh-session-title-cold",
+  "repositoryUrl": "https://github.com/fengs2021/dsh-session-title-cold",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 945
+}
