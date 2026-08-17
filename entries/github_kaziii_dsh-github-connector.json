@@ -1,0 +1,20 @@
+{
+  "id": "github:kaziii/dsh-github-connector",
+  "kind": "plugin",
+  "name": "dsh-github-connector",
+  "description": "DeepSeek Harness (dsh) 的 GitHub 连接器：一键授权，对话内创建/AI 审查/合并 PR | GitHub connector for dsh: one-click connect, create/review/merge PRs from the conversation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kaziii/dsh-github-connector",
+  "repositoryUrl": "https://github.com/kaziii/dsh-github-connector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 788
+}
