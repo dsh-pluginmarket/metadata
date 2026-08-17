@@ -1,0 +1,20 @@
+{
+  "id": "github:YLingHao/dsh-codeui",
+  "kind": "plugin",
+  "name": "dsh-codeui",
+  "description": "A code-review workbench for DeepSeek Harness and  jump from an always-on turn rail straight back to that turn in the conversation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YLingHao/dsh-codeui",
+  "repositoryUrl": "https://github.com/YLingHao/dsh-codeui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 872
+}
