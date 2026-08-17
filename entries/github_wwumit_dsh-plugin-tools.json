@@ -1,0 +1,20 @@
+{
+  "id": "github:wwumit/dsh-plugin-tools",
+  "kind": "plugin",
+  "name": "dsh-plugin-tools",
+  "description": "Plugin tools provider for DeepSeek Harness: expert2skill, skill-compliance, dependency-scan (dsh.bundle)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wwumit/dsh-plugin-tools",
+  "repositoryUrl": "https://github.com/wwumit/dsh-plugin-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 964
+}
