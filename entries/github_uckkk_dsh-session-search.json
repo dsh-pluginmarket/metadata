@@ -1,0 +1,20 @@
+{
+  "id": "github:uckkk/dsh-session-search",
+  "kind": "plugin",
+  "name": "dsh-session-search",
+  "description": "DSH 会话全文搜索：跨所有本地会话按关键词检索（支持 zstd 与明文存储）。Full-text search across DeepSeek Harness sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "uckkk/dsh-session-search",
+  "repositoryUrl": "https://github.com/uckkk/dsh-session-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1097
+}
