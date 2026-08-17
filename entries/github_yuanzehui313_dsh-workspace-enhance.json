@@ -1,0 +1,20 @@
+{
+  "id": "github:yuanzehui313/dsh-workspace-enhance",
+  "kind": "plugin",
+  "name": "dsh-workspace-enhance",
+  "description": "DeepSeek Harness workspace & session enhancement plugin: recycle bin, cross-workspace drag, ungrouped sessions, multi-folder roots, session merge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuanzehui313/dsh-workspace-enhance",
+  "repositoryUrl": "https://github.com/yuanzehui313/dsh-workspace-enhance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1020
+}
