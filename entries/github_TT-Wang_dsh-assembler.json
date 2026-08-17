@@ -1,0 +1,20 @@
+{
+  "id": "github:TT-Wang/dsh-assembler",
+  "kind": "plugin",
+  "name": "dsh-assembler",
+  "description": "Related DeepSeek Harness project: TT-Wang/dsh-assembler",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TT-Wang/dsh-assembler",
+  "repositoryUrl": "https://github.com/TT-Wang/dsh-assembler",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 734
+}
