@@ -1,0 +1,20 @@
+{
+  "id": "github:zh667/TokenLedger",
+  "kind": "plugin",
+  "name": "TokenLedger",
+  "description": "Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zh667/TokenLedger",
+  "repositoryUrl": "https://github.com/zh667/TokenLedger",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 832
+}
