@@ -1,0 +1,20 @@
+{
+  "id": "github:FeatherHunter/dsh-mattpocock-skills-deck",
+  "kind": "plugin",
+  "name": "dsh-mattpocock-skills-deck",
+  "description": "拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like mission system for Matt Pocock skills in DeepSeek Harness. More by @FeatherHunter: 🎨 dsh-opencode-palette · ⚡ dsh-prompt",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FeatherHunter/dsh-mattpocock-skills-deck",
+  "repositoryUrl": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 637
+}
