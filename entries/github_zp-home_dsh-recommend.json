@@ -1,0 +1,20 @@
+{
+  "id": "github:zp-home/dsh-recommend",
+  "kind": "plugin",
+  "name": "dsh-recommend",
+  "description": "DSH 插件生态透明排行与推荐：每日自动抓取 dsh-plugin 话题 + 公开评分模型 + 排行/推荐插件与静态站",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zp-home/dsh-recommend",
+  "repositoryUrl": "https://github.com/zp-home/dsh-recommend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 886
+}
