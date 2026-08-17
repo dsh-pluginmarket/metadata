@@ -1,0 +1,20 @@
+{
+  "id": "github:ywsldxk/dsh-plugin-stars",
+  "kind": "plugin",
+  "name": "dsh-plugin-stars",
+  "description": "DeepSeek Harness (DSH) plugin leaderboard & directory｜DeepSeek Harness（DSH）插件排行榜 / 插件目录，按 GitHub Stars 排序并自动更新。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ywsldxk/dsh-plugin-stars",
+  "repositoryUrl": "https://github.com/ywsldxk/dsh-plugin-stars",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 913
+}
