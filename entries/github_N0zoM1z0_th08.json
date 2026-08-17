@@ -1,0 +1,20 @@
+{
+  "id": "github:N0zoM1z0/th08",
+  "kind": "plugin",
+  "name": "th08",
+  "description": "Source reconstruction of Touhou Eiyashou (TH08) 1.00d",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "N0zoM1z0/th08",
+  "repositoryUrl": "https://github.com/N0zoM1z0/th08",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 648
+}
