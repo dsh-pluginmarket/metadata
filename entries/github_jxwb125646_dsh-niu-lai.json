@@ -1,0 +1,20 @@
+{
+  "id": "github:jxwb125646/dsh-niu-lai",
+  "kind": "plugin",
+  "name": "dsh-niu-lai",
+  "description": "《牛来》 meme sound board for DeepSeek Harness Web: plays the movie 妈妈 when you send a message and 牛来 when a task completes",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jxwb125646/dsh-niu-lai",
+  "repositoryUrl": "https://github.com/jxwb125646/dsh-niu-lai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 606
+}
