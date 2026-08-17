@@ -1,0 +1,20 @@
+{
+  "id": "github:StarChen-Cycler/octie-dsh-plugin",
+  "kind": "plugin",
+  "name": "octie-dsh-plugin",
+  "description": "State-oriented task graph kernel for the agentic era - a DeepSeek Harness bundle: 13 octie_* tools, octie Cordis service & events, realtime DAG task panel, bundled agent preset. State is derived, not set.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "StarChen-Cycler/octie-dsh-plugin",
+  "repositoryUrl": "https://github.com/StarChen-Cycler/octie-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 808
+}
