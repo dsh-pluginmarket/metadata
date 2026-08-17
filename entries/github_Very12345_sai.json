@@ -1,0 +1,20 @@
+{
+  "id": "github:Very12345/sai",
+  "kind": "plugin",
+  "name": "sai",
+  "description": "A local-first Android coding agent powered by the official DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Very12345/sai",
+  "repositoryUrl": "https://github.com/Very12345/sai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 970
+}
