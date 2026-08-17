@@ -1,0 +1,20 @@
+{
+  "id": "github:jumpserver-east/jumpserver-dsh",
+  "kind": "plugin",
+  "name": "jumpserver-dsh",
+  "description": "DeepSeek Harness plugin: manage JumpServer assets and operate on them through KoKo",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jumpserver-east/jumpserver-dsh",
+  "repositoryUrl": "https://github.com/jumpserver-east/jumpserver-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 709
+}
