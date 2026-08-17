@@ -1,0 +1,20 @@
+{
+  "id": "github:wangzhuo-coding/geo-content-optimizer",
+  "kind": "plugin",
+  "name": "geo-content-optimizer",
+  "description": "GEO生成式引擎优化智能体 — 7类关键词+七层架构+EE-A-T权威框架+8维度降痕改写",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangzhuo-coding/geo-content-optimizer",
+  "repositoryUrl": "https://github.com/wangzhuo-coding/geo-content-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 724
+}
