@@ -1,0 +1,20 @@
+{
+  "id": "github:hikariming/dshfind",
+  "kind": "plugin",
+  "name": "dshfind",
+  "description": "DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hikariming/dshfind",
+  "repositoryUrl": "https://github.com/hikariming/dshfind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 888
+}
