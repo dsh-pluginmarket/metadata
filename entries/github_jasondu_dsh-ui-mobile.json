@@ -1,0 +1,20 @@
+{
+  "id": "github:jasondu/dsh-ui-mobile",
+  "kind": "plugin",
+  "name": "dsh-ui-mobile",
+  "description": "Mobile client plugin for the DeepSeek Harness Web shell: off-canvas sidebar/details drawers, bottom nav bar, and a touch-first responsive layout below 768px",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jasondu/dsh-ui-mobile",
+  "repositoryUrl": "https://github.com/jasondu/dsh-ui-mobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 967
+}
