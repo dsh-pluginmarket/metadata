@@ -1,0 +1,20 @@
+{
+  "id": "github:Neumannzc/dsh-archive-manager",
+  "kind": "plugin",
+  "name": "dsh-archive-manager",
+  "description": "归档管理插件：DSH 设置页按工作区展示归档会话并支持取消归档（Archive manager settings section for DeepSeek Harness）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Neumannzc/dsh-archive-manager",
+  "repositoryUrl": "https://github.com/Neumannzc/dsh-archive-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 996
+}
