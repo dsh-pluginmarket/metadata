@@ -1,0 +1,20 @@
+{
+  "id": "github:wly8691-jpg/knowlp-rag",
+  "kind": "plugin",
+  "name": "knowlp-rag",
+  "description": "KnowLP-RAG: dual knowledge-graph RAG for Markdown notes — dsh plugin add @eqman00003/knowlp-rag · MCP + native Cordis plugin for DeepSeek Harness (dsh) & Claude Code",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wly8691-jpg/knowlp-rag",
+  "repositoryUrl": "https://github.com/wly8691-jpg/knowlp-rag",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 761
+}
