@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/ex-setting",
+  "kind": "plugin",
+  "name": "ex-setting",
+  "description": "DSH的设置扩展",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/ex-setting",
+  "repositoryUrl": "https://github.com/omdsh-dev/ex-setting",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1078
+}
