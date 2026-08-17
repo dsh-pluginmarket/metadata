@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaozhe7772222/dsh-opencode-zen",
+  "kind": "plugin",
+  "name": "dsh-opencode-zen",
+  "description": "0 元接入 6 个免费大模型：OpenCode Zen 免费档模型零配置接入 DeepSeek Harness，免注册免充值，内置 6 个免费模型，多 Key 轮换与限流退避。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaozhe7772222/dsh-opencode-zen",
+  "repositoryUrl": "https://github.com/xiaozhe7772222/dsh-opencode-zen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 747
+}
