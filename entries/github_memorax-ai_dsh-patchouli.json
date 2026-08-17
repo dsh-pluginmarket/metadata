@@ -1,0 +1,20 @@
+{
+  "id": "github:memorax-ai/dsh-patchouli",
+  "kind": "plugin",
+  "name": "dsh-patchouli",
+  "description": "Agent knowledge hub and deepseek-harness plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "memorax-ai/dsh-patchouli",
+  "repositoryUrl": "https://github.com/memorax-ai/dsh-patchouli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 704
+}
