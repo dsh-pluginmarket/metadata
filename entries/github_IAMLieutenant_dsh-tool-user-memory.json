@@ -1,0 +1,20 @@
+{
+  "id": "github:IAMLieutenant/dsh-tool-user-memory",
+  "kind": "plugin",
+  "name": "dsh-tool-user-memory",
+  "description": "DeepSeek Harness 用户记忆插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "IAMLieutenant/dsh-tool-user-memory",
+  "repositoryUrl": "https://github.com/IAMLieutenant/dsh-tool-user-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 857
+}
