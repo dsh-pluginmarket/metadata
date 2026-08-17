@@ -1,0 +1,20 @@
+{
+  "id": "github:volcengine/OpenViking",
+  "kind": "plugin",
+  "name": "OpenViking",
+  "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "volcengine/OpenViking",
+  "repositoryUrl": "https://github.com/volcengine/OpenViking",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 727
+}
