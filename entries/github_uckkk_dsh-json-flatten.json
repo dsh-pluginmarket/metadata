@@ -1,0 +1,20 @@
+{
+  "id": "github:uckkk/dsh-json-flatten",
+  "kind": "plugin",
+  "name": "dsh-json-flatten",
+  "description": "@{name=dsh-json-flatten; version=0.1.0; description=JSON 扁平化：嵌套 JSON ↔ 点号扁平键互转（支持数组索引）; type=module; main=./index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "uckkk/dsh-json-flatten",
+  "repositoryUrl": "https://github.com/uckkk/dsh-json-flatten",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1062
+}
