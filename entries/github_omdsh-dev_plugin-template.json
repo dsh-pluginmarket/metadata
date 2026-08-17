@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/plugin-template",
+  "kind": "plugin",
+  "name": "plugin-template",
+  "description": "基于原turtle ui官方仓库创建的plugin模板仓库",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/plugin-template",
+  "repositoryUrl": "https://github.com/omdsh-dev/plugin-template",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1079
+}
