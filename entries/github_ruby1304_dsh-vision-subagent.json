@@ -1,0 +1,20 @@
+{
+  "id": "github:ruby1304/dsh-vision-subagent",
+  "kind": "plugin",
+  "name": "dsh-vision-subagent",
+  "description": "Vision for text-only DeepSeek Harness agents: subagent-delegated image reading + Codex-style paste bridge on a configurable MiniMax/Kimi route",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ruby1304/dsh-vision-subagent",
+  "repositoryUrl": "https://github.com/ruby1304/dsh-vision-subagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 625
+}
