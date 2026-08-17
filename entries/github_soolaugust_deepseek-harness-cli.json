@@ -1,0 +1,20 @@
+{
+  "id": "github:soolaugust/deepseek-harness-cli",
+  "kind": "plugin",
+  "name": "deepseek-harness-cli",
+  "description": "Interactive terminal agent (fork of DeepSeek Harness): Claude Code-style REPL — full-screen UI, markdown rendering, session stats, permission cycling, custom OpenAI-compatible providers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "soolaugust/deepseek-harness-cli",
+  "repositoryUrl": "https://github.com/soolaugust/deepseek-harness-cli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 906
+}
