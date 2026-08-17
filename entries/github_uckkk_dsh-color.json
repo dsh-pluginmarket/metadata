@@ -1,0 +1,20 @@
+{
+  "id": "github:uckkk/dsh-color",
+  "kind": "plugin",
+  "name": "dsh-color",
+  "description": "颜色工具：hex/rgb/hsl 互转、补色、明暗与对比度",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "uckkk/dsh-color",
+  "repositoryUrl": "https://github.com/uckkk/dsh-color",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 931
+}
