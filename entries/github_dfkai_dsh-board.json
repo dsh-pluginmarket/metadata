@@ -1,0 +1,20 @@
+{
+  "id": "github:dfkai/dsh-board",
+  "kind": "plugin",
+  "name": "dsh-board",
+  "description": "DeepSeek Harness 侧栏用量与成本面板：官方峰谷计价 · 1M 上下文 · 词勋段位 · 成就与热力图",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dfkai/dsh-board",
+  "repositoryUrl": "https://github.com/dfkai/dsh-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 730
+}
