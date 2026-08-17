@@ -1,0 +1,20 @@
+{
+  "id": "github:xiyue718/dsh-ui-file-browser",
+  "kind": "plugin",
+  "name": "dsh-ui-file-browser",
+  "description": "Related DeepSeek Harness project: xiyue718/dsh-ui-file-browser",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiyue718/dsh-ui-file-browser",
+  "repositoryUrl": "https://github.com/xiyue718/dsh-ui-file-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 685
+}
