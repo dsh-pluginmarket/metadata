@@ -1,0 +1,20 @@
+{
+  "id": "github:Mars-Sea/dsh-commandcode-provider",
+  "kind": "plugin",
+  "name": "dsh-commandcode-provider",
+  "description": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider (MIT).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Mars-Sea/dsh-commandcode-provider",
+  "repositoryUrl": "https://github.com/Mars-Sea/dsh-commandcode-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 860
+}
