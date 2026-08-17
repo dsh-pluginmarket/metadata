@@ -1,0 +1,20 @@
+{
+  "id": "github:saitamahang/dsh-skill-importer",
+  "kind": "plugin",
+  "name": "dsh-skill-importer",
+  "description": "deepSeek Harness plugin: import and manage skills from files or URLs, with a composer picker and /skills command",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "saitamahang/dsh-skill-importer",
+  "repositoryUrl": "https://github.com/saitamahang/dsh-skill-importer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 892
+}
