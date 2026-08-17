@@ -1,0 +1,20 @@
+{
+  "id": "github:JunNanLYS/dsh-layered-memory",
+  "kind": "plugin",
+  "name": "dsh-layered-memory",
+  "description": "Layered memory plugin for DeepSeek Harness (dsh) — auto-distills conversations into L0–L3 memories (raw dialogue → atomic facts → scenes → persona) and injects relevant context before every model step. Pipeline ported from MemoryCore (TencentDB-Agent-Memory).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JunNanLYS/dsh-layered-memory",
+  "repositoryUrl": "https://github.com/JunNanLYS/dsh-layered-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 655
+}
