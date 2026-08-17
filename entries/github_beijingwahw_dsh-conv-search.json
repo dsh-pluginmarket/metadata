@@ -1,0 +1,20 @@
+{
+  "id": "github:beijingwahw/dsh-conv-search",
+  "kind": "plugin",
+  "name": "dsh-conv-search",
+  "description": "dsh-conv-search（对话内文本搜索）— in-conversation text search plugin for DeepSeek Harness (Ctrl+F, match case, whole word, streaming-aware)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beijingwahw/dsh-conv-search",
+  "repositoryUrl": "https://github.com/beijingwahw/dsh-conv-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1016
+}
