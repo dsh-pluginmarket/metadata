@@ -1,0 +1,20 @@
+{
+  "id": "github:KCNyu/clawock",
+  "kind": "plugin",
+  "name": "clawock",
+  "description": "AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate every call, settled by code the model never touches. Install the same decision workflow into your own agent: OpenClaw, Claude Code, Codex, or DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KCNyu/clawock",
+  "repositoryUrl": "https://github.com/KCNyu/clawock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 837
+}
