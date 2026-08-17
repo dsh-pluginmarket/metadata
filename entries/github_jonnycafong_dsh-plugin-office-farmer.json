@@ -1,0 +1,20 @@
+{
+  "id": "github:jonnycafong/dsh-plugin-office-farmer",
+  "kind": "plugin",
+  "name": "dsh-plugin-office-farmer",
+  "description": "Related DeepSeek Harness project: jonnycafong/dsh-plugin-office-farmer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonnycafong/dsh-plugin-office-farmer",
+  "repositoryUrl": "https://github.com/jonnycafong/dsh-plugin-office-farmer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 978
+}
