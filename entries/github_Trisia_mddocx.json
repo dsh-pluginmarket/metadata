@@ -1,0 +1,20 @@
+{
+  "id": "github:Trisia/mddocx",
+  "kind": "plugin",
+  "name": "mddocx",
+  "description": "将 Markdown 转换为符合学术规范的 Word 文档 skill，支持三线表、图题/表题自动编号、页码、页眉等学术论文排版规范。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Trisia/mddocx",
+  "repositoryUrl": "https://github.com/Trisia/mddocx",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 990
+}
