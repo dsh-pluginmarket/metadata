@@ -1,0 +1,20 @@
+{
+  "id": "github:afisht/dsh-plan-mode-enhanced",
+  "kind": "plugin",
+  "name": "dsh-plan-mode-enhanced",
+  "description": "Related DeepSeek Harness project: afisht/dsh-plan-mode-enhanced",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "afisht/dsh-plan-mode-enhanced",
+  "repositoryUrl": "https://github.com/afisht/dsh-plan-mode-enhanced",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 628
+}
