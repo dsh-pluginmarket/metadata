@@ -1,0 +1,20 @@
+{
+  "id": "github:jqueryscript/awesome-dsh-plugins",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugins",
+  "description": "Verified, star-ranked community plugins for DeepSeek Harness (dsh).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jqueryscript/awesome-dsh-plugins",
+  "repositoryUrl": "https://github.com/jqueryscript/awesome-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 883
+}
