@@ -1,0 +1,20 @@
+{
+  "id": "github:daboge-beach/dsh-skin-studio",
+  "kind": "plugin",
+  "name": "dsh-skin-studio",
+  "description": "🎨 DeepSeek Harness skin studio — built-in curated skins + a community skin gallery. 皮肤工作室：内置精选皮肤 · 用户上传皮肤中心，让每个 agent 都有专属面孔",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daboge-beach/dsh-skin-studio",
+  "repositoryUrl": "https://github.com/daboge-beach/dsh-skin-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 896
+}
