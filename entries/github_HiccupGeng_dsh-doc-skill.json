@@ -1,0 +1,20 @@
+{
+  "id": "github:HiccupGeng/dsh-doc-skill",
+  "kind": "plugin",
+  "name": "dsh-doc-skill",
+  "description": "a skill for create doc of dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HiccupGeng/dsh-doc-skill",
+  "repositoryUrl": "https://github.com/HiccupGeng/dsh-doc-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 630
+}
