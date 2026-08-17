@@ -1,0 +1,20 @@
+{
+  "id": "github:littleblakew/msds-chain-mcp",
+  "kind": "plugin",
+  "name": "msds-chain-mcp",
+  "description": "Related DeepSeek Harness project: littleblakew/msds-chain-mcp",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "littleblakew/msds-chain-mcp",
+  "repositoryUrl": "https://github.com/littleblakew/msds-chain-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 679
+}
