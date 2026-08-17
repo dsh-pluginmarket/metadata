@@ -1,0 +1,20 @@
+{
+  "id": "github:TomoyoNatsume/dsh-qq-bridge",
+  "kind": "plugin",
+  "name": "dsh-qq-bridge",
+  "description": "deepseek harness插件，连接QQ / DSH plugin for connecting QQ",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TomoyoNatsume/dsh-qq-bridge",
+  "repositoryUrl": "https://github.com/TomoyoNatsume/dsh-qq-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1042
+}
