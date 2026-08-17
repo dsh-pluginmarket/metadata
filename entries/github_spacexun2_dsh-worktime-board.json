@@ -1,0 +1,20 @@
+{
+  "id": "github:spacexun2/dsh-worktime-board",
+  "kind": "plugin",
+  "name": "dsh-worktime-board",
+  "description": "🐂🐴 牛马修仙看板：DeepSeek Harness 工时统计 × 修仙养成——把每一分钟劳动，都修成境界（日/周/月 + 学年年历，炼气→宇宙洪荒）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "spacexun2/dsh-worktime-board",
+  "repositoryUrl": "https://github.com/spacexun2/dsh-worktime-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1084
+}
