@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-skills-manager",
+  "kind": "plugin",
+  "name": "dsh-skills-manager",
+  "description": "DSH Skills Manager 基于 DeepSeek Harness 的Skills管理插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-skills-manager",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-skills-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 869
+}
