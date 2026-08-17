@@ -1,0 +1,20 @@
+{
+  "id": "github:TecFancy/dsh-auth-gate",
+  "kind": "plugin",
+  "name": "dsh-auth-gate",
+  "description": "Login gate for the DeepSeek Harness (dsh) web surface: password or shared-token authentication, session cookies, rate limiting, and a user-management CLI. | DeepSeek Harness (dsh) 网页版登录门插件:账号口令或共享令牌认证、会话 cookie、登录限速,附用户管理 CLI。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TecFancy/dsh-auth-gate",
+  "repositoryUrl": "https://github.com/TecFancy/dsh-auth-gate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 796
+}
