@@ -1,0 +1,20 @@
+{
+  "id": "github:u9521/dsh-advanced-model-editor",
+  "kind": "plugin",
+  "name": "dsh-advanced-model-editor",
+  "description": "DSH WebUI plugin for managing custom LLM providers, model parameters, thinking budgets, and request settings.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "u9521/dsh-advanced-model-editor",
+  "repositoryUrl": "https://github.com/u9521/dsh-advanced-model-editor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 937
+}
