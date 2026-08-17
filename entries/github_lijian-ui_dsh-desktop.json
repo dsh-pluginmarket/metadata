@@ -1,0 +1,20 @@
+{
+  "id": "github:lijian-ui/dsh-desktop",
+  "kind": "plugin",
+  "name": "dsh-desktop",
+  "description": "基于官方 Deepseek Harness 打包的桌面客户端，方便直接安装使用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lijian-ui/dsh-desktop",
+  "repositoryUrl": "https://github.com/lijian-ui/dsh-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 953
+}
