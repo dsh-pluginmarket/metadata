@@ -1,0 +1,20 @@
+{
+  "id": "github:xingyingyuzhui/dsh-folded-chat",
+  "kind": "plugin",
+  "name": "dsh-folded-chat",
+  "description": "Related DeepSeek Harness project: xingyingyuzhui/dsh-folded-chat",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xingyingyuzhui/dsh-folded-chat",
+  "repositoryUrl": "https://github.com/xingyingyuzhui/dsh-folded-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 818
+}
