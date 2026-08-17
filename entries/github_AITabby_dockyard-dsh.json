@@ -1,0 +1,20 @@
+{
+  "id": "github:AITabby/dockyard-dsh",
+  "kind": "plugin",
+  "name": "dockyard-dsh",
+  "description": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AITabby/dockyard-dsh",
+  "repositoryUrl": "https://github.com/AITabby/dockyard-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 738
+}
