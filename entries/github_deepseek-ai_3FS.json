@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/3FS",
+  "kind": "plugin",
+  "name": "3FS",
+  "description": "A high-performance distributed file system designed to address the challenges of AI training and inference workloads.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/3FS",
+  "repositoryUrl": "https://github.com/deepseek-ai/3FS",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1124
+}
