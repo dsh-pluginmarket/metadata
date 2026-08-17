@@ -1,0 +1,20 @@
+{
+  "id": "github:kingOfSoySauce/dsh-skin-market",
+  "kind": "plugin",
+  "name": "dsh-skin-market",
+  "description": "Related DeepSeek Harness project: kingOfSoySauce/dsh-skin-market",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kingOfSoySauce/dsh-skin-market",
+  "repositoryUrl": "https://github.com/kingOfSoySauce/dsh-skin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 847
+}
