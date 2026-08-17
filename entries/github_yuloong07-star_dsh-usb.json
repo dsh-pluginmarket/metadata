@@ -1,0 +1,20 @@
+{
+  "id": "github:yuloong07-star/dsh-usb",
+  "kind": "plugin",
+  "name": "dsh-usb",
+  "description": "DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuloong07-star/dsh-usb",
+  "repositoryUrl": "https://github.com/yuloong07-star/dsh-usb",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 613
+}
