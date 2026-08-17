@@ -1,0 +1,20 @@
+{
+  "id": "github:mytianyi0712/dsh-tui-plugin-OhMyPi",
+  "kind": "plugin",
+  "name": "dsh-tui-plugin-OhMyPi",
+  "description": "一个dsh的终端样式插件，灵感来自Oh My Pi",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mytianyi0712/dsh-tui-plugin-OhMyPi",
+  "repositoryUrl": "https://github.com/mytianyi0712/dsh-tui-plugin-OhMyPi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 680
+}
