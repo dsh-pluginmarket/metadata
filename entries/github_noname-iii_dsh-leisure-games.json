@@ -1,0 +1,20 @@
+{
+  "id": "github:noname-iii/dsh-leisure-games",
+  "kind": "plugin",
+  "name": "dsh-leisure-games",
+  "description": "Leisure games client plugin for DeepSeek Harness (dsh): Tetris, Snake, skill Gomoku and Minesweeper with a playtime limit, agent notifications, custom colors and hardened persisted state.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "noname-iii/dsh-leisure-games",
+  "repositoryUrl": "https://github.com/noname-iii/dsh-leisure-games",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 842
+}
