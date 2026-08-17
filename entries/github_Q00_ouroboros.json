@@ -1,0 +1,20 @@
+{
+  "id": "github:Q00/ouroboros",
+  "kind": "plugin",
+  "name": "ouroboros",
+  "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Q00/ouroboros",
+  "repositoryUrl": "https://github.com/Q00/ouroboros",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 789
+}
