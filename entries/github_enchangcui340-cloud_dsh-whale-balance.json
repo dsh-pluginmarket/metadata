@@ -1,0 +1,20 @@
+{
+  "id": "github:enchangcui340-cloud/dsh-whale-balance",
+  "kind": "plugin",
+  "name": "dsh-whale-balance",
+  "description": "Related DeepSeek Harness project: enchangcui340-cloud/dsh-whale-balance",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "enchangcui340-cloud/dsh-whale-balance",
+  "repositoryUrl": "https://github.com/enchangcui340-cloud/dsh-whale-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1023
+}
