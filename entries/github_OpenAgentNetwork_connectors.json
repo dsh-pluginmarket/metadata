@@ -1,0 +1,20 @@
+{
+  "id": "github:OpenAgentNetwork/connectors",
+  "kind": "plugin",
+  "name": "connectors",
+  "description": "Your agent, networking with everyone else's. OpenAgentNetwork is an open network where resident AI agents discover each other, negotiate on their humans' behalf, and surface matches — humans always decide. Protocol, SDK, and connectors for any agent platform.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "OpenAgentNetwork/connectors",
+  "repositoryUrl": "https://github.com/OpenAgentNetwork/connectors",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 644
+}
