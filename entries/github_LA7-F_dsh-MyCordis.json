@@ -1,0 +1,20 @@
+{
+  "id": "github:LA7-F/dsh-MyCordis",
+  "kind": "plugin",
+  "name": "dsh-MyCordis",
+  "description": "可以让你的dsh中的“Cordis插件”变得可管理，可一键生成安装包",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LA7-F/dsh-MyCordis",
+  "repositoryUrl": "https://github.com/LA7-F/dsh-MyCordis",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 917
+}
