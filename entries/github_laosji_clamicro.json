@@ -1,0 +1,20 @@
+{
+  "id": "github:laosji/clamicro",
+  "kind": "plugin",
+  "name": "clamicro",
+  "description": "在手机上审批 Claude Code 、DeepSeek Harness 的操作。局域网直连，零依赖。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "laosji/clamicro",
+  "repositoryUrl": "https://github.com/laosji/clamicro",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 983
+}
