@@ -1,0 +1,20 @@
+{
+  "id": "github:1052326311/dsh-plan-lattice",
+  "kind": "plugin",
+  "name": "dsh-plan-lattice",
+  "description": "Keep long-running AI agents aligned with current intent. DeepSeek Harness plugin. Reproducible mechanism test: unsafe tool-body entries 12/12 native, 0/12 with Plan Lattice; valid actions 7/7 in both.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1052326311/dsh-plan-lattice",
+  "repositoryUrl": "https://github.com/1052326311/dsh-plan-lattice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 700
+}
