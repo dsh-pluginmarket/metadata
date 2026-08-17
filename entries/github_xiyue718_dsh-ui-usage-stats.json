@@ -1,0 +1,20 @@
+{
+  "id": "github:xiyue718/dsh-ui-usage-stats",
+  "kind": "plugin",
+  "name": "dsh-ui-usage-stats",
+  "description": "Related DeepSeek Harness project: xiyue718/dsh-ui-usage-stats",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiyue718/dsh-ui-usage-stats",
+  "repositoryUrl": "https://github.com/xiyue718/dsh-ui-usage-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 670
+}
