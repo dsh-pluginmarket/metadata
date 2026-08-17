@@ -1,0 +1,20 @@
+{
+  "id": "github:Mombrane/dsh-subagent-monitor",
+  "kind": "plugin",
+  "name": "dsh-subagent-monitor",
+  "description": "Related DeepSeek Harness project: Mombrane/dsh-subagent-monitor",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Mombrane/dsh-subagent-monitor",
+  "repositoryUrl": "https://github.com/Mombrane/dsh-subagent-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 721
+}
