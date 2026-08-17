@@ -1,0 +1,20 @@
+{
+  "id": "github:xuboboo/dsh-gui",
+  "kind": "plugin",
+  "name": "dsh-gui",
+  "description": "DeepSeek Harness 桌面版客户端（GUI）：品牌启动动画 + DeepSeek 设计语言界面 + rc.5 启动崩溃修复。第三方非官方项目。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xuboboo/dsh-gui",
+  "repositoryUrl": "https://github.com/xuboboo/dsh-gui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1073
+}
