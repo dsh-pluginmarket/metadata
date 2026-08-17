@@ -1,0 +1,20 @@
+{
+  "id": "github:loonai321/dsh-humanized-deepseek-maid",
+  "kind": "plugin",
+  "name": "dsh-humanized-deepseek-maid",
+  "description": "Humanized whale-girl maid persona plugin for DeepSeek Harness: immersive roleplay, speaking modes, and ALTM-inspired layered memory.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "loonai321/dsh-humanized-deepseek-maid",
+  "repositoryUrl": "https://github.com/loonai321/dsh-humanized-deepseek-maid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1075
+}
