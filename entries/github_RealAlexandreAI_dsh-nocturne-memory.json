@@ -1,0 +1,20 @@
+{
+  "id": "github:RealAlexandreAI/dsh-nocturne-memory",
+  "kind": "plugin",
+  "name": "dsh-nocturne-memory",
+  "description": "dsh memory: Nocturne Memory client for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RealAlexandreAI/dsh-nocturne-memory",
+  "repositoryUrl": "https://github.com/RealAlexandreAI/dsh-nocturne-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 696
+}
