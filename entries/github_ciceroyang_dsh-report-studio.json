@@ -1,0 +1,20 @@
+{
+  "id": "github:ciceroyang/dsh-report-studio",
+  "kind": "plugin",
+  "name": "dsh-report-studio",
+  "description": "Turn a DeepSeek Harness session into deliverable work reports (daily/weekly/handoff/article) with verifiable receipts",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ciceroyang/dsh-report-studio",
+  "repositoryUrl": "https://github.com/ciceroyang/dsh-report-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1031
+}
