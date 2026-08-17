@@ -1,0 +1,20 @@
+{
+  "id": "github:Yiipu/dsh-agentmemory",
+  "kind": "plugin",
+  "name": "dsh-agentmemory",
+  "description": "a DSH (DeepSeek Harness) Cordis plugin that bridges a session's activity into agentmemory, a local, self-hosted memory daemon.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yiipu/dsh-agentmemory",
+  "repositoryUrl": "https://github.com/Yiipu/dsh-agentmemory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 601
+}
