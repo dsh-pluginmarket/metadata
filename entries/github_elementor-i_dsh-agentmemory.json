@@ -1,0 +1,20 @@
+{
+  "id": "github:elementor-i/dsh-agentmemory",
+  "kind": "plugin",
+  "name": "dsh-agentmemory",
+  "description": "agentmemory for DeepSeek Harness (dsh): full memory_* tools, capture hooks, and context injection over the local REST server",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elementor-i/dsh-agentmemory",
+  "repositoryUrl": "https://github.com/elementor-i/dsh-agentmemory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 660
+}
