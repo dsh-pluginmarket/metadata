@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-sidechain",
+  "kind": "plugin",
+  "name": "dsh-sidechain",
+  "description": "DSH 侧会话插件：/side 持续性侧会话（Codex 风格）与 /btw 一次性侧问（Claude 风格）——在临时 fork 中运行、不写入主会话历史；Web UI 右侧链面板内嵌对话，主会话保持不变",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-sidechain",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-sidechain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1094
+}
