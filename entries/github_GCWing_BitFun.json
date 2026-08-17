@@ -1,0 +1,20 @@
+{
+  "id": "github:GCWing/BitFun",
+  "kind": "plugin",
+  "name": "BitFun",
+  "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GCWing/BitFun",
+  "repositoryUrl": "https://github.com/GCWing/BitFun",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 799
+}
