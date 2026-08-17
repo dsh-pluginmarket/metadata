@@ -1,0 +1,20 @@
+{
+  "id": "github:possible055/agentshim",
+  "kind": "plugin",
+  "name": "agentshim",
+  "description": "A small, capability-scoped toolset for Codex.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "possible055/agentshim",
+  "repositoryUrl": "https://github.com/possible055/agentshim",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 599
+}
