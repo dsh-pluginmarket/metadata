@@ -1,0 +1,20 @@
+{
+  "id": "github:Xenia0922/dsh-opencode-go-usage",
+  "kind": "plugin",
+  "name": "dsh-opencode-go-usage",
+  "description": "DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Xenia0922/dsh-opencode-go-usage",
+  "repositoryUrl": "https://github.com/Xenia0922/dsh-opencode-go-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 661
+}
