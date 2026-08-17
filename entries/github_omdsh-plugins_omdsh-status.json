@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-plugins/omdsh-status",
+  "kind": "plugin",
+  "name": "omdsh-status",
+  "description": "Current project and its git state at a glance for the DeepSeek Harness web GUI: the project name with its branch and change counts, at the top-right corner of the Work window's conversation header",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-plugins/omdsh-status",
+  "repositoryUrl": "https://github.com/omdsh-plugins/omdsh-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1055
+}
