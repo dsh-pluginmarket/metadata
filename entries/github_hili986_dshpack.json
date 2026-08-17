@@ -1,0 +1,20 @@
+{
+  "id": "github:hili986/dshpack",
+  "kind": "plugin",
+  "name": "dshpack",
+  "description": "把一个 dsh 场景导出成可安装、可分享、可审计的 pack，再把 pack 装成标准 dsh profile",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hili986/dshpack",
+  "repositoryUrl": "https://github.com/hili986/dshpack",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 607
+}
