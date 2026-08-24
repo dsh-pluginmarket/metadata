@@ -1,0 +1,20 @@
+{
+  "id": "github:WFMinerva/dsh-turn-cost",
+  "kind": "plugin",
+  "name": "dsh-turn-cost",
+  "description": "DeepSeek Harness (dsh) Web 插件：每条 AI 回复下显示该轮真实花费（人民币，官方峰谷价）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WFMinerva/dsh-turn-cost",
+  "repositoryUrl": "https://github.com/WFMinerva/dsh-turn-cost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1524
+}
