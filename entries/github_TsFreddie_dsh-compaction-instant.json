@@ -1,0 +1,20 @@
+{
+  "id": "github:TsFreddie/dsh-compaction-instant",
+  "kind": "plugin",
+  "name": "dsh-compaction-instant",
+  "description": "LLM-free lossless* compaction engine for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TsFreddie/dsh-compaction-instant",
+  "repositoryUrl": "https://github.com/TsFreddie/dsh-compaction-instant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1629
+}
