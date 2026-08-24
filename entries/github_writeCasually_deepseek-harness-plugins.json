@@ -1,0 +1,20 @@
+{
+  "id": "github:writeCasually/deepseek-harness-plugins",
+  "kind": "plugin",
+  "name": "deepseek-harness-plugins",
+  "description": "deepseek harness plugins view",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "writeCasually/deepseek-harness-plugins",
+  "repositoryUrl": "https://github.com/writeCasually/deepseek-harness-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1699
+}
