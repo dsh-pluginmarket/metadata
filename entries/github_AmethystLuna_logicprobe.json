@@ -1,0 +1,20 @@
+{
+  "id": "github:AmethystLuna/logicprobe",
+  "kind": "plugin",
+  "name": "logicprobe",
+  "description": "Claim verification for AI coding agents — 7 structural + 7 adversarial logic-primitive probes against design docs & refactoring plans | AI 编程助手声明核查插件:对设计文档与重构计划做逻辑原语验证(7 结构 + 7 对抗探针) for Claude Code, Codex, Cursor, Kimi, OpenCode, ZCode and DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AmethystLuna/logicprobe",
+  "repositoryUrl": "https://github.com/AmethystLuna/logicprobe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1360
+}
