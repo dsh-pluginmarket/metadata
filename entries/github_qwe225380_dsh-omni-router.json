@@ -1,0 +1,20 @@
+{
+  "id": "github:qwe225380/dsh-omni-router",
+  "kind": "plugin",
+  "name": "dsh-omni-router",
+  "description": "Omni Router - auto-routing DeepSeek Harness preset: simple tasks run directly, complex tasks plan first with approval gate.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qwe225380/dsh-omni-router",
+  "repositoryUrl": "https://github.com/qwe225380/dsh-omni-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1578
+}
