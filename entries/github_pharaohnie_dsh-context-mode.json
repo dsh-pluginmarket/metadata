@@ -1,0 +1,20 @@
+{
+  "id": "github:pharaohnie/dsh-context-mode",
+  "kind": "plugin",
+  "name": "dsh-context-mode",
+  "description": "DSH 原生 Cordis 插件：知识库(FTS5)、路由强制、会话记忆、沙箱执行(Think-in-Code)——context-window 减负",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pharaohnie/dsh-context-mode",
+  "repositoryUrl": "https://github.com/pharaohnie/dsh-context-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1603
+}
