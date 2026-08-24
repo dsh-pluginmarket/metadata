@@ -1,0 +1,20 @@
+{
+  "id": "github:SouleyMoni1/dsh-experience-plugin",
+  "kind": "plugin",
+  "name": "dsh-experience-plugin",
+  "description": "DSH plugin: per-model reasoning levels for custom API models, with family presets and an official-settings-page editor.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SouleyMoni1/dsh-experience-plugin",
+  "repositoryUrl": "https://github.com/SouleyMoni1/dsh-experience-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1303
+}
