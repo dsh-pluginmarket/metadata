@@ -1,0 +1,20 @@
+{
+  "id": "github:KeepLost/harniverse",
+  "kind": "plugin",
+  "name": "harniverse",
+  "description": "General Pluggable Coding Agent based on DeepSeek-Harness for my personal taste",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KeepLost/harniverse",
+  "repositoryUrl": "https://github.com/KeepLost/harniverse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1780
+}
