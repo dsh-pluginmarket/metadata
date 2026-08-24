@@ -1,0 +1,20 @@
+{
+  "id": "github:sch246/dsh-warm-minimal",
+  "kind": "plugin",
+  "name": "dsh-warm-minimal",
+  "description": "DSH 温暖极简模式：会话创建即写入一条高质量首轮轨迹（we/let's 风格），真实输入从第二轮开始，AGENTS.md 与技能目录自然注入",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sch246/dsh-warm-minimal",
+  "repositoryUrl": "https://github.com/sch246/dsh-warm-minimal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1237
+}
