@@ -1,0 +1,20 @@
+{
+  "id": "github:alfonsoferrertorres-cyber/saare-suite",
+  "kind": "plugin",
+  "name": "saare-suite",
+  "description": "Enterprise L7 AI Governance, Ex-Ante PII Redaction (<1.16ms RAM), and Cryptographic Forensic Evidence Vault for LLM Ecosystems & DeepSeek Harness (ISO 42001 / DORA / EU AI Act).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alfonsoferrertorres-cyber/saare-suite",
+  "repositoryUrl": "https://github.com/alfonsoferrertorres-cyber/saare-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1258
+}
