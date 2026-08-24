@@ -1,0 +1,20 @@
+{
+  "id": "github:viethoang35/dsh-chat-bridge",
+  "kind": "plugin",
+  "name": "dsh-chat-bridge",
+  "description": "Chat bridge that connects Telegram (WhatsApp, Zalo, Viber, ... ) to DeepSeek Harness via its headless CLI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "viethoang35/dsh-chat-bridge",
+  "repositoryUrl": "https://github.com/viethoang35/dsh-chat-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1597
+}
