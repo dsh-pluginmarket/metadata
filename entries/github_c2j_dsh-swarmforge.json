@@ -1,0 +1,20 @@
+{
+  "id": "github:c2j/dsh-swarmforge",
+  "kind": "plugin",
+  "name": "dsh-swarmforge",
+  "description": "SwarmForge migrate as a DeepSeek Harness Plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "c2j/dsh-swarmforge",
+  "repositoryUrl": "https://github.com/c2j/dsh-swarmforge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1282
+}
