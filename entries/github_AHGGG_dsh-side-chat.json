@@ -1,0 +1,20 @@
+{
+  "id": "github:AHGGG/dsh-side-chat",
+  "kind": "plugin",
+  "name": "dsh-side-chat",
+  "description": "Codex-style Side Chat for DeepSeek Harness — select text, ask follow-up questions in a focused side conversation, and keep the main chat uninterrupted.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AHGGG/dsh-side-chat",
+  "repositoryUrl": "https://github.com/AHGGG/dsh-side-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1244
+}
