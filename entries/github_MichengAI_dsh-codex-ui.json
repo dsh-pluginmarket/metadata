@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-codex-ui",
+  "kind": "plugin",
+  "name": "dsh-codex-ui",
+  "description": "DSH Codex UI 基于 DeepSeek Harness 的 Codex UI 插件，还原度90%，小细节拉满",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-codex-ui",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-codex-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1690
+}
