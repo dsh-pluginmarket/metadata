@@ -1,0 +1,20 @@
+{
+  "id": "github:qkycir-123/dsh-run2skill",
+  "kind": "plugin",
+  "name": "dsh-run2skill",
+  "description": "DSH-native, local-first Run-to-Skill plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qkycir-123/dsh-run2skill",
+  "repositoryUrl": "https://github.com/qkycir-123/dsh-run2skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1794
+}
