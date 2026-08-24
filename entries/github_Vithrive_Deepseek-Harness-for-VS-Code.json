@@ -1,0 +1,20 @@
+{
+  "id": "github:Vithrive/Deepseek-Harness-for-VS-Code",
+  "kind": "plugin",
+  "name": "Deepseek-Harness-for-VS-Code",
+  "description": "Deepseek Harness for VS Code",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vithrive/Deepseek-Harness-for-VS-Code",
+  "repositoryUrl": "https://github.com/Vithrive/Deepseek-Harness-for-VS-Code",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1379
+}
