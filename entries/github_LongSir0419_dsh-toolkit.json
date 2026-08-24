@@ -1,0 +1,20 @@
+{
+  "id": "github:LongSir0419/dsh-toolkit",
+  "kind": "plugin",
+  "name": "dsh-toolkit",
+  "description": "DeepSeek Harness (DSH) 插件工具包——一条命令安装两个常用插件：mcp管理 与 Skill管理。装完即用，设置页自动出现 mcp管理 与 Skill管理 两个分区。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LongSir0419/dsh-toolkit",
+  "repositoryUrl": "https://github.com/LongSir0419/dsh-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1495
+}
