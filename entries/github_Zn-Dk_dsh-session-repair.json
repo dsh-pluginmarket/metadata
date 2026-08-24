@@ -1,0 +1,20 @@
+{
+  "id": "github:Zn-Dk/dsh-session-repair",
+  "kind": "plugin",
+  "name": "dsh-session-repair",
+  "description": "DSH Web 会话诊断、可信备份与一键安全修复插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zn-Dk/dsh-session-repair",
+  "repositoryUrl": "https://github.com/Zn-Dk/dsh-session-repair",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1519
+}
