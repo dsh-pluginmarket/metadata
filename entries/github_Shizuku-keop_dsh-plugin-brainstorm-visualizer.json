@@ -1,0 +1,20 @@
+{
+  "id": "github:Shizuku-keop/dsh-plugin-brainstorm-visualizer",
+  "kind": "plugin",
+  "name": "dsh-plugin-brainstorm-visualizer",
+  "description": "DeepSeek Harness Brainstorming Visualization Plugin Seamlessly combining AI divergent reasoning with visual interaction, built specifically for solving complex problems",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shizuku-keop/dsh-plugin-brainstorm-visualizer",
+  "repositoryUrl": "https://github.com/Shizuku-keop/dsh-plugin-brainstorm-visualizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1768
+}
