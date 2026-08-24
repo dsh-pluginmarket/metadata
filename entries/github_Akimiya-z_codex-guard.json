@@ -1,0 +1,20 @@
+{
+  "id": "github:Akimiya-z/codex-guard",
+  "kind": "plugin",
+  "name": "codex-guard",
+  "description": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Akimiya-z/codex-guard",
+  "repositoryUrl": "https://github.com/Akimiya-z/codex-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1668
+}
