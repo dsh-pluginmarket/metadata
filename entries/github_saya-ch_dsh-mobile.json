@@ -1,0 +1,20 @@
+{
+  "id": "github:saya-ch/dsh-mobile",
+  "kind": "plugin",
+  "name": "dsh-mobile",
+  "description": "DeepSeek Harness 移动端适配与安全访问插件，支持局域网、远程连接、Android App 和手机浏览器。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "saya-ch/dsh-mobile",
+  "repositoryUrl": "https://github.com/saya-ch/dsh-mobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1569
+}
