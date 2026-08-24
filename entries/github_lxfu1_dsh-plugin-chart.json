@@ -1,0 +1,20 @@
+{
+  "id": "github:lxfu1/dsh-plugin-chart",
+  "kind": "plugin",
+  "name": "dsh-plugin-chart",
+  "description": "Community DeepSeek Harness plugin that bundles the AntV chart visualization skill and a native chart-generation tool.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lxfu1/dsh-plugin-chart",
+  "repositoryUrl": "https://github.com/lxfu1/dsh-plugin-chart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1370
+}
