@@ -1,0 +1,20 @@
+{
+  "id": "github:tingly-dev/tingly-box",
+  "kind": "plugin",
+  "name": "tingly-box",
+  "description": "Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Everyone.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tingly-dev/tingly-box",
+  "repositoryUrl": "https://github.com/tingly-dev/tingly-box",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1782
+}
