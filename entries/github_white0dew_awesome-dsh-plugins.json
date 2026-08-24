@@ -1,0 +1,20 @@
+{
+  "id": "github:white0dew/awesome-dsh-plugins",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugins",
+  "description": "Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "white0dew/awesome-dsh-plugins",
+  "repositoryUrl": "https://github.com/white0dew/awesome-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1483
+}
