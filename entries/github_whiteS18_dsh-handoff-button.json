@@ -1,0 +1,20 @@
+{
+  "id": "github:whiteS18/dsh-handoff-button",
+  "kind": "plugin",
+  "name": "dsh-handoff-button",
+  "description": "Related DeepSeek Harness project: whiteS18/dsh-handoff-button",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "whiteS18/dsh-handoff-button",
+  "repositoryUrl": "https://github.com/whiteS18/dsh-handoff-button",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1741
+}
