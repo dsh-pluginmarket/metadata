@@ -1,0 +1,20 @@
+{
+  "id": "github:AlexKaiqi/dsh-block-to-file",
+  "kind": "plugin",
+  "name": "dsh-block-to-file",
+  "description": "simple runtime ability to map a block to file, such that bash can access",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AlexKaiqi/dsh-block-to-file",
+  "repositoryUrl": "https://github.com/AlexKaiqi/dsh-block-to-file",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1661
+}
