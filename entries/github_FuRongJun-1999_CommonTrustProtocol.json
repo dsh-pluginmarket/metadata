@@ -1,0 +1,20 @@
+{
+  "id": "github:FuRongJun-1999/CommonTrustProtocol",
+  "kind": "plugin",
+  "name": "CommonTrustProtocol",
+  "description": "Common Trust Protocol (CTP) 共同信任协议 | Intelligentics 智能论，研究智能系统存续的底层结构条件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FuRongJun-1999/CommonTrustProtocol",
+  "repositoryUrl": "https://github.com/FuRongJun-1999/CommonTrustProtocol",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1628
+}
