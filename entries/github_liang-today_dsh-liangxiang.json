@@ -1,0 +1,20 @@
+{
+  "id": "github:liang-today/dsh-liangxiang",
+  "kind": "plugin",
+  "name": "dsh-liangxiang",
+  "description": "众香成势，梁子显相。DeepSeek Harness 的 WebUI 插件，欢迎一起打梁。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liang-today/dsh-liangxiang",
+  "repositoryUrl": "https://github.com/liang-today/dsh-liangxiang",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1789
+}
