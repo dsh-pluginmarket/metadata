@@ -1,0 +1,20 @@
+{
+  "id": "github:AlexKaiqi/dsh-multi-model-provider",
+  "kind": "plugin",
+  "name": "dsh-multi-model-provider",
+  "description": "多模型支持",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AlexKaiqi/dsh-multi-model-provider",
+  "repositoryUrl": "https://github.com/AlexKaiqi/dsh-multi-model-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1592
+}
