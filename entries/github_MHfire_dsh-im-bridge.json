@@ -1,0 +1,20 @@
+{
+  "id": "github:MHfire/dsh-im-bridge",
+  "kind": "plugin",
+  "name": "dsh-im-bridge",
+  "description": "即时通讯渠道(企微、飞书等) ⇄ DeepSeek Harness Agent 桥接",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MHfire/dsh-im-bridge",
+  "repositoryUrl": "https://github.com/MHfire/dsh-im-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1275
+}
