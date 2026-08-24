@@ -1,0 +1,20 @@
+{
+  "id": "github:EasyTZ/Deepseek-Harness-Desktop",
+  "kind": "plugin",
+  "name": "Deepseek-Harness-Desktop",
+  "description": "Deepseek-Harness-Desktop",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EasyTZ/Deepseek-Harness-Desktop",
+  "repositoryUrl": "https://github.com/EasyTZ/Deepseek-Harness-Desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1751
+}
