@@ -1,0 +1,20 @@
+{
+  "id": "github:tong-io/tongflow",
+  "kind": "plugin",
+  "name": "tongflow",
+  "description": "TongFlow — Multimodal GenAI Studio",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tong-io/tongflow",
+  "repositoryUrl": "https://github.com/tong-io/tongflow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1494
+}
