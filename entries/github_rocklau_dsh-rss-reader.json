@@ -1,0 +1,20 @@
+{
+  "id": "github:rocklau/dsh-rss-reader",
+  "kind": "plugin",
+  "name": "dsh-rss-reader",
+  "description": "OpenBook RSS Reader as a DeepSeek Harness (dsh) Web UI plugin: RSS tab in the conversation view ring, sidebar go-to-RSS shortcut, ambient article awareness, discuss-into-chat, notes/highlights, sync, agent tools and chat commands.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rocklau/dsh-rss-reader",
+  "repositoryUrl": "https://github.com/rocklau/dsh-rss-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1419
+}
