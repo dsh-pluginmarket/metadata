@@ -1,0 +1,20 @@
+{
+  "id": "github:fan56/dsh-tui-pi",
+  "kind": "plugin",
+  "name": "dsh-tui-pi",
+  "description": "pi-style terminal UI for DeepSeek Harness (dsh) — pi-tui look & feel, dsh slash commands, GitHub light/dark themes, powerline footer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fan56/dsh-tui-pi",
+  "repositoryUrl": "https://github.com/fan56/dsh-tui-pi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1696
+}
