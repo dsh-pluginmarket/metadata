@@ -1,0 +1,20 @@
+{
+  "id": "github:cocofhu/dsh-testsuite",
+  "kind": "plugin",
+  "name": "dsh-testsuite",
+  "description": "testsuite of dsh plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cocofhu/dsh-testsuite",
+  "repositoryUrl": "https://github.com/cocofhu/dsh-testsuite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1293
+}
