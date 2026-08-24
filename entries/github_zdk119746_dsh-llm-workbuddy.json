@@ -1,0 +1,20 @@
+{
+  "id": "github:zdk119746/dsh-llm-workbuddy",
+  "kind": "plugin",
+  "name": "dsh-llm-workbuddy",
+  "description": "可以在 DSH 中使用 WorkBuddy 里面的模型",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zdk119746/dsh-llm-workbuddy",
+  "repositoryUrl": "https://github.com/zdk119746/dsh-llm-workbuddy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1430
+}
