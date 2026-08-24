@@ -1,0 +1,20 @@
+{
+  "id": "github:nxz1026/SinglePlayer",
+  "kind": "plugin",
+  "name": "SinglePlayer",
+  "description": "单身汉播放器，适配DeepSeek harness web的播放器，支持多平台聚合。Bachelor Player is a media player designed to integrate with DeepSeek Harness Web, supporting multi-platform content aggregation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nxz1026/SinglePlayer",
+  "repositoryUrl": "https://github.com/nxz1026/SinglePlayer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1316
+}
