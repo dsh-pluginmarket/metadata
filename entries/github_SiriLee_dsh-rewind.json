@@ -1,0 +1,20 @@
+{
+  "id": "github:SiriLee/dsh-rewind",
+  "kind": "plugin",
+  "name": "dsh-rewind",
+  "description": "DeepSeek Harness plugin: in-place conversation rewind in the same session window (Claude Code /rewind semantics) + optional file restore",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SiriLee/dsh-rewind",
+  "repositoryUrl": "https://github.com/SiriLee/dsh-rewind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1565
+}
