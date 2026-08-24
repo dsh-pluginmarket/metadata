@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/stent",
+  "kind": "plugin",
+  "name": "stent",
+  "description": "灵感来源于MC Fabric的Cordis/DSH hook处理器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/stent",
+  "repositoryUrl": "https://github.com/omdsh-dev/stent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1324
+}
