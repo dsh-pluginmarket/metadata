@@ -1,0 +1,20 @@
+{
+  "id": "github:mqhe2007/dsh-pm",
+  "kind": "plugin",
+  "name": "dsh-pm",
+  "description": "dsh-pm is the ChunSun × DeepSeek Harness reference plugin: an AI-native project-delivery loop driven by ChunSun. Requirements / Runs / Steps / acceptance scenarios & cases / work-memory, a session delivery panel, and 28 chunsun_* model tools — with the platform as the single source of truth. MIT.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mqhe2007/dsh-pm",
+  "repositoryUrl": "https://github.com/mqhe2007/dsh-pm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1491
+}
