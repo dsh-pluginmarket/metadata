@@ -1,0 +1,20 @@
+{
+  "id": "github:Letter2025/dsh-task-worktree",
+  "kind": "plugin",
+  "name": "dsh-task-worktree",
+  "description": "Related DeepSeek Harness project: Letter2025/dsh-task-worktree",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Letter2025/dsh-task-worktree",
+  "repositoryUrl": "https://github.com/Letter2025/dsh-task-worktree",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1529
+}
