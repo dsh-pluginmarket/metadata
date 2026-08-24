@@ -1,0 +1,20 @@
+{
+  "id": "github:ZJUZhiyuCai/dsh-ivory",
+  "kind": "plugin",
+  "name": "dsh-ivory",
+  "description": "Calm, auditable Claude-inspired theme for DeepSeek Harness — light/dark/mobile, safe Markdown preview, zero telemetry, zero runtime dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZJUZhiyuCai/dsh-ivory",
+  "repositoryUrl": "https://github.com/ZJUZhiyuCai/dsh-ivory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1663
+}
