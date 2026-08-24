@@ -1,0 +1,20 @@
+{
+  "id": "github:wangzhanchao883/dsh-screenshot-capture",
+  "kind": "plugin",
+  "name": "dsh-screenshot-capture",
+  "description": "Point-and-shoot screenshot capture plugin for DeepSeek Harness: clipboard watcher + system floating window (comment & key-point, copy/save-doc/save-image) + instant OCR (Tongyi Qianwen) + Obsidian per-day merging + evening AI organization. 指哪拍哪 · DSH 截图即存插件:剪贴板监听 + 系统级悬浮窗 + 即时 OCR + Obsidian 按天合并 + 晚间 AI 整理",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangzhanchao883/dsh-screenshot-capture",
+  "repositoryUrl": "https://github.com/wangzhanchao883/dsh-screenshot-capture",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1731
+}
