@@ -1,0 +1,20 @@
+{
+  "id": "github:Vesna-Strivozha/DSH-LLM-wiki-plugin",
+  "kind": "plugin",
+  "name": "DSH-LLM-wiki-plugin",
+  "description": "基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vesna-Strivozha/DSH-LLM-wiki-plugin",
+  "repositoryUrl": "https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1392
+}
