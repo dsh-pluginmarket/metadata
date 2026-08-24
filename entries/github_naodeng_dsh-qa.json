@@ -1,0 +1,20 @@
+{
+  "id": "github:naodeng/dsh-qa",
+  "kind": "plugin",
+  "name": "dsh-qa",
+  "description": "dsh-qa · QA Workbench — A local software testing workbench plugin for DeepSeek Harness. Zero-dependency test project & iteration management with AI-assisted requirements, test cases, defects, milestones, reports, kanban and calendar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "naodeng/dsh-qa",
+  "repositoryUrl": "https://github.com/naodeng/dsh-qa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1681
+}
