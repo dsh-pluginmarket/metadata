@@ -1,0 +1,20 @@
+{
+  "id": "github:ZChenW/dsh-codex-switch",
+  "kind": "plugin",
+  "name": "dsh-codex-switch",
+  "description": "ChatGPT OAuth, multi-account switching, and Codex models for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZChenW/dsh-codex-switch",
+  "repositoryUrl": "https://github.com/ZChenW/dsh-codex-switch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1770
+}
