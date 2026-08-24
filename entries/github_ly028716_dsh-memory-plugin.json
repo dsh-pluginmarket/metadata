@@ -1,0 +1,20 @@
+{
+  "id": "github:ly028716/dsh-memory-plugin",
+  "kind": "plugin",
+  "name": "dsh-memory-plugin",
+  "description": "Intelligent memory system for DSH - Track user preferences, tool usage, and project context to provide personalized recommendations",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ly028716/dsh-memory-plugin",
+  "repositoryUrl": "https://github.com/ly028716/dsh-memory-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1373
+}
