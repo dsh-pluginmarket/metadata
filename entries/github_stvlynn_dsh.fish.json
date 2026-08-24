@@ -1,0 +1,20 @@
+{
+  "id": "github:stvlynn/dsh.fish",
+  "kind": "plugin",
+  "name": "dsh.fish",
+  "description": "Discover and install DeepSeek Harness plugins, skills, MCP servers, agent presets, bundles, and profiles.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stvlynn/dsh.fish",
+  "repositoryUrl": "https://github.com/stvlynn/dsh.fish",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1365
+}
