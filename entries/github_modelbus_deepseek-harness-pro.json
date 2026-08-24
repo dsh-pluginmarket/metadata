@@ -1,0 +1,20 @@
+{
+  "id": "github:modelbus/deepseek-harness-pro",
+  "kind": "plugin",
+  "name": "deepseek-harness-pro",
+  "description": "deepseek-harness-pro 是基于 deepseek-harness 的 Web+Electron 客户端，兼容已有的deepseek-harness环境，并支持一键部署最新版deepseek-harness。相比原web功能做出增强：新增实时任务看板、电脑管家（清理/调优/进程管理）、独立插件中心等功能。界面友好，跨平台，开源免费，让 deepseek-harness 更强大易用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "modelbus/deepseek-harness-pro",
+  "repositoryUrl": "https://github.com/modelbus/deepseek-harness-pro",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1325
+}
