@@ -1,0 +1,20 @@
+{
+  "id": "github:genesis-agents/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Plugins for DeepSeek Harness: a source library that reads 72 feeds and publishes podcasts, digests and reports, plus web search over Serper, Tavily and Brave",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "genesis-agents/dsh-plugins",
+  "repositoryUrl": "https://github.com/genesis-agents/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1470
+}
