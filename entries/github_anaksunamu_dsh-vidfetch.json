@@ -1,0 +1,20 @@
+{
+  "id": "github:anaksunamu/dsh-vidfetch",
+  "kind": "plugin",
+  "name": "dsh-vidfetch",
+  "description": "Give your DeepSeek Harness agent an on-demand video downloader",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "anaksunamu/dsh-vidfetch",
+  "repositoryUrl": "https://github.com/anaksunamu/dsh-vidfetch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1682
+}
