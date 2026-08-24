@@ -1,0 +1,20 @@
+{
+  "id": "github:wyouwd1/dsh-opencode-models",
+  "kind": "plugin",
+  "name": "dsh-opencode-models",
+  "description": "Manage OpenCode Zen free-tier and Go-tier models in DeepSeek Harness: live listings from opencode.ai, drift per route, four agent tools plus an OpenCode Models settings section.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wyouwd1/dsh-opencode-models",
+  "repositoryUrl": "https://github.com/wyouwd1/dsh-opencode-models",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1228
+}
