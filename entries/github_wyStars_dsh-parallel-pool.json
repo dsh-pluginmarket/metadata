@@ -1,0 +1,20 @@
+{
+  "id": "github:wyStars/dsh-parallel-pool",
+  "kind": "plugin",
+  "name": "dsh-parallel-pool",
+  "description": "动态滚动窗口子代理任务池：一次调用跑完整批独立任务，内部滚动补位",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wyStars/dsh-parallel-pool",
+  "repositoryUrl": "https://github.com/wyStars/dsh-parallel-pool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1664
+}
