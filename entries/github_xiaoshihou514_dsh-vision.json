@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoshihou514/dsh-vision",
+  "kind": "plugin",
+  "name": "dsh-vision",
+  "description": "DeepSeek Harness: vision",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoshihou514/dsh-vision",
+  "repositoryUrl": "https://github.com/xiaoshihou514/dsh-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1545
+}
