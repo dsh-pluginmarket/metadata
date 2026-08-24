@@ -1,0 +1,20 @@
+{
+  "id": "github:querit-ai/querit-plugins",
+  "kind": "plugin",
+  "name": "querit-plugins",
+  "description": "Official Querit search plugins for AI agent harnesses: pi-querit (Pi extension), dsh-querit (DeepSeek Harness web seam), opencode-querit (OpenCode plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "querit-ai/querit-plugins",
+  "repositoryUrl": "https://github.com/querit-ai/querit-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1675
+}
