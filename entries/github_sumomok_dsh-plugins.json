@@ -1,0 +1,20 @@
+{
+  "id": "github:sumomok/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "DeepSeek Harness plugins by sumomok: quote earlier messages, edit & rerun a prompt, account balance & spend",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sumomok/dsh-plugins",
+  "repositoryUrl": "https://github.com/sumomok/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1761
+}
