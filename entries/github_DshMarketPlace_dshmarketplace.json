@@ -1,0 +1,20 @@
+{
+  "id": "github:DshMarketPlace/dshmarketplace",
+  "kind": "plugin",
+  "name": "dshmarketplace",
+  "description": "Bilingual directory of DeepSeek Harness (DSH) plugins — 3,400+ listings, sandbox-verified install commands, written detail pages, public API. Next.js on Cloudflare Workers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DshMarketPlace/dshmarketplace",
+  "repositoryUrl": "https://github.com/DshMarketPlace/dshmarketplace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1795
+}
