@@ -1,0 +1,20 @@
+{
+  "id": "github:chendefine/dsh-web-search-aggregation",
+  "kind": "plugin",
+  "name": "dsh-web-search-aggregation",
+  "description": "Aggregated web-search provider for DeepSeek Harness (DSH): one prioritized queue over AnySearch / TinyFish / Tavily with multi-key rotation and ordered fallback.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chendefine/dsh-web-search-aggregation",
+  "repositoryUrl": "https://github.com/chendefine/dsh-web-search-aggregation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1347
+}
