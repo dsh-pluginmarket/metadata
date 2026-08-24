@@ -1,0 +1,20 @@
+{
+  "id": "github:DDDFXYqiming/dsh-pseudo-vision",
+  "kind": "plugin",
+  "name": "dsh-pseudo-vision",
+  "description": "Local OCR, color-statistics, pixel-scan, and metadata bridge for text-only DeepSeek Harness models; no external vision API.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DDDFXYqiming/dsh-pseudo-vision",
+  "repositoryUrl": "https://github.com/DDDFXYqiming/dsh-pseudo-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1421
+}
