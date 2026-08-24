@@ -1,0 +1,20 @@
+{
+  "id": "github:xxccdl/DeepSeek-Harness-Mobile",
+  "kind": "plugin",
+  "name": "DeepSeek-Harness-Mobile",
+  "description": "在 Android 手机上运行 DeepSeek Harness AI 助手的 React Native 应用，内置 Termux + proot-distro 完整 Linux 环境，无需 root，支持手机控制",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xxccdl/DeepSeek-Harness-Mobile",
+  "repositoryUrl": "https://github.com/xxccdl/DeepSeek-Harness-Mobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1762
+}
