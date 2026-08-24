@@ -1,0 +1,20 @@
+{
+  "id": "github:quaner1234-cmd/dsh-subagent-watchdog",
+  "kind": "plugin",
+  "name": "dsh-subagent-watchdog",
+  "description": "DSH plugin that auto-continues a native continuable subagent once when it ends with explicit max-tokens termination — then stops. No loops, no timers, official seams only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "quaner1234-cmd/dsh-subagent-watchdog",
+  "repositoryUrl": "https://github.com/quaner1234-cmd/dsh-subagent-watchdog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1488
+}
