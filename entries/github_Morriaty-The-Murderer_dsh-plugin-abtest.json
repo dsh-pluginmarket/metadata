@@ -1,0 +1,20 @@
+{
+  "id": "github:Morriaty-The-Murderer/dsh-plugin-abtest",
+  "kind": "plugin",
+  "name": "dsh-plugin-abtest",
+  "description": "Reproducible paired A/B experiments for DeepSeek Harness plugins, with isolated runners, auditable evidence, and deterministic promotion gates.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Morriaty-The-Murderer/dsh-plugin-abtest",
+  "repositoryUrl": "https://github.com/Morriaty-The-Murderer/dsh-plugin-abtest",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1368
+}
