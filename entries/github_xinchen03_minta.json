@@ -1,0 +1,20 @@
+{
+  "id": "github:xinchen03/minta",
+  "kind": "plugin",
+  "name": "minta",
+  "description": "The context quality layer for AI agents — memory that checks itself: lifecycle governance, calibrated confidence, and   staged claim gates. Local-first, MCP 19 tools, DeepSeek Harness plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xinchen03/minta",
+  "repositoryUrl": "https://github.com/xinchen03/minta",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1461
+}
