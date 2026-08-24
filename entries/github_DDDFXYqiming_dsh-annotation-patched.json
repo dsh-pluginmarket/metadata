@@ -1,0 +1,20 @@
+{
+  "id": "github:DDDFXYqiming/dsh-annotation-patched",
+  "kind": "plugin",
+  "name": "dsh-annotation-patched",
+  "description": "DSH Web annotation/quote plugin (fork enhanced)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DDDFXYqiming/dsh-annotation-patched",
+  "repositoryUrl": "https://github.com/DDDFXYqiming/dsh-annotation-patched",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1688
+}
