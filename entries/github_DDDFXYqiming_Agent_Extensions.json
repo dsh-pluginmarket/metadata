@@ -1,0 +1,20 @@
+{
+  "id": "github:DDDFXYqiming/Agent_Extensions",
+  "kind": "plugin",
+  "name": "Agent_Extensions",
+  "description": "Agent Skills & DeepSeek Harness (DSH) 扩展库：通用智能体技能（General_skills）+ DSH 标准插件（dsh-plugin），开箱即用的 AI Agent 能力增强集合。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DDDFXYqiming/Agent_Extensions",
+  "repositoryUrl": "https://github.com/DDDFXYqiming/Agent_Extensions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1658
+}
