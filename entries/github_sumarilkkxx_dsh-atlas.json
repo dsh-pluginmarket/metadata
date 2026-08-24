@@ -1,0 +1,20 @@
+{
+  "id": "github:sumarilkkxx/dsh-atlas",
+  "kind": "plugin",
+  "name": "dsh-atlas",
+  "description": "Visual conversation canvas for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sumarilkkxx/dsh-atlas",
+  "repositoryUrl": "https://github.com/sumarilkkxx/dsh-atlas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1271
+}
