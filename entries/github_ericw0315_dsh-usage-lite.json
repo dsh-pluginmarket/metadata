@@ -1,0 +1,20 @@
+{
+  "id": "github:ericw0315/dsh-usage-lite",
+  "kind": "plugin",
+  "name": "dsh-usage-lite",
+  "description": "为 DeepSeek Harness Web 界面提供简洁、优雅的余额与 Token 用量面板。  Compact provider balances and local token-usage analytics for the DeepSeek Harness Web UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ericw0315/dsh-usage-lite",
+  "repositoryUrl": "https://github.com/ericw0315/dsh-usage-lite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1388
+}
