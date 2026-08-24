@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-archive-manager",
+  "kind": "plugin",
+  "name": "dsh-archive-manager",
+  "description": "DSH Archive Manager 基于 DeepSeek Harness 的归档会话管理插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-archive-manager",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-archive-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1727
+}
