@@ -1,0 +1,20 @@
+{
+  "id": "github:wsxwj123/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Independent plugins for DeepSeek Harness, organized as isolated packages in one monorepo.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wsxwj123/dsh-plugins",
+  "repositoryUrl": "https://github.com/wsxwj123/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1685
+}
