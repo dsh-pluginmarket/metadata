@@ -1,0 +1,20 @@
+{
+  "id": "github:coolbat/awesome-dsh-plugins",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugins",
+  "description": "Evidence-led bilingual directory of DeepSeek Harness plugins, reviewed at immutable commits.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "coolbat/awesome-dsh-plugins",
+  "repositoryUrl": "https://github.com/coolbat/awesome-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1283
+}
