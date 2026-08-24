@@ -1,0 +1,20 @@
+{
+  "id": "github:onchainyaotoshi/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Monorepo plugin DeepSeek Harness: dsh-file-explorer — panel file tree + viewer workspace di Web UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "onchainyaotoshi/dsh-plugins",
+  "repositoryUrl": "https://github.com/onchainyaotoshi/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1665
+}
