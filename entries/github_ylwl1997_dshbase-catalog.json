@@ -1,0 +1,20 @@
+{
+  "id": "github:ylwl1997/dshbase-catalog",
+  "kind": "plugin",
+  "name": "dshbase-catalog",
+  "description": "Search the dshbase plugin directory from inside DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ylwl1997/dshbase-catalog",
+  "repositoryUrl": "https://github.com/ylwl1997/dshbase-catalog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1261
+}
