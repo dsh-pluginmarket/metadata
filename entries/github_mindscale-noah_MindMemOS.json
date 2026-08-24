@@ -1,0 +1,20 @@
+{
+  "id": "github:mindscale-noah/MindMemOS",
+  "kind": "plugin",
+  "name": "MindMemOS",
+  "description": "Related DeepSeek Harness project: mindscale-noah/MindMemOS",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mindscale-noah/MindMemOS",
+  "repositoryUrl": "https://github.com/mindscale-noah/MindMemOS",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1571
+}
