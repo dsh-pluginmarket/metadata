@@ -1,0 +1,20 @@
+{
+  "id": "github:BaronCyrus/dsh-harness-ally",
+  "kind": "plugin",
+  "name": "dsh-harness-ally",
+  "description": "DeepSeek Harness 联盟模式：自由组合 DSH、Claude Code、Codex 与全部已配置模型，保留原生 Agent 生命周期与实时执行过程。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BaronCyrus/dsh-harness-ally",
+  "repositoryUrl": "https://github.com/BaronCyrus/dsh-harness-ally",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1442
+}
