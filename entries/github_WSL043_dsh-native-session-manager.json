@@ -1,0 +1,20 @@
+{
+  "id": "github:WSL043/dsh-native-session-manager",
+  "kind": "plugin",
+  "name": "dsh-native-session-manager",
+  "description": "DSH Native Session Manager for DeepSeek Harness: search archived conversations, restore sessions, and safely delete chat history.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WSL043/dsh-native-session-manager",
+  "repositoryUrl": "https://github.com/WSL043/dsh-native-session-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1413
+}
