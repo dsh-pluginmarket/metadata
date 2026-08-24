@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoksio/dsh-solution-explorer",
+  "kind": "plugin",
+  "name": "dsh-solution-explorer",
+  "description": "DSH Web GUI right sidebar: VS Code-style file explorer plus source control (git status, stage/unstage/discard, commit, diff) and a file editor with save.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoksio/dsh-solution-explorer",
+  "repositoryUrl": "https://github.com/xiaoksio/dsh-solution-explorer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1625
+}
