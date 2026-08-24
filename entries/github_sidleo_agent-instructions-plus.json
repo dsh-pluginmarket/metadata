@@ -1,0 +1,20 @@
+{
+  "id": "github:sidleo/agent-instructions-plus",
+  "kind": "plugin",
+  "name": "agent-instructions-plus",
+  "description": "Related DeepSeek Harness project: sidleo/agent-instructions-plus",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sidleo/agent-instructions-plus",
+  "repositoryUrl": "https://github.com/sidleo/agent-instructions-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1586
+}
