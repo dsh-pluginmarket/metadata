@@ -1,0 +1,20 @@
+{
+  "id": "github:rebron1900/dsh-mnemosyne",
+  "kind": "plugin",
+  "name": "dsh-mnemosyne",
+  "description": "Mnemosyne 记忆层在 DeepSeek Harness 中的插件 — 本地优先、SQLite 支持的跨会话记忆。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rebron1900/dsh-mnemosyne",
+  "repositoryUrl": "https://github.com/rebron1900/dsh-mnemosyne",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1742
+}
