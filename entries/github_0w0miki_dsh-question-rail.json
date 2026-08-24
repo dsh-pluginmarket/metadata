@@ -1,0 +1,20 @@
+{
+  "id": "github:0w0miki/dsh-question-rail",
+  "kind": "plugin",
+  "name": "dsh-question-rail",
+  "description": "给Deepseek Harness滚动条加上提问节点",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "0w0miki/dsh-question-rail",
+  "repositoryUrl": "https://github.com/0w0miki/dsh-question-rail",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1605
+}
