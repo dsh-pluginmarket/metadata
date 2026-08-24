@@ -1,0 +1,20 @@
+{
+  "id": "github:0xrushmoon/dsh-plugin",
+  "kind": "plugin",
+  "name": "dsh-plugin",
+  "description": "dsh-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "0xrushmoon/dsh-plugin",
+  "repositoryUrl": "https://github.com/0xrushmoon/dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1701
+}
