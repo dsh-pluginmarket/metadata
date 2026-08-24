@@ -1,0 +1,20 @@
+{
+  "id": "github:0neKbyte/dsh-approval-assistant_0neKbyte",
+  "kind": "plugin",
+  "name": "dsh-approval-assistant_0neKbyte",
+  "description": "deepseek 审批+问答+完成时添加提醒，可设置浏览器、系统通知、弹窗通知，可自拟音效",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "0neKbyte/dsh-approval-assistant_0neKbyte",
+  "repositoryUrl": "https://github.com/0neKbyte/dsh-approval-assistant_0neKbyte",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1728
+}
