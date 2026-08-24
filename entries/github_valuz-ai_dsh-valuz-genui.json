@@ -1,0 +1,20 @@
+{
+  "id": "github:valuz-ai/dsh-valuz-genui",
+  "kind": "plugin",
+  "name": "dsh-valuz-genui",
+  "description": "DeepSeek Harness plugin: generate_ui — the model authors A2UI documents rendered as interactive surfaces in the chat (valuz genui)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "valuz-ai/dsh-valuz-genui",
+  "repositoryUrl": "https://github.com/valuz-ai/dsh-valuz-genui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1736
+}
