@@ -1,0 +1,20 @@
+{
+  "id": "github:lunarmoon26/harness-alchemist",
+  "kind": "plugin",
+  "name": "harness-alchemist",
+  "description": "One scaffold, five agent harnesses — portable coding-agent plugins for Claude Code, Codex, OpenCode, Antigravity, and DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lunarmoon26/harness-alchemist",
+  "repositoryUrl": "https://github.com/lunarmoon26/harness-alchemist",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1617
+}
