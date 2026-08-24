@@ -1,0 +1,20 @@
+{
+  "id": "github:guhanfei-ai/dsh-mindmap",
+  "kind": "plugin",
+  "name": "dsh-mindmap",
+  "description": "让DSH帮你快速制作思维脑图",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guhanfei-ai/dsh-mindmap",
+  "repositoryUrl": "https://github.com/guhanfei-ai/dsh-mindmap",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1506
+}
