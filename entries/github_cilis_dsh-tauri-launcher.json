@@ -1,0 +1,20 @@
+{
+  "id": "github:cilis/dsh-tauri-launcher",
+  "kind": "plugin",
+  "name": "dsh-tauri-launcher",
+  "description": "DeepSeek Harness (DSH) Launcher，this is a dsh plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cilis/dsh-tauri-launcher",
+  "repositoryUrl": "https://github.com/cilis/dsh-tauri-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1231
+}
