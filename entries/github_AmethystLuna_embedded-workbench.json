@@ -1,0 +1,20 @@
+{
+  "id": "github:AmethystLuna/embedded-workbench",
+  "kind": "plugin",
+  "name": "embedded-workbench",
+  "description": "Embedded C/C++ AI engineering plugin — firmware skills (FreeRTOS, Keil, HardFault, state machines) + 1% Rule / Plan Verification Gate discipline | 嵌入式 C/C++ 工程 AI 插件:固件技能与 agent 纪律。 For Claude Code, Codex, Cursor, Kimi, OpenCode, ZCode and DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AmethystLuna/embedded-workbench",
+  "repositoryUrl": "https://github.com/AmethystLuna/embedded-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1363
+}
