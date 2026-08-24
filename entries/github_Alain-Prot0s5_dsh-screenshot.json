@@ -1,0 +1,20 @@
+{
+  "id": "github:Alain-Prot0s5/dsh-screenshot",
+  "kind": "plugin",
+  "name": "dsh-screenshot",
+  "description": "DeepSeek Harness Desktop 截图自动粘贴插件（需安装 DSH Desktop 版，仅 Win10/11，纯 AI 生成）：相机按钮 / 全局热键 Alt+A → 系统截图 → 自动粘贴进输入框 | Screenshot-to-input plugin for DeepSeek Harness Desktop (DSH Desktop app required; Windows 10/11 only; AI-generated): camera button & global hotkey Alt+A -> snip -> auto-paste into composer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Alain-Prot0s5/dsh-screenshot",
+  "repositoryUrl": "https://github.com/Alain-Prot0s5/dsh-screenshot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1585
+}
