@@ -1,0 +1,20 @@
+{
+  "id": "github:boogoo619/dsh-focus-overlay",
+  "kind": "plugin",
+  "name": "dsh-focus-overlay",
+  "description": "专注模式 / Focus mode for DeepSeek Harness (DSH)：全屏阅读视图，折叠 AI 工具调用为摘要。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "boogoo619/dsh-focus-overlay",
+  "repositoryUrl": "https://github.com/boogoo619/dsh-focus-overlay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1698
+}
