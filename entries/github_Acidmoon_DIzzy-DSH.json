@@ -1,0 +1,20 @@
+{
+  "id": "github:Acidmoon/DIzzy-DSH",
+  "kind": "plugin",
+  "name": "DIzzy-DSH",
+  "description": "My DSH plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Acidmoon/DIzzy-DSH",
+  "repositoryUrl": "https://github.com/Acidmoon/DIzzy-DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1223
+}
