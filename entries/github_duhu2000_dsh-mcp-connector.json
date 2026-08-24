@@ -1,0 +1,20 @@
+{
+  "id": "github:duhu2000/dsh-mcp-connector",
+  "kind": "plugin",
+  "name": "dsh-mcp-connector",
+  "description": "DeepSeek Harness 通用 MCP连接器、连接管理与扩展市场：连接 MCP Server，发现工具与 Prompt，扩展 AI 技能；支持 OAuth/PKCE、API Key、JSON 导入。由企查查（Qichacha/QCC）团队发起维护。General-purpose MCP connector, connection manager, plugin, extension and integration marketplace.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duhu2000/dsh-mcp-connector",
+  "repositoryUrl": "https://github.com/duhu2000/dsh-mcp-connector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1541
+}
