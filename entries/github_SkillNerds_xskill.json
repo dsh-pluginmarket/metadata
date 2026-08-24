@@ -1,0 +1,20 @@
+{
+  "id": "github:SkillNerds/xskill",
+  "kind": "plugin",
+  "name": "xskill",
+  "description": "Self-evolving skills lib for coding agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SkillNerds/xskill",
+  "repositoryUrl": "https://github.com/SkillNerds/xskill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1724
+}
