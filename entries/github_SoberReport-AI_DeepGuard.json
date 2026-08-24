@@ -1,0 +1,20 @@
+{
+  "id": "github:SoberReport-AI/DeepGuard",
+  "kind": "plugin",
+  "name": "DeepGuard",
+  "description": "A dsh plugin security audit agents team can trigger a security audit and provide a security audit report by submitting an issue",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SoberReport-AI/DeepGuard",
+  "repositoryUrl": "https://github.com/SoberReport-AI/DeepGuard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1263
+}
