@@ -1,0 +1,20 @@
+{
+  "id": "github:bettermen/dsh-course-writer",
+  "kind": "plugin",
+  "name": "dsh-course-writer",
+  "description": "虾说教材写作 · dsh-course-writer — AI course-authoring workspace plugin for DeepSeek Harness (DSH). 三栏式工作台 · 九阶段门禁 · 课程/章节/资料库/知识图谱 · 导出 TXT/Word · 分享协作。Three-pane workspace, nine-phase gated workflow, lorebook, export & share.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bettermen/dsh-course-writer",
+  "repositoryUrl": "https://github.com/bettermen/dsh-course-writer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1716
+}
