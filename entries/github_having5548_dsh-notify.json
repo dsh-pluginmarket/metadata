@@ -1,0 +1,20 @@
+{
+  "id": "github:having5548/dsh-notify",
+  "kind": "plugin",
+  "name": "dsh-notify",
+  "description": "Universal notification plugin for DeepSeek Harness: in-app toasts, native Windows toasts, one-click approval from the action center",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "having5548/dsh-notify",
+  "repositoryUrl": "https://github.com/having5548/dsh-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1785
+}
