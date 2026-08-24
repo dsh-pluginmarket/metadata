@@ -1,0 +1,20 @@
+{
+  "id": "github:Signalight/codex-to-dsh-pet",
+  "kind": "plugin",
+  "name": "codex-to-dsh-pet",
+  "description": "Convert Codex desktop pets (spritesheet atlases) into DeepSeek Harness (DSH) web-GUI pets — zero-dependency renderer, drag/wave/jump interactions, live activity poses & progress bubbles. 把 Codex 桌宠移植为 DSH 网页桌宠的通用框架",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Signalight/codex-to-dsh-pet",
+  "repositoryUrl": "https://github.com/Signalight/codex-to-dsh-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1348
+}
