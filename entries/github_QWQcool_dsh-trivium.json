@@ -1,0 +1,20 @@
+{
+  "id": "github:QWQcool/dsh-trivium",
+  "kind": "plugin",
+  "name": "dsh-trivium",
+  "description": "In-process graph memory kernel for DeepSeek Harness, backed by TriviumDB.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QWQcool/dsh-trivium",
+  "repositoryUrl": "https://github.com/QWQcool/dsh-trivium",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1729
+}
