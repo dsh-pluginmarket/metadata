@@ -1,0 +1,20 @@
+{
+  "id": "github:null5069/dsh-better-stats",
+  "kind": "plugin",
+  "name": "dsh-better-stats",
+  "description": "Enhanced DSH composer stats strip: official CNY pricing (peak/off-peak, per-model), real-time cost settlement, live LLM/tool timers, subagent tree merge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "null5069/dsh-better-stats",
+  "repositoryUrl": "https://github.com/null5069/dsh-better-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1511
+}
