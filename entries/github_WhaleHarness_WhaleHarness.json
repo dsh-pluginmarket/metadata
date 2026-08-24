@@ -1,0 +1,20 @@
+{
+  "id": "github:WhaleHarness/WhaleHarness",
+  "kind": "plugin",
+  "name": "WhaleHarness",
+  "description": "A curated DeepSeek Harness plugin store: 139 verified plugins with reproducible builds, sandboxed review, and sha256-pinned tarballs, plus transparent stats and a public audit of 1221+ DSH repos. https://whaleharness.com",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WhaleHarness/WhaleHarness",
+  "repositoryUrl": "https://github.com/WhaleHarness/WhaleHarness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1319
+}
