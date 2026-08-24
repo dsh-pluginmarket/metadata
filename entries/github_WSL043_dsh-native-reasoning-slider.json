@@ -1,0 +1,20 @@
+{
+  "id": "github:WSL043/dsh-native-reasoning-slider",
+  "kind": "plugin",
+  "name": "dsh-native-reasoning-slider",
+  "description": "DSH Native Effort Slider — model-aware reasoning control with native modes and custom light/dark colors",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WSL043/dsh-native-reasoning-slider",
+  "repositoryUrl": "https://github.com/WSL043/dsh-native-reasoning-slider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1410
+}
