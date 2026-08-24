@@ -1,0 +1,20 @@
+{
+  "id": "github:bobcat848/dsh-calculator",
+  "kind": "plugin",
+  "name": "dsh-calculator",
+  "description": "Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bobcat848/dsh-calculator",
+  "repositoryUrl": "https://github.com/bobcat848/dsh-calculator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1646
+}
