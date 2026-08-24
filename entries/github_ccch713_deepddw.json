@@ -1,0 +1,20 @@
+{
+  "id": "github:ccch713/deepddw",
+  "kind": "plugin",
+  "name": "deepddw",
+  "description": "DSH for Teams — Deploy DSH once on your LAN; memory, knowledge base & document search included. Team-ready, up to ~20 users. MIT-licensed.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccch713/deepddw",
+  "repositoryUrl": "https://github.com/ccch713/deepddw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1338
+}
