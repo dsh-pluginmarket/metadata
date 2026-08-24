@@ -1,0 +1,20 @@
+{
+  "id": "github:anysearch-team/anysearch-dsh",
+  "kind": "plugin",
+  "name": "anysearch-dsh",
+  "description": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "anysearch-team/anysearch-dsh",
+  "repositoryUrl": "https://github.com/anysearch-team/anysearch-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1556
+}
