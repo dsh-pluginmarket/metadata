@@ -1,0 +1,20 @@
+{
+  "id": "github:jhonden/my-dsh-plugins",
+  "kind": "plugin",
+  "name": "my-dsh-plugins",
+  "description": "Community plugins for the DeepSeek Harness (dsh): workspace file explorer for the Web UI (Files tab — tree, markdown preview, sandboxed reads)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jhonden/my-dsh-plugins",
+  "repositoryUrl": "https://github.com/jhonden/my-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1635
+}
