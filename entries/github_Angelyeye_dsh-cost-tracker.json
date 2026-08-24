@@ -1,0 +1,20 @@
+{
+  "id": "github:Angelyeye/dsh-cost-tracker",
+  "kind": "plugin",
+  "name": "dsh-cost-tracker",
+  "description": "DeepSeek Harness plugin: LLM token usage & cost tracking dashboard (CNY, peak/off-peak pricing), agent tools, HTTP API, persistent storage",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Angelyeye/dsh-cost-tracker",
+  "repositoryUrl": "https://github.com/Angelyeye/dsh-cost-tracker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1236
+}
