@@ -1,0 +1,20 @@
+{
+  "id": "github:hytime/dsh-client-ui-shortcuts",
+  "kind": "plugin",
+  "name": "dsh-client-ui-shortcuts",
+  "description": "Profile-aware keyboard shortcuts for the DeepSeek Harness Web Client",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hytime/dsh-client-ui-shortcuts",
+  "repositoryUrl": "https://github.com/hytime/dsh-client-ui-shortcuts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1643
+}
