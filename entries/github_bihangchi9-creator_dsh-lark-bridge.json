@@ -1,0 +1,20 @@
+{
+  "id": "github:bihangchi9-creator/dsh-lark-bridge",
+  "kind": "plugin",
+  "name": "dsh-lark-bridge",
+  "description": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bihangchi9-creator/dsh-lark-bridge",
+  "repositoryUrl": "https://github.com/bihangchi9-creator/dsh-lark-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1335
+}
