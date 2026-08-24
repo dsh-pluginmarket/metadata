@@ -1,0 +1,20 @@
+{
+  "id": "github:WSL043/dsh-codex-subscription",
+  "kind": "plugin",
+  "name": "dsh-codex-subscription",
+  "description": "DeepSeek Harness 的 ChatGPT/Codex 订阅插件：独立 OAuth、模型、真实额度、搜索与图片；无需 API Key 或 Codex CLI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WSL043/dsh-codex-subscription",
+  "repositoryUrl": "https://github.com/WSL043/dsh-codex-subscription",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1288
+}
