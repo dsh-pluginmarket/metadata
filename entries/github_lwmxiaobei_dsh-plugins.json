@@ -1,0 +1,20 @@
+{
+  "id": "github:lwmxiaobei/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "DeepSeek Harness 社区插件目录，自动汇总并基础校验 GitHub 插件，支持搜索、筛选、双语详情与最新版本安装命令复制。Community directory for DeepSeek Harness plugins with automated discovery, basic validation, search, filters, bilingual details, and latest version install commands.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lwmxiaobei/dsh-plugins",
+  "repositoryUrl": "https://github.com/lwmxiaobei/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1686
+}
