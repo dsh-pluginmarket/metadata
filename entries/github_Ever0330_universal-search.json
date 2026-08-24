@@ -1,0 +1,20 @@
+{
+  "id": "github:Ever0330/universal-search",
+  "kind": "plugin",
+  "name": "universal-search",
+  "description": "Universal search provider for DeepSeek Harness web capability seam, supporting multiple API formats.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ever0330/universal-search",
+  "repositoryUrl": "https://github.com/Ever0330/universal-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1521
+}
