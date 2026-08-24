@@ -1,0 +1,20 @@
+{
+  "id": "github:jianxx/dsh-cc-plugins",
+  "kind": "plugin",
+  "name": "dsh-cc-plugins",
+  "description": "Claude Code feature-parity plugins for the DeepSeek Harness (dsh) — settings cascade, permission rules, hooks, memory, skills, subagents, and a CC Mode agent preset, installable into any dsh profile.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jianxx/dsh-cc-plugins",
+  "repositoryUrl": "https://github.com/jianxx/dsh-cc-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1582
+}
