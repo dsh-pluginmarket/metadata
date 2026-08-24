@@ -1,0 +1,20 @@
+{
+  "id": "github:ArvinQi/dsh-mcp",
+  "kind": "plugin",
+  "name": "dsh-mcp",
+  "description": "DeepSeek Harness 的 MCP 服务器管理插件：可视化界面管理 + 按需热注入，OAuth 鉴权支持，环境变量配置。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ArvinQi/dsh-mcp",
+  "repositoryUrl": "https://github.com/ArvinQi/dsh-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1589
+}
