@@ -1,0 +1,20 @@
+{
+  "id": "github:xbzbing/dsh-auth-gateway",
+  "kind": "plugin",
+  "name": "dsh-auth-gateway",
+  "description": "为 DeepSeek Harness 增加远程访问能力，并通过密码和 OTP 进行安全加固。 Adds secure remote access to DeepSeek Harness with password auth and TOTP two-factor authentication (2FA).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xbzbing/dsh-auth-gateway",
+  "repositoryUrl": "https://github.com/xbzbing/dsh-auth-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1532
+}
