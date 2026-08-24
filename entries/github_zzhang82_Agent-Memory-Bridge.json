@@ -1,0 +1,20 @@
+{
+  "id": "github:zzhang82/Agent-Memory-Bridge",
+  "kind": "plugin",
+  "name": "Agent-Memory-Bridge",
+  "description": "Persistent engineering memory for coding agents over MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zzhang82/Agent-Memory-Bridge",
+  "repositoryUrl": "https://github.com/zzhang82/Agent-Memory-Bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1733
+}
