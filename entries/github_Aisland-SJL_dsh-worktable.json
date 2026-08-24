@@ -1,0 +1,20 @@
+{
+  "id": "github:Aisland-SJL/dsh-worktable",
+  "kind": "plugin",
+  "name": "dsh-worktable",
+  "description": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aisland-SJL/dsh-worktable",
+  "repositoryUrl": "https://github.com/Aisland-SJL/dsh-worktable",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1277
+}
