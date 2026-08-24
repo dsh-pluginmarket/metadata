@@ -1,0 +1,20 @@
+{
+  "id": "github:kendu76/dsh-music-player",
+  "kind": "plugin",
+  "name": "dsh-music-player",
+  "description": "music player plugin for deepseek harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kendu76/dsh-music-player",
+  "repositoryUrl": "https://github.com/kendu76/dsh-music-player",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1328
+}
