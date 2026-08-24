@@ -1,0 +1,20 @@
+{
+  "id": "github:gehennawu/dsh-service",
+  "kind": "plugin",
+  "name": "dsh-service",
+  "description": "DSH Web 自托管运维插件：安全重启/恢复、健康诊断、模型用量与错误统计、备份及 Linux 权限维护｜Self-hosted operations plugin for DSH Web: safe restart/recovery, health diagnostics, model usage/error stats, backups, and Linux permission repair.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gehennawu/dsh-service",
+  "repositoryUrl": "https://github.com/gehennawu/dsh-service",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1773
+}
