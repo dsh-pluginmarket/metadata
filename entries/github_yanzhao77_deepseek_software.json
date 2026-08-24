@@ -1,0 +1,20 @@
+{
+  "id": "github:yanzhao77/deepseek_software",
+  "kind": "plugin",
+  "name": "deepseek_software",
+  "description": "Autonomous software factory built on DeepSeek Harness — turn natural-language requirements into real, tested, buildable and deployable software.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yanzhao77/deepseek_software",
+  "repositoryUrl": "https://github.com/yanzhao77/deepseek_software",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1718
+}
