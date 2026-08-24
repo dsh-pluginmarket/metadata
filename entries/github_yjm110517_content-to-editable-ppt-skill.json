@@ -1,0 +1,20 @@
+{
+  "id": "github:yjm110517/content-to-editable-ppt-skill",
+  "kind": "plugin",
+  "name": "content-to-editable-ppt-skill",
+  "description": "Bootstrap runtime for generating multi-slide editable PowerPoint presentations from topics, documents, or outlines.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yjm110517/content-to-editable-ppt-skill",
+  "repositoryUrl": "https://github.com/yjm110517/content-to-editable-ppt-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1300
+}
