@@ -1,0 +1,20 @@
+{
+  "id": "github:vshulcz/deja-vu",
+  "kind": "plugin",
+  "name": "deja-vu",
+  "description": "Memory for coding agents — Claude Code, Codex, Cursor and 17 others. Indexes the sessions they already wrote to disk, including months from before you installed it, and recalls them in any of them. No LLM, no embeddings, one local Go binary.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vshulcz/deja-vu",
+  "repositoryUrl": "https://github.com/vshulcz/deja-vu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1341
+}
