@@ -1,0 +1,20 @@
+{
+  "id": "github:dshworks/dsh-meter",
+  "kind": "plugin",
+  "name": "dsh-meter",
+  "description": "The DeepSeek time-of-use meter for dsh: what this session cost, which tariff is running, when it flips, and the balance behind it — one line under the composer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dshworks/dsh-meter",
+  "repositoryUrl": "https://github.com/dshworks/dsh-meter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1670
+}
