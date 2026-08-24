@@ -1,0 +1,20 @@
+{
+  "id": "github:mexiaosqwq/dsh-web-mobile",
+  "kind": "plugin",
+  "name": "dsh-web-mobile",
+  "description": "DSH Web UI 移动端适配：窄屏好用，宽屏适用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mexiaosqwq/dsh-web-mobile",
+  "repositoryUrl": "https://github.com/mexiaosqwq/dsh-web-mobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1633
+}
