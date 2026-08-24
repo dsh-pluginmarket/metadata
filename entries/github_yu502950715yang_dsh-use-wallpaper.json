@@ -1,0 +1,20 @@
+{
+  "id": "github:yu502950715yang/dsh-use-wallpaper",
+  "kind": "plugin",
+  "name": "dsh-use-wallpaper",
+  "description": "DSH Web GUI 壁纸背景插件：从本机 Wallpaper Engine 壁纸库加载背景，wasm 渲染 scene 壁纸",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yu502950715yang/dsh-use-wallpaper",
+  "repositoryUrl": "https://github.com/yu502950715yang/dsh-use-wallpaper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1749
+}
