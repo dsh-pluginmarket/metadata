@@ -1,0 +1,20 @@
+{
+  "id": "github:rocklau/dsh-ui-tool-graph",
+  "kind": "plugin",
+  "name": "dsh-ui-tool-graph",
+  "description": "Tool-call value graph tab for the DeepSeek Harness (dsh) Web UI: cost/duration/error weights over conversation trajectories with one-click next-turn optimization prompts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rocklau/dsh-ui-tool-graph",
+  "repositoryUrl": "https://github.com/rocklau/dsh-ui-tool-graph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1694
+}
