@@ -1,0 +1,20 @@
+{
+  "id": "github:jyao-SUSE-power-group/dsh-provider-rate-limit",
+  "kind": "plugin",
+  "name": "dsh-provider-rate-limit",
+  "description": "dsh-provider-rate-limit",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jyao-SUSE-power-group/dsh-provider-rate-limit",
+  "repositoryUrl": "https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1638
+}
