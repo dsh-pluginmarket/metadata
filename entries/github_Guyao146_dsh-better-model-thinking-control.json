@@ -1,0 +1,20 @@
+{
+  "id": "github:Guyao146/dsh-better-model-thinking-control",
+  "kind": "plugin",
+  "name": "dsh-better-model-thinking-control",
+  "description": "DSH 插件：为 OpenAI 兼容中转站按模型管理思考强度，并自动识别公开能力",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Guyao146/dsh-better-model-thinking-control",
+  "repositoryUrl": "https://github.com/Guyao146/dsh-better-model-thinking-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1336
+}
