@@ -1,0 +1,20 @@
+{
+  "id": "github:GreenLv/dsh-session-insights",
+  "kind": "plugin",
+  "name": "dsh-session-insights",
+  "description": "Local-first, evidence-backed workflow retrospectives for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GreenLv/dsh-session-insights",
+  "repositoryUrl": "https://github.com/GreenLv/dsh-session-insights",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1445
+}
