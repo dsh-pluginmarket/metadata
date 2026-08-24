@@ -1,0 +1,20 @@
+{
+  "id": "github:enoughpower/dsh-harmony",
+  "kind": "plugin",
+  "name": "dsh-harmony",
+  "description": "DSH Harmony 客户端 搭配 dsh-pocket 使用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "enoughpower/dsh-harmony",
+  "repositoryUrl": "https://github.com/enoughpower/dsh-harmony",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1297
+}
