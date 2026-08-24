@@ -1,0 +1,20 @@
+{
+  "id": "github:wowyuarm/dsh-agent-team",
+  "kind": "plugin",
+  "name": "dsh-agent-team",
+  "description": "Opt-in Agent Team collaboration bundle for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wowyuarm/dsh-agent-team",
+  "repositoryUrl": "https://github.com/wowyuarm/dsh-agent-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1235
+}
