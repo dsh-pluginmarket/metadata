@@ -1,0 +1,20 @@
+{
+  "id": "github:940842546/dsh-usage-billing",
+  "kind": "plugin",
+  "name": "dsh-usage-billing",
+  "description": "Related DeepSeek Harness project: 940842546/dsh-usage-billing",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "940842546/dsh-usage-billing",
+  "repositoryUrl": "https://github.com/940842546/dsh-usage-billing",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1304
+}
