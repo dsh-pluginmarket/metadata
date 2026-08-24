@@ -1,0 +1,20 @@
+{
+  "id": "github:DoggyHU/dsh-daily-sticky",
+  "kind": "plugin",
+  "name": "dsh-daily-sticky",
+  "description": "Related DeepSeek Harness project: DoggyHU/dsh-daily-sticky",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DoggyHU/dsh-daily-sticky",
+  "repositoryUrl": "https://github.com/DoggyHU/dsh-daily-sticky",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1621
+}
