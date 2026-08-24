@@ -1,0 +1,20 @@
+{
+  "id": "github:warrenop/open-preset-harness",
+  "kind": "plugin",
+  "name": "open-preset-harness",
+  "description": "DSH Memory plugin (dsh-tool-project-memory): shared project organizational memory across presets — recall, remember, memory_status",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "warrenop/open-preset-harness",
+  "repositoryUrl": "https://github.com/warrenop/open-preset-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1536
+}
