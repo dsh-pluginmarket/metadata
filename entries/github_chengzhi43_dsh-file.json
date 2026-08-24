@@ -1,0 +1,20 @@
+{
+  "id": "github:chengzhi43/dsh-file",
+  "kind": "plugin",
+  "name": "dsh-file",
+  "description": "A VS Code-style file manager plugin for DeepSeek Harness Web / DeepSeek Harness 的 VS Code 风格文件管理器插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chengzhi43/dsh-file",
+  "repositoryUrl": "https://github.com/chengzhi43/dsh-file",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1679
+}
