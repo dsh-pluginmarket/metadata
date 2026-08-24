@@ -1,0 +1,20 @@
+{
+  "id": "github:SSShooter/dsh-mindmap-live",
+  "kind": "plugin",
+  "name": "dsh-mindmap-live",
+  "description": "DSH 实时思维导图插件：Agent 与你共编同一棵树，改动即时互相同步，支持停靠分屏与全屏专注两种视图",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SSShooter/dsh-mindmap-live",
+  "repositoryUrl": "https://github.com/SSShooter/dsh-mindmap-live",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1487
+}
