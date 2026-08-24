@@ -1,0 +1,20 @@
+{
+  "id": "github:qwert702/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "Long-term memory plugin for the DeepSeek Harness Web GUI: project+global stores, auto extraction/injection, small-model consolidation, Obsidian-style link graph.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qwert702/dsh-memory",
+  "repositoryUrl": "https://github.com/qwert702/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1355
+}
