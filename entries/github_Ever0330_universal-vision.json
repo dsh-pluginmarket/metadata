@@ -1,0 +1,20 @@
+{
+  "id": "github:Ever0330/universal-vision",
+  "kind": "plugin",
+  "name": "universal-vision",
+  "description": "Universal vision-model plugin for DeepSeek Harness, enabling image description using any configured vision model.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ever0330/universal-vision",
+  "repositoryUrl": "https://github.com/Ever0330/universal-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1515
+}
