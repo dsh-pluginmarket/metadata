@@ -1,0 +1,20 @@
+{
+  "id": "github:sluminositys/dsh-nested-followups",
+  "kind": "plugin",
+  "name": "dsh-nested-followups",
+  "description": "Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sluminositys/dsh-nested-followups",
+  "repositoryUrl": "https://github.com/sluminositys/dsh-nested-followups",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1656
+}
