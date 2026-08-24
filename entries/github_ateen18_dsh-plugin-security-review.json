@@ -1,0 +1,20 @@
+{
+  "id": "github:ateen18/dsh-plugin-security-review",
+  "kind": "plugin",
+  "name": "dsh-plugin-security-review",
+  "description": "Security review gate for DeepSeek Harness (dsh) plugins: static pre-install vetting of malicious code, vulnerabilities and supply-chain risks (with deobfuscation decoding), runtime audit, optional tool-call guard, and a one-click web review/install/uninstall panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ateen18/dsh-plugin-security-review",
+  "repositoryUrl": "https://github.com/ateen18/dsh-plugin-security-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1709
+}
