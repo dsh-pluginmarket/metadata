@@ -1,0 +1,20 @@
+{
+  "id": "github:ismoss/dsh-harness-zh-l10n",
+  "kind": "plugin",
+  "name": "dsh-harness-zh-l10n",
+  "description": "DeepSeek Harness (dsh) 中文界面汉化补丁：五模式描述/权限标签/命令描述/梁神模式全部汉化，apply.bat 一键安装，拿到就能用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ismoss/dsh-harness-zh-l10n",
+  "repositoryUrl": "https://github.com/ismoss/dsh-harness-zh-l10n",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1608
+}
