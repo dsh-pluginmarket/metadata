@@ -1,0 +1,20 @@
+{
+  "id": "github:Walvez/dsh-codex-sync",
+  "kind": "plugin",
+  "name": "dsh-codex-sync",
+  "description": "The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Walvez/dsh-codex-sync",
+  "repositoryUrl": "https://github.com/Walvez/dsh-codex-sync",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1473
+}
