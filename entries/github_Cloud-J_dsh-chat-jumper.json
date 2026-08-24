@@ -1,0 +1,20 @@
+{
+  "id": "github:Cloud-J/dsh-chat-jumper",
+  "kind": "plugin",
+  "name": "dsh-chat-jumper",
+  "description": "dsh对话导航",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Cloud-J/dsh-chat-jumper",
+  "repositoryUrl": "https://github.com/Cloud-J/dsh-chat-jumper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1469
+}
