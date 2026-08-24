@@ -1,0 +1,20 @@
+{
+  "id": "github:sunyuhuirong/shl-session-history",
+  "kind": "plugin",
+  "name": "shl-session-history",
+  "description": "DeepSeek Harness plugin: conversation history request rail (ZCode-style) - 会话历史请求迷你滑轨",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sunyuhuirong/shl-session-history",
+  "repositoryUrl": "https://github.com/sunyuhuirong/shl-session-history",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1352
+}
