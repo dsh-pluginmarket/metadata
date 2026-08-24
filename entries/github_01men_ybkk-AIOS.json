@@ -1,0 +1,20 @@
+{
+  "id": "github:01men/ybkk-AIOS",
+  "kind": "plugin",
+  "name": "ybkk-AIOS",
+  "description": "企业 AI 资源统一管理平台 —— 13 个 dsh/cordis 插件（IAM/OIDC/MCP/Skill 市场/Agent/审计/计费/插件市场），dsh plugin add 可直接安装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "01men/ybkk-AIOS",
+  "repositoryUrl": "https://github.com/01men/ybkk-AIOS",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1772
+}
