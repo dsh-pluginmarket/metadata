@@ -1,0 +1,20 @@
+{
+  "id": "github:trewvip-arch/dsh-open-in-app",
+  "kind": "plugin",
+  "name": "dsh-open-in-app",
+  "description": "dsh web-UI plugin: open the current session's workspace folder with an installed app (Finder, Terminal, VS Code, Ghostty, Zed, ...) — icons included",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "trewvip-arch/dsh-open-in-app",
+  "repositoryUrl": "https://github.com/trewvip-arch/dsh-open-in-app",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1649
+}
