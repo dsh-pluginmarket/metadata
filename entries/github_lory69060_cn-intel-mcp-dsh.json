@@ -1,0 +1,20 @@
+{
+  "id": "github:lory69060/cn-intel-mcp-dsh",
+  "kind": "plugin",
+  "name": "cn-intel-mcp-dsh",
+  "description": "DeepSeek Harness plugin: China hard-tech supply chain intelligence (MCP: signal board / track record / Q&A)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lory69060/cn-intel-mcp-dsh",
+  "repositoryUrl": "https://github.com/lory69060/cn-intel-mcp-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1610
+}
