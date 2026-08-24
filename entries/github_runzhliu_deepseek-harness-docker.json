@@ -1,0 +1,20 @@
+{
+  "id": "github:runzhliu/deepseek-harness-docker",
+  "kind": "plugin",
+  "name": "deepseek-harness-docker",
+  "description": "Community Docker and Kubernetes packaging for DeepSeek Harness (@deepseek-ai/dsh), with a hardened image, Compose stack, Helm chart, Web UI, and headless CLI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "runzhliu/deepseek-harness-docker",
+  "repositoryUrl": "https://github.com/runzhliu/deepseek-harness-docker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1225
+}
