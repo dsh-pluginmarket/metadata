@@ -1,0 +1,20 @@
+{
+  "id": "github:Lum1104/dsh-browser",
+  "kind": "plugin",
+  "name": "dsh-browser",
+  "description": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lum1104/dsh-browser",
+  "repositoryUrl": "https://github.com/Lum1104/dsh-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1407
+}
