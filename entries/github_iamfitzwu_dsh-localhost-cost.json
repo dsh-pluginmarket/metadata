@@ -1,0 +1,20 @@
+{
+  "id": "github:iamfitzwu/dsh-localhost-cost",
+  "kind": "plugin",
+  "name": "dsh-localhost-cost",
+  "description": "DeepSeek cost projection plugin for local-model developers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iamfitzwu/dsh-localhost-cost",
+  "repositoryUrl": "https://github.com/iamfitzwu/dsh-localhost-cost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1405
+}
