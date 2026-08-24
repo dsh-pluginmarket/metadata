@@ -1,0 +1,20 @@
+{
+  "id": "github:yxie2/dsh-petrinet",
+  "kind": "plugin",
+  "name": "dsh-petrinet",
+  "description": "Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checking before a plan becomes durable, and process mining over its own event log.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yxie2/dsh-petrinet",
+  "repositoryUrl": "https://github.com/yxie2/dsh-petrinet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1383
+}
