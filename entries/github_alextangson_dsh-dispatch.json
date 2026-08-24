@@ -1,0 +1,20 @@
+{
+  "id": "github:alextangson/dsh-dispatch",
+  "kind": "plugin",
+  "name": "dsh-dispatch",
+  "description": "📱 Dispatch tasks to DeepSeek Harness (dsh) from your phone — approvals on your lock screen, isolated git worktrees, E2E encrypted, self-hostable. Like Claude Code Dispatch, for dsh.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alextangson/dsh-dispatch",
+  "repositoryUrl": "https://github.com/alextangson/dsh-dispatch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1378
+}
