@@ -1,0 +1,20 @@
+{
+  "id": "github:evil7/deepSea",
+  "kind": "plugin",
+  "name": "deepSea",
+  "description": "搜罗类聚 deepseek-harness 周边插件生态，提供快速搜索、下载使用、社区讨论、插件评分、协助开发等能力。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "evil7/deepSea",
+  "repositoryUrl": "https://github.com/evil7/deepSea",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1339
+}
