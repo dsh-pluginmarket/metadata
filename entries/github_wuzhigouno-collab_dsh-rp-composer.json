@@ -1,0 +1,20 @@
+{
+  "id": "github:wuzhigouno-collab/dsh-rp-composer",
+  "kind": "plugin",
+  "name": "dsh-rp-composer",
+  "description": "TriComposer · DSH web 端 RP 结构化输入插件：台词/动作/心理分框填空、模板组装发送，从输入层消除 AI 对玩家言行的成分误识别。Structured tri-channel input composer for LLM roleplay on DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wuzhigouno-collab/dsh-rp-composer",
+  "repositoryUrl": "https://github.com/wuzhigouno-collab/dsh-rp-composer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1396
+}
