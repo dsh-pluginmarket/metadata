@@ -1,0 +1,20 @@
+{
+  "id": "github:Lxd-Ashe/dsh-codex-theme",
+  "kind": "plugin",
+  "name": "dsh-codex-theme",
+  "description": "Codex themes (light + dark) for the DeepSeek Harness (DSH) web GUI as a configurable appearance plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lxd-Ashe/dsh-codex-theme",
+  "repositoryUrl": "https://github.com/Lxd-Ashe/dsh-codex-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1740
+}
