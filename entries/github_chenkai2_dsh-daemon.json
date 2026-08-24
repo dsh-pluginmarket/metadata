@@ -1,0 +1,20 @@
+{
+  "id": "github:chenkai2/dsh-daemon",
+  "kind": "plugin",
+  "name": "dsh-daemon",
+  "description": "dsh daemon: register the DeepSeek Harness web server (dsh web) as an auto-start, self-healing background service (LaunchAgent / systemd / cron + watchdog)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenkai2/dsh-daemon",
+  "repositoryUrl": "https://github.com/chenkai2/dsh-daemon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1594
+}
