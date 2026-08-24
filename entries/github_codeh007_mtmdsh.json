@@ -1,0 +1,20 @@
+{
+  "id": "github:codeh007/mtmdsh",
+  "kind": "plugin",
+  "name": "mtmdsh",
+  "description": "Portable DeepSeek Harness plugins for mtm",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "codeh007/mtmdsh",
+  "repositoryUrl": "https://github.com/codeh007/mtmdsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1226
+}
