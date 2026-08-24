@@ -1,0 +1,20 @@
+{
+  "id": "github:codingayice/dsh-interview",
+  "kind": "plugin",
+  "name": "dsh-interview",
+  "description": "面向开发岗位的 DSH 面试训练插件，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "codingayice/dsh-interview",
+  "repositoryUrl": "https://github.com/codingayice/dsh-interview",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1476
+}
