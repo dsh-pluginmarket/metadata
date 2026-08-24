@@ -1,0 +1,20 @@
+{
+  "id": "github:LongSir0419/dsh-git-branch-manage",
+  "kind": "plugin",
+  "name": "dsh-git-branch-manage",
+  "description": "Related DeepSeek Harness project: LongSir0419/dsh-git-branch-manage",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LongSir0419/dsh-git-branch-manage",
+  "repositoryUrl": "https://github.com/LongSir0419/dsh-git-branch-manage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1466
+}
