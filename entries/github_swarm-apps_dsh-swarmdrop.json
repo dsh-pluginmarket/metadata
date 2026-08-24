@@ -1,0 +1,20 @@
+{
+  "id": "github:swarm-apps/dsh-swarmdrop",
+  "kind": "plugin",
+  "name": "dsh-swarmdrop",
+  "description": "Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end-to-end encrypted.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "swarm-apps/dsh-swarmdrop",
+  "repositoryUrl": "https://github.com/swarm-apps/dsh-swarmdrop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1441
+}
