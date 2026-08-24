@@ -1,0 +1,20 @@
+{
+  "id": "github:xmuwenxiang/dsh-web-chat",
+  "kind": "plugin",
+  "name": "dsh-web-chat",
+  "description": "Deepseek Harness插件，可以直接在Deepseek Harness中使用网页版deepseek进行聊天，并将聊天过程直接迁移到Deepseek Harness进一步进行开发。主要目的是节省前期方案讨论时的token",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xmuwenxiang/dsh-web-chat",
+  "repositoryUrl": "https://github.com/xmuwenxiang/dsh-web-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1715
+}
