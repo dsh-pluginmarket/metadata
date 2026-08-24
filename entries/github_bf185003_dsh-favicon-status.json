@@ -1,0 +1,20 @@
+{
+  "id": "github:bf185003/dsh-favicon-status",
+  "kind": "plugin",
+  "name": "dsh-favicon-status",
+  "description": "Browser tab status indicator plugin for DeepSeek Harness (dsh web): paints the document favicon from the sessions list projection - green done / amber waiting / blue running, spinning while work executes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bf185003/dsh-favicon-status",
+  "repositoryUrl": "https://github.com/bf185003/dsh-favicon-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1779
+}
