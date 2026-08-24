@@ -1,0 +1,20 @@
+{
+  "id": "github:tuofangzhe/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Community plugin registry for DeepSeek Harness (DSH) plugins, Skills & MCP — DSH 插件目录与中文安装配置教程 · 52dsh.com",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tuofangzhe/dsh-plugins",
+  "repositoryUrl": "https://github.com/tuofangzhe/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1543
+}
