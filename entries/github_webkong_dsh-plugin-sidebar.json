@@ -1,0 +1,20 @@
+{
+  "id": "github:webkong/dsh-plugin-sidebar",
+  "kind": "plugin",
+  "name": "dsh-plugin-sidebar",
+  "description": "🚀 为 DeepSeek Harness 而生的左右侧栏：左侧按工作区浏览会话（状态点/分组/搜索/移动到文件夹），右侧就地浏览文件 + Git 面板（状态/暂存/diff/提交/历史/分支）—— 会话管理像 IDE 一样顺手。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "webkong/dsh-plugin-sidebar",
+  "repositoryUrl": "https://github.com/webkong/dsh-plugin-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1509
+}
