@@ -1,0 +1,20 @@
+{
+  "id": "github:SiriusWJ/dsh-updater-npm",
+  "kind": "plugin",
+  "name": "dsh-updater-npm",
+  "description": "DSH updater + official docs sync plugin: one-click npm update with live progress, incremental docs sync with progress, dsh_docs_search/read tools. DSH 更新器+官方文档同步器（进度显示）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SiriusWJ/dsh-updater-npm",
+  "repositoryUrl": "https://github.com/SiriusWJ/dsh-updater-npm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1623
+}
