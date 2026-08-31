@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-codex-desktop",
+  "kind": "plugin",
+  "name": "dsh-codex-desktop",
+  "description": "DeepSeek Harness Codex Desktop — 无需预装环境、开箱即用的跨平台桌面客户端 · A ready-to-use cross-platform DeepSeek Harness desktop client with no environment setup",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-codex-desktop",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-codex-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2139
+}
