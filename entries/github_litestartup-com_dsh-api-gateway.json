@@ -1,0 +1,20 @@
+{
+  "id": "github:litestartup-com/dsh-api-gateway",
+  "kind": "plugin",
+  "name": "dsh-api-gateway",
+  "description": "DeepSeek Harness's API Gateway plugin: Any third-party client can interact with your DSH Agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "litestartup-com/dsh-api-gateway",
+  "repositoryUrl": "https://github.com/litestartup-com/dsh-api-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2355
+}
