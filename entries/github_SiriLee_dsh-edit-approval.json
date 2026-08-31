@@ -1,0 +1,20 @@
+{
+  "id": "github:SiriLee/dsh-edit-approval",
+  "kind": "plugin",
+  "name": "dsh-edit-approval",
+  "description": "Per-edit approval gate for DeepSeek Harness — red/green line diff review before write/edit/stream operations · DSH 插件：逐操作审批门，write/edit/stream 执行前进行红绿行级 diff 审查",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SiriLee/dsh-edit-approval",
+  "repositoryUrl": "https://github.com/SiriLee/dsh-edit-approval",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2244
+}
