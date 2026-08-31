@@ -1,0 +1,20 @@
+{
+  "id": "github:oppnc/dsh-kernel-codex",
+  "kind": "plugin",
+  "name": "dsh-kernel-codex",
+  "description": "Codex CLI written in DSH form: the OpenAI Codex tool surface re-registered as native DeepSeek Harness tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oppnc/dsh-kernel-codex",
+  "repositoryUrl": "https://github.com/oppnc/dsh-kernel-codex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2044
+}
