@@ -1,0 +1,20 @@
+{
+  "id": "github:hrhgit/dsh-agent-manager",
+  "kind": "plugin",
+  "name": "dsh-agent-manager",
+  "description": "Related DeepSeek Harness project: hrhgit/dsh-agent-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hrhgit/dsh-agent-manager",
+  "repositoryUrl": "https://github.com/hrhgit/dsh-agent-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2129
+}
