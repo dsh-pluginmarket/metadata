@@ -1,0 +1,20 @@
+{
+  "id": "github:Diluka/dsh-persona",
+  "kind": "plugin",
+  "name": "dsh-persona",
+  "description": "Configurable coding collaboration style prompts and settings UI for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Diluka/dsh-persona",
+  "repositoryUrl": "https://github.com/Diluka/dsh-persona",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2152
+}
