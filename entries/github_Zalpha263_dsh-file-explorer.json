@@ -1,0 +1,20 @@
+{
+  "id": "github:Zalpha263/dsh-file-explorer",
+  "kind": "plugin",
+  "name": "dsh-file-explorer",
+  "description": "可以像其他agent一样查看当前工作区的文件夹，并且可以预览文件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zalpha263/dsh-file-explorer",
+  "repositoryUrl": "https://github.com/Zalpha263/dsh-file-explorer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2122
+}
