@@ -1,0 +1,20 @@
+{
+  "id": "github:yoshino-xiao7/dsh-codex",
+  "kind": "plugin",
+  "name": "dsh-codex",
+  "description": "社区维护的 DeepSeek Harness Codex 插件：OAuth、模型、图片与流式恢复；非官方 / Community Codex plugin for DSH: OAuth, models, images, stream recovery; unofficial.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yoshino-xiao7/dsh-codex",
+  "repositoryUrl": "https://github.com/yoshino-xiao7/dsh-codex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2089
+}
