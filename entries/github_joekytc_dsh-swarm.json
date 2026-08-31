@@ -1,0 +1,20 @@
+{
+  "id": "github:joekytc/dsh-swarm",
+  "kind": "plugin",
+  "name": "dsh-swarm",
+  "description": "Run multi-agent task pipelines on DSH like a team — plan, execute, review, and deliver code through a visual kanban with provable completion.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "joekytc/dsh-swarm",
+  "repositoryUrl": "https://github.com/joekytc/dsh-swarm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2359
+}
