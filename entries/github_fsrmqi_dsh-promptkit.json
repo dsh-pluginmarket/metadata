@@ -1,0 +1,20 @@
+{
+  "id": "github:fsrmqi/dsh-promptkit",
+  "kind": "plugin",
+  "name": "dsh-promptkit",
+  "description": "Prompt building & enhancement toolkit for DeepSeek Harness: Studio + QuickEnhancer. 开源的 Prompt 构建与增强工具包。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fsrmqi/dsh-promptkit",
+  "repositoryUrl": "https://github.com/fsrmqi/dsh-promptkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1858
+}
