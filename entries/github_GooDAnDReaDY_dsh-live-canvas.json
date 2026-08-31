@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-live-canvas",
+  "kind": "plugin",
+  "name": "dsh-live-canvas",
+  "description": "Interactive in-browser canvas for real-time preview of HTML, React components, SVGs, and diagrams with SSE hot-reload in DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-live-canvas",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-live-canvas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1843
+}
