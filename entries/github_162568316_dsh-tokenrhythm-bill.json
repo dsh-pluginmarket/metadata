@@ -1,0 +1,20 @@
+{
+  "id": "github:162568316/dsh-tokenrhythm-bill",
+  "kind": "plugin",
+  "name": "dsh-tokenrhythm-bill",
+  "description": "dsh-tokenrhythm-bill",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "162568316/dsh-tokenrhythm-bill",
+  "repositoryUrl": "https://github.com/162568316/dsh-tokenrhythm-bill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1999
+}
