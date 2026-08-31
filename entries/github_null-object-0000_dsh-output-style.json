@@ -1,0 +1,20 @@
+{
+  "id": "github:null-object-0000/dsh-output-style",
+  "kind": "plugin",
+  "name": "dsh-output-style",
+  "description": "会话级输出风格插件：/style 命令 + Web 选择器，改变模型如何呈现答案（default/adhd-friendly/eli5/bluf）。Session-scoped output styles for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "null-object-0000/dsh-output-style",
+  "repositoryUrl": "https://github.com/null-object-0000/dsh-output-style",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2350
+}
