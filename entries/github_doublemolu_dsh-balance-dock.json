@@ -1,0 +1,20 @@
+{
+  "id": "github:doublemolu/dsh-balance-dock",
+  "kind": "plugin",
+  "name": "dsh-balance-dock",
+  "description": "DeepSeek Harness balance dock: balance card, per-conversation spend/tokens, 50-yuan segmented progress bar, recharge button, position guard",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "doublemolu/dsh-balance-dock",
+  "repositoryUrl": "https://github.com/doublemolu/dsh-balance-dock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2300
+}
