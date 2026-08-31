@@ -1,0 +1,20 @@
+{
+  "id": "github:sperictao/dsh-client-connection-authz",
+  "kind": "plugin",
+  "name": "dsh-client-connection-authz",
+  "description": "Auth-capable replacement for DeepSeek Harness client connection",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sperictao/dsh-client-connection-authz",
+  "repositoryUrl": "https://github.com/sperictao/dsh-client-connection-authz",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2229
+}
