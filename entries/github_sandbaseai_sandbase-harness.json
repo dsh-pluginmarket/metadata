@@ -1,0 +1,20 @@
+{
+  "id": "github:sandbaseai/sandbase-harness",
+  "kind": "plugin",
+  "name": "sandbase-harness",
+  "description": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sandbaseai/sandbase-harness",
+  "repositoryUrl": "https://github.com/sandbaseai/sandbase-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1839
+}
