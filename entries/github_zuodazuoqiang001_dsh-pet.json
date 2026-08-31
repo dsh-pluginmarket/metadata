@@ -1,0 +1,20 @@
+{
+  "id": "github:zuodazuoqiang001/dsh-pet",
+  "kind": "plugin",
+  "name": "dsh-pet",
+  "description": "Windows desktop pet plugin for DeepSeek Harness. Codex-compatible pets as a layered overlay, with a Plugins settings card.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuodazuoqiang001/dsh-pet",
+  "repositoryUrl": "https://github.com/zuodazuoqiang001/dsh-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2261
+}
