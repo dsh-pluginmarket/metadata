@@ -1,0 +1,20 @@
+{
+  "id": "github:wangxiang0605qvq/dsh-auto-compact",
+  "kind": "plugin",
+  "name": "dsh-auto-compact",
+  "description": "DeepSeek Harness 自动压缩插件：模型工具 compact_now，回合结束后自动压缩上下文 | Auto compaction plugin for DSH: compact_now tool, compacts context after the turn",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangxiang0605qvq/dsh-auto-compact",
+  "repositoryUrl": "https://github.com/wangxiang0605qvq/dsh-auto-compact",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2258
+}
