@@ -1,0 +1,20 @@
+{
+  "id": "github:minglu6/dsh-provider-qoder",
+  "kind": "plugin",
+  "name": "dsh-provider-qoder",
+  "description": "Qoder CN adapter plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "minglu6/dsh-provider-qoder",
+  "repositoryUrl": "https://github.com/minglu6/dsh-provider-qoder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1939
+}
