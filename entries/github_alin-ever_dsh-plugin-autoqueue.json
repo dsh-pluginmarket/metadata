@@ -1,0 +1,20 @@
+{
+  "id": "github:alin-ever/dsh-plugin-autoqueue",
+  "kind": "plugin",
+  "name": "dsh-plugin-autoqueue",
+  "description": "DeepSeek Harness 无人值守任务队列插件：丢 .md 进收件箱 → AI 自动执行 → 产出报告",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alin-ever/dsh-plugin-autoqueue",
+  "repositoryUrl": "https://github.com/alin-ever/dsh-plugin-autoqueue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2328
+}
