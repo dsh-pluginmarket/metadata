@@ -1,0 +1,20 @@
+{
+  "id": "github:Swd146296/dsh-memos-bridge",
+  "kind": "plugin",
+  "name": "dsh-memos-bridge",
+  "description": "Related DeepSeek Harness project: Swd146296/dsh-memos-bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Swd146296/dsh-memos-bridge",
+  "repositoryUrl": "https://github.com/Swd146296/dsh-memos-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2351
+}
