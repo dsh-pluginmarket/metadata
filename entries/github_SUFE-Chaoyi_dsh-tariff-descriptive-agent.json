@@ -1,0 +1,20 @@
+{
+  "id": "github:SUFE-Chaoyi/dsh-tariff-descriptive-agent",
+  "kind": "plugin",
+  "name": "dsh-tariff-descriptive-agent",
+  "description": "基于 DeepSeek Harness 的资费描述统计与可复现报告 Agent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SUFE-Chaoyi/dsh-tariff-descriptive-agent",
+  "repositoryUrl": "https://github.com/SUFE-Chaoyi/dsh-tariff-descriptive-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2170
+}
