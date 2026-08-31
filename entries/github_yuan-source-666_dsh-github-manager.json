@@ -1,0 +1,20 @@
+{
+  "id": "github:yuan-source-666/dsh-github-manager",
+  "kind": "plugin",
+  "name": "dsh-github-manager",
+  "description": "GitHub 仓库 AI 自动管理通道插件 (DeepSeek Harness community bundle): 27 个工具（仓库/Issue/PR/分支/文件/标签/话题/Tags/Releases/搜索）+ Web 设置卡片 + dry-run 防护 + secret 令牌。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuan-source-666/dsh-github-manager",
+  "repositoryUrl": "https://github.com/yuan-source-666/dsh-github-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1960
+}
