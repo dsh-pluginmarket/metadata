@@ -1,0 +1,20 @@
+{
+  "id": "github:SamXiaBing/dsh-adb",
+  "kind": "plugin",
+  "name": "dsh-adb",
+  "description": "Related DeepSeek Harness project: SamXiaBing/dsh-adb",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SamXiaBing/dsh-adb",
+  "repositoryUrl": "https://github.com/SamXiaBing/dsh-adb",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2225
+}
