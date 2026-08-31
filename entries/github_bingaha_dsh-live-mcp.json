@@ -1,0 +1,20 @@
+{
+  "id": "github:bingaha/dsh-live-mcp",
+  "kind": "plugin",
+  "name": "dsh-live-mcp",
+  "description": "给DSH提供会话级的MCP控制能力",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bingaha/dsh-live-mcp",
+  "repositoryUrl": "https://github.com/bingaha/dsh-live-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2137
+}
