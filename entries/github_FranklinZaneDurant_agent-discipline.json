@@ -1,0 +1,20 @@
+{
+  "id": "github:FranklinZaneDurant/agent-discipline",
+  "kind": "plugin",
+  "name": "agent-discipline",
+  "description": "给 AI 编码 Agent 的仓库工作纪律插件（DeepSeek Harness bundle）：方法论提示段 + 工件脚手架（AGENTS.md/特性清单/验证门）+ 合规审计。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FranklinZaneDurant/agent-discipline",
+  "repositoryUrl": "https://github.com/FranklinZaneDurant/agent-discipline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2247
+}
