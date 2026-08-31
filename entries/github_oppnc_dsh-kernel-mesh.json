@@ -1,0 +1,20 @@
+{
+  "id": "github:oppnc/dsh-kernel-mesh",
+  "kind": "plugin",
+  "name": "dsh-kernel-mesh",
+  "description": "Harness-kernel mesh for DeepSeek Harness: kimi/grok/codex/minimax model routes (L1), distilled subagent recipes (L2) and kernel_run/kernel_status/kernel_switch tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oppnc/dsh-kernel-mesh",
+  "repositoryUrl": "https://github.com/oppnc/dsh-kernel-mesh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2037
+}
