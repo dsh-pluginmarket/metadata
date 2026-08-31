@@ -1,0 +1,20 @@
+{
+  "id": "github:cayan0x/Lume",
+  "kind": "plugin",
+  "name": "Lume",
+  "description": "Lume - DSH Desktop persona-switching plugin (loli/senpai/none) with P0-P3 thinking logic",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cayan0x/Lume",
+  "repositoryUrl": "https://github.com/cayan0x/Lume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2311
+}
