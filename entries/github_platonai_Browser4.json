@@ -1,0 +1,20 @@
+{
+  "id": "github:platonai/Browser4",
+  "kind": "plugin",
+  "name": "Browser4",
+  "description": "Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "platonai/Browser4",
+  "repositoryUrl": "https://github.com/platonai/Browser4",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2090
+}
