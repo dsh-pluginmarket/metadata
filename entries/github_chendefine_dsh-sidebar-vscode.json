@@ -1,0 +1,20 @@
+{
+  "id": "github:chendefine/dsh-sidebar-vscode",
+  "kind": "plugin",
+  "name": "dsh-sidebar-vscode",
+  "description": "DSH plugin: a better-sidebar tab embedding the VS Code web workbench at the session workspace; editor selections and explorer files land as atomic reference chips",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chendefine/dsh-sidebar-vscode",
+  "repositoryUrl": "https://github.com/chendefine/dsh-sidebar-vscode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2192
+}
