@@ -1,0 +1,20 @@
+{
+  "id": "github:gameswu/dsh-human-coding",
+  "kind": "plugin",
+  "name": "dsh-human-coding",
+  "description": "DeepSeek Harness 增加古法编程模式，让模型监督你写代码！",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gameswu/dsh-human-coding",
+  "repositoryUrl": "https://github.com/gameswu/dsh-human-coding",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2327
+}
