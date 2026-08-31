@@ -1,0 +1,20 @@
+{
+  "id": "github:sdoygb/conjugate-spectral-geometry",
+  "kind": "plugin",
+  "name": "conjugate-spectral-geometry",
+  "description": "Conjugate Spectral Geometry - Geometric Theory of quantum error correction: 12-volume/117-paper index + DeepSeek RAG knowledge AI (Open WebUI).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sdoygb/conjugate-spectral-geometry",
+  "repositoryUrl": "https://github.com/sdoygb/conjugate-spectral-geometry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2189
+}
