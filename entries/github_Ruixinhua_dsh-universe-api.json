@@ -1,0 +1,20 @@
+{
+  "id": "github:Ruixinhua/dsh-universe-api",
+  "kind": "plugin",
+  "name": "dsh-universe-api",
+  "description": "Offline, deterministic public API discovery for DeepSeek Harness and DSH Desktop.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ruixinhua/dsh-universe-api",
+  "repositoryUrl": "https://github.com/Ruixinhua/dsh-universe-api",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2062
+}
