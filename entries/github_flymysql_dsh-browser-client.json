@@ -1,0 +1,20 @@
+{
+  "id": "github:flymysql/dsh-browser-client",
+  "kind": "plugin",
+  "name": "dsh-browser-client",
+  "description": "DSH Browser Client — LLM 驱动的浏览器浮窗工作流工具（面向非研发人员的网页自动化）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "flymysql/dsh-browser-client",
+  "repositoryUrl": "https://github.com/flymysql/dsh-browser-client",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2267
+}
