@@ -1,0 +1,20 @@
+{
+  "id": "github:MasterBenC/shangshi-dsh",
+  "kind": "plugin",
+  "name": "shangshi-dsh",
+  "description": "Shangshi DeepSeek Harness plugin for local Qimen business timing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MasterBenC/shangshi-dsh",
+  "repositoryUrl": "https://github.com/MasterBenC/shangshi-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1998
+}
