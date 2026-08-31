@@ -1,0 +1,20 @@
+{
+  "id": "github:weibaohui/dsh-sync",
+  "kind": "plugin",
+  "name": "dsh-sync",
+  "description": "DeepSeek Harness 插件：会话同步与冲突解决（apiproxy、token 内联）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weibaohui/dsh-sync",
+  "repositoryUrl": "https://github.com/weibaohui/dsh-sync",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2168
+}
