@@ -1,0 +1,20 @@
+{
+  "id": "github:sperictao/dsh-auth-tailscale",
+  "kind": "plugin",
+  "name": "dsh-auth-tailscale",
+  "description": "Tailscale identity and capability authorization adapter for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sperictao/dsh-auth-tailscale",
+  "repositoryUrl": "https://github.com/sperictao/dsh-auth-tailscale",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2223
+}
