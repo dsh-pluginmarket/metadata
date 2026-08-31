@@ -1,0 +1,20 @@
+{
+  "id": "github:JxaMe/dsh-echo-memory",
+  "kind": "plugin",
+  "name": "dsh-echo-memory",
+  "description": "Related DeepSeek Harness project: JxaMe/dsh-echo-memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JxaMe/dsh-echo-memory",
+  "repositoryUrl": "https://github.com/JxaMe/dsh-echo-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2219
+}
