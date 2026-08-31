@@ -1,0 +1,20 @@
+{
+  "id": "github:rrrrrredy/dsh-execution-fidelity-guard",
+  "kind": "plugin",
+  "name": "dsh-execution-fidelity-guard",
+  "description": "Execution-fidelity guard bundle for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rrrrrredy/dsh-execution-fidelity-guard",
+  "repositoryUrl": "https://github.com/rrrrrredy/dsh-execution-fidelity-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2212
+}
