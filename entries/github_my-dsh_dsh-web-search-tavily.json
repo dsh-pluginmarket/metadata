@@ -1,0 +1,20 @@
+{
+  "id": "github:my-dsh/dsh-web-search-tavily",
+  "kind": "plugin",
+  "name": "dsh-web-search-tavily",
+  "description": "Tavily web-search provider plugin for DeepSeek Harness (dsh) — registers into ctx.web so the model-facing web_search tool uses Tavily",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "my-dsh/dsh-web-search-tavily",
+  "repositoryUrl": "https://github.com/my-dsh/dsh-web-search-tavily",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2338
+}
