@@ -1,0 +1,20 @@
+{
+  "id": "github:waknow/dsh-web-icon-indicator",
+  "kind": "plugin",
+  "name": "dsh-web-icon-indicator",
+  "description": "DSH browser tab favicon reflecting session state: idle / running / asking / done. · DSH 标签页 favicon 实时反映会话状态：待机 / 运行中 / 提问 / 完成",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "waknow/dsh-web-icon-indicator",
+  "repositoryUrl": "https://github.com/waknow/dsh-web-icon-indicator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2194
+}
