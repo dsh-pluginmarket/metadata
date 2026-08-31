@@ -1,0 +1,20 @@
+{
+  "id": "github:striveh/dsh-llm-call-inspector",
+  "kind": "plugin",
+  "name": "dsh-llm-call-inspector",
+  "description": "Local request and response inspector for session-associated DeepSeek Harness LLM calls",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "striveh/dsh-llm-call-inspector",
+  "repositoryUrl": "https://github.com/striveh/dsh-llm-call-inspector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2367
+}
