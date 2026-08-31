@@ -1,0 +1,20 @@
+{
+  "id": "github:1035041186/dsh-llm-ollama",
+  "kind": "plugin",
+  "name": "dsh-llm-ollama",
+  "description": "dsh-llm-ollama 是一个为 DeepSeek Harness（dsh）开发的社区插件，让 Harness 通过 Ollama 原生协议（/api/chat） 接入本地 Ollama 服务。即插即用：不改动 dsh 官方任何文件，安装后自动在「设置」中多出一个 Ollama 页面，并在会话模型选择器中提供该提供方的模型。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1035041186/dsh-llm-ollama",
+  "repositoryUrl": "https://github.com/1035041186/dsh-llm-ollama",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1853
+}
