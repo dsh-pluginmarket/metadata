@@ -1,0 +1,20 @@
+{
+  "id": "github:oppnc/dsh-kernel-minimax",
+  "kind": "plugin",
+  "name": "dsh-kernel-minimax",
+  "description": "Mini-Agent written in DSH form: the mini-agent tool surface re-registered as native DeepSeek Harness tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oppnc/dsh-kernel-minimax",
+  "repositoryUrl": "https://github.com/oppnc/dsh-kernel-minimax",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2041
+}
