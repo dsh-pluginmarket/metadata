@@ -1,0 +1,20 @@
+{
+  "id": "github:rogerdigital/dsh-searxng",
+  "kind": "plugin",
+  "name": "dsh-searxng",
+  "description": "DeepSeek Harness (dsh) plugin that adds a SearXNG-backed web_search provider to the ctx.web seam — free, self-hosted, key-less search instead of paid Exa/Perplexity APIs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rogerdigital/dsh-searxng",
+  "repositoryUrl": "https://github.com/rogerdigital/dsh-searxng",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1844
+}
