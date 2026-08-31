@@ -1,0 +1,20 @@
+{
+  "id": "github:HuangLM03/dsh-plugin-session-archive",
+  "kind": "plugin",
+  "name": "dsh-plugin-session-archive",
+  "description": "Browse and permanently delete archived DeepSeek Harness sessions from the sidebar footer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HuangLM03/dsh-plugin-session-archive",
+  "repositoryUrl": "https://github.com/HuangLM03/dsh-plugin-session-archive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2100
+}
