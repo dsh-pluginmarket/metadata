@@ -1,0 +1,20 @@
+{
+  "id": "github:raktim-mondol/dsh-researchcraft",
+  "kind": "plugin",
+  "name": "dsh-researchcraft",
+  "description": "ResearchCraft as a DeepSeek Harness (DSH) profile plugin: research persona, scientific skills catalogue, living lab notebook, and specialist subagents.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "raktim-mondol/dsh-researchcraft",
+  "repositoryUrl": "https://github.com/raktim-mondol/dsh-researchcraft",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1903
+}
