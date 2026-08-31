@@ -1,0 +1,20 @@
+{
+  "id": "github:alpacachen/dsh-kanban",
+  "kind": "plugin",
+  "name": "dsh-kanban",
+  "description": "A shared kanban board for people and AI agents in DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alpacachen/dsh-kanban",
+  "repositoryUrl": "https://github.com/alpacachen/dsh-kanban",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2314
+}
