@@ -1,0 +1,20 @@
+{
+  "id": "github:yuezengwu/dsh-explain",
+  "kind": "plugin",
+  "name": "dsh-explain",
+  "description": "DSH 本地优先学习模式插件：跨会话全局学习线程、按来源讲解、ExplainContext、压缩与可诊断设置界面",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuezengwu/dsh-explain",
+  "repositoryUrl": "https://github.com/yuezengwu/dsh-explain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2322
+}
