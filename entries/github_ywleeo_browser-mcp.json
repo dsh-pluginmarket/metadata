@@ -1,0 +1,20 @@
+{
+  "id": "github:ywleeo/browser-mcp",
+  "kind": "plugin",
+  "name": "browser-mcp",
+  "description": "Local MCP server for reading and interacting with web pages through real Chrome.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ywleeo/browser-mcp",
+  "repositoryUrl": "https://github.com/ywleeo/browser-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2014
+}
