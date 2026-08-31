@@ -1,0 +1,20 @@
+{
+  "id": "github:Tiee7/EzDSH",
+  "kind": "plugin",
+  "name": "EzDSH",
+  "description": "Easy Way to the DeepSeek‑Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tiee7/EzDSH",
+  "repositoryUrl": "https://github.com/Tiee7/EzDSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2187
+}
