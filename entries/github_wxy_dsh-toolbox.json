@@ -1,0 +1,20 @@
+{
+  "id": "github:wxy/dsh-toolbox",
+  "kind": "plugin",
+  "name": "dsh-toolbox",
+  "description": "Related DeepSeek Harness project: wxy/dsh-toolbox",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wxy/dsh-toolbox",
+  "repositoryUrl": "https://github.com/wxy/dsh-toolbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1966
+}
