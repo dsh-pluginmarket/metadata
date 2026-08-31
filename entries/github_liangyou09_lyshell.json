@@ -1,0 +1,20 @@
+{
+  "id": "github:liangyou09/lyshell",
+  "kind": "plugin",
+  "name": "lyshell",
+  "description": "AI-native terminal & SSH client — built-in DeepSeek Harness to launch agents in TUI or embedded Web UI, plus SFTP, serial/Telnet and MCP server.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liangyou09/lyshell",
+  "repositoryUrl": "https://github.com/liangyou09/lyshell",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1865
+}
