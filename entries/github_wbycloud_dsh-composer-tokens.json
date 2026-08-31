@@ -1,0 +1,20 @@
+{
+  "id": "github:wbycloud/dsh-composer-tokens",
+  "kind": "plugin",
+  "name": "dsh-composer-tokens",
+  "description": "DSH web GUI composer real-time token counter plugin (client-side, v1)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wbycloud/dsh-composer-tokens",
+  "repositoryUrl": "https://github.com/wbycloud/dsh-composer-tokens",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2206
+}
