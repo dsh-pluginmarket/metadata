@@ -1,0 +1,20 @@
+{
+  "id": "github:fu827707013/dsh-concurrency-guard",
+  "kind": "plugin",
+  "name": "dsh-concurrency-guard",
+  "description": "DSH（DeepSeek Harness）并发请求监控与门闩插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fu827707013/dsh-concurrency-guard",
+  "repositoryUrl": "https://github.com/fu827707013/dsh-concurrency-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2074
+}
