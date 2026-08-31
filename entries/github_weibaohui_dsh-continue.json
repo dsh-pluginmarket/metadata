@@ -1,0 +1,20 @@
+{
+  "id": "github:weibaohui/dsh-continue",
+  "kind": "plugin",
+  "name": "dsh-continue",
+  "description": "自动续跑插件 for DeepSeek Harness — 有序规则表：按失败类型路由 继续续跑 / 换模型 / 压缩后继续 / 停止",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weibaohui/dsh-continue",
+  "repositoryUrl": "https://github.com/weibaohui/dsh-continue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2173
+}
