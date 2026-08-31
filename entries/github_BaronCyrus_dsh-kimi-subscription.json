@@ -1,0 +1,20 @@
+{
+  "id": "github:BaronCyrus/dsh-kimi-subscription",
+  "kind": "plugin",
+  "name": "dsh-kimi-subscription",
+  "description": "Use a Kimi Code subscription in DeepSeek Harness with OAuth, quota display, and composer usage",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BaronCyrus/dsh-kimi-subscription",
+  "repositoryUrl": "https://github.com/BaronCyrus/dsh-kimi-subscription",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2383
+}
