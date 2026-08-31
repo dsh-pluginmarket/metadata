@@ -1,0 +1,20 @@
+{
+  "id": "github:xobexo/dsh-smart-scenario-router",
+  "kind": "plugin",
+  "name": "dsh-smart-scenario-router",
+  "description": "国产模型优先，按任务类型自动切换模型，支持可视化配置面板",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xobexo/dsh-smart-scenario-router",
+  "repositoryUrl": "https://github.com/xobexo/dsh-smart-scenario-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2363
+}
