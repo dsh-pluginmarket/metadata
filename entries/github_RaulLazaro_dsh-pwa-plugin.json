@@ -1,0 +1,20 @@
+{
+  "id": "github:RaulLazaro/dsh-pwa-plugin",
+  "kind": "plugin",
+  "name": "dsh-pwa-plugin",
+  "description": "PWA plugin for DeepSeek Harness — adds offline support and install-as-app capability with service worker, manifest, and official DeepSeek icons.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RaulLazaro/dsh-pwa-plugin",
+  "repositoryUrl": "https://github.com/RaulLazaro/dsh-pwa-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2357
+}
