@@ -1,0 +1,20 @@
+{
+  "id": "github:yoshino-xiao7/dsh-grok-provider",
+  "kind": "plugin",
+  "name": "dsh-grok-provider",
+  "description": "DeepSeek Harness 的社区 Grok Build Provider：官方 CLI 浏览器 OAuth、动态模型、流式工具调用与额度面板。Community Grok Build provider with official CLI OAuth, dynamic models, streaming tools, and a quota dashboard.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yoshino-xiao7/dsh-grok-provider",
+  "repositoryUrl": "https://github.com/yoshino-xiao7/dsh-grok-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1870
+}
