@@ -1,0 +1,20 @@
+{
+  "id": "github:NanmiCoder/dsh-agent-teams",
+  "kind": "plugin",
+  "name": "dsh-agent-teams",
+  "description": "AgentTeams plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NanmiCoder/dsh-agent-teams",
+  "repositoryUrl": "https://github.com/NanmiCoder/dsh-agent-teams",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2005
+}
