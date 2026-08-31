@@ -1,0 +1,20 @@
+{
+  "id": "github:kuun993/dsh-loop-engine",
+  "kind": "plugin",
+  "name": "dsh-loop-engine",
+  "description": "Related DeepSeek Harness project: kuun993/dsh-loop-engine",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kuun993/dsh-loop-engine",
+  "repositoryUrl": "https://github.com/kuun993/dsh-loop-engine",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2272
+}
