@@ -1,0 +1,20 @@
+{
+  "id": "github:SleepEggTart/dsh-code-coverage",
+  "kind": "plugin",
+  "name": "dsh-code-coverage",
+  "description": "解析 DSH session 日志归因 AI 生成文件，叠加 c8 覆盖率，产出 AI vs 人工代码覆盖率对比、高危未测文件清单与信任分。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SleepEggTart/dsh-code-coverage",
+  "repositoryUrl": "https://github.com/SleepEggTart/dsh-code-coverage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2059
+}
