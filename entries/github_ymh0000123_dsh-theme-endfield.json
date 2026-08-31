@@ -1,0 +1,20 @@
+{
+  "id": "github:ymh0000123/dsh-theme-endfield",
+  "kind": "plugin",
+  "name": "dsh-theme-endfield",
+  "description": "终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ymh0000123/dsh-theme-endfield",
+  "repositoryUrl": "https://github.com/ymh0000123/dsh-theme-endfield",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2054
+}
