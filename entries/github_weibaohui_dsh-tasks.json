@@ -1,0 +1,20 @@
+{
+  "id": "github:weibaohui/dsh-tasks",
+  "kind": "plugin",
+  "name": "dsh-tasks",
+  "description": "DeepSeek Harness 插件：cron 定时事项——定时/立即执行新建 agent 会话提交提示词，全屏管理界面",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weibaohui/dsh-tasks",
+  "repositoryUrl": "https://github.com/weibaohui/dsh-tasks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2106
+}
