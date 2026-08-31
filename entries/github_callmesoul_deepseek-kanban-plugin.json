@@ -1,0 +1,20 @@
+{
+  "id": "github:callmesoul/deepseek-kanban-plugin",
+  "kind": "plugin",
+  "name": "deepseek-kanban-plugin",
+  "description": "DSH (DeepSeek Harness) 任务看板插件：主机状态机 + git 调度 + 浏览器看板 UI，agent 自动执行任务、审核后自动合并回基础分支",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "callmesoul/deepseek-kanban-plugin",
+  "repositoryUrl": "https://github.com/callmesoul/deepseek-kanban-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2409
+}
