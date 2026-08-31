@@ -1,0 +1,20 @@
+{
+  "id": "github:better-er/dsh-edit-diff",
+  "kind": "plugin",
+  "name": "dsh-edit-diff",
+  "description": "dsh·去重复 diff 展示插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "better-er/dsh-edit-diff",
+  "repositoryUrl": "https://github.com/better-er/dsh-edit-diff",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2080
+}
