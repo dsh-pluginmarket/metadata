@@ -1,0 +1,20 @@
+{
+  "id": "github:Moraxyc/dsh-cpa",
+  "kind": "plugin",
+  "name": "dsh-cpa",
+  "description": "Related DeepSeek Harness project: Moraxyc/dsh-cpa",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Moraxyc/dsh-cpa",
+  "repositoryUrl": "https://github.com/Moraxyc/dsh-cpa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2326
+}
