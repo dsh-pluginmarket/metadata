@@ -1,0 +1,20 @@
+{
+  "id": "github:Choco-Zz/dsh-image-amnesia",
+  "kind": "plugin",
+  "name": "dsh-image-amnesia",
+  "description": "Drop historical images before DeepSeek Harness relay requests; keep native vision on the newest image.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Choco-Zz/dsh-image-amnesia",
+  "repositoryUrl": "https://github.com/Choco-Zz/dsh-image-amnesia",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2291
+}
