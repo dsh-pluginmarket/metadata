@@ -1,0 +1,20 @@
+{
+  "id": "github:00080000/dsh-project-memory",
+  "kind": "plugin",
+  "name": "dsh-project-memory",
+  "description": "Read-time project memory plugin for DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "00080000/dsh-project-memory",
+  "repositoryUrl": "https://github.com/00080000/dsh-project-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2148
+}
