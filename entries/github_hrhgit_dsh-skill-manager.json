@@ -1,0 +1,20 @@
+{
+  "id": "github:hrhgit/dsh-skill-manager",
+  "kind": "plugin",
+  "name": "dsh-skill-manager",
+  "description": "Related DeepSeek Harness project: hrhgit/dsh-skill-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hrhgit/dsh-skill-manager",
+  "repositoryUrl": "https://github.com/hrhgit/dsh-skill-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2142
+}
