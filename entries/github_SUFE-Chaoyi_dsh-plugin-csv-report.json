@@ -1,0 +1,20 @@
+{
+  "id": "github:SUFE-Chaoyi/dsh-plugin-csv-report",
+  "kind": "plugin",
+  "name": "dsh-plugin-csv-report",
+  "description": "基于 DeepSeek Harness 的可复用 CSV 描述统计与可复现报告插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SUFE-Chaoyi/dsh-plugin-csv-report",
+  "repositoryUrl": "https://github.com/SUFE-Chaoyi/dsh-plugin-csv-report",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1840
+}
