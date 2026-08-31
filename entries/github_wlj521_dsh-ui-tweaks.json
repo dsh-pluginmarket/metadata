@@ -1,0 +1,20 @@
+{
+  "id": "github:wlj521/dsh-ui-tweaks",
+  "kind": "plugin",
+  "name": "dsh-ui-tweaks",
+  "description": "一切皆插件，可以定义自己喜欢的dsh，开关控制单项功能，字体大小，表格样式，对话框长度，timeline，git等",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wlj521/dsh-ui-tweaks",
+  "repositoryUrl": "https://github.com/wlj521/dsh-ui-tweaks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2061
+}
