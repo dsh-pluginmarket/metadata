@@ -1,0 +1,20 @@
+{
+  "id": "github:coeasy/dsh-go",
+  "kind": "plugin",
+  "name": "dsh-go",
+  "description": "DeepSeek Harness 插件市场导航站",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "coeasy/dsh-go",
+  "repositoryUrl": "https://github.com/coeasy/dsh-go",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1997
+}
