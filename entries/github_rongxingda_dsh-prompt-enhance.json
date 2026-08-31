@@ -1,0 +1,20 @@
+{
+  "id": "github:rongxingda/dsh-prompt-enhance",
+  "kind": "plugin",
+  "name": "dsh-prompt-enhance",
+  "description": "Prompt enhancement plugin for the DeepSeek Harness web GUI: one-click rewrite of the composer draft into a structured prompt, with preview, fill-back, and undo.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rongxingda/dsh-prompt-enhance",
+  "repositoryUrl": "https://github.com/rongxingda/dsh-prompt-enhance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2218
+}
