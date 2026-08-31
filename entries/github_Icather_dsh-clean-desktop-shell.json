@@ -1,0 +1,20 @@
+{
+  "id": "github:Icather/dsh-clean-desktop-shell",
+  "kind": "plugin",
+  "name": "dsh-clean-desktop-shell",
+  "description": "DSH 纯净桌面壳：双击像普通软件一样一键启动，后端活性实时监测 + 托盘快捷启停，零视觉改造。Clean desktop shell for DSH — one-click launch like a normal app, live backend monitoring with quick tray start/stop, zero visual changes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Icather/dsh-clean-desktop-shell",
+  "repositoryUrl": "https://github.com/Icather/dsh-clean-desktop-shell",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1898
+}
