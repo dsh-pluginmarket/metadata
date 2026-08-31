@@ -1,0 +1,20 @@
+{
+  "id": "github:LeemanCheung/dsh-whale-animation",
+  "kind": "plugin",
+  "name": "dsh-whale-animation",
+  "description": "Persistent closed-loop whale-dive animation for DeepSeek Harness Web turn status",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LeemanCheung/dsh-whale-animation",
+  "repositoryUrl": "https://github.com/LeemanCheung/dsh-whale-animation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2164
+}
