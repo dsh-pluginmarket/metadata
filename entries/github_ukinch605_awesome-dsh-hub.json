@@ -1,0 +1,20 @@
+{
+  "id": "github:ukinch605/awesome-dsh-hub",
+  "kind": "plugin",
+  "name": "awesome-dsh-hub",
+  "description": "Auto-maintained awesome-style directory of DeepSeek Harness plugins: registry + bilingual catalogs + searchable site",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ukinch605/awesome-dsh-hub",
+  "repositoryUrl": "https://github.com/ukinch605/awesome-dsh-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2067
+}
