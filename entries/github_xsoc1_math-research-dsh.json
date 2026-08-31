@@ -1,0 +1,20 @@
+{
+  "id": "github:xsoc1/math-research-dsh",
+  "kind": "plugin",
+  "name": "math-research-dsh",
+  "description": "DSH adaptation of the math-research Codex plugin marketplace: rigorous-open-math-research, manage-math-research-program, math-research-workflow, lean-verify as DeepSeek Harness skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xsoc1/math-research-dsh",
+  "repositoryUrl": "https://github.com/xsoc1/math-research-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2273
+}
