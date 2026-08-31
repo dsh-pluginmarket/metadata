@@ -1,0 +1,20 @@
+{
+  "id": "github:YannZhou/dsh-about",
+  "kind": "plugin",
+  "name": "dsh-about",
+  "description": "DeepSeek Harness 设置中心「关于」分区插件：版本信息 + 检查更新（npm latest/next）+ 一键更新自动重启 + GitHub 版本记录 | Settings About tab: check updates & one-click update",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YannZhou/dsh-about",
+  "repositoryUrl": "https://github.com/YannZhou/dsh-about",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2310
+}
