@@ -1,0 +1,20 @@
+{
+  "id": "github:vritser/dsh-emacs",
+  "kind": "plugin",
+  "name": "dsh-emacs",
+  "description": "An Emacs client for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vritser/dsh-emacs",
+  "repositoryUrl": "https://github.com/vritser/dsh-emacs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2250
+}
