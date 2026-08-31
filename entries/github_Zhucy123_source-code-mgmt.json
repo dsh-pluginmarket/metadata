@@ -1,0 +1,20 @@
+{
+  "id": "github:Zhucy123/source-code-mgmt",
+  "kind": "plugin",
+  "name": "source-code-mgmt",
+  "description": "Related DeepSeek Harness project: Zhucy123/source-code-mgmt",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zhucy123/source-code-mgmt",
+  "repositoryUrl": "https://github.com/Zhucy123/source-code-mgmt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2235
+}
