@@ -1,0 +1,20 @@
+{
+  "id": "github:oppnc/dsh-kernel-grok",
+  "kind": "plugin",
+  "name": "dsh-kernel-grok",
+  "description": "Grok Build written in DSH form: the grok-build tool surface re-registered as native DeepSeek Harness tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oppnc/dsh-kernel-grok",
+  "repositoryUrl": "https://github.com/oppnc/dsh-kernel-grok",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2050
+}
