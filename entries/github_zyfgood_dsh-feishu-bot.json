@@ -1,0 +1,20 @@
+{
+  "id": "github:zyfgood/dsh-feishu-bot",
+  "kind": "plugin",
+  "name": "dsh-feishu-bot",
+  "description": "飞书机器人指挥deepseek Harness工作",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zyfgood/dsh-feishu-bot",
+  "repositoryUrl": "https://github.com/zyfgood/dsh-feishu-bot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2196
+}
