@@ -1,0 +1,20 @@
+{
+  "id": "github:SepineTam/mcp-for-stata",
+  "kind": "plugin",
+  "name": "mcp-for-stata",
+  "description": "A MCP server for Stata to integrate Stata into your agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SepineTam/mcp-for-stata",
+  "repositoryUrl": "https://github.com/SepineTam/mcp-for-stata",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1936
+}
