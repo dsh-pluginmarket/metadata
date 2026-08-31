@@ -1,0 +1,20 @@
+{
+  "id": "github:hrhgit/dsh-codegraph",
+  "kind": "plugin",
+  "name": "dsh-codegraph",
+  "description": "Related DeepSeek Harness project: hrhgit/dsh-codegraph",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hrhgit/dsh-codegraph",
+  "repositoryUrl": "https://github.com/hrhgit/dsh-codegraph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2133
+}
