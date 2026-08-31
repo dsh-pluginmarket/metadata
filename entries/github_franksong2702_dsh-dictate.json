@@ -1,0 +1,20 @@
+{
+  "id": "github:franksong2702/dsh-dictate",
+  "kind": "plugin",
+  "name": "dsh-dictate",
+  "description": "Context-aware dictation for DeepSeek Harness — live Composer transcription, model polish, and user-controlled sending.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "franksong2702/dsh-dictate",
+  "repositoryUrl": "https://github.com/franksong2702/dsh-dictate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1989
+}
