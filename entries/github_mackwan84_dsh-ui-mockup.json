@@ -1,0 +1,20 @@
+{
+  "id": "github:mackwan84/dsh-ui-mockup",
+  "kind": "plugin",
+  "name": "dsh-ui-mockup",
+  "description": "DSH plugin for generating UI wireframes and high-fidelity mockups with DashScope Qwen/Wan and Volcengine Seedream.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mackwan84/dsh-ui-mockup",
+  "repositoryUrl": "https://github.com/mackwan84/dsh-ui-mockup",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2036
+}
