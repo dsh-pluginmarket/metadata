@@ -1,0 +1,20 @@
+{
+  "id": "github:shimingming520/dsh-audiogen",
+  "kind": "plugin",
+  "name": "dsh-audiogen",
+  "description": "AI audio generation plugin for the DeepSeek Harness web GUI: multi-vendor TTS, music, sound effects and voice design with a sidebar panel, model comparison, resource library and Agent tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shimingming520/dsh-audiogen",
+  "repositoryUrl": "https://github.com/shimingming520/dsh-audiogen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1852
+}
