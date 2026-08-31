@@ -1,0 +1,20 @@
+{
+  "id": "github:wenzetan/dsh-quota-panel",
+  "kind": "plugin",
+  "name": "dsh-quota-panel",
+  "description": "Provider quota/balance widget for the dsh web surface: capsule + card + settings panel, dual-face (loopback RPC host half + shell.overlay client half), zero npm deps",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wenzetan/dsh-quota-panel",
+  "repositoryUrl": "https://github.com/wenzetan/dsh-quota-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2053
+}
