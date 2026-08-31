@@ -1,0 +1,20 @@
+{
+  "id": "github:FanetheDivine/dsh-plugin-om",
+  "kind": "plugin",
+  "name": "dsh-plugin-om",
+  "description": "DSH插件，以Observational Memory方式管理上下文",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FanetheDivine/dsh-plugin-om",
+  "repositoryUrl": "https://github.com/FanetheDivine/dsh-plugin-om",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2184
+}
