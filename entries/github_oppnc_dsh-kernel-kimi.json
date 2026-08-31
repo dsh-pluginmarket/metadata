@@ -1,0 +1,20 @@
+{
+  "id": "github:oppnc/dsh-kernel-kimi",
+  "kind": "plugin",
+  "name": "dsh-kernel-kimi",
+  "description": "Kimi Code written in DSH form: the kimi-cli tool surface re-registered as native DeepSeek Harness tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oppnc/dsh-kernel-kimi",
+  "repositoryUrl": "https://github.com/oppnc/dsh-kernel-kimi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2052
+}
