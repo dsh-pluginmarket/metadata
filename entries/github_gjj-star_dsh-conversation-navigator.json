@@ -1,0 +1,20 @@
+{
+  "id": "github:gjj-star/dsh-conversation-navigator",
+  "kind": "plugin",
+  "name": "dsh-conversation-navigator",
+  "description": "DSH 会话导航",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gjj-star/dsh-conversation-navigator",
+  "repositoryUrl": "https://github.com/gjj-star/dsh-conversation-navigator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2095
+}
