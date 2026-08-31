@@ -1,0 +1,20 @@
+{
+  "id": "github:dingminhua/dsh-subagent-default-model",
+  "kind": "plugin",
+  "name": "dsh-subagent-default-model",
+  "description": "Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dingminhua/dsh-subagent-default-model",
+  "repositoryUrl": "https://github.com/dingminhua/dsh-subagent-default-model",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2179
+}
