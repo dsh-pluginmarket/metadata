@@ -1,0 +1,20 @@
+{
+  "id": "github:felix-lj-ct/dsh-mcp-workspace-scope",
+  "kind": "plugin",
+  "name": "dsh-mcp-workspace-scope",
+  "description": "Scopes MCP tool injection per workspace directory in the DeepSeek Harness: a session opened in a project sees only the MCP servers that project needs — removed from the model's tool list and refused at call time. Plus per-session switches in the composer to narrow or widen the session you are in, temporarily.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "felix-lj-ct/dsh-mcp-workspace-scope",
+  "repositoryUrl": "https://github.com/felix-lj-ct/dsh-mcp-workspace-scope",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2018
+}
