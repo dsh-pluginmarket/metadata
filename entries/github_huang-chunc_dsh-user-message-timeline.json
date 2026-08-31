@@ -1,0 +1,20 @@
+{
+  "id": "github:huang-chunc/dsh-user-message-timeline",
+  "kind": "plugin",
+  "name": "dsh-user-message-timeline",
+  "description": "dsh Web 悬浮药丸导轨：预览·跳转·分页，设置-插件-插件配置可切换左右贴边",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huang-chunc/dsh-user-message-timeline",
+  "repositoryUrl": "https://github.com/huang-chunc/dsh-user-message-timeline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2120
+}
