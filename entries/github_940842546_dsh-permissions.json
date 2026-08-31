@@ -1,0 +1,20 @@
+{
+  "id": "github:940842546/dsh-permissions",
+  "kind": "plugin",
+  "name": "dsh-permissions",
+  "description": "Related DeepSeek Harness project: 940842546/dsh-permissions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "940842546/dsh-permissions",
+  "repositoryUrl": "https://github.com/940842546/dsh-permissions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2220
+}
