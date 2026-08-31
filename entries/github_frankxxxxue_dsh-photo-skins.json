@@ -1,0 +1,20 @@
+{
+  "id": "github:frankxxxxue/dsh-photo-skins",
+  "kind": "plugin",
+  "name": "dsh-photo-skins",
+  "description": "A DeepSeek Harness plugin that turns your photos into Web GUI skins — auto-extracted accent colors, all files stay local.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "frankxxxxue/dsh-photo-skins",
+  "repositoryUrl": "https://github.com/frankxxxxue/dsh-photo-skins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2397
+}
