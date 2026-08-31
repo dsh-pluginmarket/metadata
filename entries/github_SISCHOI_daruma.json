@@ -1,0 +1,20 @@
+{
+  "id": "github:SISCHOI/daruma",
+  "kind": "plugin",
+  "name": "daruma",
+  "description": "Related DeepSeek Harness project: SISCHOI/daruma",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SISCHOI/daruma",
+  "repositoryUrl": "https://github.com/SISCHOI/daruma",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1973
+}
