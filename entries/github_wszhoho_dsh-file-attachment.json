@@ -1,0 +1,20 @@
+{
+  "id": "github:wszhoho/dsh-file-attachment",
+  "kind": "plugin",
+  "name": "dsh-file-attachment",
+  "description": "拖入 / 粘贴 / 工具栏上传按钮（📎，可多选、移动端支持拍照）为输入框附加文件：图片走既有草稿图片流程（不落盘）；文档全文落盘到会话工作区 .dsh-file-attachment/ 并插入 @绝对路径引用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wszhoho/dsh-file-attachment",
+  "repositoryUrl": "https://github.com/wszhoho/dsh-file-attachment",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1986
+}
