@@ -1,0 +1,20 @@
+{
+  "id": "github:umbrella22/xuanling",
+  "kind": "plugin",
+  "name": "xuanling",
+  "description": "Related DeepSeek Harness project: umbrella22/xuanling",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "umbrella22/xuanling",
+  "repositoryUrl": "https://github.com/umbrella22/xuanling",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2251
+}
