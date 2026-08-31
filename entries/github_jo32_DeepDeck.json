@@ -1,0 +1,20 @@
+{
+  "id": "github:jo32/DeepDeck",
+  "kind": "plugin",
+  "name": "DeepDeck",
+  "description": "DeepDeck — an extensible desktop workspace for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jo32/DeepDeck",
+  "repositoryUrl": "https://github.com/jo32/DeepDeck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2407
+}
