@@ -1,0 +1,20 @@
+{
+  "id": "github:NoxTyrannus/dsh-cipher",
+  "kind": "plugin",
+  "name": "dsh-cipher",
+  "description": "把 cipher 的持续思考/三中台/四类记忆以 UNNI/LOOP 会话模式接入 DSH（dsh-plugin bundle）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NoxTyrannus/dsh-cipher",
+  "repositoryUrl": "https://github.com/NoxTyrannus/dsh-cipher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1892
+}
