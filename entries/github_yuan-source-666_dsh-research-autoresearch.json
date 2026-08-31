@@ -1,0 +1,20 @@
+{
+  "id": "github:yuan-source-666/dsh-research-autoresearch",
+  "kind": "plugin",
+  "name": "dsh-research-autoresearch",
+  "description": "AutoResearch 科研协议 DSH 全家桶插件：arXiv recall + LQS 评分 + 状态持久化 + 停滞红绿灯 + 五人格中位数评审 + 可视化总控台卡片。灵感：Deli Chen \"From Draft to Strong-Accept: How a Self-Play Survey Hit 8.6\"。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuan-source-666/dsh-research-autoresearch",
+  "repositoryUrl": "https://github.com/yuan-source-666/dsh-research-autoresearch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1959
+}
