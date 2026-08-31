@@ -1,0 +1,20 @@
+{
+  "id": "github:lmzhen/dsh-evolution",
+  "kind": "plugin",
+  "name": "dsh-evolution",
+  "description": "Hermes-inspired agent self-evolution plugin family, purpose-built for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lmzhen/dsh-evolution",
+  "repositoryUrl": "https://github.com/lmzhen/dsh-evolution",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1882
+}
