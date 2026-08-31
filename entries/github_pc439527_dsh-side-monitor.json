@@ -1,0 +1,20 @@
+{
+  "id": "github:pc439527/dsh-side-monitor",
+  "kind": "plugin",
+  "name": "dsh-side-monitor",
+  "description": "DSH 系统监控侧边插件：概览/进程/Docker 只读监控",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pc439527/dsh-side-monitor",
+  "repositoryUrl": "https://github.com/pc439527/dsh-side-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2414
+}
