@@ -1,0 +1,20 @@
+{
+  "id": "github:Innocent-children/dev-flow",
+  "kind": "plugin",
+  "name": "dev-flow",
+  "description": "Local process control and recovery for Codex and DeepSeek Harness: explicit scope, verification budgets, and durable task state.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Innocent-children/dev-flow",
+  "repositoryUrl": "https://github.com/Innocent-children/dev-flow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2393
+}
