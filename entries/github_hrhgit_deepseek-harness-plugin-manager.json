@@ -1,0 +1,20 @@
+{
+  "id": "github:hrhgit/deepseek-harness-plugin-manager",
+  "kind": "plugin",
+  "name": "deepseek-harness-plugin-manager",
+  "description": "Web plugin manager for DeepSeek Harness (DSH): inspect, search, group, enable, and disable Cordis plugins.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hrhgit/deepseek-harness-plugin-manager",
+  "repositoryUrl": "https://github.com/hrhgit/deepseek-harness-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2141
+}
