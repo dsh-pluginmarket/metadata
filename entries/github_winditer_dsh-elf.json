@@ -1,0 +1,20 @@
+{
+  "id": "github:winditer/dsh-elf",
+  "kind": "plugin",
+  "name": "dsh-elf",
+  "description": "A temporary dialogue elf designed specifically for DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "winditer/dsh-elf",
+  "repositoryUrl": "https://github.com/winditer/dsh-elf",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1937
+}
