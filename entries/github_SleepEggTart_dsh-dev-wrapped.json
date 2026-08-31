@@ -1,0 +1,20 @@
+{
+  "id": "github:SleepEggTart/dsh-dev-wrapped",
+  "kind": "plugin",
+  "name": "dsh-dev-wrapped",
+  "description": "DeepSeek Harness (DSH) 开发者使用报告——类 Spotify Wrapped，统计与 AI 结对编程的行为，生成可分享报告卡片",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SleepEggTart/dsh-dev-wrapped",
+  "repositoryUrl": "https://github.com/SleepEggTart/dsh-dev-wrapped",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2233
+}
