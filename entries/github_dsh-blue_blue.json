@@ -1,0 +1,20 @@
+{
+  "id": "github:dsh-blue/blue",
+  "kind": "plugin",
+  "name": "blue",
+  "description": "Blue: a TUI is not a package, it is a Cordis plugin tree — a modern terminal UI for DeepSeek Harness with hot-swappable render, interaction, and command plugins.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dsh-blue/blue",
+  "repositoryUrl": "https://github.com/dsh-blue/blue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2019
+}
