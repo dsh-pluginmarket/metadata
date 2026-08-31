@@ -1,0 +1,20 @@
+{
+  "id": "github:M0rt1s0114/dsh-deepseek-status",
+  "kind": "plugin",
+  "name": "dsh-deepseek-status",
+  "description": "Related DeepSeek Harness project: M0rt1s0114/dsh-deepseek-status",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "M0rt1s0114/dsh-deepseek-status",
+  "repositoryUrl": "https://github.com/M0rt1s0114/dsh-deepseek-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2269
+}
