@@ -1,0 +1,20 @@
+{
+  "id": "github:yejiming/dsh-ppt",
+  "kind": "plugin",
+  "name": "dsh-ppt",
+  "description": "PPT design preset and editable PPTX production tools for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yejiming/dsh-ppt",
+  "repositoryUrl": "https://github.com/yejiming/dsh-ppt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2333
+}
