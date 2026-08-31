@@ -1,0 +1,20 @@
+{
+  "id": "github:hezhongtang/dsh-update-copilot",
+  "kind": "plugin",
+  "name": "dsh-update-copilot",
+  "description": "Update copilot for DeepSeek Harness: tracks the DSH core, bundled packages, and every installed plugin across npm and git, merged package-centric over all profiles, with one-click updates for eligible profiles. · DSH 更新助手：追踪 dsh 本体、bundle 包和所有已装插件（npm 与 git 双通道，跨 profile 按包合并），仅对符合条件的 profile 一键更新。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hezhongtang/dsh-update-copilot",
+  "repositoryUrl": "https://github.com/hezhongtang/dsh-update-copilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2033
+}
