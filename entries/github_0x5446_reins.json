@@ -1,0 +1,20 @@
+{
+  "id": "github:0x5446/reins",
+  "kind": "plugin",
+  "name": "reins",
+  "description": "Native iOS client for DeepSeek Harness (dsh). Answer your agent from your phone — the relay only ever sees ciphertext.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "0x5446/reins",
+  "repositoryUrl": "https://github.com/0x5446/reins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1861
+}
