@@ -1,0 +1,20 @@
+{
+  "id": "github:rrrrrredy/intent-loop",
+  "kind": "plugin",
+  "name": "intent-loop",
+  "description": "Local-first, traceable current-intent state for Codex and DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rrrrrredy/intent-loop",
+  "repositoryUrl": "https://github.com/rrrrrredy/intent-loop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1962
+}
