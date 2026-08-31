@@ -1,0 +1,20 @@
+{
+  "id": "github:baihui-ai/a2ui-render-in-dsh",
+  "kind": "plugin",
+  "name": "a2ui-render-in-dsh",
+  "description": "Interactive A2UI cards for the dsh web UI — quizzes, forms, charts and diagrams rendered inline in the conversation, with a full action loop back to the agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "baihui-ai/a2ui-render-in-dsh",
+  "repositoryUrl": "https://github.com/baihui-ai/a2ui-render-in-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2092
+}
