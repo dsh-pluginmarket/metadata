@@ -1,0 +1,20 @@
+{
+  "id": "github:ZhuYanTech/dsh-biomni",
+  "kind": "plugin",
+  "name": "dsh-biomni",
+  "description": "DeepSeek Harness biomni plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZhuYanTech/dsh-biomni",
+  "repositoryUrl": "https://github.com/ZhuYanTech/dsh-biomni",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1886
+}
