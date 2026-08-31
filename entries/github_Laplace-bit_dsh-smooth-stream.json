@@ -1,0 +1,20 @@
+{
+  "id": "github:Laplace-bit/dsh-smooth-stream",
+  "kind": "plugin",
+  "name": "dsh-smooth-stream",
+  "description": "DeepSeek Harness Web UI plugin for fluid streaming rendering and silky scrolling. 流畅流式渲染与丝滑滚动。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Laplace-bit/dsh-smooth-stream",
+  "repositoryUrl": "https://github.com/Laplace-bit/dsh-smooth-stream",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2308
+}
