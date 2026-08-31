@@ -1,0 +1,20 @@
+{
+  "id": "github:summer-521/deepseek-harness-swift",
+  "kind": "plugin",
+  "name": "deepseek-harness-swift",
+  "description": "基于 AppKit、SwiftUI 与 WKWebView 的 DSH 原生 macOS 桌面壳，提供设置中心、DSH 版本管理、插件管理、通知和 Sparkle 应用更新。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "summer-521/deepseek-harness-swift",
+  "repositoryUrl": "https://github.com/summer-521/deepseek-harness-swift",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2283
+}
