@@ -1,0 +1,20 @@
+{
+  "id": "github:FeatherHunter/dsh-mattpocock-skills-deck",
+  "kind": "plugin",
+  "name": "dsh-mattpocock-skills-deck",
+  "description": "拨开战争迷雾看见终点，剩下的交给 MattSkillsDeck。让 mattpocock/skills 在 DSH 里化作一块看得见、派得动的任务板。 Part the fog of war, see the end — MattSkillsDeck handles the rest. A playable task board for mattpocock/skills in DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FeatherHunter/dsh-mattpocock-skills-deck",
+  "repositoryUrl": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2202
+}
