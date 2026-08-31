@@ -1,0 +1,20 @@
+{
+  "id": "github:Top-Celestial-Company-Ltd/dsh-dros-vajraclaw",
+  "kind": "plugin",
+  "name": "dsh-dros-vajraclaw",
+  "description": "⚡ DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Top-Celestial-Company-Ltd/dsh-dros-vajraclaw",
+  "repositoryUrl": "https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2200
+}
