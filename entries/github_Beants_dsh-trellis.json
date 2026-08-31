@@ -1,0 +1,20 @@
+{
+  "id": "github:Beants/dsh-trellis",
+  "kind": "plugin",
+  "name": "dsh-trellis",
+  "description": "Related DeepSeek Harness project: Beants/dsh-trellis",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Beants/dsh-trellis",
+  "repositoryUrl": "https://github.com/Beants/dsh-trellis",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2293
+}
