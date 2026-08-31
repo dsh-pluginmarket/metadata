@@ -1,0 +1,20 @@
+{
+  "id": "github:EasyTZ/dsh-ui-balance",
+  "kind": "plugin",
+  "name": "dsh-ui-balance",
+  "description": "Balance display plugin for DeepSeek Harness (dsh) — show your DeepSeek API balance under each reply",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EasyTZ/dsh-ui-balance",
+  "repositoryUrl": "https://github.com/EasyTZ/dsh-ui-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2371
+}
