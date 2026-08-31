@@ -1,0 +1,20 @@
+{
+  "id": "github:TT-Wang/dsh-cron",
+  "kind": "plugin",
+  "name": "dsh-cron",
+  "description": "Scheduled work for DeepSeek Harness that survives session end, host restart and machine sleep — it schedules an outcome (completion window + effect check + catch-up), not a moment.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TT-Wang/dsh-cron",
+  "repositoryUrl": "https://github.com/TT-Wang/dsh-cron",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2128
+}
