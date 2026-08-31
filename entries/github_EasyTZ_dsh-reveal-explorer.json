@@ -1,0 +1,20 @@
+{
+  "id": "github:EasyTZ/dsh-reveal-explorer",
+  "kind": "plugin",
+  "name": "dsh-reveal-explorer",
+  "description": "Reveal-in-file-manager plugin for DeepSeek Harness (dsh) — open the current workspace in your system file manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EasyTZ/dsh-reveal-explorer",
+  "repositoryUrl": "https://github.com/EasyTZ/dsh-reveal-explorer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2369
+}
