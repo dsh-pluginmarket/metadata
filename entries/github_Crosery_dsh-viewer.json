@@ -1,0 +1,20 @@
+{
+  "id": "github:Crosery/dsh-viewer",
+  "kind": "plugin",
+  "name": "dsh-viewer",
+  "description": "Everything renders: images, video, audio, PDF, Office documents and local web pages inline in the DeepSeek Harness web UI, via a display_file tool.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Crosery/dsh-viewer",
+  "repositoryUrl": "https://github.com/Crosery/dsh-viewer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2104
+}
