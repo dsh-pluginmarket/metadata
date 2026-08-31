@@ -1,0 +1,20 @@
+{
+  "id": "github:NekroAI/nekro-nxt",
+  "kind": "plugin",
+  "name": "nekro-nxt",
+  "description": "NekroNXT：基于 DeepSeek Harness（DSH）的多平台群聊智能体系统｜A DSH-powered multi-platform group-chat agent system",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NekroAI/nekro-nxt",
+  "repositoryUrl": "https://github.com/NekroAI/nekro-nxt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2335
+}
