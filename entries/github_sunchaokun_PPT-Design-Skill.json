@@ -1,0 +1,20 @@
+{
+  "id": "github:sunchaokun/PPT-Design-Skill",
+  "kind": "plugin",
+  "name": "PPT-Design-Skill",
+  "description": "Precision PPT design skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect Build Mode control, AI image generation, and fully editable PPTX. 面向专业演示设计场景，帮助用户从需求分析、视觉方向选择到原生可编辑 PPTX 交付，打造高质量、可持续修改的演示文稿。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sunchaokun/PPT-Design-Skill",
+  "repositoryUrl": "https://github.com/sunchaokun/PPT-Design-Skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2215
+}
