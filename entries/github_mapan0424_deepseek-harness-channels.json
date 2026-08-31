@@ -1,0 +1,20 @@
+{
+  "id": "github:mapan0424/deepseek-harness-channels",
+  "kind": "plugin",
+  "name": "deepseek-harness-channels",
+  "description": "Community channel plugins for DeepSeek Harness: core, visual config, and Feishu channel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mapan0424/deepseek-harness-channels",
+  "repositoryUrl": "https://github.com/mapan0424/deepseek-harness-channels",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2377
+}
