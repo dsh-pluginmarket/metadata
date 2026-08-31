@@ -1,0 +1,20 @@
+{
+  "id": "github:QWE13-ART/dsh-skill-folder",
+  "kind": "plugin",
+  "name": "dsh-skill-folder",
+  "description": "Fold the DSH skill catalog prompt surface: static KV-cache-stable catalog + BM25/bge-m3 hybrid skill_search + autoRoute hints. v0.3.0. npm: dsh-skill-folder",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QWE13-ART/dsh-skill-folder",
+  "repositoryUrl": "https://github.com/QWE13-ART/dsh-skill-folder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2042
+}
