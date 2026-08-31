@@ -1,0 +1,20 @@
+{
+  "id": "github:AdamPlatin123/dsh-plugin-radar",
+  "kind": "plugin",
+  "name": "dsh-plugin-radar",
+  "description": "DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AdamPlatin123/dsh-plugin-radar",
+  "repositoryUrl": "https://github.com/AdamPlatin123/dsh-plugin-radar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2366
+}
