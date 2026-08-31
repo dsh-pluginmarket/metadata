@@ -1,0 +1,20 @@
+{
+  "id": "github:yybukn/dsh-table-attach",
+  "kind": "plugin",
+  "name": "dsh-table-attach",
+  "description": "在dph中可以直接拖动.xlsx和.csv的表格文件到输入框中",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yybukn/dsh-table-attach",
+  "repositoryUrl": "https://github.com/yybukn/dsh-table-attach",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2102
+}
