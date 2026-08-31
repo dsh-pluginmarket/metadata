@@ -1,0 +1,20 @@
+{
+  "id": "github:louishzwang/dsh-web-launcher",
+  "kind": "plugin",
+  "name": "dsh-web-launcher",
+  "description": "DSH Web本地终端启动脚本",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "louishzwang/dsh-web-launcher",
+  "repositoryUrl": "https://github.com/louishzwang/dsh-web-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2071
+}
