@@ -1,0 +1,20 @@
+{
+  "id": "github:geeklei/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "一个面向 DeepSeek Harness (dsh)的插件库",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "geeklei/dsh-plugins",
+  "repositoryUrl": "https://github.com/geeklei/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2210
+}
