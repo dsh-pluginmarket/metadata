@@ -1,0 +1,20 @@
+{
+  "id": "github:988hj7tczd-oss/harness-desktop",
+  "kind": "plugin",
+  "name": "harness-desktop",
+  "description": "彩色可定制外观的 DeepSeek Harness 桌面客户端 · Colorful, customizable desktop client for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "988hj7tczd-oss/harness-desktop",
+  "repositoryUrl": "https://github.com/988hj7tczd-oss/harness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1842
+}
