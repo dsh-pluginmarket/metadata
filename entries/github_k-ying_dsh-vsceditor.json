@@ -1,0 +1,20 @@
+{
+  "id": "github:k-ying/dsh-vsceditor",
+  "kind": "plugin",
+  "name": "dsh-vsceditor",
+  "description": "DeepSeek Harness 内嵌 VSCode 编辑器插件：嵌入完整 code-server，agent 写文件时自动弹出红绿 diff 跟随（edit sync / file locking / follow mode）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "k-ying/dsh-vsceditor",
+  "repositoryUrl": "https://github.com/k-ying/dsh-vsceditor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2285
+}
