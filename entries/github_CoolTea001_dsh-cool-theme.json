@@ -1,0 +1,20 @@
+{
+  "id": "github:CoolTea001/dsh-cool-theme",
+  "kind": "plugin",
+  "name": "dsh-cool-theme",
+  "description": "A plugin for changing themes for DSH, with a number of popular default themes built in.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CoolTea001/dsh-cool-theme",
+  "repositoryUrl": "https://github.com/CoolTea001/dsh-cool-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2316
+}
