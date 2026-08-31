@@ -1,0 +1,20 @@
+{
+  "id": "github:onenameneo/dsh-plugin-loom-chat",
+  "kind": "plugin",
+  "name": "dsh-plugin-loom-chat",
+  "description": "Loom Chat is a DSH Web client plugin that turns linear ordinary sessions into a pannable, zoomable Loom-style canvas for parallel exploration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "onenameneo/dsh-plugin-loom-chat",
+  "repositoryUrl": "https://github.com/onenameneo/dsh-plugin-loom-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2010
+}
