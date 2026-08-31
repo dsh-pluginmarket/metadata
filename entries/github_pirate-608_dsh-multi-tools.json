@@ -1,0 +1,20 @@
+{
+  "id": "github:pirate-608/dsh-multi-tools",
+  "kind": "plugin",
+  "name": "dsh-multi-tools",
+  "description": "Multimodal tool suite for DeepSeek Harness: ModLens vision, local ComfyUI, Unity, creative apps, CAD, and Ren'Py.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pirate-608/dsh-multi-tools",
+  "repositoryUrl": "https://github.com/pirate-608/dsh-multi-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2085
+}
