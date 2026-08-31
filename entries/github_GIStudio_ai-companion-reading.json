@@ -1,0 +1,20 @@
+{
+  "id": "github:GIStudio/ai-companion-reading",
+  "kind": "plugin",
+  "name": "ai-companion-reading",
+  "description": "AI 伴学模式 skill：逐段阅读 PDF/论文，苏格拉底追问 + teach-back + 间隔回顾，维护跨会话学习档案（DeepSeek Harness / DSH 插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GIStudio/ai-companion-reading",
+  "repositoryUrl": "https://github.com/GIStudio/ai-companion-reading",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2066
+}
