@@ -1,0 +1,20 @@
+{
+  "id": "github:JunNanLYS/dsh-layered-memory",
+  "kind": "plugin",
+  "name": "dsh-layered-memory",
+  "description": "让 DeepSeek Harness 拥有跨会话长期记忆：AI 自动记住你是谁、你的项目和偏好，新会话直接带上背景，生活与工作记忆自动分开互不干扰，零配置无感运行 | Long-term memory for DeepSeek Harness: the AI remembers who you are, your projects and preferences across sessions, keeps personal and work memories separate, zero-config.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JunNanLYS/dsh-layered-memory",
+  "repositoryUrl": "https://github.com/JunNanLYS/dsh-layered-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2400
+}
