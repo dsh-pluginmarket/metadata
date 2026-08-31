@@ -1,0 +1,20 @@
+{
+  "id": "github:yumusb/dsh-opencode-go-usage",
+  "kind": "plugin",
+  "name": "dsh-opencode-go-usage",
+  "description": "Related DeepSeek Harness project: yumusb/dsh-opencode-go-usage",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yumusb/dsh-opencode-go-usage",
+  "repositoryUrl": "https://github.com/yumusb/dsh-opencode-go-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2411
+}
