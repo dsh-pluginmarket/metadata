@@ -1,0 +1,20 @@
+{
+  "id": "github:YiyuZh/dsh-skillflux",
+  "kind": "plugin",
+  "name": "dsh-skillflux",
+  "description": "DeepSeek Harness 动态 Skill 运行时管理器，自动发现、路由、挂载和卸载 Agent Skills",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YiyuZh/dsh-skillflux",
+  "repositoryUrl": "https://github.com/YiyuZh/dsh-skillflux",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1994
+}
