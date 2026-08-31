@@ -1,0 +1,20 @@
+{
+  "id": "github:A-G-guy/dsh-plus",
+  "kind": "plugin",
+  "name": "dsh-plus",
+  "description": "DSH+ —— DeepSeek Harness 自定义插件 monorepo：移动端窄屏适配 / 任务结束邮件通知 / 子代理独立模型 / 自定义 LLM 路由 / ......",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "A-G-guy/dsh-plus",
+  "repositoryUrl": "https://github.com/A-G-guy/dsh-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2390
+}
