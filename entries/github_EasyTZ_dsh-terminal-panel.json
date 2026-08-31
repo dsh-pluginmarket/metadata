@@ -1,0 +1,20 @@
+{
+  "id": "github:EasyTZ/dsh-terminal-panel",
+  "kind": "plugin",
+  "name": "dsh-terminal-panel",
+  "description": "Terminal panel plugin for DeepSeek Harness (dsh) — run commands in the current workspace with streaming output",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EasyTZ/dsh-terminal-panel",
+  "repositoryUrl": "https://github.com/EasyTZ/dsh-terminal-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2373
+}
