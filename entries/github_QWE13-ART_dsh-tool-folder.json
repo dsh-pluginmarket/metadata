@@ -1,0 +1,20 @@
+{
+  "id": "github:QWE13-ART/dsh-tool-folder",
+  "kind": "plugin",
+  "name": "dsh-tool-folder",
+  "description": "Fold the DSH tool surface per request + ChainGuard firewall (high-risk block + exfil-chain detection + anti-obfuscation) + BM25/bge-m3 hybrid tools_search. Shrinks schema tokens 80-90% while keeping selection accuracy. v0.2.0 adds a semantic retrieval leg (local Ollama bge-m3, RRF hybrid) and ChainGuard obfuscation detection. npm: dsh-tool-folder",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QWE13-ART/dsh-tool-folder",
+  "repositoryUrl": "https://github.com/QWE13-ART/dsh-tool-folder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2259
+}
