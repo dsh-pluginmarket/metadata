@@ -1,0 +1,20 @@
+{
+  "id": "github:SeverusZh/dsh-skills-mcp-group-manager",
+  "kind": "plugin",
+  "name": "dsh-skills-mcp-group-manager",
+  "description": "DeepSeek Harness Skills & MCPs 分组管理器 — 分组管理 Skills、过滤模型技能目录、独立开关 MCP 服务器、左侧面板一键管理 / Group skills, filter the model skill catalog, toggle MCP servers, left panel UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SeverusZh/dsh-skills-mcp-group-manager",
+  "repositoryUrl": "https://github.com/SeverusZh/dsh-skills-mcp-group-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1846
+}
