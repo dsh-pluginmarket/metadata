@@ -1,0 +1,20 @@
+{
+  "id": "github:weibaohui/hermes-loop",
+  "kind": "plugin",
+  "name": "hermes-loop",
+  "description": "DeepSeek Harness 插件：Hermes 循环——review/curator 自动化与会话循环管理",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weibaohui/hermes-loop",
+  "repositoryUrl": "https://github.com/weibaohui/hermes-loop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2166
+}
