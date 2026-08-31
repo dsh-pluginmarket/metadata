@@ -1,0 +1,20 @@
+{
+  "id": "github:aiyacharley/dsh-pubmed",
+  "kind": "plugin",
+  "name": "dsh-pubmed",
+  "description": "把 pubmed-mcp-server 的核心能力 移植成 DSH 原生模型工具：搜索、文章元数据、全文、引用格式化、MeSH、ID 转换等 11 个工具， 直接对接 NCBI E-utilities 与 Europe PMC REST，无需额外的 MCP 客户端配置。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aiyacharley/dsh-pubmed",
+  "repositoryUrl": "https://github.com/aiyacharley/dsh-pubmed",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1912
+}
