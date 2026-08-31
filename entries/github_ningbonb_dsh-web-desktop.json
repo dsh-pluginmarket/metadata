@@ -1,0 +1,20 @@
+{
+  "id": "github:ningbonb/dsh-web-desktop",
+  "kind": "plugin",
+  "name": "dsh-web-desktop",
+  "description": "Electron launcher for DeepSeek Harness Web profiles / DeepSeek Harness Web Profile 的 Electron 桌面启动器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ningbonb/dsh-web-desktop",
+  "repositoryUrl": "https://github.com/ningbonb/dsh-web-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2323
+}
