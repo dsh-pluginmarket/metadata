@@ -1,0 +1,20 @@
+{
+  "id": "github:SiriLee/dsh-approval-hotkeys",
+  "kind": "plugin",
+  "name": "dsh-approval-hotkeys",
+  "description": "Approval-panel hotkeys for DeepSeek Harness — Enter approves once, Esc rejects · DSH 插件：审批面板快捷键，Enter 批准一次，Esc 拒绝",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SiriLee/dsh-approval-hotkeys",
+  "repositoryUrl": "https://github.com/SiriLee/dsh-approval-hotkeys",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2242
+}
