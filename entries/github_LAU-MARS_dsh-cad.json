@@ -1,0 +1,20 @@
+{
+  "id": "github:LAU-MARS/dsh-cad",
+  "kind": "plugin",
+  "name": "dsh-cad",
+  "description": "deepseek harness 2D and 3D CAD plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LAU-MARS/dsh-cad",
+  "repositoryUrl": "https://github.com/LAU-MARS/dsh-cad",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2342
+}
