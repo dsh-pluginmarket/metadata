@@ -1,0 +1,20 @@
+{
+  "id": "github:Jackywxsz/DSH-Creator",
+  "kind": "plugin",
+  "name": "DSH-Creator",
+  "description": "Jacky Creator：面向内容创作者的 DeepSeek Harness 本地内容与运营工作台",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jackywxsz/DSH-Creator",
+  "repositoryUrl": "https://github.com/Jackywxsz/DSH-Creator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2312
+}
