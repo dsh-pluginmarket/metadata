@@ -1,0 +1,20 @@
+{
+  "id": "github:zengweicheng666/dsh-svn-tools",
+  "kind": "plugin",
+  "name": "dsh-svn-tools",
+  "description": "SVN (Subversion) tools + sidebar UI for DeepSeek Harness: 33 agent tools with UTF-8 Chinese commit logs, plus an SVN panel in dsh-better-sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zengweicheng666/dsh-svn-tools",
+  "repositoryUrl": "https://github.com/zengweicheng666/dsh-svn-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1948
+}
