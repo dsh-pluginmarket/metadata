@@ -1,0 +1,20 @@
+{
+  "id": "github:weshopai/weshop-skill-package",
+  "kind": "plugin",
+  "name": "weshop-skill-package",
+  "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weshopai/weshop-skill-package",
+  "repositoryUrl": "https://github.com/weshopai/weshop-skill-package",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2344
+}
