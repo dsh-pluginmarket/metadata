@@ -1,0 +1,20 @@
+{
+  "id": "github:weekitmo/dsh-trace",
+  "kind": "plugin",
+  "name": "dsh-trace",
+  "description": "A DeepSeek Harness Web plugin for inspecting redacted LLM HTTP request and response traces.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weekitmo/dsh-trace",
+  "repositoryUrl": "https://github.com/weekitmo/dsh-trace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2048
+}
