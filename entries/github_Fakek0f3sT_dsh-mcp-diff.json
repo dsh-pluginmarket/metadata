@@ -1,0 +1,20 @@
+{
+  "id": "github:Fakek0f3sT/dsh-mcp-diff",
+  "kind": "plugin",
+  "name": "dsh-mcp-diff",
+  "description": "Uniform diff cards for every file mutation in DeepSeek Harness Web — MCP filesystem (edit_file/write_file) and built-in edit/write, collapsed by default, with per-line highlighting",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fakek0f3sT/dsh-mcp-diff",
+  "repositoryUrl": "https://github.com/Fakek0f3sT/dsh-mcp-diff",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2297
+}
