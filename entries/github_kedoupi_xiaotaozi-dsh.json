@@ -1,0 +1,20 @@
+{
+  "id": "github:kedoupi/xiaotaozi-dsh",
+  "kind": "plugin",
+  "name": "xiaotaozi-dsh",
+  "description": "xiaotaozi-dsh：小桃子 DeepSeek Harness 插件与 Mac 客户端",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kedoupi/xiaotaozi-dsh",
+  "repositoryUrl": "https://github.com/kedoupi/xiaotaozi-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2203
+}
