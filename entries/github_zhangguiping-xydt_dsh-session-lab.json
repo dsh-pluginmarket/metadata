@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangguiping-xydt/dsh-session-lab",
+  "kind": "plugin",
+  "name": "dsh-session-lab",
+  "description": "DeepSeek Harness session teaching, evidence capsules, and controlled trajectory comparison",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangguiping-xydt/dsh-session-lab",
+  "repositoryUrl": "https://github.com/zhangguiping-xydt/dsh-session-lab",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2008
+}
