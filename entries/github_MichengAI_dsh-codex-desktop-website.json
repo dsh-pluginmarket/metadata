@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-codex-desktop-website",
+  "kind": "plugin",
+  "name": "dsh-codex-desktop-website",
+  "description": "DeepSeek Harness Codex Desktop 官网",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-codex-desktop-website",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-codex-desktop-website",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1934
+}
