@@ -1,0 +1,20 @@
+{
+  "id": "github:hrhgit/dsh-oauth-openai",
+  "kind": "plugin",
+  "name": "dsh-oauth-openai",
+  "description": "Related DeepSeek Harness project: hrhgit/dsh-oauth-openai",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hrhgit/dsh-oauth-openai",
+  "repositoryUrl": "https://github.com/hrhgit/dsh-oauth-openai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2123
+}
