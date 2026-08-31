@@ -1,0 +1,20 @@
+{
+  "id": "github:rotifer-protocol/rotifer-playground",
+  "kind": "plugin",
+  "name": "rotifer-playground",
+  "description": "Local dev environment — Rust core + TypeScript CLI for gene development & Arena competition",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rotifer-protocol/rotifer-playground",
+  "repositoryUrl": "https://github.com/rotifer-protocol/rotifer-playground",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2038
+}
