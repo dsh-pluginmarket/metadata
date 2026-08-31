@@ -1,0 +1,20 @@
+{
+  "id": "github:Yurzi/dsh-pdf-mineru",
+  "kind": "plugin",
+  "name": "dsh-pdf-mineru",
+  "description": "Provider-independent DSH PDF parsing tools powered by MinerU.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yurzi/dsh-pdf-mineru",
+  "repositoryUrl": "https://github.com/Yurzi/dsh-pdf-mineru",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2023
+}
