@@ -1,0 +1,20 @@
+{
+  "id": "github:BiKing567/dsh-subagent-panel",
+  "kind": "plugin",
+  "name": "dsh-subagent-panel",
+  "description": "DSH 插件：把每个子代理渲染成主对话里可点击的卡片，点击直接进入子代理会话（与标题栏同一路径）。| DSH plugin: render every subagent as a clickable inline card that opens the child session — same navigation the header's subagent catalog uses.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BiKing567/dsh-subagent-panel",
+  "repositoryUrl": "https://github.com/BiKing567/dsh-subagent-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2295
+}
