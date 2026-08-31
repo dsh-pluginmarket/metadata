@@ -1,0 +1,20 @@
+{
+  "id": "github:ai4paper/ipaper",
+  "kind": "plugin",
+  "name": "ipaper",
+  "description": "Related DeepSeek Harness project: ai4paper/ipaper",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ai4paper/ipaper",
+  "repositoryUrl": "https://github.com/ai4paper/ipaper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1883
+}
