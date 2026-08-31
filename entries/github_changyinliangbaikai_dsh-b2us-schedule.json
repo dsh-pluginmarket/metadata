@@ -1,0 +1,20 @@
+{
+  "id": "github:changyinliangbaikai/dsh-b2us-schedule",
+  "kind": "plugin",
+  "name": "dsh-b2us-schedule",
+  "description": "dsh定时任务插件，支持延迟、固定间隔、cron表达式，支持执行shell命令，支持发起Agent会话",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "changyinliangbaikai/dsh-b2us-schedule",
+  "repositoryUrl": "https://github.com/changyinliangbaikai/dsh-b2us-schedule",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1878
+}
