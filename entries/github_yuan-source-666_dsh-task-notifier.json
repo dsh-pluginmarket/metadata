@@ -1,0 +1,20 @@
+{
+  "id": "github:yuan-source-666/dsh-task-notifier",
+  "kind": "plugin",
+  "name": "dsh-task-notifier",
+  "description": "DeepSeek Harness community plugin: OS notification when a turn, subagent, background job, goal, or workflow finishes. Localized wording, per-source switches, custom delivery command. npm: dsh-task-notifier",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuan-source-666/dsh-task-notifier",
+  "repositoryUrl": "https://github.com/yuan-source-666/dsh-task-notifier",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1958
+}
