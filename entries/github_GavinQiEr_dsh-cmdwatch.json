@@ -1,0 +1,20 @@
+{
+  "id": "github:GavinQiEr/dsh-cmdwatch",
+  "kind": "plugin",
+  "name": "dsh-cmdwatch",
+  "description": "Real-time command monitor for DeepSeek Harness (DSH). Watch foreground/background command output in the Web UI without pausing the conversation. 命令窗：实时显示 DSH 命令与执行输出。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GavinQiEr/dsh-cmdwatch",
+  "repositoryUrl": "https://github.com/GavinQiEr/dsh-cmdwatch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 1854
+}
