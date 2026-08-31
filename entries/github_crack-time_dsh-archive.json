@@ -1,0 +1,20 @@
+{
+  "id": "github:crack-time/dsh-archive",
+  "kind": "plugin",
+  "name": "dsh-archive",
+  "description": "Session archive plugin for DSH web GUI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "crack-time/dsh-archive",
+  "repositoryUrl": "https://github.com/crack-time/dsh-archive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2031
+}
