@@ -1,0 +1,20 @@
+{
+  "id": "github:mrzhangkris/dsh-session-pruner",
+  "kind": "plugin",
+  "name": "dsh-session-pruner",
+  "description": "DSH 会话生命周期管理插件：one-shot 子代理自动清理 + 容量保底 + 连带清理 projcache，从源头杜绝缓存膨胀卡顿",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mrzhangkris/dsh-session-pruner",
+  "repositoryUrl": "https://github.com/mrzhangkris/dsh-session-pruner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2115
+}
