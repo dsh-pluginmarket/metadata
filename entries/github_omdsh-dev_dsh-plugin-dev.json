@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-plugin-dev",
+  "kind": "plugin",
+  "name": "dsh-plugin-dev",
+  "description": "DSH 插件开发踩坑与做法档案（skill + 文档）：cordis 双副本、tsconfig 三件套、Windows junction、多帧 zstd 等实测记录",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-plugin-dev",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-plugin-dev",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2959
+}
