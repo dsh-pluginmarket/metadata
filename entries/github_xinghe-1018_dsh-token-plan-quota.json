@@ -1,0 +1,20 @@
+{
+  "id": "github:xinghe-1018/dsh-token-plan-quota",
+  "kind": "plugin",
+  "name": "dsh-token-plan-quota",
+  "description": "Related DeepSeek Harness project: xinghe-1018/dsh-token-plan-quota",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xinghe-1018/dsh-token-plan-quota",
+  "repositoryUrl": "https://github.com/xinghe-1018/dsh-token-plan-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2701
+}
