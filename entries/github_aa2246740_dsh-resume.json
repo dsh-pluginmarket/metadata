@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-resume",
+  "kind": "plugin",
+  "name": "dsh-resume",
+  "description": "Continue Codex, Claude Code, and Cursor work in DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-resume",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-resume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2856
+}
