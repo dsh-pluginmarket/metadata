@@ -1,0 +1,20 @@
+{
+  "id": "github:taxueseek/argo",
+  "kind": "plugin",
+  "name": "argo",
+  "description": "专门为 agent 打造的 agent 搜索工具，具备多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "taxueseek/argo",
+  "repositoryUrl": "https://github.com/taxueseek/argo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3026
+}
