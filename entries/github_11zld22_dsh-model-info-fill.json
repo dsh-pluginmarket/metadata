@@ -1,0 +1,20 @@
+{
+  "id": "github:11zld22/dsh-model-info-fill",
+  "kind": "plugin",
+  "name": "dsh-model-info-fill",
+  "description": "模型信息补全：按模型名自动补全上下文、输出上限、思考档位和图片能力",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "11zld22/dsh-model-info-fill",
+  "repositoryUrl": "https://github.com/11zld22/dsh-model-info-fill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2825
+}
