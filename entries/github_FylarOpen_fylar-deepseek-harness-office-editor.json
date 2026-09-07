@@ -1,0 +1,20 @@
+{
+  "id": "github:FylarOpen/fylar-deepseek-harness-office-editor",
+  "kind": "plugin",
+  "name": "fylar-deepseek-harness-office-editor",
+  "description": "Office document preview, editing, and DOCX generation for DeepSeek Harness, powered by Fylar Office SDK.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FylarOpen/fylar-deepseek-harness-office-editor",
+  "repositoryUrl": "https://github.com/FylarOpen/fylar-deepseek-harness-office-editor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2902
+}
