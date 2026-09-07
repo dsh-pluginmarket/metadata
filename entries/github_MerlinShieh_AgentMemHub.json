@@ -1,0 +1,20 @@
+{
+  "id": "github:MerlinShieh/AgentMemHub",
+  "kind": "plugin",
+  "name": "AgentMemHub",
+  "description": "统一提取多 Agent Harness 会话为全量事件流(含工具链/思维链/Shell/补丁) → SQLite 检索 → 桥接 MemOS 生成记忆",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MerlinShieh/AgentMemHub",
+  "repositoryUrl": "https://github.com/MerlinShieh/AgentMemHub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2560
+}
