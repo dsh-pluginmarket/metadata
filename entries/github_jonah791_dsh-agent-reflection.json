@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-reflection",
+  "kind": "plugin",
+  "name": "dsh-agent-reflection",
+  "description": "每日反思插件：固定时间（默认凌晨 12 点）向爱丽丝发反思提醒，结合当天记忆按 6 维进化棱镜自审。信号送达，反思归爱丽丝。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-reflection",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-reflection",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3007
+}
