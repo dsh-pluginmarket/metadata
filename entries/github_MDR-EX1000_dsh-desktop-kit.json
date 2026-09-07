@@ -1,0 +1,20 @@
+{
+  "id": "github:MDR-EX1000/dsh-desktop-kit",
+  "kind": "plugin",
+  "name": "dsh-desktop-kit",
+  "description": "Related DeepSeek Harness project: MDR-EX1000/dsh-desktop-kit",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MDR-EX1000/dsh-desktop-kit",
+  "repositoryUrl": "https://github.com/MDR-EX1000/dsh-desktop-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2588
+}
