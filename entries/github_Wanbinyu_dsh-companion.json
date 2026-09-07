@@ -1,0 +1,20 @@
+{
+  "id": "github:Wanbinyu/dsh-companion",
+  "kind": "plugin",
+  "name": "dsh-companion",
+  "description": "Local state-aware desktop companion and task-status overlay for DeepSeek Harness Web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wanbinyu/dsh-companion",
+  "repositoryUrl": "https://github.com/Wanbinyu/dsh-companion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3005
+}
