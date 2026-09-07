@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-cyber-range",
+  "kind": "plugin",
+  "name": "dsh-cyber-range",
+  "description": "OverTheWire 在线靶场攻坚工具集：otw_request（HTTP 直连请求）、otw_blind（通用 SQL 盲注引擎）、otw_ssh（SSH 命令执行）——把 CTF 攻坚的临时脚本能力资产化为可复用工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-cyber-range",
+  "repositoryUrl": "https://github.com/jonah791/dsh-cyber-range",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2569
+}
