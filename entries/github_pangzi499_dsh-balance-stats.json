@@ -1,0 +1,20 @@
+{
+  "id": "github:pangzi499/dsh-balance-stats",
+  "kind": "plugin",
+  "name": "dsh-balance-stats",
+  "description": "Balance, session cost, token usage, and invoice summaries for DeepSeek Harness Web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pangzi499/dsh-balance-stats",
+  "repositoryUrl": "https://github.com/pangzi499/dsh-balance-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2487
+}
