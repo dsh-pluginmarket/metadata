@@ -1,0 +1,20 @@
+{
+  "id": "github:VanadisGithub/dsh-skill-evolution",
+  "kind": "plugin",
+  "name": "dsh-skill-evolution",
+  "description": "Hermes-style skill self-evolution plugin for DeepSeek Harness (DSH): crystallizes reusable agent skills from successful turns via signal-triggered LLM review, progressively improves them, and manages everything in a Settings panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "VanadisGithub/dsh-skill-evolution",
+  "repositoryUrl": "https://github.com/VanadisGithub/dsh-skill-evolution",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2462
+}
