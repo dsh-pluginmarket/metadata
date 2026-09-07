@@ -1,0 +1,20 @@
+{
+  "id": "github:Kayungko/dsh-plugin-task-coordinator",
+  "kind": "plugin",
+  "name": "dsh-plugin-task-coordinator",
+  "description": "Codex-style cross-task coordination for DeepSeek Harness: list, inspect, spawn, message and steer top-level sessions from a supervisor agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kayungko/dsh-plugin-task-coordinator",
+  "repositoryUrl": "https://github.com/Kayungko/dsh-plugin-task-coordinator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2481
+}
