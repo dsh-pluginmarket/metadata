@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-auto-review",
+  "kind": "plugin",
+  "name": "dsh-auto-review",
+  "description": "Codex-style Auto-review and Approve for me mode for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-auto-review",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-auto-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2895
+}
