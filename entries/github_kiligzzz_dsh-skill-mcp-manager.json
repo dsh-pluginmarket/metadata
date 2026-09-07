@@ -1,0 +1,20 @@
+{
+  "id": "github:kiligzzz/dsh-skill-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-skill-mcp-manager",
+  "description": "Capability Manager for DeepSeek Harness: manage MCP servers and Skills from a Settings-page UI (dual-face dsh plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kiligzzz/dsh-skill-mcp-manager",
+  "repositoryUrl": "https://github.com/kiligzzz/dsh-skill-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2651
+}
