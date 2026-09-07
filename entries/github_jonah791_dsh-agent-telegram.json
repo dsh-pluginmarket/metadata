@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-telegram",
+  "kind": "plugin",
+  "name": "dsh-agent-telegram",
+  "description": "Telegram 一体化插件：inbound（长轮询收消息注入主会话+回复回传）+ outbound（telegram_send/status 可靠推送+outbox 防丢失）合并单插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-telegram",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-telegram",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2970
+}
