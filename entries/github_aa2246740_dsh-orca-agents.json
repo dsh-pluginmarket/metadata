@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-orca-agents",
+  "kind": "plugin",
+  "name": "dsh-orca-agents",
+  "description": "DSH plugin: dispatch Grok/Codex/Claude/Cursor/Antigravity into local Orca.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-orca-agents",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-orca-agents",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2859
+}
