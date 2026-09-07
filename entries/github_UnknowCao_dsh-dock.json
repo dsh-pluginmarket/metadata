@@ -1,0 +1,20 @@
+{
+  "id": "github:UnknowCao/dsh-dock",
+  "kind": "plugin",
+  "name": "dsh-dock",
+  "description": "One-click desktop launcher for DSH Harness: whale exe + sidebar More menu (Settings/Reload/Full Exit)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "UnknowCao/dsh-dock",
+  "repositoryUrl": "https://github.com/UnknowCao/dsh-dock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2889
+}
