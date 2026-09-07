@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-codex-ui",
+  "kind": "plugin",
+  "name": "dsh-codex-ui",
+  "description": "DSH Codex UI — 为 DeepSeek Harness Web 提供 Codex 风格侧栏、工作区会话树、全局搜索和轮次导航 · A Codex-style sidebar, workspace session tree, global search, and turn navigation for DSH Web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-codex-ui",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-codex-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2593
+}
