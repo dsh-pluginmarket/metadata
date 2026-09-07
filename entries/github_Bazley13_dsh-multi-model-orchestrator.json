@@ -1,0 +1,20 @@
+{
+  "id": "github:Bazley13/dsh-multi-model-orchestrator",
+  "kind": "plugin",
+  "name": "dsh-multi-model-orchestrator",
+  "description": "Related DeepSeek Harness project: Bazley13/dsh-multi-model-orchestrator",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Bazley13/dsh-multi-model-orchestrator",
+  "repositoryUrl": "https://github.com/Bazley13/dsh-multi-model-orchestrator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2710
+}
