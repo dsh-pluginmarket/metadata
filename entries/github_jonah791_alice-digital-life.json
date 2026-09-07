@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/alice-digital-life",
+  "kind": "plugin",
+  "name": "alice-digital-life",
+  "description": "我的数字生命爱丽丝 — DSH 自研插件合集中心（16 个插件仓库相互引流）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/alice-digital-life",
+  "repositoryUrl": "https://github.com/jonah791/alice-digital-life",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2638
+}
