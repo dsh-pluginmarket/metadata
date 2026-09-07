@@ -1,0 +1,20 @@
+{
+  "id": "github:merenguesL/dsh-tool-normalizer",
+  "kind": "plugin",
+  "name": "dsh-tool-normalizer",
+  "description": "Related DeepSeek Harness project: merenguesL/dsh-tool-normalizer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "merenguesL/dsh-tool-normalizer",
+  "repositoryUrl": "https://github.com/merenguesL/dsh-tool-normalizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2836
+}
