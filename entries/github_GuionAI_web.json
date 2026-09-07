@@ -1,0 +1,20 @@
+{
+  "id": "github:GuionAI/web",
+  "kind": "plugin",
+  "name": "web",
+  "description": "A web research toolkit with multi-provider search and clean Markdown extraction from static and JavaScript-rendered pages, plus public code and library docs search—available via CLI and MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GuionAI/web",
+  "repositoryUrl": "https://github.com/GuionAI/web",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2547
+}
