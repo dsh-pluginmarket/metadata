@@ -1,0 +1,20 @@
+{
+  "id": "github:FuWenLianggit/dsh-goal-auto",
+  "kind": "plugin",
+  "name": "dsh-goal-auto",
+  "description": "Related DeepSeek Harness project: FuWenLianggit/dsh-goal-auto",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FuWenLianggit/dsh-goal-auto",
+  "repositoryUrl": "https://github.com/FuWenLianggit/dsh-goal-auto",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2961
+}
