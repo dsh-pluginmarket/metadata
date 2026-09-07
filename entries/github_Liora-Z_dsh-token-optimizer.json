@@ -1,0 +1,20 @@
+{
+  "id": "github:Liora-Z/dsh-token-optimizer",
+  "kind": "plugin",
+  "name": "dsh-token-optimizer",
+  "description": "Layered token-optimization pipeline for DeepSeek Harness: output ladder, MCP lazy loading,compaction driver, cache-hit reporting. Built on real DSH plugin APIs; ~40-60% input saved in long sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Liora-Z/dsh-token-optimizer",
+  "repositoryUrl": "https://github.com/Liora-Z/dsh-token-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2886
+}
