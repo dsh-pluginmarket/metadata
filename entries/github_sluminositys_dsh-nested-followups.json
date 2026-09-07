@@ -1,0 +1,20 @@
+{
+  "id": "github:sluminositys/dsh-nested-followups",
+  "kind": "plugin",
+  "name": "dsh-nested-followups",
+  "description": "Branch from any answer and keep branching at any depth. Recursively isolated follow-ups that leave the main DSH task untouched.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sluminositys/dsh-nested-followups",
+  "repositoryUrl": "https://github.com/sluminositys/dsh-nested-followups",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2837
+}
