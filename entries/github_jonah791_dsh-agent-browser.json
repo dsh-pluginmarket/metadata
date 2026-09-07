@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-browser",
+  "kind": "plugin",
+  "name": "dsh-agent-browser",
+  "description": "浏览器工具插件：client 捕获 console/全局错误上报宿主，agent 用 browser_console 工具读取——自己看 F12 Console。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-browser",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2979
+}
