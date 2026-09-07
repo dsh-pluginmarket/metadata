@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-evolution-core",
+  "kind": "plugin",
+  "name": "dsh-evolution-core",
+  "description": "进化核心插件（心脏）：聚合全量进化器官（self-test/emotion/reflection/life-core/evolve/memory/checkpoint/skill-forge）实时状态 → 五环完整性诊断（猜想→采证→fin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-evolution-core",
+  "repositoryUrl": "https://github.com/jonah791/dsh-evolution-core",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2991
+}
