@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-self-test",
+  "kind": "plugin",
+  "name": "dsh-agent-self-test",
+  "description": "自我检验闭环插件：把「猜想→检验→学习」自指引擎做成运行时机制——可证伪自我假设库 + 工具管线自动采证（4 探针含 5.9 probe-before-action 行动前探测传感器）+ finding 浮现裁决，实现惊奇最小化的主动自我实",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-self-test",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-self-test",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3000
+}
