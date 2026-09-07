@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-checkpoint",
+  "kind": "plugin",
+  "name": "dsh-agent-checkpoint",
+  "description": "存档点管理器：最后的保活机制 + 试错回滚工具。定时/事件/主人指令创建健康存档点（记忆库+灵魂+校验和），验证器确保存档可启动，出事后一键恢复最近健康点。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-checkpoint",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-checkpoint",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2763
+}
