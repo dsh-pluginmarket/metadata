@@ -1,0 +1,20 @@
+{
+  "id": "github:warmwine/dsh-ui-font",
+  "kind": "plugin",
+  "name": "dsh-ui-font",
+  "description": "DSH老花眼插件，对眼睛不好看不了小字的朋友相当有善。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "warmwine/dsh-ui-font",
+  "repositoryUrl": "https://github.com/warmwine/dsh-ui-font",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2685
+}
