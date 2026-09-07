@@ -1,0 +1,20 @@
+{
+  "id": "github:dugujun3-cloud/dsh-creator-skills",
+  "kind": "plugin",
+  "name": "dsh-creator-skills",
+  "description": "Bundled creator & solo-business Agent Skills for DeepSeek Harness: user operations, solo business system, knowledge products, diagnostics. 11 skills, zero deps, MIT.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dugujun3-cloud/dsh-creator-skills",
+  "repositoryUrl": "https://github.com/dugujun3-cloud/dsh-creator-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2568
+}
