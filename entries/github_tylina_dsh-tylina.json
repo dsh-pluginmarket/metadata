@@ -1,0 +1,20 @@
+{
+  "id": "github:tylina/dsh-tylina",
+  "kind": "plugin",
+  "name": "dsh-tylina",
+  "description": "Edit typeset Typst documents inside DeepSeek Harness. Share a workspace with your agent, from first draft to finished PDF.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tylina/dsh-tylina",
+  "repositoryUrl": "https://github.com/tylina/dsh-tylina",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2561
+}
