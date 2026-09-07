@@ -1,0 +1,20 @@
+{
+  "id": "github:a792883583/dsh-git-panel",
+  "kind": "plugin",
+  "name": "dsh-git-panel",
+  "description": "DSH web GUI git panel: branch management + GitLens-style commit graph",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a792883583/dsh-git-panel",
+  "repositoryUrl": "https://github.com/a792883583/dsh-git-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2823
+}
