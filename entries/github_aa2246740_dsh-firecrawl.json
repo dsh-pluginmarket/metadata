@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-firecrawl",
+  "kind": "plugin",
+  "name": "dsh-firecrawl",
+  "description": "Firecrawl search provider with multi-account settings for DeepSeek Harness 0.1.2-rc.1",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-firecrawl",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-firecrawl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2871
+}
