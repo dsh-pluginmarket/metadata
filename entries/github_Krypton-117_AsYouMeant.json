@@ -1,0 +1,20 @@
+{
+  "id": "github:Krypton-117/AsYouMeant",
+  "kind": "plugin",
+  "name": "AsYouMeant",
+  "description": "Related DeepSeek Harness project: Krypton-117/AsYouMeant",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Krypton-117/AsYouMeant",
+  "repositoryUrl": "https://github.com/Krypton-117/AsYouMeant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2833
+}
