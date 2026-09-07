@@ -1,0 +1,20 @@
+{
+  "id": "github:yindf/taskfold",
+  "kind": "plugin",
+  "name": "taskfold",
+  "description": "Keeps long coding-agent sessions lean: wrap work in named tasks and, when one is done, fold its whole span into a short titled summary. The conversation stays readable, context costs stay low, and every fold's original content can be read back on demand. For [DeepSeek Harness](https://www.npmjs.com/package/@deepseek-ai/dsh) (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yindf/taskfold",
+  "repositoryUrl": "https://github.com/yindf/taskfold",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2573
+}
