@@ -1,0 +1,20 @@
+{
+  "id": "github:publieople/dsh-omniroute-models",
+  "kind": "plugin",
+  "name": "dsh-omniroute-models",
+  "description": "DSH plugin: searchable/filterable model manager for OmniRoute (or any OpenAI-compatible gateway) — provider directory, modality discovery, multi-select enable.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "publieople/dsh-omniroute-models",
+  "repositoryUrl": "https://github.com/publieople/dsh-omniroute-models",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2993
+}
