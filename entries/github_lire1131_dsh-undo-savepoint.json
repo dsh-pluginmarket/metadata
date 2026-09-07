@@ -1,0 +1,20 @@
+{
+  "id": "github:lire1131/dsh-undo-savepoint",
+  "kind": "plugin",
+  "name": "dsh-undo-savepoint",
+  "description": "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lire1131/dsh-undo-savepoint",
+  "repositoryUrl": "https://github.com/lire1131/dsh-undo-savepoint",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2668
+}
