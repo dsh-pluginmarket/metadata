@@ -1,0 +1,20 @@
+{
+  "id": "github:huangruiteng/loopx",
+  "kind": "plugin",
+  "name": "loopx",
+  "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huangruiteng/loopx",
+  "repositoryUrl": "https://github.com/huangruiteng/loopx",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2584
+}
