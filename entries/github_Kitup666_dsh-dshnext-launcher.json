@@ -1,0 +1,20 @@
+{
+  "id": "github:Kitup666/dsh-dshnext-launcher",
+  "kind": "plugin",
+  "name": "dsh-dshnext-launcher",
+  "description": "这是个dsh启动器，不是插件，rust写的，不用浏览器套壳，主打静态性能，目前还在完善，感觉在样式上，功能BUG也没测完，欢迎给建议和测bug( )ovo",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kitup666/dsh-dshnext-launcher",
+  "repositoryUrl": "https://github.com/Kitup666/dsh-dshnext-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2541
+}
