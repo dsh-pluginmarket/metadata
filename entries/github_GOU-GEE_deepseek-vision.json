@@ -1,0 +1,20 @@
+{
+  "id": "github:GOU-GEE/deepseek-vision",
+  "kind": "plugin",
+  "name": "deepseek-vision",
+  "description": "Related DeepSeek Harness project: GOU-GEE/deepseek-vision",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GOU-GEE/deepseek-vision",
+  "repositoryUrl": "https://github.com/GOU-GEE/deepseek-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3028
+}
