@@ -1,0 +1,20 @@
+{
+  "id": "github:orrinzeng/dsh-cursor-subscription",
+  "kind": "plugin",
+  "name": "dsh-cursor-subscription",
+  "description": "Log directly into your Cursor account within DeepSeek Harness and use your Cursor subscription — no API Key required, and no dependency on Cursor IDE or Cursor CLI. 在 DeepSeek Harness 中直接登录 Cursor 账户并使用 Cursor 订阅，不需要 API Key， 也不依赖 Cursor IDE 或 Cursor CLI。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "orrinzeng/dsh-cursor-subscription",
+  "repositoryUrl": "https://github.com/orrinzeng/dsh-cursor-subscription",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2921
+}
