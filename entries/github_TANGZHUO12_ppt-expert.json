@@ -1,0 +1,20 @@
+{
+  "id": "github:TANGZHUO12/ppt-expert",
+  "kind": "plugin",
+  "name": "ppt-expert",
+  "description": "One sentence in, an expert deck out. This DSH plugin adds a slide-expert persona, a LibreOffice Impress MCP server (7 tools + table reading + 18 matplotlib chart types) and a live browser preview that follows the agent page by page. Layout audits, animations, pptx/odp delivery, multi-round memory. Clone + setup.sh; needs LibreOffice (MPL-2.0).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TANGZHUO12/ppt-expert",
+  "repositoryUrl": "https://github.com/TANGZHUO12/ppt-expert",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2606
+}
