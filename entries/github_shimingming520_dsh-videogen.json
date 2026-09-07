@@ -1,0 +1,20 @@
+{
+  "id": "github:shimingming520/dsh-videogen",
+  "kind": "plugin",
+  "name": "dsh-videogen",
+  "description": "Related DeepSeek Harness project: shimingming520/dsh-videogen",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shimingming520/dsh-videogen",
+  "repositoryUrl": "https://github.com/shimingming520/dsh-videogen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2639
+}
