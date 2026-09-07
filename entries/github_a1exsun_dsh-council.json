@@ -1,0 +1,20 @@
+{
+  "id": "github:a1exsun/dsh-council",
+  "kind": "plugin",
+  "name": "dsh-council",
+  "description": "Multi-model council for DeepSeek Harness: independent answers, anonymous peer reviews, and an inspectable final decision.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a1exsun/dsh-council",
+  "repositoryUrl": "https://github.com/a1exsun/dsh-council",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2845
+}
