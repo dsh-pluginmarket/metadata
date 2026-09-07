@@ -1,0 +1,20 @@
+{
+  "id": "github:a792883583/dsh-smart-reminder",
+  "kind": "plugin",
+  "name": "dsh-smart-reminder",
+  "description": "Smart calendar reminder & schedule assistant for DSH Web GUI: lunar calendar, holidays, system notifications on macOS/Windows, and WeCom/platform push integration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a792883583/dsh-smart-reminder",
+  "repositoryUrl": "https://github.com/a792883583/dsh-smart-reminder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2839
+}
