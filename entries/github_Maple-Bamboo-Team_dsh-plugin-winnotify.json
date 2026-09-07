@@ -1,0 +1,20 @@
+{
+  "id": "github:Maple-Bamboo-Team/dsh-plugin-winnotify",
+  "kind": "plugin",
+  "name": "dsh-plugin-winnotify",
+  "description": "给DeepSeek Harness 接入Windows Toast通知",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Maple-Bamboo-Team/dsh-plugin-winnotify",
+  "repositoryUrl": "https://github.com/Maple-Bamboo-Team/dsh-plugin-winnotify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2932
+}
