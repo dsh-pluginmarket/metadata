@@ -1,0 +1,20 @@
+{
+  "id": "github:NevermindZZT/dsh-manager-plugin",
+  "kind": "plugin",
+  "name": "dsh-manager-plugin",
+  "description": "dsh manger 远程工具对应使用的 dsh 插件，直接完成 dsh 远程访问",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NevermindZZT/dsh-manager-plugin",
+  "repositoryUrl": "https://github.com/NevermindZZT/dsh-manager-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2501
+}
