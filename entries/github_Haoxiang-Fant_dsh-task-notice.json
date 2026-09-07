@@ -1,0 +1,20 @@
+{
+  "id": "github:Haoxiang-Fant/dsh-task-notice",
+  "kind": "plugin",
+  "name": "dsh-task-notice",
+  "description": "装上此插件并进入插件设置内授权即可让你的DeepSeek Harness获得任务完成后使用系统通知能力，还有每个模型的使用情况",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Haoxiang-Fant/dsh-task-notice",
+  "repositoryUrl": "https://github.com/Haoxiang-Fant/dsh-task-notice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2927
+}
