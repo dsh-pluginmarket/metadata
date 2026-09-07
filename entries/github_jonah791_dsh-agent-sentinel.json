@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-sentinel",
+  "kind": "plugin",
+  "name": "dsh-agent-sentinel",
+  "description": "哨兵插件（从 dsh-agent-watch 拆分）：监听哨兵文件（.hot-reload-flag）→ 触发时调用沙盒预检（ctx.preflight.run，消费 dsh-agent-preflight 服务）→ 通过才重启 web →",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-sentinel",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-sentinel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2998
+}
