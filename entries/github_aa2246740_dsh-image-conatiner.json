@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-image-conatiner",
+  "kind": "plugin",
+  "name": "dsh-image-conatiner",
+  "description": "Codex-style generated-image gallery and lightbox for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-image-conatiner",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-image-conatiner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2865
+}
