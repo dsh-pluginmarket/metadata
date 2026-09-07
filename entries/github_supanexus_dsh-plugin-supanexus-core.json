@@ -1,0 +1,20 @@
+{
+  "id": "github:supanexus/dsh-plugin-supanexus-core",
+  "kind": "plugin",
+  "name": "dsh-plugin-supanexus-core",
+  "description": "SupaNexus platform core: branding, OAuth quick setup, dual-line model provider, and app plugin market",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "supanexus/dsh-plugin-supanexus-core",
+  "repositoryUrl": "https://github.com/supanexus/dsh-plugin-supanexus-core",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2632
+}
