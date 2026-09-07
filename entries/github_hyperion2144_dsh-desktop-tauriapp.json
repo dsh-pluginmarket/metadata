@@ -1,0 +1,20 @@
+{
+  "id": "github:hyperion2144/dsh-desktop-tauriapp",
+  "kind": "plugin",
+  "name": "dsh-desktop-tauriapp",
+  "description": "Tauri 2 desktop shell wrapping the DeepSeek Harness Web GUI (macOS + Windows) — tray daemon, auto-launch/reuse of local dsh, --patch plugin injection, mobile access via LAN/tunnel pairing with cloudflared one-click tunnel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hyperion2144/dsh-desktop-tauriapp",
+  "repositoryUrl": "https://github.com/hyperion2144/dsh-desktop-tauriapp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3029
+}
