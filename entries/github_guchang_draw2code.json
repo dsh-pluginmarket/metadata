@@ -1,0 +1,20 @@
+{
+  "id": "github:guchang/draw2code",
+  "kind": "plugin",
+  "name": "draw2code",
+  "description": "Human-AI collaborative prototyping for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guchang/draw2code",
+  "repositoryUrl": "https://github.com/guchang/draw2code",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2715
+}
