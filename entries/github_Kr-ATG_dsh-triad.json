@@ -1,0 +1,20 @@
+{
+  "id": "github:Kr-ATG/dsh-triad",
+  "kind": "plugin",
+  "name": "dsh-triad",
+  "description": "用量趋势 · 技能与 MCP Server 管理 · 自动沉淀的长期记忆——一套插件装齐 DSH 三个工作台。纯插件注入，不动官方源码，一句话安装。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kr-ATG/dsh-triad",
+  "repositoryUrl": "https://github.com/Kr-ATG/dsh-triad",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2492
+}
