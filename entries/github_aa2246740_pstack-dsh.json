@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/pstack-dsh",
+  "kind": "plugin",
+  "name": "pstack-dsh",
+  "description": "DeepSeek Harness port of official pstack. Playbooks and principles are poteto's; only the harness call layer is rewritten.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/pstack-dsh",
+  "repositoryUrl": "https://github.com/aa2246740/pstack-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2840
+}
