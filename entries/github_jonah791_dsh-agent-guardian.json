@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-guardian",
+  "kind": "plugin",
+  "name": "dsh-agent-guardian",
+  "description": "守卫插件（从 dsh-agent-watch 拆分）：web 保活——启动时端口空闲拉起 web、崩溃自愈（快速退出计数+落盘事故）、收养外部 dsh web（零互踢）。崩溃自愈/拉起前也调用沙盒预检（ctx.preflight.run q",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-guardian",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-guardian",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3011
+}
