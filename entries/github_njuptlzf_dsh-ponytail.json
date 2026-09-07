@@ -1,0 +1,20 @@
+{
+  "id": "github:njuptlzf/dsh-ponytail",
+  "kind": "plugin",
+  "name": "dsh-ponytail",
+  "description": "DeepSeek Harness (DSH) 插件：常驻注入 Ponytail 懒高级工程师规范，5 个同伴技能落盘为可调用的 skill。安装：dsh plugin add github:njuptlzf/dsh-ponytail",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "njuptlzf/dsh-ponytail",
+  "repositoryUrl": "https://github.com/njuptlzf/dsh-ponytail",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2676
+}
