@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-tool-diff",
+  "kind": "plugin",
+  "name": "dsh-tool-diff",
+  "description": "DSH Diff 工具插件：文本/JSON/CSV/Markdown 结构化比较与 unified diff，零依赖只读，注册 diff 工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-tool-diff",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-tool-diff",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2948
+}
