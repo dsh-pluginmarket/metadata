@@ -1,0 +1,20 @@
+{
+  "id": "github:TelosmaYLX/dsh-session-notify",
+  "kind": "plugin",
+  "name": "dsh-session-notify",
+  "description": "当dsh任务完成/阻塞/提问等情况时，自动推送windows消息进行提醒，支持自定义文案和图片，以及显示会话用时、消耗token、速度tps等指标。Automatically push Windows notifications upon completion of a dsh task, supporting custom text and images, as well as displaying metrics including session duration, token consumption, and TPS speed.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TelosmaYLX/dsh-session-notify",
+  "repositoryUrl": "https://github.com/TelosmaYLX/dsh-session-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2667
+}
