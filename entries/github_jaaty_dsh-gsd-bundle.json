@@ -1,0 +1,20 @@
+{
+  "id": "github:jaaty/dsh-gsd-bundle",
+  "kind": "plugin",
+  "name": "dsh-gsd-bundle",
+  "description": "A DeepSeek Harness bundle reimplementing opengsd-core (Git Ship Done) as host-plane Cordis plugins, replacing the default agent-loop behaviour with the GSD phase loop.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jaaty/dsh-gsd-bundle",
+  "repositoryUrl": "https://github.com/jaaty/dsh-gsd-bundle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2799
+}
