@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-antigravity-oauth",
+  "kind": "plugin",
+  "name": "dsh-antigravity-oauth",
+  "description": "Unofficial isolated Gemini Cloud Code Assist (Antigravity) OAuth for DeepSeek Harness. Ban risk is real. Gemini Flash + search only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-antigravity-oauth",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-antigravity-oauth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2896
+}
