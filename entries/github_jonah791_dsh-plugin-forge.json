@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-plugin-forge",
+  "kind": "plugin",
+  "name": "dsh-plugin-forge",
+  "description": "插件创建插件：声明式 spec → 完整可构建的 DSH 插件项目（src/index.ts + package.json + tsconfig + cordis.patch.yml + README）。工具 DSL 正确性由生成器保证，高",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-plugin-forge",
+  "repositoryUrl": "https://github.com/jonah791/dsh-plugin-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2981
+}
