@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-compact-provider",
+  "kind": "plugin",
+  "name": "dsh-compact-provider",
+  "description": "压缩一体化插件：AgentCompactEngine 挂载 compaction 服务 + session_compact 工具原语（爱丽丝自主决策压缩）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-compact-provider",
+  "repositoryUrl": "https://github.com/jonah791/dsh-compact-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2967
+}
