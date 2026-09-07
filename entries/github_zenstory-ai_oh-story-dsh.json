@@ -1,0 +1,20 @@
+{
+  "id": "github:zenstory-ai/oh-story-dsh",
+  "kind": "plugin",
+  "name": "oh-story-dsh",
+  "description": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zenstory-ai/oh-story-dsh",
+  "repositoryUrl": "https://github.com/zenstory-ai/oh-story-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2915
+}
