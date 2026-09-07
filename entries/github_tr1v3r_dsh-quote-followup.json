@@ -1,0 +1,20 @@
+{
+  "id": "github:tr1v3r/dsh-quote-followup",
+  "kind": "plugin",
+  "name": "dsh-quote-followup",
+  "description": "Quote selected conversation content into a targeted follow-up turn for DeepSeek Harness — TUI face (message picker) + Web face (selection quote button), public seams only",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tr1v3r/dsh-quote-followup",
+  "repositoryUrl": "https://github.com/tr1v3r/dsh-quote-followup",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2506
+}
