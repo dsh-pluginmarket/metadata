@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-panel",
+  "kind": "plugin",
+  "name": "dsh-panel",
+  "description": "独立实时前端面板：宿主托管自包含 HTML + HTTP API，零官方 client 依赖。首版=插件管理（替代官方失效的插件 tab）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-panel",
+  "repositoryUrl": "https://github.com/jonah791/dsh-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2985
+}
