@@ -1,0 +1,20 @@
+{
+  "id": "github:2DogsLee/dsh_whalebuddy",
+  "kind": "plugin",
+  "name": "dsh_whalebuddy",
+  "description": "whalebuddy - DeepSeek Harness desktop pet (Windows): a DSH bundle plugin + Tauri shell. A porthole whale reflects your agent live state, with autostart & skin settings.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2DogsLee/dsh_whalebuddy",
+  "repositoryUrl": "https://github.com/2DogsLee/dsh_whalebuddy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2984
+}
