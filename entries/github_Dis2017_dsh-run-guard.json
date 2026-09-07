@@ -1,0 +1,20 @@
+{
+  "id": "github:Dis2017/dsh-run-guard",
+  "kind": "plugin",
+  "name": "dsh-run-guard",
+  "description": "Related DeepSeek Harness project: Dis2017/dsh-run-guard",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dis2017/dsh-run-guard",
+  "repositoryUrl": "https://github.com/Dis2017/dsh-run-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2828
+}
