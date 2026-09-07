@@ -1,0 +1,20 @@
+{
+  "id": "github:EsonXie/dsh-agent-toolkit",
+  "kind": "plugin",
+  "name": "dsh-agent-toolkit",
+  "description": "Deepseek Harness工具集",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EsonXie/dsh-agent-toolkit",
+  "repositoryUrl": "https://github.com/EsonXie/dsh-agent-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3024
+}
