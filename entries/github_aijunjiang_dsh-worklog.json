@@ -1,0 +1,20 @@
+{
+  "id": "github:aijunjiang/dsh-worklog",
+  "kind": "plugin",
+  "name": "dsh-worklog",
+  "description": "DSH 工作日志日历：按对话节点切片、自动摘要，日历汇总每日会话并生成日报/周报/月报/半年总结",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aijunjiang/dsh-worklog",
+  "repositoryUrl": "https://github.com/aijunjiang/dsh-worklog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2843
+}
