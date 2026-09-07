@@ -1,0 +1,20 @@
+{
+  "id": "github:picoaide/picoaide-harness",
+  "kind": "plugin",
+  "name": "picoaide-harness",
+  "description": "PicoAide Harness：企业级 DeepSeek Harness 一体化平台。桌面客户端 + 本地智能体引擎 + 管理后台，支持私有化部署。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "picoaide/picoaide-harness",
+  "repositoryUrl": "https://github.com/picoaide/picoaide-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3019
+}
