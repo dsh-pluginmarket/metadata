@@ -1,0 +1,20 @@
+{
+  "id": "github:huxint/dsh-team",
+  "kind": "plugin",
+  "name": "dsh-team",
+  "description": "Agent teams for DeepSeek Harness: named long-lived teammates over ctx.subagents, a shared task list, a member-to-member mailbox, virtual workspaces, and a live team room in the conversation view",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huxint/dsh-team",
+  "repositoryUrl": "https://github.com/huxint/dsh-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2467
+}
