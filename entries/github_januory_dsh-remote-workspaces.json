@@ -1,0 +1,20 @@
+{
+  "id": "github:januory/dsh-remote-workspaces",
+  "kind": "plugin",
+  "name": "dsh-remote-workspaces",
+  "description": "Related DeepSeek Harness project: januory/dsh-remote-workspaces",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "januory/dsh-remote-workspaces",
+  "repositoryUrl": "https://github.com/januory/dsh-remote-workspaces",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2660
+}
