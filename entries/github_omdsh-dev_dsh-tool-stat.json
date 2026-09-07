@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-tool-stat",
+  "kind": "plugin",
+  "name": "dsh-tool-stat",
+  "description": "DSH 统计工具插件：描述统计/百分位数/频数分布/相关性，零依赖纯函数确定性",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-tool-stat",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-tool-stat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2937
+}
