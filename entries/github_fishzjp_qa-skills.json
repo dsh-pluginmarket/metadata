@@ -1,0 +1,20 @@
+{
+  "id": "github:fishzjp/qa-skills",
+  "kind": "plugin",
+  "name": "qa-skills",
+  "description": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fishzjp/qa-skills",
+  "repositoryUrl": "https://github.com/fishzjp/qa-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2707
+}
