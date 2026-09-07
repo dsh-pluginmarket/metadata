@@ -1,0 +1,20 @@
+{
+  "id": "github:fireworksss/LeisureTimeQueue",
+  "kind": "plugin",
+  "name": "LeisureTimeQueue",
+  "description": "eisure-time-queue是一个基于 DeepSeek Harness 的本地闲时任务队列插件。你可以预先写好任务，并指定每周允许开始执行的时间段，例如“工作日 22:00 到次日 07:00”。只要 DeepSeek Harness 保持运行、目标会话可用且 Agent 处于空闲状态，插件就会按队列顺序自动开始任务。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fireworksss/LeisureTimeQueue",
+  "repositoryUrl": "https://github.com/fireworksss/LeisureTimeQueue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2718
+}
