@@ -1,0 +1,20 @@
+{
+  "id": "github:bvcvb/dsh-baize-rules",
+  "kind": "plugin",
+  "name": "dsh-baize-rules",
+  "description": "DeepSeek Harness (DSH) plugin — inject durable user-set session/global must-do / must-not requirements into the model at conversation start (Baize).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bvcvb/dsh-baize-rules",
+  "repositoryUrl": "https://github.com/bvcvb/dsh-baize-rules",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2773
+}
