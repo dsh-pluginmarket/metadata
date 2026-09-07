@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-context",
+  "kind": "plugin",
+  "name": "dsh-agent-context",
+  "description": "上下文治理一体化插件：/context 命令 + ctx.contextMeter 服务 + 剪枝工具（prune_candidates/apply/expand/guard/stats，合并自 dsh-agent-context-prun",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-context",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-context",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2975
+}
