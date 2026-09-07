@@ -1,0 +1,20 @@
+{
+  "id": "github:bainianlaoyao/dsh-session-robustness",
+  "kind": "plugin",
+  "name": "dsh-session-robustness",
+  "description": "DSH plugin: after official llm-retry (n/5), keep retrying transient API failures on the same open step until success, cancel, or pause.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bainianlaoyao/dsh-session-robustness",
+  "repositoryUrl": "https://github.com/bainianlaoyao/dsh-session-robustness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2483
+}
