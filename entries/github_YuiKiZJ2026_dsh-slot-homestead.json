@@ -1,0 +1,20 @@
+{
+  "id": "github:YuiKiZJ2026/dsh-slot-homestead",
+  "kind": "plugin",
+  "name": "dsh-slot-homestead",
+  "description": "老虎机庄园｜A pixel-art desktop ecosystem for DSH with time-based fish, crop and animal growth, day/night ambience and collectible slot rewards.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YuiKiZJ2026/dsh-slot-homestead",
+  "repositoryUrl": "https://github.com/YuiKiZJ2026/dsh-slot-homestead",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2817
+}
