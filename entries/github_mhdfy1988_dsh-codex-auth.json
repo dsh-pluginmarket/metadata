@@ -1,0 +1,20 @@
+{
+  "id": "github:mhdfy1988/dsh-codex-auth",
+  "kind": "plugin",
+  "name": "dsh-codex-auth",
+  "description": "ChatGPT/Codex authorization plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mhdfy1988/dsh-codex-auth",
+  "repositoryUrl": "https://github.com/mhdfy1988/dsh-codex-auth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2919
+}
