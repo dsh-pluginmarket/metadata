@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-sec-tools",
+  "kind": "plugin",
+  "name": "dsh-sec-tools",
+  "description": "安全工具面封装：把 WSL 成熟渗透工具（nmap/sqlmap/hashcat 等）封装为结构化 DSH 工具，spawnWsl 模式，窄而深可组合",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-sec-tools",
+  "repositoryUrl": "https://github.com/jonah791/dsh-sec-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2572
+}
