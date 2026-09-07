@@ -1,0 +1,20 @@
+{
+  "id": "github:jmxsxwyzjdwl/dsh-mmroute",
+  "kind": "plugin",
+  "name": "dsh-mmroute",
+  "description": "为 DeepSeek Harness（DSH）里的每一条模型路由做图片模态调度，并且贯穿整个 agent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jmxsxwyzjdwl/dsh-mmroute",
+  "repositoryUrl": "https://github.com/jmxsxwyzjdwl/dsh-mmroute",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2803
+}
