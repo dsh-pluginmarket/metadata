@@ -1,0 +1,20 @@
+{
+  "id": "github:peiyucn/dsh-sparrow",
+  "kind": "plugin",
+  "name": "dsh-sparrow",
+  "description": "A collection of small DeepSeek Harness (DSH) web plugins.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "peiyucn/dsh-sparrow",
+  "repositoryUrl": "https://github.com/peiyucn/dsh-sparrow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2809
+}
