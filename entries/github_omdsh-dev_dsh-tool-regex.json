@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-tool-regex",
+  "kind": "plugin",
+  "name": "dsh-tool-regex",
+  "description": "DSH 正则工具插件：测试匹配/提取捕获组/安全替换/静态解释正则（不执行代码），零依赖，注册 regex 工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-tool-regex",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-tool-regex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2942
+}
