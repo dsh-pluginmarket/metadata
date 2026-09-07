@@ -1,0 +1,20 @@
+{
+  "id": "github:rickylabs/harness",
+  "kind": "plugin",
+  "name": "harness",
+  "description": "Monorepo of DeepSeek Harness (dsh) plugin packages — the deterministic coordinator layer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rickylabs/harness",
+  "repositoryUrl": "https://github.com/rickylabs/harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2726
+}
