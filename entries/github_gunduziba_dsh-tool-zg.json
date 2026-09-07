@@ -1,0 +1,20 @@
+{
+  "id": "github:gunduziba/dsh-tool-zg",
+  "kind": "plugin",
+  "name": "dsh-tool-zg",
+  "description": "DeepSeek Harness 原生 zvec-grep (zg) 代码语义搜索工具插件，支持按预设动态过滤",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gunduziba/dsh-tool-zg",
+  "repositoryUrl": "https://github.com/gunduziba/dsh-tool-zg",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2908
+}
