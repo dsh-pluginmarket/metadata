@@ -1,0 +1,20 @@
+{
+  "id": "github:Tinger-X/dsh-session-enhance",
+  "kind": "plugin",
+  "name": "dsh-session-enhance",
+  "description": "Conversation enhancement for DeepSeek Harness Web — archive & manage sessions, guaranteed physical delete, drag sessions between workspaces, conversation notifications, and a branchable conversation tree.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tinger-X/dsh-session-enhance",
+  "repositoryUrl": "https://github.com/Tinger-X/dsh-session-enhance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2879
+}
