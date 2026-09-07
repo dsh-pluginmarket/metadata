@@ -1,0 +1,20 @@
+{
+  "id": "github:po-et/dsh-session-rescue",
+  "kind": "plugin",
+  "name": "dsh-session-rescue",
+  "description": "Fix 'corrupt session log' in DeepSeek Harness: diagnose, safely repair, and salvage broken dsh sessions. Zero dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "po-et/dsh-session-rescue",
+  "repositoryUrl": "https://github.com/po-et/dsh-session-rescue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2657
+}
