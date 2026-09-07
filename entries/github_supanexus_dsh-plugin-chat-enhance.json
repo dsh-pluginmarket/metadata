@@ -1,0 +1,20 @@
+{
+  "id": "github:supanexus/dsh-plugin-chat-enhance",
+  "kind": "plugin",
+  "name": "dsh-plugin-chat-enhance",
+  "description": "Searchable model picker with recent chips, vision capability tags, and composer image upload for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "supanexus/dsh-plugin-chat-enhance",
+  "repositoryUrl": "https://github.com/supanexus/dsh-plugin-chat-enhance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2630
+}
