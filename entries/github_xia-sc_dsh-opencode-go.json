@@ -1,0 +1,20 @@
+{
+  "id": "github:xia-sc/dsh-opencode-go",
+  "kind": "plugin",
+  "name": "dsh-opencode-go",
+  "description": "DeepSeek Harness LLM provider plugin for OpenCode Go (zen-go route)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xia-sc/dsh-opencode-go",
+  "repositoryUrl": "https://github.com/xia-sc/dsh-opencode-go",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2794
+}
