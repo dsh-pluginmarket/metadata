@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-toolkit",
+  "kind": "plugin",
+  "name": "dsh-toolkit",
+  "description": "DSH 零依赖工具包 collection —— time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema 十个确定性工具，统一入口一键安装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-toolkit",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2934
+}
