@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-plugin-check",
+  "kind": "plugin",
+  "name": "dsh-plugin-check",
+  "description": "DSH 插件健康检查工具：扫描插件仓库的清单协议 / patch 格式 / 构建陷阱 / hub 收录状态，零依赖只读，注册 plugin_check 工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-plugin-check",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-plugin-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2964
+}
