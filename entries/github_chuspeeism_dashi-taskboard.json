@@ -1,0 +1,20 @@
+{
+  "id": "github:chuspeeism/dashi-taskboard",
+  "kind": "plugin",
+  "name": "dashi-taskboard",
+  "description": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chuspeeism/dashi-taskboard",
+  "repositoryUrl": "https://github.com/chuspeeism/dashi-taskboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2811
+}
