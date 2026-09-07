@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-opendesigner",
+  "kind": "plugin",
+  "name": "dsh-opendesigner",
+  "description": "Related DeepSeek Harness project: aa2246740/dsh-opendesigner",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-opendesigner",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-opendesigner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2861
+}
