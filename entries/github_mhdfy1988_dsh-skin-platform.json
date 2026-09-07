@@ -1,0 +1,20 @@
+{
+  "id": "github:mhdfy1988/dsh-skin-platform",
+  "kind": "plugin",
+  "name": "dsh-skin-platform",
+  "description": "Independent multi-package skin platform for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mhdfy1988/dsh-skin-platform",
+  "repositoryUrl": "https://github.com/mhdfy1988/dsh-skin-platform",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2702
+}
