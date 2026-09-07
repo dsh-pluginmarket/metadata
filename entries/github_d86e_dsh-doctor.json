@@ -1,0 +1,20 @@
+{
+  "id": "github:d86e/dsh-doctor",
+  "kind": "plugin",
+  "name": "dsh-doctor",
+  "description": "dsh-doctor: self-healing watchdog for the DeepSeek Harness web profile. Recovers from plugin-induced boot failures within 60s, runs an unbounded CLI doctor, captures every tool error, and watches all live sessions for stuck turns.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "d86e/dsh-doctor",
+  "repositoryUrl": "https://github.com/d86e/dsh-doctor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2767
+}
