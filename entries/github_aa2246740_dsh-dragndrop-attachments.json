@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-dragndrop-attachments",
+  "kind": "plugin",
+  "name": "dsh-dragndrop-attachments",
+  "description": "Codex-style drag-and-drop files, folders, ZIP and Office attachments for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-dragndrop-attachments",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-dragndrop-attachments",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2876
+}
