@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-oauth-login",
+  "kind": "plugin",
+  "name": "dsh-oauth-login",
+  "description": "Pi-native multi-provider OAuth login for DeepSeek Harness. Independent store — never touches official CLI auth files.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-oauth-login",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-oauth-login",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2846
+}
