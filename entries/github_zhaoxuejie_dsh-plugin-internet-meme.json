@@ -1,0 +1,20 @@
+{
+  "id": "github:zhaoxuejie/dsh-plugin-internet-meme",
+  "kind": "plugin",
+  "name": "dsh-plugin-internet-meme",
+  "description": "DeepSeek Harness Web 的本地热梗弹幕字幕插件，支持主题、自定义文案与可选提示音。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhaoxuejie/dsh-plugin-internet-meme",
+  "repositoryUrl": "https://github.com/zhaoxuejie/dsh-plugin-internet-meme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2471
+}
