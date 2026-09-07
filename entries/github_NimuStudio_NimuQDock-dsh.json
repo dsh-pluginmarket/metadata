@@ -1,0 +1,20 @@
+{
+  "id": "github:NimuStudio/NimuQDock-dsh",
+  "kind": "plugin",
+  "name": "NimuQDock-dsh",
+  "description": "把 DeepSeek Harness接入QQ的对接坞——带人格引擎的仿真群友：心情、精力、记忆，像真人一样潜水与参与。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NimuStudio/NimuQDock-dsh",
+  "repositoryUrl": "https://github.com/NimuStudio/NimuQDock-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2493
+}
