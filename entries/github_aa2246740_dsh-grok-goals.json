@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-grok-goals",
+  "kind": "plugin",
+  "name": "dsh-grok-goals",
+  "description": "Related DeepSeek Harness project: aa2246740/dsh-grok-goals",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-grok-goals",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-grok-goals",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2642
+}
