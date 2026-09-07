@@ -1,0 +1,20 @@
+{
+  "id": "github:tta-lab/organon",
+  "kind": "plugin",
+  "name": "organon",
+  "description": "Structure-aware tools for AI agents. Tree-sitter code editing, web page navigation, search. No daemon, no JSON, just stdin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tta-lab/organon",
+  "repositoryUrl": "https://github.com/tta-lab/organon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2675
+}
