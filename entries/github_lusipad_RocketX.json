@@ -1,0 +1,20 @@
+{
+  "id": "github:lusipad/RocketX",
+  "kind": "plugin",
+  "name": "RocketX",
+  "description": "以原版 Rocket.Chat 为内核、集成 Codex App Server、Deepseek Harness、Azure DevOps、体验对标飞书的团队协作客户端。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lusipad/RocketX",
+  "repositoryUrl": "https://github.com/lusipad/RocketX",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2477
+}
