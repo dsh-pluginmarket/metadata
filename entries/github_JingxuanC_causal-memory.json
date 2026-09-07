@@ -1,0 +1,20 @@
+{
+  "id": "github:JingxuanC/causal-memory",
+  "kind": "plugin",
+  "name": "causal-memory",
+  "description": "Causal memory layer for AI agents — MCP server that records decision→outcome relationships. Survives compaction.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JingxuanC/causal-memory",
+  "repositoryUrl": "https://github.com/JingxuanC/causal-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2615
+}
