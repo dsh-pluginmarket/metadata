@@ -1,0 +1,20 @@
+{
+  "id": "github:cocofhu/anime-find",
+  "kind": "plugin",
+  "name": "anime-find",
+  "description": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cocofhu/anime-find",
+  "repositoryUrl": "https://github.com/cocofhu/anime-find",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2653
+}
