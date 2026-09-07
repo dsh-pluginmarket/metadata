@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-gateway",
+  "kind": "plugin",
+  "name": "dsh-gateway",
+  "description": "One DSH Host, one messaging Gateway. Bring your own Slack and Feishu apps.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-gateway",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2870
+}
