@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-tool-calculator",
+  "kind": "plugin",
+  "name": "dsh-tool-calculator",
+  "description": "DSH 计算器工具插件：安全的数学表达式求值器，零依赖递归下降解析器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-tool-calculator",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-tool-calculator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2953
+}
