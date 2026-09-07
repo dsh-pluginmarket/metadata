@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-im-connect",
+  "kind": "plugin",
+  "name": "dsh-im-connect",
+  "description": "DSH IM Connect — 将主流即时通讯平台接入本机 DeepSeek Harness · Connect major messaging platforms to local DeepSeek Harness agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-im-connect",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-im-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2645
+}
