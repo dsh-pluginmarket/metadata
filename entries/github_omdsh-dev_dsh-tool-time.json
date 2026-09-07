@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-tool-time",
+  "kind": "plugin",
+  "name": "dsh-tool-time",
+  "description": "DSH 时间工具插件：严格 ISO 8601 解析、IANA 时区转换、UTC 日历运算、固定时长差，零依赖",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-tool-time",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-tool-time",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2936
+}
