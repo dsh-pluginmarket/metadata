@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-autoresearch",
+  "kind": "plugin",
+  "name": "dsh-autoresearch",
+  "description": "Durable auto-research experiment loop for DeepSeek Harness, with create / run / monitor in the official Web GUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-autoresearch",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-autoresearch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2894
+}
