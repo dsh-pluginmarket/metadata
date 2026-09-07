@@ -1,0 +1,20 @@
+{
+  "id": "github:shaomingbo/dsh-codex-compaction",
+  "kind": "plugin",
+  "name": "dsh-codex-compaction",
+  "description": "Codex native compaction integration for DeepSeek Harness using existing account capabilities (in development).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shaomingbo/dsh-codex-compaction",
+  "repositoryUrl": "https://github.com/shaomingbo/dsh-codex-compaction",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2777
+}
