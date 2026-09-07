@@ -1,0 +1,20 @@
+{
+  "id": "github:Player-MINEPIG/dsh-tavern",
+  "kind": "plugin",
+  "name": "dsh-tavern",
+  "description": "A plugin which makes dsh compatible with SillyTavern artifacts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Player-MINEPIG/dsh-tavern",
+  "repositoryUrl": "https://github.com/Player-MINEPIG/dsh-tavern",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2641
+}
