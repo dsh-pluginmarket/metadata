@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-livevoice",
+  "kind": "plugin",
+  "name": "dsh-livevoice",
+  "description": "DSH live voice plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-livevoice",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-livevoice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2863
+}
