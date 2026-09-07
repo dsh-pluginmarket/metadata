@@ -1,0 +1,20 @@
+{
+  "id": "github:opqnext/moji-docs",
+  "kind": "plugin",
+  "name": "moji-docs",
+  "description": "MojiDocs 是一款跨平台的 Markdown Wiki 桌面应用，基于 Electron + Vue 3 + SQLite 构建。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "opqnext/moji-docs",
+  "repositoryUrl": "https://github.com/opqnext/moji-docs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2789
+}
