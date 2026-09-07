@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-vision",
+  "kind": "plugin",
+  "name": "dsh-agent-vision",
+  "description": "多模态视觉插件（辅助通道）：把本地图片喂给 OpenAI 兼容 VLM（默认 qwen3.8-flash）做读图/描述/双图对比——批量审图/省主会话上下文；主会话亲眼看图走官方 read_image（原生多模态）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-vision",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2996
+}
