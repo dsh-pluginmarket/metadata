@@ -1,0 +1,20 @@
+{
+  "id": "github:Guojin0826/dsh-plugin-guard",
+  "kind": "plugin",
+  "name": "dsh-plugin-guard",
+  "description": "DeepSeek Harness 插件安全体检：静态代码 + 依赖审查 + AI 在线审计，绿/黄/红三级报告面板。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Guojin0826/dsh-plugin-guard",
+  "repositoryUrl": "https://github.com/Guojin0826/dsh-plugin-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2912
+}
