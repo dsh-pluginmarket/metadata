@@ -1,0 +1,20 @@
+{
+  "id": "github:jansen-66/dsh-guandan-panel",
+  "kind": "plugin",
+  "name": "dsh-guandan-panel",
+  "description": "DSH Web Plugin: 工作区底部开辟一个迷你面板，当AI帮你工作时，不要荒废大脑，来一把掼蛋游戏。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jansen-66/dsh-guandan-panel",
+  "repositoryUrl": "https://github.com/jansen-66/dsh-guandan-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3030
+}
