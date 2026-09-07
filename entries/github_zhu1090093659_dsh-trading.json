@@ -1,0 +1,20 @@
+{
+  "id": "github:zhu1090093659/dsh-trading",
+  "kind": "plugin",
+  "name": "dsh-trading",
+  "description": "Agent-native trading terminal built on DeepSeek Harness. Crypto, US, CN and HK in one three-column GUI, 19+ hot-swappable connectors, dry-run by default with human approval on every live order. BYOK, no data redistribution.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhu1090093659/dsh-trading",
+  "repositoryUrl": "https://github.com/zhu1090093659/dsh-trading",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2705
+}
