@@ -1,0 +1,20 @@
+{
+  "id": "github:wanyexin1998/dsh-workbench",
+  "kind": "plugin",
+  "name": "dsh-workbench",
+  "description": "Community-maintained source preview for two-Pane DeepSeek Harness Web workflows",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wanyexin1998/dsh-workbench",
+  "repositoryUrl": "https://github.com/wanyexin1998/dsh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2521
+}
