@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-tool-schema",
+  "kind": "plugin",
+  "name": "dsh-tool-schema",
+  "description": "DSH JSON Schema 验证工具插件：validate/paths/explain/normalize，零网络零动态执行",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-tool-schema",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-tool-schema",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2939
+}
