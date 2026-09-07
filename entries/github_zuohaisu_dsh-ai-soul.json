@@ -1,0 +1,20 @@
+{
+  "id": "github:zuohaisu/dsh-ai-soul",
+  "kind": "plugin",
+  "name": "dsh-ai-soul",
+  "description": "Persistent identity layer for DeepSeek Harness. The first reference implementation of AI Soul.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuohaisu/dsh-ai-soul",
+  "repositoryUrl": "https://github.com/zuohaisu/dsh-ai-soul",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2534
+}
