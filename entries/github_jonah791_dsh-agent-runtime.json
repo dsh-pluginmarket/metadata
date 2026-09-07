@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-runtime",
+  "kind": "plugin",
+  "name": "dsh-agent-runtime",
+  "description": "守护运行时服务：runtime 环境发现（bin/port/profile 单一来源）+ webman 进程管理（spawn/kill/portOwner），消除 sentinel/guardian 重复",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-runtime",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-runtime",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3002
+}
