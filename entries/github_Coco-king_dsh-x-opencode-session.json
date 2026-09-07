@@ -1,0 +1,20 @@
+{
+  "id": "github:Coco-king/dsh-x-opencode-session",
+  "kind": "plugin",
+  "name": "dsh-x-opencode-session",
+  "description": "Related DeepSeek Harness project: Coco-king/dsh-x-opencode-session",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Coco-king/dsh-x-opencode-session",
+  "repositoryUrl": "https://github.com/Coco-king/dsh-x-opencode-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2687
+}
