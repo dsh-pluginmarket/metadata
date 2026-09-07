@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-files-panel",
+  "kind": "plugin",
+  "name": "dsh-files-panel",
+  "description": "Community DeepSeek Harness plugin: right-side workspace file tree. Does not patch DSH core.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-files-panel",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-files-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2873
+}
