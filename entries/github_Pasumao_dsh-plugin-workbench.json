@@ -1,0 +1,20 @@
+{
+  "id": "github:Pasumao/dsh-plugin-workbench",
+  "kind": "plugin",
+  "name": "dsh-plugin-workbench",
+  "description": "可直接改文件的 VS Code 风格工作台：文件树 + 可编辑语法高亮预览 + 右键文件操作，DSH 网页秒变轻量代码编辑器。VS Code-style workspace file explorer with editable preview for DeepSeek Harness (dsh).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Pasumao/dsh-plugin-workbench",
+  "repositoryUrl": "https://github.com/Pasumao/dsh-plugin-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2559
+}
