@@ -1,0 +1,20 @@
+{
+  "id": "github:Asher-2000/dsh-expert-mode",
+  "kind": "plugin",
+  "name": "dsh-expert-mode",
+  "description": "DSH (DeepSeek Harness) 专家模式 agent preset — 首席协调官 + 17位领域专家子代理 Expert-mode preset for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Asher-2000/dsh-expert-mode",
+  "repositoryUrl": "https://github.com/Asher-2000/dsh-expert-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3017
+}
