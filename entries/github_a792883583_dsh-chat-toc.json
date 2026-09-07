@@ -1,0 +1,20 @@
+{
+  "id": "github:a792883583/dsh-chat-toc",
+  "kind": "plugin",
+  "name": "dsh-chat-toc",
+  "description": "DSH web GUI chat table-of-contents: outline bar on the right edge of the conversation, hover to expand, click to jump",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a792883583/dsh-chat-toc",
+  "repositoryUrl": "https://github.com/a792883583/dsh-chat-toc",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2797
+}
