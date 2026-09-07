@@ -1,0 +1,20 @@
+{
+  "id": "github:fengb3/dsh-theme-macintosh",
+  "kind": "plugin",
+  "name": "dsh-theme-macintosh",
+  "description": "DSH 主题 · 经典麦金塔 Classic Macintosh(System 7 像素复古)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fengb3/dsh-theme-macintosh",
+  "repositoryUrl": "https://github.com/fengb3/dsh-theme-macintosh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2881
+}
