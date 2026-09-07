@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-knowledge-graph",
+  "kind": "plugin",
+  "name": "dsh-knowledge-graph",
+  "description": "通用图知识库引擎：多知识库挂载 + 图遍历查询（节点/边/路径），任意领域可用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-knowledge-graph",
+  "repositoryUrl": "https://github.com/jonah791/dsh-knowledge-graph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2986
+}
