@@ -1,0 +1,20 @@
+{
+  "id": "github:502399493zjw-lgtm/dsh-codex-shared-pool",
+  "kind": "plugin",
+  "name": "dsh-codex-shared-pool",
+  "description": "Codex multi-account pools and team quota sharing for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "502399493zjw-lgtm/dsh-codex-shared-pool",
+  "repositoryUrl": "https://github.com/502399493zjw-lgtm/dsh-codex-shared-pool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2469
+}
