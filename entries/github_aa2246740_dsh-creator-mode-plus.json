@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-creator-mode-plus",
+  "kind": "plugin",
+  "name": "dsh-creator-mode-plus",
+  "description": "Fail-closed Creator Mode+ bridge for DeepSeek Harness, supervised externally by DSHX.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-creator-mode-plus",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-creator-mode-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2849
+}
