@@ -1,0 +1,20 @@
+{
+  "id": "github:siweimofang/zhishe-a2a",
+  "kind": "plugin",
+  "name": "zhishe-a2a",
+  "description": "知设AI装修顾问 - 主仓库(知识库+DSH插件+GEO)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "siweimofang/zhishe-a2a",
+  "repositoryUrl": "https://github.com/siweimofang/zhishe-a2a",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2555
+}
