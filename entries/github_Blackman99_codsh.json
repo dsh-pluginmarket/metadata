@@ -1,0 +1,20 @@
+{
+  "id": "github:Blackman99/codsh",
+  "kind": "plugin",
+  "name": "codsh",
+  "description": "One sentence to shipped — a terminal coding agent built around /ship, on the DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Blackman99/codsh",
+  "repositoryUrl": "https://github.com/Blackman99/codsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2581
+}
