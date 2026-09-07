@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangzhend0ng/canonkeeper",
+  "kind": "plugin",
+  "name": "canonkeeper",
+  "description": "canonkeeper —— 网文长篇设定冲突验证 harness：状态库 + 纯程序化规则引擎 + MCP server，作为 dsh (deepseek-harness) 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangzhend0ng/canonkeeper",
+  "repositoryUrl": "https://github.com/zhangzhend0ng/canonkeeper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2596
+}
