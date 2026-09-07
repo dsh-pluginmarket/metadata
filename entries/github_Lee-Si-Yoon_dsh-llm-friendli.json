@@ -1,0 +1,20 @@
+{
+  "id": "github:Lee-Si-Yoon/dsh-llm-friendli",
+  "kind": "plugin",
+  "name": "dsh-llm-friendli",
+  "description": "FriendliAI serverless LLM adapter for DeepSeek Harness — OpenAI-compatible chat completions with dynamic model discovery and reasoning",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lee-Si-Yoon/dsh-llm-friendli",
+  "repositoryUrl": "https://github.com/Lee-Si-Yoon/dsh-llm-friendli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2532
+}
