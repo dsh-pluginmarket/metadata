@@ -1,0 +1,20 @@
+{
+  "id": "github:lee259/dsh-workbench",
+  "kind": "plugin",
+  "name": "dsh-workbench",
+  "description": "Right-side file workspace for DeepSeek Harness Web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lee259/dsh-workbench",
+  "repositoryUrl": "https://github.com/lee259/dsh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2566
+}
