@@ -1,0 +1,20 @@
+{
+  "id": "github:shenhuanageshei/dsh-vision-bridge",
+  "kind": "plugin",
+  "name": "dsh-vision-bridge",
+  "description": "DeepSeek Harness plugin - session screenshots route by model capability: inline for vision models, VLM-read for text-only models (tool/auto modes)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shenhuanageshei/dsh-vision-bridge",
+  "repositoryUrl": "https://github.com/shenhuanageshei/dsh-vision-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2658
+}
