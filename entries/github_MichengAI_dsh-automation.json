@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-automation",
+  "kind": "plugin",
+  "name": "dsh-automation",
+  "description": "DSH Automation — 在独立 DSH Session 中按计划执行和管理编码任务 · Schedule and manage coding tasks in isolated DSH sessions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-automation",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-automation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2647
+}
