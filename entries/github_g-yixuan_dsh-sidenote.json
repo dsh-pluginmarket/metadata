@@ -1,0 +1,20 @@
+{
+  "id": "github:g-yixuan/dsh-sidenote",
+  "kind": "plugin",
+  "name": "dsh-sidenote",
+  "description": "Codex-style side chat & selection annotations for DeepSeek Harness (DSH) web — fork the session into a persistent side panel; quote selections into context. Thin consumer of dsh-better-sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "g-yixuan/dsh-sidenote",
+  "repositoryUrl": "https://github.com/g-yixuan/dsh-sidenote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2713
+}
