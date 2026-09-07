@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-grok-plan-mode",
+  "kind": "plugin",
+  "name": "dsh-grok-plan-mode",
+  "description": "Full Grok Build Plan Mode port for DeepSeek Harness. Replaces official DSH Plan with Grok's state machine, plan.md edit gate, enter/exit tools, and review surface.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-grok-plan-mode",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-grok-plan-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2867
+}
