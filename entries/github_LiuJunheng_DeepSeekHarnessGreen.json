@@ -1,0 +1,20 @@
+{
+  "id": "github:LiuJunheng/DeepSeekHarnessGreen",
+  "kind": "plugin",
+  "name": "DeepSeekHarnessGreen",
+  "description": "DeepSeek Harness绿色整合版，一键安装启动，不污染C盘，一个文件夹里管理，自动更新。DeepSeek Harness Green All-in-One Launcher - double-click to run, all-localized",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LiuJunheng/DeepSeekHarnessGreen",
+  "repositoryUrl": "https://github.com/LiuJunheng/DeepSeekHarnessGreen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2479
+}
