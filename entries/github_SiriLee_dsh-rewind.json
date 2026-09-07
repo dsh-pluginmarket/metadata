@@ -1,0 +1,20 @@
+{
+  "id": "github:SiriLee/dsh-rewind",
+  "kind": "plugin",
+  "name": "dsh-rewind",
+  "description": "DSH 插件：真正便捷无感的同窗口内对话回退，从不新建分支；自带轻量工作区备份，可一并还原文件（完整 Claude Code /rewind 语义）。 · DSH plugin: genuinely effortless in-window conversation rewind — never forking a new session; ships a lightweight workspace backup that restores files together with the rewind (full Claude Code /rewind semantics).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SiriLee/dsh-rewind",
+  "repositoryUrl": "https://github.com/SiriLee/dsh-rewind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2738
+}
