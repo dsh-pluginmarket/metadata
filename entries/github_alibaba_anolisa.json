@@ -1,0 +1,20 @@
+{
+  "id": "github:alibaba/anolisa",
+  "kind": "plugin",
+  "name": "anolisa",
+  "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alibaba/anolisa",
+  "repositoryUrl": "https://github.com/alibaba/anolisa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2580
+}
