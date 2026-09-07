@@ -1,0 +1,20 @@
+{
+  "id": "github:Lxd-Ashe/dsh-codex-theme",
+  "kind": "plugin",
+  "name": "dsh-codex-theme",
+  "description": "Codex 主题外观插件 for DeepSeek Harness（DSH）：把 Codex 主题配置（codex-theme-v1，80 款浅/深色主题）做成可在 DSH 中直接切换、可自定义的外观插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lxd-Ashe/dsh-codex-theme",
+  "repositoryUrl": "https://github.com/Lxd-Ashe/dsh-codex-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2785
+}
