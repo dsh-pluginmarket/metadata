@@ -1,0 +1,20 @@
+{
+  "id": "github:franksong2702/dsh-codex-connect",
+  "kind": "plugin",
+  "name": "dsh-codex-connect",
+  "description": "Use openai-codex models and image generation via ChatGPT OAuth for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "franksong2702/dsh-codex-connect",
+  "repositoryUrl": "https://github.com/franksong2702/dsh-codex-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2543
+}
