@@ -1,0 +1,20 @@
+{
+  "id": "github:chendefine/dsh-sidebar-cdp-browser",
+  "kind": "plugin",
+  "name": "dsh-sidebar-cdp-browser",
+  "description": "deepseek harness live view chromium via cdp in sidebar tab",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chendefine/dsh-sidebar-cdp-browser",
+  "repositoryUrl": "https://github.com/chendefine/dsh-sidebar-cdp-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 2781
+}
