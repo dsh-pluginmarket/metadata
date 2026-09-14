@@ -1,0 +1,20 @@
+{
+  "id": "github:tonytanglab/deepseek-harness-relay-mcp",
+  "kind": "plugin",
+  "name": "deepseek-harness-relay-mcp",
+  "description": "Delegate long-running work to DeepSeek Harness from any MCP agent—and monitor it to completion.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tonytanglab/deepseek-harness-relay-mcp",
+  "repositoryUrl": "https://github.com/tonytanglab/deepseek-harness-relay-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3573
+}
