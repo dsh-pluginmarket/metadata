@@ -1,0 +1,20 @@
+{
+  "id": "github:He2way/dsh-task-console",
+  "kind": "plugin",
+  "name": "dsh-task-console",
+  "description": "DSH client plugin: a floating glass task console on the back of the page — live background jobs, subagents, session overview and workspace for the current session, with mouse-draggable cards.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "He2way/dsh-task-console",
+  "repositoryUrl": "https://github.com/He2way/dsh-task-console",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3536
+}
