@@ -1,0 +1,20 @@
+{
+  "id": "github:ChenneyZhuang/report-link-verification",
+  "kind": "plugin",
+  "name": "report-link-verification",
+  "description": "Link verification skill: fetch every URL in a deliverable for real, retry bot walls, fix or cut failures — links in file must equal links in table. CN/EN.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChenneyZhuang/report-link-verification",
+  "repositoryUrl": "https://github.com/ChenneyZhuang/report-link-verification",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3333
+}
