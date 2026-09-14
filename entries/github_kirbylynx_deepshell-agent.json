@@ -1,0 +1,20 @@
+{
+  "id": "github:kirbylynx/deepshell-agent",
+  "kind": "plugin",
+  "name": "deepshell-agent",
+  "description": "A desktop agent powered by DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kirbylynx/deepshell-agent",
+  "repositoryUrl": "https://github.com/kirbylynx/deepshell-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3519
+}
