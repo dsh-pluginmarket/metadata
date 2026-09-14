@@ -1,0 +1,20 @@
+{
+  "id": "github:jackylong1987/dsh-long-plugins",
+  "kind": "plugin",
+  "name": "dsh-long-plugins",
+  "description": "DeepSeek Harness (DSH) web plugin: upload manager, workspace output files with preview/edit/maximize, skill docs browser, account balance, and turn-ruler history navigation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jackylong1987/dsh-long-plugins",
+  "repositoryUrl": "https://github.com/jackylong1987/dsh-long-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3185
+}
