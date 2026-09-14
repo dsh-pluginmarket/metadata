@@ -1,0 +1,20 @@
+{
+  "id": "github:jianghuifr/dsh-feishu-auth",
+  "kind": "plugin",
+  "name": "dsh-feishu-auth",
+  "description": "Feishu (Lark) OAuth login gate for the DeepSeek Harness web GUI — a signed session cookie in front of every HTTP request.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jianghuifr/dsh-feishu-auth",
+  "repositoryUrl": "https://github.com/jianghuifr/dsh-feishu-auth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3146
+}
