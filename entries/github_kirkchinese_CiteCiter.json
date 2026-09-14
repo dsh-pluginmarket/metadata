@@ -1,0 +1,20 @@
+{
+  "id": "github:kirkchinese/CiteCiter",
+  "kind": "plugin",
+  "name": "CiteCiter",
+  "description": "为 DeepSeek Harness 打造：选中 AI 回答或思考内容，随时追问、学习、检查与纠偏。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kirkchinese/CiteCiter",
+  "repositoryUrl": "https://github.com/kirkchinese/CiteCiter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3556
+}
