@@ -1,0 +1,20 @@
+{
+  "id": "github:advance-lion/dsh-brand",
+  "kind": "plugin",
+  "name": "dsh-brand",
+  "description": "方便魔改作者轻量化自定义商标",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "advance-lion/dsh-brand",
+  "repositoryUrl": "https://github.com/advance-lion/dsh-brand",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3453
+}
