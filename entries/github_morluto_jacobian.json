@@ -1,0 +1,20 @@
+{
+  "id": "github:morluto/jacobian",
+  "kind": "plugin",
+  "name": "jacobian",
+  "description": "Composable mathematics tools for agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "morluto/jacobian",
+  "repositoryUrl": "https://github.com/morluto/jacobian",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3446
+}
