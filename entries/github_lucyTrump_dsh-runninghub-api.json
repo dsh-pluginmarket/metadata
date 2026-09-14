@@ -1,0 +1,20 @@
+{
+  "id": "github:lucyTrump/dsh-runninghub-api",
+  "kind": "plugin",
+  "name": "dsh-runninghub-api",
+  "description": "A plugin that integrates runninghub cloud ComfyUI workflows: a settings card for your API key and workflow library, seven `runninghub_*` tools for agents, a sha256 media upload cache, a local concurrency gate with FIFO queueing and timeouts, background tasks with completion notifications, and a durable task ledger with automatic restart recovery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lucyTrump/dsh-runninghub-api",
+  "repositoryUrl": "https://github.com/lucyTrump/dsh-runninghub-api",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3317
+}
