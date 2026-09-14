@@ -1,0 +1,20 @@
+{
+  "id": "github:Glazyonyt/dsh-lowtide",
+  "kind": "plugin",
+  "name": "dsh-lowtide",
+  "description": "Queue AI tasks during off-peak hours to cut costs and automate runs with dsh-lowtide for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Glazyonyt/dsh-lowtide",
+  "repositoryUrl": "https://github.com/Glazyonyt/dsh-lowtide",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3362
+}
