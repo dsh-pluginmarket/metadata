@@ -1,0 +1,20 @@
+{
+  "id": "github:noteflowai/dsh-skills-anywhere",
+  "kind": "plugin",
+  "name": "dsh-skills-anywhere",
+  "description": "Reuse Agent Skills across DeepSeek Harness and MCP. Check local SKILL.md files in the browser or CI, with parser diagnostics, file hashes and clear exit codes. Try the Hugging Face playground.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "noteflowai/dsh-skills-anywhere",
+  "repositoryUrl": "https://github.com/noteflowai/dsh-skills-anywhere",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3281
+}
