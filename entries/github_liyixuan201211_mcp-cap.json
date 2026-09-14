@@ -1,0 +1,20 @@
+{
+  "id": "github:liyixuan201211/mcp-cap",
+  "kind": "plugin",
+  "name": "mcp-cap",
+  "description": "What can this MCP server actually do — and has it changed since you trusted it? Inspect its declared capabilities, seal them in a lock file, and get told when a later version can do more. Never invokes a tool; gives the server a minimal environment.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liyixuan201211/mcp-cap",
+  "repositoryUrl": "https://github.com/liyixuan201211/mcp-cap",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3391
+}
