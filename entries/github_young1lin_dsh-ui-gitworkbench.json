@@ -1,0 +1,20 @@
+{
+  "id": "github:young1lin/dsh-ui-gitworkbench",
+  "kind": "plugin",
+  "name": "dsh-ui-gitworkbench",
+  "description": "Related DeepSeek Harness project: young1lin/dsh-ui-gitworkbench",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "young1lin/dsh-ui-gitworkbench",
+  "repositoryUrl": "https://github.com/young1lin/dsh-ui-gitworkbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3289
+}
