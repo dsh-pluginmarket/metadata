@@ -1,0 +1,20 @@
+{
+  "id": "github:WuJiaoJue/dsh-suggest-ghost",
+  "kind": "plugin",
+  "name": "dsh-suggest-ghost",
+  "description": "DSH Web 输入预测插件：回合结束后 LLM 生成下一条建议，输入框空草稿时渲染幽灵文本，Tab 采纳。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WuJiaoJue/dsh-suggest-ghost",
+  "repositoryUrl": "https://github.com/WuJiaoJue/dsh-suggest-ghost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3549
+}
