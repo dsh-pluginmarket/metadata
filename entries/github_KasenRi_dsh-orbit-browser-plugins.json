@@ -1,0 +1,20 @@
+{
+  "id": "github:KasenRi/dsh-orbit-browser-plugins",
+  "kind": "plugin",
+  "name": "dsh-orbit-browser-plugins",
+  "description": "Orbit deterministic engineering orchestration and controlled browser automation plugins for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KasenRi/dsh-orbit-browser-plugins",
+  "repositoryUrl": "https://github.com/KasenRi/dsh-orbit-browser-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3528
+}
