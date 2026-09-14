@@ -1,0 +1,20 @@
+{
+  "id": "github:bitterSmilezzz/dsh-model-selector",
+  "kind": "plugin",
+  "name": "dsh-model-selector",
+  "description": "DeepSeek Harness (DSH) 的增强模型选择器：单层菜单（搜索 + 分组）+ 底部内联推理强度（Effort）滑杆。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bitterSmilezzz/dsh-model-selector",
+  "repositoryUrl": "https://github.com/bitterSmilezzz/dsh-model-selector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3355
+}
