@@ -1,0 +1,20 @@
+{
+  "id": "github:1HelloMan1/dsh-usage-dashboard-plus",
+  "kind": "plugin",
+  "name": "dsh-usage-dashboard-plus",
+  "description": "DeepSeek Harness usage dashboard with API balance, daily spend, external vision-call accounting, per-model stats, call logs, cache rate, TTFT, and CSV export.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1HelloMan1/dsh-usage-dashboard-plus",
+  "repositoryUrl": "https://github.com/1HelloMan1/dsh-usage-dashboard-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3219
+}
