@@ -1,0 +1,20 @@
+{
+  "id": "github:kriskite/dsh-network-proxy",
+  "kind": "plugin",
+  "name": "dsh-network-proxy",
+  "description": "DeepSeek Harness plugin to manage network proxy (system / manual / direct) with a live settings UI. [dsh-plugin]",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kriskite/dsh-network-proxy",
+  "repositoryUrl": "https://github.com/kriskite/dsh-network-proxy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3511
+}
