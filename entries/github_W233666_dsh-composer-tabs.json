@@ -1,0 +1,20 @@
+{
+  "id": "github:W233666/dsh-composer-tabs",
+  "kind": "plugin",
+  "name": "dsh-composer-tabs",
+  "description": "按照插件分类添加tab页到技能菜单里",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "W233666/dsh-composer-tabs",
+  "repositoryUrl": "https://github.com/W233666/dsh-composer-tabs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3358
+}
