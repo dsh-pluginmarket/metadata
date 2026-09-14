@@ -1,0 +1,20 @@
+{
+  "id": "github:Anionex/dsh-turn-rewind",
+  "kind": "plugin",
+  "name": "dsh-turn-rewind",
+  "description": "deepseek harness对话和代码状态回退插件 | DSH — rewind conversation and workspace state, powered by a persistent Change Ledger",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Anionex/dsh-turn-rewind",
+  "repositoryUrl": "https://github.com/Anionex/dsh-turn-rewind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3495
+}
