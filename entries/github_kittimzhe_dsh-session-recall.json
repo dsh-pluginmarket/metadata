@@ -1,0 +1,20 @@
+{
+  "id": "github:kittimzhe/dsh-session-recall",
+  "kind": "plugin",
+  "name": "dsh-session-recall",
+  "description": "Cross-session full-text recall for DeepSeek Harness: the model-facing recall tool searches past session transcripts via ctx.sessionQuery, with a persistent FTS index",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kittimzhe/dsh-session-recall",
+  "repositoryUrl": "https://github.com/kittimzhe/dsh-session-recall",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3283
+}
