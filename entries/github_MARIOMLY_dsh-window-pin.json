@@ -1,0 +1,20 @@
+{
+  "id": "github:MARIOMLY/dsh-window-pin",
+  "kind": "plugin",
+  "name": "dsh-window-pin",
+  "description": "一个小巧且轻量的置顶工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MARIOMLY/dsh-window-pin",
+  "repositoryUrl": "https://github.com/MARIOMLY/dsh-window-pin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3138
+}
