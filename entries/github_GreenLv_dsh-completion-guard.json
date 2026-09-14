@@ -1,0 +1,20 @@
+{
+  "id": "github:GreenLv/dsh-completion-guard",
+  "kind": "plugin",
+  "name": "dsh-completion-guard",
+  "description": "Task-contract and completion-certification layer for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GreenLv/dsh-completion-guard",
+  "repositoryUrl": "https://github.com/GreenLv/dsh-completion-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3513
+}
