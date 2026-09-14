@@ -1,0 +1,20 @@
+{
+  "id": "github:yxqfg/phone-lens",
+  "kind": "plugin",
+  "name": "phone-lens",
+  "description": "Related DeepSeek Harness project: yxqfg/phone-lens",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yxqfg/phone-lens",
+  "repositoryUrl": "https://github.com/yxqfg/phone-lens",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3220
+}
