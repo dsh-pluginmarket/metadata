@@ -1,0 +1,20 @@
+{
+  "id": "github:qyjgg/dsh-plugin-skill-palette",
+  "kind": "plugin",
+  "name": "dsh-plugin-skill-palette",
+  "description": "Related DeepSeek Harness project: qyjgg/dsh-plugin-skill-palette",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qyjgg/dsh-plugin-skill-palette",
+  "repositoryUrl": "https://github.com/qyjgg/dsh-plugin-skill-palette",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3203
+}
