@@ -1,0 +1,20 @@
+{
+  "id": "github:lengduan/dsh-815-skin",
+  "kind": "plugin",
+  "name": "dsh-815-skin",
+  "description": "1945-08-15 世界名画 dsh皮肤",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lengduan/dsh-815-skin",
+  "repositoryUrl": "https://github.com/lengduan/dsh-815-skin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3559
+}
