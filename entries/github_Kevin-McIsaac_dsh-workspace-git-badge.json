@@ -1,0 +1,20 @@
+{
+  "id": "github:Kevin-McIsaac/dsh-workspace-git-badge",
+  "kind": "plugin",
+  "name": "dsh-workspace-git-badge",
+  "description": "Related DeepSeek Harness project: Kevin-McIsaac/dsh-workspace-git-badge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kevin-McIsaac/dsh-workspace-git-badge",
+  "repositoryUrl": "https://github.com/Kevin-McIsaac/dsh-workspace-git-badge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3118
+}
