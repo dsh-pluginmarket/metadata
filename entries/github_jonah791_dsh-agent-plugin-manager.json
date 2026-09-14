@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-plugin-manager",
+  "kind": "plugin",
+  "name": "dsh-agent-plugin-manager",
+  "description": "插件管理器：插件档案库（清单/用途/工具/配置认知）+ 生命周期管理（创建/挂载/启停/卸载/配置），host 工具面 + 官方设置页「插件管理」tab。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-plugin-manager",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-plugin-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3098
+}
