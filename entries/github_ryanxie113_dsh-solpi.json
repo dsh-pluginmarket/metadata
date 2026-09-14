@@ -1,0 +1,20 @@
+{
+  "id": "github:ryanxie113/dsh-solpi",
+  "kind": "plugin",
+  "name": "dsh-solpi",
+  "description": "Four harness efficiency mechanisms (Action Fusion, ObservationPack, Evidence-Preserving Reducer, Online Context Compact) as a DeepSeek Harness bundle",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ryanxie113/dsh-solpi",
+  "repositoryUrl": "https://github.com/ryanxie113/dsh-solpi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3177
+}
