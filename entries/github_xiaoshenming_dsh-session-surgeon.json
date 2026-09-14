@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoshenming/dsh-session-surgeon",
+  "kind": "plugin",
+  "name": "dsh-session-surgeon",
+  "description": "Repair DeepSeek Harness sessions that refuse to load. 修好打不开的 DSH 会话文件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoshenming/dsh-session-surgeon",
+  "repositoryUrl": "https://github.com/xiaoshenming/dsh-session-surgeon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3196
+}
