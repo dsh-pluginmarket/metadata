@@ -1,0 +1,20 @@
+{
+  "id": "github:CN-WenYu/dsh-live-model-catalog",
+  "kind": "plugin",
+  "name": "dsh-live-model-catalog",
+  "description": "DSH 插件：让 llm-pi-ai 路由（含自定义服务商）的模型目录与推理档位跟着端点更新——补上新模型与 contextWindow/maxTokens/input/reasoningEfforts，端点给出推理信息即写入思考档位，并修好「获取可用模型」按钮；只走官方 settings 接缝，不打补丁、可卸载。| DSH plugin: keeps llm-pi-ai routes (hand-written and custom providers included) in step with their own /models: new models, capabilities, reasoning levels, live fetch button. No patching.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CN-WenYu/dsh-live-model-catalog",
+  "repositoryUrl": "https://github.com/CN-WenYu/dsh-live-model-catalog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3473
+}
