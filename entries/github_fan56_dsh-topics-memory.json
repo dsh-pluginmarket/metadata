@@ -1,0 +1,20 @@
+{
+  "id": "github:fan56/dsh-topics-memory",
+  "kind": "plugin",
+  "name": "dsh-topics-memory",
+  "description": "Topic memory for LLM agents — edited, not accumulated: a topic keeps the starting question, conclusion, impact and dependencies; process is not memory. OKF bundle for dsh, local-first, git-traceable, budgeted LLM-free injection.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fan56/dsh-topics-memory",
+  "repositoryUrl": "https://github.com/fan56/dsh-topics-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3410
+}
