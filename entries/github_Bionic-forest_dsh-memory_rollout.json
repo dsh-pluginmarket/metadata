@@ -1,0 +1,20 @@
+{
+  "id": "github:Bionic-forest/dsh-memory_rollout",
+  "kind": "plugin",
+  "name": "dsh-memory_rollout",
+  "description": "Related DeepSeek Harness project: Bionic-forest/dsh-memory_rollout",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Bionic-forest/dsh-memory_rollout",
+  "repositoryUrl": "https://github.com/Bionic-forest/dsh-memory_rollout",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3547
+}
