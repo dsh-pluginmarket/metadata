@@ -1,0 +1,20 @@
+{
+  "id": "github:yj-liuzepeng/dsh-project-brain",
+  "kind": "plugin",
+  "name": "dsh-project-brain",
+  "description": "Persistent project intelligence and memory plugin for DSH: architecture analysis, cross-session context, TODOs, and optional hybrid retrieval",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yj-liuzepeng/dsh-project-brain",
+  "repositoryUrl": "https://github.com/yj-liuzepeng/dsh-project-brain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3619
+}
