@@ -1,0 +1,20 @@
+{
+  "id": "github:ChenneyZhuang/delivery-checklist",
+  "kind": "plugin",
+  "name": "delivery-checklist",
+  "description": "Delivery checklist skill: verify deliverables by opening the real file — row/dedup counts, placeholder scan, baseline diff — and log every batch. CN/EN.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChenneyZhuang/delivery-checklist",
+  "repositoryUrl": "https://github.com/ChenneyZhuang/delivery-checklist",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3335
+}
