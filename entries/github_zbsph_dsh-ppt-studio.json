@@ -1,0 +1,20 @@
+{
+  "id": "github:zbsph/dsh-ppt-studio",
+  "kind": "plugin",
+  "name": "dsh-ppt-studio",
+  "description": "Related DeepSeek Harness project: zbsph/dsh-ppt-studio",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zbsph/dsh-ppt-studio",
+  "repositoryUrl": "https://github.com/zbsph/dsh-ppt-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3419
+}
