@@ -1,0 +1,20 @@
+{
+  "id": "github:wyzh0117/dsh-skill-select",
+  "kind": "plugin",
+  "name": "dsh-skill-select",
+  "description": "DSH web plugin: pick skills from a sidebar and inject them into the current session.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wyzh0117/dsh-skill-select",
+  "repositoryUrl": "https://github.com/wyzh0117/dsh-skill-select",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3078
+}
