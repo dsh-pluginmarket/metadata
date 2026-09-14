@@ -1,0 +1,20 @@
+{
+  "id": "github:Eridani075/deepseek-harness-antigravity-oauth",
+  "kind": "plugin",
+  "name": "deepseek-harness-antigravity-oauth",
+  "description": "Google Antigravity OAuth Gemini provider for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Eridani075/deepseek-harness-antigravity-oauth",
+  "repositoryUrl": "https://github.com/Eridani075/deepseek-harness-antigravity-oauth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3449
+}
