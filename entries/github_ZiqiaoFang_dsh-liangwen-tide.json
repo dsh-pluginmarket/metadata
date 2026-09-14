@@ -1,0 +1,20 @@
+{
+  "id": "github:ZiqiaoFang/dsh-liangwen-tide",
+  "kind": "plugin",
+  "name": "dsh-liangwen-tide",
+  "description": "DeepSeek Harness 的峰谷指示器 + 当日已用金额：峰时「梁文峰」、谷时「梁文谷」，峰谷时段与价目表自动跟随官方定价页。A peak/off-peak tide + today-cost plugin for the DSH Web GUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZiqiaoFang/dsh-liangwen-tide",
+  "repositoryUrl": "https://github.com/ZiqiaoFang/dsh-liangwen-tide",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3080
+}
