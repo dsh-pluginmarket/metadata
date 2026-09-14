@@ -1,0 +1,20 @@
+{
+  "id": "github:SA1992X/dsh-ctrl-enter-submit",
+  "kind": "plugin",
+  "name": "dsh-ctrl-enter-submit",
+  "description": "轻松换行",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SA1992X/dsh-ctrl-enter-submit",
+  "repositoryUrl": "https://github.com/SA1992X/dsh-ctrl-enter-submit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3228
+}
