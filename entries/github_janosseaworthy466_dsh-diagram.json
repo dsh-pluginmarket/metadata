@@ -1,0 +1,20 @@
+{
+  "id": "github:janosseaworthy466/dsh-diagram",
+  "kind": "plugin",
+  "name": "dsh-diagram",
+  "description": "Turn any DeepSeek Harness article into an editable Excalidraw canvas—structure from the agent, refinement in your hands.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "janosseaworthy466/dsh-diagram",
+  "repositoryUrl": "https://github.com/janosseaworthy466/dsh-diagram",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3367
+}
