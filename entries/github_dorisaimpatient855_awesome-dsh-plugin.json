@@ -1,0 +1,20 @@
+{
+  "id": "github:dorisaimpatient855/awesome-dsh-plugin",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugin",
+  "description": "Curated plugins for DeepSeek Harness (dsh) — install, extend, and customize models, tools, sandboxes, UI, and agent loops.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dorisaimpatient855/awesome-dsh-plugin",
+  "repositoryUrl": "https://github.com/dorisaimpatient855/awesome-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3384
+}
