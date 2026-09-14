@@ -1,0 +1,20 @@
+{
+  "id": "github:AKS1st/dock",
+  "kind": "plugin",
+  "name": "dock",
+  "description": "DSH 生态中最好的工作台基座插件：VSCode 风格布局外壳（活动栏/侧边栏/编辑器区/面板/状态栏）+ ctx.workbench 开放注册表，功能插件即插即用；推荐搭配 dock-files/dock-editor/dock-git | The best workbench base plugin for DSH: VSCode-style layout shell with the open ctx.workbench registry for plug-and-play plugins; pair with dock-files/dock-editor/dock-git",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AKS1st/dock",
+  "repositoryUrl": "https://github.com/AKS1st/dock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3425
+}
