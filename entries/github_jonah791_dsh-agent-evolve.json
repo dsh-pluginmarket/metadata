@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-agent-evolve",
+  "kind": "plugin",
+  "name": "dsh-agent-evolve",
+  "description": "跨代自评估进化插件：配置仓库（版本化资源+锚点链）、热重载（.agent-presets 运行时应用/回滚）、子智能体白纸继承配置跑 modeltest 评测、账本（分数/轨迹/失败模式）。受益主体为宿主 agent 本体。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-agent-evolve",
+  "repositoryUrl": "https://github.com/jonah791/dsh-agent-evolve",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3437
+}
