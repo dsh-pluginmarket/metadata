@@ -1,0 +1,20 @@
+{
+  "id": "github:duhu2000/dsh-data-cleaning-agent",
+  "kind": "plugin",
+  "name": "dsh-data-cleaning-agent",
+  "description": "Data cleaning and data enrichment for CSV/XLSX/JSON enterprise lists in DeepSeek Harness, including spreadsheet cleaning, deduplication, profiling, optional Qichacha MCP and exports.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duhu2000/dsh-data-cleaning-agent",
+  "repositoryUrl": "https://github.com/duhu2000/dsh-data-cleaning-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3521
+}
