@@ -1,0 +1,20 @@
+{
+  "id": "github:AgentsDanceAI/deepseek-harness-cloud",
+  "kind": "plugin",
+  "name": "deepseek-harness-cloud",
+  "description": "Accounts, credits and cloud agent workspaces for DeepSeek Harness — run it as a hosted product, or self-host in 5 minutes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AgentsDanceAI/deepseek-harness-cloud",
+  "repositoryUrl": "https://github.com/AgentsDanceAI/deepseek-harness-cloud",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3158
+}
