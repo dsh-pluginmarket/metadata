@@ -1,0 +1,20 @@
+{
+  "id": "github:gausszhou/dsh-opencode-session-id",
+  "kind": "plugin",
+  "name": "dsh-opencode-session-id",
+  "description": "dsh session IDs for opencode, zero config.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gausszhou/dsh-opencode-session-id",
+  "repositoryUrl": "https://github.com/gausszhou/dsh-opencode-session-id",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3545
+}
