@@ -1,0 +1,20 @@
+{
+  "id": "github:rhczz/dshctl",
+  "kind": "plugin",
+  "name": "dshctl",
+  "description": "dshctl — DeepSeek Harness web 服务后台管理脚本(启停/日志/构建/一键更新)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rhczz/dshctl",
+  "repositoryUrl": "https://github.com/rhczz/dshctl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3239
+}
