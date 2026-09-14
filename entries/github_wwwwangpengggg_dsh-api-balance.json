@@ -1,0 +1,20 @@
+{
+  "id": "github:wwwwangpengggg/dsh-api-balance",
+  "kind": "plugin",
+  "name": "dsh-api-balance",
+  "description": "DSH 桌面插件：在桌面角落常驻一个置顶小窗，实时显示 DeepSeek API 余额与本次开机消耗的 token。七套配色、可用自己的图片当背景、× 收进托盘。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wwwwangpengggg/dsh-api-balance",
+  "repositoryUrl": "https://github.com/wwwwangpengggg/dsh-api-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3434
+}
