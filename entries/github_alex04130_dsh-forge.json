@@ -1,0 +1,20 @@
+{
+  "id": "github:alex04130/dsh-forge",
+  "kind": "plugin",
+  "name": "dsh-forge",
+  "description": "DeepSeek Harness 扩展套件：运行时注入器、子代理派发与模型路由策略、插件市场/技能/插件管理面板、浏览器桥与 MCP 集成。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alex04130/dsh-forge",
+  "repositoryUrl": "https://github.com/alex04130/dsh-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3595
+}
