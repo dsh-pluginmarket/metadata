@@ -1,0 +1,20 @@
+{
+  "id": "github:edgeseeker7/dsh-subagent-progress",
+  "kind": "plugin",
+  "name": "dsh-subagent-progress",
+  "description": "Live subagent progress dock for DeepSeek Harness — npm: dsh-subagent-progress",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "edgeseeker7/dsh-subagent-progress",
+  "repositoryUrl": "https://github.com/edgeseeker7/dsh-subagent-progress",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3468
+}
