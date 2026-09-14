@@ -1,0 +1,20 @@
+{
+  "id": "github:fengyungithub/dsh-short-video-studio",
+  "kind": "plugin",
+  "name": "dsh-short-video-studio",
+  "description": "基于deepseek harness和ComfyUI的AI视频创作工作台",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fengyungithub/dsh-short-video-studio",
+  "repositoryUrl": "https://github.com/fengyungithub/dsh-short-video-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3077
+}
