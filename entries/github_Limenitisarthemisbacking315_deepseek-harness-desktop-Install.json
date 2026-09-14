@@ -1,0 +1,20 @@
+{
+  "id": "github:Limenitisarthemisbacking315/deepseek-harness-desktop-Install",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop-Install",
+  "description": "一键安装DeepSeek智能体生产环境桌面客户端，自动配置依赖与模型网关，无需命令行，装完即用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Limenitisarthemisbacking315/deepseek-harness-desktop-Install",
+  "repositoryUrl": "https://github.com/Limenitisarthemisbacking315/deepseek-harness-desktop-Install",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3379
+}
