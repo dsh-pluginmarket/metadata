@@ -1,0 +1,20 @@
+{
+  "id": "github:helloproblems/dsh-browser-use",
+  "kind": "plugin",
+  "name": "dsh-browser-use",
+  "description": "为 DeepSeek Harness (DSH) 插件生态打造的浏览器自动化插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "helloproblems/dsh-browser-use",
+  "repositoryUrl": "https://github.com/helloproblems/dsh-browser-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3085
+}
