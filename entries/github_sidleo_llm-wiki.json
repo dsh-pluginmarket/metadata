@@ -1,0 +1,20 @@
+{
+  "id": "github:sidleo/llm-wiki",
+  "kind": "plugin",
+  "name": "llm-wiki",
+  "description": "Related DeepSeek Harness project: sidleo/llm-wiki",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sidleo/llm-wiki",
+  "repositoryUrl": "https://github.com/sidleo/llm-wiki",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3253
+}
