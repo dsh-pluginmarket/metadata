@@ -1,0 +1,20 @@
+{
+  "id": "github:YpipaQ/dsh-skills-mcp-cli-manager",
+  "kind": "plugin",
+  "name": "dsh-skills-mcp-cli-manager",
+  "description": "Skills / MCP / CLI manager for the DeepSeek Harness (dsh) web GUI — one settings page, real MCP connections, and a unified ~/.dsh/S-M-C store.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YpipaQ/dsh-skills-mcp-cli-manager",
+  "repositoryUrl": "https://github.com/YpipaQ/dsh-skills-mcp-cli-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3489
+}
