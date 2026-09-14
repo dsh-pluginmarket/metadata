@@ -1,0 +1,20 @@
+{
+  "id": "github:penguin-oo/dsh-delegate-router",
+  "kind": "plugin",
+  "name": "dsh-delegate-router",
+  "description": "Automatic Flash/Pro routing for DeepSeek Harness subagent calls: light tasks go cheap, heavy tasks stay strong — with /delegate overrides.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "penguin-oo/dsh-delegate-router",
+  "repositoryUrl": "https://github.com/penguin-oo/dsh-delegate-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3106
+}
