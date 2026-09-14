@@ -1,0 +1,20 @@
+{
+  "id": "github:aoripus/dsh-optimize",
+  "kind": "plugin",
+  "name": "dsh-optimize",
+  "description": "Long-session resource control for DeepSeek Harness: measures the context every request carries, warns at configurable thresholds, can run the harness compaction engine over budget, and contains offscreen chat rows behind a toggle.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aoripus/dsh-optimize",
+  "repositoryUrl": "https://github.com/aoripus/dsh-optimize",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3081
+}
