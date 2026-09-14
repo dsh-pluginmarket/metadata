@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-anima-tags",
+  "kind": "plugin",
+  "name": "dsh-anima-tags",
+  "description": "封装 danbooru-tags.exe 为 DSH 工具面（硬锚点校验/随机抽卡/批量），支撑 Anima 生图 prompt 组装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-anima-tags",
+  "repositoryUrl": "https://github.com/jonah791/dsh-anima-tags",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3614
+}
