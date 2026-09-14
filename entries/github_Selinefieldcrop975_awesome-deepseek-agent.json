@@ -1,0 +1,20 @@
+{
+  "id": "github:Selinefieldcrop975/awesome-deepseek-agent",
+  "kind": "plugin",
+  "name": "awesome-deepseek-agent",
+  "description": "Discover step-by-step guides to integrate DeepSeek models into top AI agents and coding assistants, with quick setup for V4-Pro and V4-Flash.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Selinefieldcrop975/awesome-deepseek-agent",
+  "repositoryUrl": "https://github.com/Selinefieldcrop975/awesome-deepseek-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3370
+}
