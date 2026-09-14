@@ -1,0 +1,20 @@
+{
+  "id": "github:simikangtao/dsh-storyboard",
+  "kind": "plugin",
+  "name": "dsh-storyboard",
+  "description": "Doubao-style end-of-chat storyboard card for DeepSeek Harness: lightweight, zero-dependency HTML/SVG visual summary at the end of substantive chats",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "simikangtao/dsh-storyboard",
+  "repositoryUrl": "https://github.com/simikangtao/dsh-storyboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3430
+}
