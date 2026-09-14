@@ -1,0 +1,20 @@
+{
+  "id": "github:shatyuka/dsh-llm-codebuddy",
+  "kind": "plugin",
+  "name": "dsh-llm-codebuddy",
+  "description": "Tencent CodeBuddy plugin for DeepSeek Harness (dsh).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shatyuka/dsh-llm-codebuddy",
+  "repositoryUrl": "https://github.com/shatyuka/dsh-llm-codebuddy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3270
+}
