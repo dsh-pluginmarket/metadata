@@ -1,0 +1,20 @@
+{
+  "id": "github:liyixuan201211/dsh-rewind",
+  "kind": "plugin",
+  "name": "dsh-rewind",
+  "description": "Undo what an agent did to a directory: content-addressed snapshots, one-command rewind, and an undo you can undo. Works in any folder — git or not. DSH plugin + skill, zero dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liyixuan201211/dsh-rewind",
+  "repositoryUrl": "https://github.com/liyixuan201211/dsh-rewind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3389
+}
