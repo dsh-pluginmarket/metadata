@@ -1,0 +1,20 @@
+{
+  "id": "github:Shelaghfahrenheit482/dsh-mini",
+  "kind": "plugin",
+  "name": "dsh-mini",
+  "description": "便携式 DeepSeek 引擎终端 Agent CLI，支持手机 Termux 运行，零运行时依赖，自带五条接口兼容层。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shelaghfahrenheit482/dsh-mini",
+  "repositoryUrl": "https://github.com/Shelaghfahrenheit482/dsh-mini",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3369
+}
