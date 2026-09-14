@@ -1,0 +1,20 @@
+{
+  "id": "github:Fishsb/dsh-shoucang-memory",
+  "kind": "plugin",
+  "name": "dsh-shoucang-memory",
+  "description": "Long-term memory plugin for DeepSeek Harness (DSH): layered memory library + session distillation + deep-sleep consolidation + settings panel. 守藏记忆插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fishsb/dsh-shoucang-memory",
+  "repositoryUrl": "https://github.com/Fishsb/dsh-shoucang-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3416
+}
