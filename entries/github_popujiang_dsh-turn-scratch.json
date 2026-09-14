@@ -1,0 +1,20 @@
+{
+  "id": "github:popujiang/dsh-turn-scratch",
+  "kind": "plugin",
+  "name": "dsh-turn-scratch",
+  "description": "一款专门用于清理 dsh 每轮产生的多余临时文件的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "popujiang/dsh-turn-scratch",
+  "repositoryUrl": "https://github.com/popujiang/dsh-turn-scratch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3269
+}
