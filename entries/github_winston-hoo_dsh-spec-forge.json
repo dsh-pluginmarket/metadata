@@ -1,0 +1,20 @@
+{
+  "id": "github:winston-hoo/dsh-spec-forge",
+  "kind": "plugin",
+  "name": "dsh-spec-forge",
+  "description": "一个 DeepSeek Harness（dsh）插件，把模糊的编程需求锻造成可执行规格，并在每次任务完成后沉淀为会自动复用的个人提示词模板库。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "winston-hoo/dsh-spec-forge",
+  "repositoryUrl": "https://github.com/winston-hoo/dsh-spec-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3567
+}
