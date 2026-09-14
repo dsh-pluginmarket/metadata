@@ -1,0 +1,20 @@
+{
+  "id": "github:allmodels-io/dsh-speech",
+  "kind": "plugin",
+  "name": "dsh-speech",
+  "description": "Real-time voice input and spoken answer summaries for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "allmodels-io/dsh-speech",
+  "repositoryUrl": "https://github.com/allmodels-io/dsh-speech",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3248
+}
