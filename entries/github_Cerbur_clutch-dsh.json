@@ -1,0 +1,20 @@
+{
+  "id": "github:Cerbur/clutch-dsh",
+  "kind": "plugin",
+  "name": "clutch-dsh",
+  "description": "Open-source DSH plugins for DeepSeek Harness：Git Worktree session management（会话管理）、Session Title（会话标题）与 Fireworks（庆祝特效），面向 AI coding workflows。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Cerbur/clutch-dsh",
+  "repositoryUrl": "https://github.com/Cerbur/clutch-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3154
+}
