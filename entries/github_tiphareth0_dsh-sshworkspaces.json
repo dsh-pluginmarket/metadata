@@ -1,0 +1,20 @@
+{
+  "id": "github:tiphareth0/dsh-sshworkspaces",
+  "kind": "plugin",
+  "name": "dsh-sshworkspaces",
+  "description": "Workspace-level SSH remote development plugin for DeepSeek Harness: transparent seam-routed fs, git & terminal across multiple hosts and workspaces, with a built-in 4-column IDE and SSH ops toolkit. 提供工作区级 SSH 远程开发的Deepseek Harness插件：文件/Git/终端按工作区透明路由，支持多服务器多工作区并行开发，内置四列 IDE 与 SSH 运维工具。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tiphareth0/dsh-sshworkspaces",
+  "repositoryUrl": "https://github.com/tiphareth0/dsh-sshworkspaces",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3386
+}
