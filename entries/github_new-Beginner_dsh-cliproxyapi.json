@@ -1,0 +1,20 @@
+{
+  "id": "github:new-Beginner/dsh-cliproxyapi",
+  "kind": "plugin",
+  "name": "dsh-cliproxyapi",
+  "description": "Native Codex and Antigravity subscription accounts inside DeepSeek Harness, based on CLIProxyAPI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "new-Beginner/dsh-cliproxyapi",
+  "repositoryUrl": "https://github.com/new-Beginner/dsh-cliproxyapi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3433
+}
