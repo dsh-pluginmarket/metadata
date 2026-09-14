@@ -1,0 +1,20 @@
+{
+  "id": "github:V1ki/dsh-plugin-subscriptions",
+  "kind": "plugin",
+  "name": "dsh-plugin-subscriptions",
+  "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "V1ki/dsh-plugin-subscriptions",
+  "repositoryUrl": "https://github.com/V1ki/dsh-plugin-subscriptions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3543
+}
