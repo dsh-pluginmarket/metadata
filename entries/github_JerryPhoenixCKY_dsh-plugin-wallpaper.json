@@ -1,0 +1,20 @@
+{
+  "id": "github:JerryPhoenixCKY/dsh-plugin-wallpaper",
+  "kind": "plugin",
+  "name": "dsh-plugin-wallpaper",
+  "description": "DeepSeek Harness Web wallpaper plugin: upload and crop a local image as the web workspace desktop background.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JerryPhoenixCKY/dsh-plugin-wallpaper",
+  "repositoryUrl": "https://github.com/JerryPhoenixCKY/dsh-plugin-wallpaper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3576
+}
