@@ -1,0 +1,20 @@
+{
+  "id": "github:duhu2000/dsh-pre-duediligence",
+  "kind": "plugin",
+  "name": "dsh-pre-duediligence",
+  "description": "Pre-visit due diligence and company research in DeepSeek Harness for customer background checks and risk briefs, with Qichacha MCP tool-call budget approval and entity confirmation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duhu2000/dsh-pre-duediligence",
+  "repositoryUrl": "https://github.com/duhu2000/dsh-pre-duediligence",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3517
+}
