@@ -1,0 +1,20 @@
+{
+  "id": "github:pax-beehive/dsh-hub-cli",
+  "kind": "plugin",
+  "name": "dsh-hub-cli",
+  "description": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pax-beehive/dsh-hub-cli",
+  "repositoryUrl": "https://github.com/pax-beehive/dsh-hub-cli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3628
+}
