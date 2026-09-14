@@ -1,0 +1,20 @@
+{
+  "id": "github:HaoyueQin/dsh-usage-statistics-panel",
+  "kind": "plugin",
+  "name": "dsh-usage-statistics-panel",
+  "description": "DSH web plugin: per-day token usage statistics with a GitHub-style activity heatmap, cache hit-rate curve and per-model breakdown",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HaoyueQin/dsh-usage-statistics-panel",
+  "repositoryUrl": "https://github.com/HaoyueQin/dsh-usage-statistics-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3484
+}
