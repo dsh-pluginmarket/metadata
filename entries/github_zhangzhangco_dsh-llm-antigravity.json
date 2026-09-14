@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangzhangco/dsh-llm-antigravity",
+  "kind": "plugin",
+  "name": "dsh-llm-antigravity",
+  "description": "Antigravity route for DeepSeek Harness: local Antigravity CLI (agy) as an LLM provider",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangzhangco/dsh-llm-antigravity",
+  "repositoryUrl": "https://github.com/zhangzhangco/dsh-llm-antigravity",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3120
+}
