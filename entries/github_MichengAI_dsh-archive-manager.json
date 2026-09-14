@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-archive-manager",
+  "kind": "plugin",
+  "name": "dsh-archive-manager",
+  "description": "DSH Archive Manager — 在 DeepSeek Harness 中安全查看、恢复和管理已归档会话 · Safely view, restore, and manage archived sessions in DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-archive-manager",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-archive-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3347
+}
