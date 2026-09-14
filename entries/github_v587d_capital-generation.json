@@ -1,0 +1,20 @@
+{
+  "id": "github:v587d/capital-generation",
+  "kind": "plugin",
+  "name": "capital-generation",
+  "description": "面向中国股市散户的金融投资智能体。Next-Gen AI-Driven Capital Generation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "v587d/capital-generation",
+  "repositoryUrl": "https://github.com/v587d/capital-generation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3231
+}
