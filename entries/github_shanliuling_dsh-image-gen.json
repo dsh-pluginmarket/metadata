@@ -1,0 +1,20 @@
+{
+  "id": "github:shanliuling/dsh-image-gen",
+  "kind": "plugin",
+  "name": "dsh-image-gen",
+  "description": "AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shanliuling/dsh-image-gen",
+  "repositoryUrl": "https://github.com/shanliuling/dsh-image-gen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3364
+}
