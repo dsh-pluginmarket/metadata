@@ -1,0 +1,20 @@
+{
+  "id": "github:cuddly-guacamole/dsh-auto-approval-llm",
+  "kind": "plugin",
+  "name": "dsh-auto-approval-llm",
+  "description": "LLM-assisted auto approval + timeout fallback for the DeepSeek Harness Auto preset",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cuddly-guacamole/dsh-auto-approval-llm",
+  "repositoryUrl": "https://github.com/cuddly-guacamole/dsh-auto-approval-llm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3570
+}
