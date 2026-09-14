@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-wq-bridge",
+  "kind": "plugin",
+  "name": "dsh-wq-bridge",
+  "description": "WorldQuant BRAIN 平台桥（Python Bridge 模式）：TS 壳管理 Python 子进程（stdio JSON-RPC），向 DSH 工具面暴露 AlphaFactory 平台能力",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-wq-bridge",
+  "repositoryUrl": "https://github.com/jonah791/dsh-wq-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3610
+}
