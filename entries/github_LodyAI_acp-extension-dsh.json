@@ -1,0 +1,20 @@
+{
+  "id": "github:LodyAI/acp-extension-dsh",
+  "kind": "plugin",
+  "name": "acp-extension-dsh",
+  "description": "Related DeepSeek Harness project: LodyAI/acp-extension-dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LodyAI/acp-extension-dsh",
+  "repositoryUrl": "https://github.com/LodyAI/acp-extension-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3608
+}
