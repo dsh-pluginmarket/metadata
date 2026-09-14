@@ -1,0 +1,20 @@
+{
+  "id": "github:lurejewel/dsh-usage-plugin",
+  "kind": "plugin",
+  "name": "dsh-usage-plugin",
+  "description": "Lightweight, native sidebar usage panel for DeepSeek Harness: official balance + token usage history from session logs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lurejewel/dsh-usage-plugin",
+  "repositoryUrl": "https://github.com/lurejewel/dsh-usage-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3208
+}
