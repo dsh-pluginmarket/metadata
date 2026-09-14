@@ -1,0 +1,20 @@
+{
+  "id": "github:Linjiangxian0203/dsh-remote-tunnel",
+  "kind": "plugin",
+  "name": "dsh-remote-tunnel",
+  "description": "Remote Host Tunnel Manager for dsh: remote port allocation + registry + resilient SSH tunnel",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Linjiangxian0203/dsh-remote-tunnel",
+  "repositoryUrl": "https://github.com/Linjiangxian0203/dsh-remote-tunnel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3476
+}
