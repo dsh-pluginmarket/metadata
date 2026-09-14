@@ -1,0 +1,20 @@
+{
+  "id": "github:btbxbob/dsh-deepseek-balance",
+  "kind": "plugin",
+  "name": "dsh-deepseek-balance",
+  "description": "DeepSeek Harness side-bar balance badge: show DeepSeek account balance and estimated depletion time (dual-half cordis plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "btbxbob/dsh-deepseek-balance",
+  "repositoryUrl": "https://github.com/btbxbob/dsh-deepseek-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3626
+}
