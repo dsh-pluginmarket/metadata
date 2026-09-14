@@ -1,0 +1,20 @@
+{
+  "id": "github:ZJU-REAL/Polaris",
+  "kind": "plugin",
+  "name": "Polaris",
+  "description": "Toward Autonomous Scientific Discovery",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZJU-REAL/Polaris",
+  "repositoryUrl": "https://github.com/ZJU-REAL/Polaris",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3156
+}
