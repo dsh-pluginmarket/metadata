@@ -1,0 +1,20 @@
+{
+  "id": "github:daha1216/dsh-plugin-collection",
+  "kind": "plugin",
+  "name": "dsh-plugin-collection",
+  "description": "DeepSeek Harness（DSH）第三方插件精选目录：一键安装，条目均指向插件作者原仓库。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daha1216/dsh-plugin-collection",
+  "repositoryUrl": "https://github.com/daha1216/dsh-plugin-collection",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3505
+}
