@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-plugin-bootreport",
+  "kind": "plugin",
+  "name": "dsh-plugin-bootreport",
+  "description": "DSH 启动自报账本：web 启动时落一行「本进程加载了哪些插件构建」，判据 lib mtime vs 进程起点，一条命令答全生态「构建是否生效 / 谁需重启」",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-plugin-bootreport",
+  "repositoryUrl": "https://github.com/jonah791/dsh-plugin-bootreport",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3325
+}
