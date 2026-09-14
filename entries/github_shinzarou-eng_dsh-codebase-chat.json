@@ -1,0 +1,20 @@
+{
+  "id": "github:shinzarou-eng/dsh-codebase-chat",
+  "kind": "plugin",
+  "name": "dsh-codebase-chat",
+  "description": "Multi-language codebase intelligence for DeepSeek Harness and MCP IDEs. Chat, search, audit, refactor, and board-ready reports from local code.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shinzarou-eng/dsh-codebase-chat",
+  "repositoryUrl": "https://github.com/shinzarou-eng/dsh-codebase-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3217
+}
