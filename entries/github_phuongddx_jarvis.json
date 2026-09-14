@@ -1,0 +1,20 @@
+{
+  "id": "github:phuongddx/jarvis",
+  "kind": "plugin",
+  "name": "jarvis",
+  "description": "JARVIS is an intelligent layer that gives agents access to their code, knowledge, context, memory, tools, and runtime — starting locally on your machine, with the ability to extend into the cloud.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "phuongddx/jarvis",
+  "repositoryUrl": "https://github.com/phuongddx/jarvis",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3607
+}
