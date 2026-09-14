@@ -1,0 +1,20 @@
+{
+  "id": "github:NoNameLeGo/dsh-catppuccin-theme",
+  "kind": "plugin",
+  "name": "dsh-catppuccin-theme",
+  "description": "DeepSeek Harness Web GUI 的 Catppuccin 主题插件：Latte / Frappé / Macchiato / Mocha 四种主题一键切换，内置可开关的玻璃质感（Glassmorphism）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NoNameLeGo/dsh-catppuccin-theme",
+  "repositoryUrl": "https://github.com/NoNameLeGo/dsh-catppuccin-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3242
+}
