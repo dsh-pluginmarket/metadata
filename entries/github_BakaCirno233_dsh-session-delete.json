@@ -1,0 +1,20 @@
+{
+  "id": "github:BakaCirno233/dsh-session-delete",
+  "kind": "plugin",
+  "name": "dsh-session-delete",
+  "description": "DSH plugin: permanently delete cold sessions from a Settings page (会话管理)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BakaCirno233/dsh-session-delete",
+  "repositoryUrl": "https://github.com/BakaCirno233/dsh-session-delete",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3443
+}
