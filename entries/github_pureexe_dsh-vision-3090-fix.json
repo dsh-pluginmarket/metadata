@@ -1,0 +1,20 @@
+{
+  "id": "github:pureexe/dsh-vision-3090-fix",
+  "kind": "plugin",
+  "name": "dsh-vision-3090-fix",
+  "description": "DeepSeek Harness LLM adapter that caps images per request to 1, for self-hosted vLLM backends that reject prompts with more than one image",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pureexe/dsh-vision-3090-fix",
+  "repositoryUrl": "https://github.com/pureexe/dsh-vision-3090-fix",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3096
+}
