@@ -1,0 +1,20 @@
+{
+  "id": "github:tnnevol/fn-os-apps",
+  "kind": "plugin",
+  "name": "fn-os-apps",
+  "description": "飞牛 fnOS 应用 Monorepo",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tnnevol/fn-os-apps",
+  "repositoryUrl": "https://github.com/tnnevol/fn-os-apps",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3210
+}
