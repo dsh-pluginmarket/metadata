@@ -1,0 +1,20 @@
+{
+  "id": "github:morlay/better-session",
+  "kind": "plugin",
+  "name": "better-session",
+  "description": "better session",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "morlay/better-session",
+  "repositoryUrl": "https://github.com/morlay/better-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3500
+}
