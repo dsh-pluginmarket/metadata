@@ -1,0 +1,20 @@
+{
+  "id": "github:chenqg618/compliance-skills",
+  "kind": "plugin",
+  "name": "compliance-skills",
+  "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recomputable evidence, fully offline, no model, no network. 合同、票据、招投标与广告文案的机械核对型 AI 技能（免费版源码）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenqg618/compliance-skills",
+  "repositoryUrl": "https://github.com/chenqg618/compliance-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3538
+}
