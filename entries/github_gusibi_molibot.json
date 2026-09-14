@@ -1,0 +1,20 @@
+{
+  "id": "github:gusibi/molibot",
+  "kind": "plugin",
+  "name": "molibot",
+  "description": "A memory-first personal AI Agent that grows with your work.开源、开箱即用的 AI Agent。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gusibi/molibot",
+  "repositoryUrl": "https://github.com/gusibi/molibot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3278
+}
