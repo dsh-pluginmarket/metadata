@@ -1,0 +1,20 @@
+{
+  "id": "github:guytogay/dsh-addon-kit",
+  "kind": "plugin",
+  "name": "dsh-addon-kit",
+  "description": "DSH addon kit: reusable MCP servers (desktop/browsers), A2A agent bridge, skill, plugins and mobile-remote kit - sanitized for public reuse",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guytogay/dsh-addon-kit",
+  "repositoryUrl": "https://github.com/guytogay/dsh-addon-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3427
+}
