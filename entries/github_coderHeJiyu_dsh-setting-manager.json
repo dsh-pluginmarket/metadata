@@ -1,0 +1,20 @@
+{
+  "id": "github:coderHeJiyu/dsh-setting-manager",
+  "kind": "plugin",
+  "name": "dsh-setting-manager",
+  "description": "Related DeepSeek Harness project: coderHeJiyu/dsh-setting-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "coderHeJiyu/dsh-setting-manager",
+  "repositoryUrl": "https://github.com/coderHeJiyu/dsh-setting-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3493
+}
