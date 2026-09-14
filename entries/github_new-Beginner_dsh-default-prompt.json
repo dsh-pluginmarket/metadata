@@ -1,0 +1,20 @@
+{
+  "id": "github:new-Beginner/dsh-default-prompt",
+  "kind": "plugin",
+  "name": "dsh-default-prompt",
+  "description": "Related DeepSeek Harness project: new-Beginner/dsh-default-prompt",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "new-Beginner/dsh-default-prompt",
+  "repositoryUrl": "https://github.com/new-Beginner/dsh-default-prompt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3454
+}
