@@ -1,0 +1,20 @@
+{
+  "id": "github:EIGHTfs/dsh-skill-scoreboard",
+  "kind": "plugin",
+  "name": "dsh-skill-scoreboard",
+  "description": "DSH skill 使用记分板：监听 tools/result，按会话去重自动累计 skill 加载次数。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EIGHTfs/dsh-skill-scoreboard",
+  "repositoryUrl": "https://github.com/EIGHTfs/dsh-skill-scoreboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3579
+}
