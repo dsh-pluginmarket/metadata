@@ -1,0 +1,20 @@
+{
+  "id": "github:KasenRi/dsh-orbit",
+  "kind": "plugin",
+  "name": "dsh-orbit",
+  "description": "Installable GitHub release mirror for @kasenri/dsh-orbit. Canonical source: KasenRi/dsh-orbit-browser-plugins.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KasenRi/dsh-orbit",
+  "repositoryUrl": "https://github.com/KasenRi/dsh-orbit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3527
+}
