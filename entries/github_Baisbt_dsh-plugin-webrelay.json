@@ -1,0 +1,20 @@
+{
+  "id": "github:Baisbt/dsh-plugin-webrelay",
+  "kind": "plugin",
+  "name": "dsh-plugin-webrelay",
+  "description": "Related DeepSeek Harness project: Baisbt/dsh-plugin-webrelay",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Baisbt/dsh-plugin-webrelay",
+  "repositoryUrl": "https://github.com/Baisbt/dsh-plugin-webrelay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3250
+}
