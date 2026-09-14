@@ -1,0 +1,20 @@
+{
+  "id": "github:riesbri/dshline",
+  "kind": "plugin",
+  "name": "dshline",
+  "description": "The terminal-native frontend for the DeepSeek Harness plugin ecosystem.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "riesbri/dshline",
+  "repositoryUrl": "https://github.com/riesbri/dshline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3514
+}
