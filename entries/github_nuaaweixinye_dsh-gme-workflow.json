@@ -1,0 +1,20 @@
+{
+  "id": "github:nuaaweixinye/dsh-gme-workflow",
+  "kind": "plugin",
+  "name": "dsh-gme-workflow",
+  "description": "GME Test Agent workflow tools for DeepSeek Harness (dsh): pick interfaces, generate and repair tests autonomously in a local Python backend, poll until review, decide with consent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nuaaweixinye/dsh-gme-workflow",
+  "repositoryUrl": "https://github.com/nuaaweixinye/dsh-gme-workflow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3533
+}
