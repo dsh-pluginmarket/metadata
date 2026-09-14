@@ -1,0 +1,20 @@
+{
+  "id": "github:melandlabs/opencontext",
+  "kind": "plugin",
+  "name": "opencontext",
+  "description": "A temporal context graph, a memory API, retrieval primitives, and a multiple-platform integration mesh — designed to be embedded into any host process.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "melandlabs/opencontext",
+  "repositoryUrl": "https://github.com/melandlabs/opencontext",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3223
+}
