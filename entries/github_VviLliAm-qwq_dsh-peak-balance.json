@@ -1,0 +1,20 @@
+{
+  "id": "github:VviLliAm-qwq/dsh-peak-balance",
+  "kind": "plugin",
+  "name": "dsh-peak-balance",
+  "description": "Peak/off-peak billing clock with live DeepSeek balance and per-turn cost above the dsh-tui prompt, plus an optional flashing peak-hour warning frame.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "VviLliAm-qwq/dsh-peak-balance",
+  "repositoryUrl": "https://github.com/VviLliAm-qwq/dsh-peak-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3308
+}
