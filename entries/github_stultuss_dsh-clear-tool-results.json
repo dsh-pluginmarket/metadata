@@ -1,0 +1,20 @@
+{
+  "id": "github:stultuss/dsh-clear-tool-results",
+  "kind": "plugin",
+  "name": "dsh-clear-tool-results",
+  "description": "DSH 宿主插件：每轮对话结束后，把该轮的原始工具结果归档（tool result）到会话目录（tool-result-logs），并从上下文中清除，减少 Token 消耗；模型可用 read_tool_result_log 工具按轮次或时间自主读取归档数据。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stultuss/dsh-clear-tool-results",
+  "repositoryUrl": "https://github.com/stultuss/dsh-clear-tool-results",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3088
+}
