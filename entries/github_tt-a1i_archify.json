@@ -1,0 +1,20 @@
+{
+  "id": "github:tt-a1i/archify",
+  "kind": "plugin",
+  "name": "archify",
+  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tt-a1i/archify",
+  "repositoryUrl": "https://github.com/tt-a1i/archify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3150
+}
