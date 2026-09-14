@@ -1,0 +1,20 @@
+{
+  "id": "github:ruisenbai/dsh-annotation",
+  "kind": "plugin",
+  "name": "dsh-annotation",
+  "description": "Inline, batchable annotations for DeepSeek Harness Session messages",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ruisenbai/dsh-annotation",
+  "repositoryUrl": "https://github.com/ruisenbai/dsh-annotation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3534
+}
