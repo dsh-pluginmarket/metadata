@@ -1,0 +1,20 @@
+{
+  "id": "github:LaoYueHanNi/dsh-git-worktree",
+  "kind": "plugin",
+  "name": "dsh-git-worktree",
+  "description": "在 Web 界面进行分支切换与 git worktree 隔离的 DSH 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LaoYueHanNi/dsh-git-worktree",
+  "repositoryUrl": "https://github.com/LaoYueHanNi/dsh-git-worktree",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3404
+}
