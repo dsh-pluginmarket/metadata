@@ -1,0 +1,20 @@
+{
+  "id": "github:weibaohui/dsh-fde-tools",
+  "kind": "plugin",
+  "name": "dsh-fde-tools",
+  "description": "dsh 插件全家桶：装一个插件带一批插件（Git 服务器/WebDAV 挂载盘/知识库/定时任务/自动续跑/界面微调/自动复盘）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weibaohui/dsh-fde-tools",
+  "repositoryUrl": "https://github.com/weibaohui/dsh-fde-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3304
+}
