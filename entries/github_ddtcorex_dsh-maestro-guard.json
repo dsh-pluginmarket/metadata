@@ -1,0 +1,20 @@
+{
+  "id": "github:ddtcorex/dsh-maestro-guard",
+  "kind": "plugin",
+  "name": "dsh-maestro-guard",
+  "description": "Host-only safety gate for DeepSeek Harness: approval store, secret redaction, permission policy, waterfall pre-execute integration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ddtcorex/dsh-maestro-guard",
+  "repositoryUrl": "https://github.com/ddtcorex/dsh-maestro-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3321
+}
