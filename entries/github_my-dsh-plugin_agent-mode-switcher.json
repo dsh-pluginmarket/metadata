@@ -1,0 +1,20 @@
+{
+  "id": "github:my-dsh-plugin/agent-mode-switcher",
+  "kind": "plugin",
+  "name": "agent-mode-switcher",
+  "description": "Switch the current session's agent preset (mode) after the model answers and keep chatting. DeepSeek Harness 插件：模型回答后切换模式，继续当前对话。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "my-dsh-plugin/agent-mode-switcher",
+  "repositoryUrl": "https://github.com/my-dsh-plugin/agent-mode-switcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3592
+}
