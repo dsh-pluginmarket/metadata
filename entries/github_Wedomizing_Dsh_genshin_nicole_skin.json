@@ -1,0 +1,20 @@
+{
+  "id": "github:Wedomizing/Dsh_genshin_nicole_skin",
+  "kind": "plugin",
+  "name": "Dsh_genshin_nicole_skin",
+  "description": "来自世界之外的智慧所诞生的进步，每天都比过去一百年的积累更多",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wedomizing/Dsh_genshin_nicole_skin",
+  "repositoryUrl": "https://github.com/Wedomizing/Dsh_genshin_nicole_skin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3462
+}
