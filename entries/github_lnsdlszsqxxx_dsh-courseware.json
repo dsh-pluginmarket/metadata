@@ -1,0 +1,20 @@
+{
+  "id": "github:lnsdlszsqxxx/dsh-courseware",
+  "kind": "plugin",
+  "name": "dsh-courseware",
+  "description": "create pptx file based on template.pptx and a outline file",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lnsdlszsqxxx/dsh-courseware",
+  "repositoryUrl": "https://github.com/lnsdlszsqxxx/dsh-courseware",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3624
+}
