@@ -1,0 +1,20 @@
+{
+  "id": "github:ChenneyZhuang/resume-localize-cn2en",
+  "kind": "plugin",
+  "name": "resume-localize-cn2en",
+  "description": "Resume localization skill (CN to EN): demographic fields stripped, duties become quantified outcomes, one spelling variant, ATS-parsable, full change log. CN/EN.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChenneyZhuang/resume-localize-cn2en",
+  "repositoryUrl": "https://github.com/ChenneyZhuang/resume-localize-cn2en",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3336
+}
