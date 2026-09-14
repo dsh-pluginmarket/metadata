@@ -1,0 +1,20 @@
+{
+  "id": "github:shenhuanageshei/dsh-thincoder-suite",
+  "kind": "plugin",
+  "name": "dsh-thincoder-suite",
+  "description": "DSH plugin porting thincoder self-discipline suite: advisor convergent review / engineering mode / escalate / consult",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shenhuanageshei/dsh-thincoder-suite",
+  "repositoryUrl": "https://github.com/shenhuanageshei/dsh-thincoder-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3225
+}
