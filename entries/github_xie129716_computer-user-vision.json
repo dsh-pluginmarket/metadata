@@ -1,0 +1,20 @@
+{
+  "id": "github:xie129716/computer-user-vision",
+  "kind": "plugin",
+  "name": "computer-user-vision",
+  "description": "Unofficial fork of computer-user: fixes the silent load failure on DSH >= 0.1.2, and returns screenshots as real images to vision models with an exact image->screen coordinate mapping.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xie129716/computer-user-vision",
+  "repositoryUrl": "https://github.com/xie129716/computer-user-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3298
+}
