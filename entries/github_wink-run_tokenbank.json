@@ -1,0 +1,20 @@
+{
+  "id": "github:wink-run/tokenbank",
+  "kind": "plugin",
+  "name": "tokenbank",
+  "description": "Token Bank — the local LLM gateway that sits between your AI agents and every provider.  Know where tokens go · Spend less with smart routing to Ollama, Groq, GitHub Models · Earn by sharing idle quota on a community P2P network.  One-click onboarding for Cursor, Claude Code, Codex CLI, Gemini CLI — no agent changes. Full trace, seamless model swap",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wink-run/tokenbank",
+  "repositoryUrl": "https://github.com/wink-run/tokenbank",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3179
+}
