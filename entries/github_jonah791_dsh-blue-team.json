@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-blue-team",
+  "kind": "plugin",
+  "name": "dsh-blue-team",
+  "description": "蓝队防御插件：资产发现/漏洞评估/威胁检测/日志取证/加固基线（8 工具，ATT&CK 能力地图）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-blue-team",
+  "repositoryUrl": "https://github.com/jonah791/dsh-blue-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3598
+}
