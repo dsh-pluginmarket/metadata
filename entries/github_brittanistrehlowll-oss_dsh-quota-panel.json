@@ -1,0 +1,20 @@
+{
+  "id": "github:brittanistrehlowll-oss/dsh-quota-panel",
+  "kind": "plugin",
+  "name": "dsh-quota-panel",
+  "description": "DeepSeek Harness 的提供方额度/余额角标：左下角一行胶囊显示余额与用量，点开是完整卡片；支持 Web 与官方桌面版，API Key 只在宿主侧解析，零依赖。Provider quota & balance capsule for DeepSeek Harness (Web + Desktop).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "brittanistrehlowll-oss/dsh-quota-panel",
+  "repositoryUrl": "https://github.com/brittanistrehlowll-oss/dsh-quota-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3296
+}
