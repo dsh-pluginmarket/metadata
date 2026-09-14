@@ -1,0 +1,20 @@
+{
+  "id": "github:dshbox/cordis-rs",
+  "kind": "plugin",
+  "name": "cordis-rs",
+  "description": "A typed runtime for long-lived, plugin-oriented Rust applications — lifecycle, exact service placement, typed events, deterministic cleanup, scopes, and isolation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dshbox/cordis-rs",
+  "repositoryUrl": "https://github.com/dshbox/cordis-rs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3092
+}
