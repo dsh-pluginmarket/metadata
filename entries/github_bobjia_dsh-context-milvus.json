@@ -1,0 +1,20 @@
+{
+  "id": "github:bobjia/dsh-context-milvus",
+  "kind": "plugin",
+  "name": "dsh-context-milvus",
+  "description": "claude-context-milvus like plugin for Deepseek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bobjia/dsh-context-milvus",
+  "repositoryUrl": "https://github.com/bobjia/dsh-context-milvus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3480
+}
