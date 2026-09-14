@@ -1,0 +1,20 @@
+{
+  "id": "github:hyperion2144/dsh-hashline-edittool",
+  "kind": "plugin",
+  "name": "dsh-hashline-edittool",
+  "description": "Hash-anchored read/edit/undo_last_edit tools for DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hyperion2144/dsh-hashline-edittool",
+  "repositoryUrl": "https://github.com/hyperion2144/dsh-hashline-edittool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3114
+}
