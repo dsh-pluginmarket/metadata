@@ -1,0 +1,20 @@
+{
+  "id": "github:Riderich/self-evolving-router-dsh",
+  "kind": "plugin",
+  "name": "self-evolving-router-dsh",
+  "description": "Self-evolving deterministic rule objects before DeepSeek Harness model calls",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Riderich/self-evolving-router-dsh",
+  "repositoryUrl": "https://github.com/Riderich/self-evolving-router-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3460
+}
