@@ -1,0 +1,20 @@
+{
+  "id": "github:igormel81/dsh-chat-cost",
+  "kind": "plugin",
+  "name": "dsh-chat-cost",
+  "description": "DeepSeek Harness (dsh) plugin: live token cost of every chat, its subagents and the whole session tree — DeepSeek, OpenAI, Anthropic, Gemini, Kimi, Grok and Mistral prices from a bundled catalog, plus an append-only JSONL cost log in your project folder.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "igormel81/dsh-chat-cost",
+  "repositoryUrl": "https://github.com/igormel81/dsh-chat-cost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3408
+}
