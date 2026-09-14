@@ -1,0 +1,20 @@
+{
+  "id": "github:Chinesezjc/dsh-interconnect",
+  "kind": "plugin",
+  "name": "dsh-interconnect",
+  "description": "Cross-instance message/event handoff plugins for DSH (interconnect service + tools)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chinesezjc/dsh-interconnect",
+  "repositoryUrl": "https://github.com/Chinesezjc/dsh-interconnect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3392
+}
