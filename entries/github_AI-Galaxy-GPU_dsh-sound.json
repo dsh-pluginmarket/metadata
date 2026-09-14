@@ -1,0 +1,20 @@
+{
+  "id": "github:AI-Galaxy-GPU/dsh-sound",
+  "kind": "plugin",
+  "name": "dsh-sound",
+  "description": "DeepSeek Harness（DSH）Web 端插件：回合完成、审批、提问、计划评审、目标受阻、任务失败各有独立提示音与音量，内置合成音 / 静音 / 本地音频文件，Web 设置面板可配置。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AI-Galaxy-GPU/dsh-sound",
+  "repositoryUrl": "https://github.com/AI-Galaxy-GPU/dsh-sound",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3213
+}
