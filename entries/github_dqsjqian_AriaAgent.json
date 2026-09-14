@@ -1,0 +1,20 @@
+{
+  "id": "github:dqsjqian/AriaAgent",
+  "kind": "plugin",
+  "name": "AriaAgent",
+  "description": "Industrial-grade C++20 Agent Tooling Framework GUI — provider-agnostic LLM agent with true SSE streaming, tool registry, approval gate. Built on Aria (C++20 MVVM).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dqsjqian/AriaAgent",
+  "repositoryUrl": "https://github.com/dqsjqian/AriaAgent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3428
+}
