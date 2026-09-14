@@ -1,0 +1,20 @@
+{
+  "id": "github:starsstreaming/beautiCode",
+  "kind": "plugin",
+  "name": "beautiCode",
+  "description": "面向 AI 编程客户端的动态、可响应环境——视频背景、氛围场景与主题，适用于 DeepSeek Harness 与 Codex Desktop。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "starsstreaming/beautiCode",
+  "repositoryUrl": "https://github.com/starsstreaming/beautiCode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3523
+}
