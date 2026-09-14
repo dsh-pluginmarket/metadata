@@ -1,0 +1,20 @@
+{
+  "id": "github:genusamblyrhynchusbrunooftoul602/dsh-attachment-formats",
+  "kind": "plugin",
+  "name": "dsh-attachment-formats",
+  "description": "Extend DeepSeek Harness composer to accept PDFs and more attachment formats Codex-style, with zero core changes and native pipeline reuse.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "genusamblyrhynchusbrunooftoul602/dsh-attachment-formats",
+  "repositoryUrl": "https://github.com/genusamblyrhynchusbrunooftoul602/dsh-attachment-formats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3366
+}
