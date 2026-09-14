@@ -1,0 +1,20 @@
+{
+  "id": "github:ccll/dsh-activity-pane",
+  "kind": "plugin",
+  "name": "dsh-activity-pane",
+  "description": "Activity session overview pane for DeepSeek Harness (DSH) web — running sessions, sub-agents, waiting-for-action reminders & recent history at a glance / DSH 活动会话总览窗格",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccll/dsh-activity-pane",
+  "repositoryUrl": "https://github.com/ccll/dsh-activity-pane",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3319
+}
