@@ -1,0 +1,20 @@
+{
+  "id": "github:jonah791/dsh-growth-profile",
+  "kind": "plugin",
+  "name": "dsh-growth-profile",
+  "description": "养成档案：聚合当前状态/技能/里程碑/周目/主人反馈/生命核心为自我呈现视图（30s 实时轮询 + 精致面板；只读，被动哲学）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jonah791/dsh-growth-profile",
+  "repositoryUrl": "https://github.com/jonah791/dsh-growth-profile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3578
+}
