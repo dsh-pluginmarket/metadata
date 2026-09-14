@@ -1,0 +1,20 @@
+{
+  "id": "github:Missher12/dsh-missher-memory",
+  "kind": "plugin",
+  "name": "dsh-missher-memory",
+  "description": "Project-scoped reviewed long-project memory for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Missher12/dsh-missher-memory",
+  "repositoryUrl": "https://github.com/Missher12/dsh-missher-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3083
+}
