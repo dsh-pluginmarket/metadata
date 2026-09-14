@@ -1,0 +1,20 @@
+{
+  "id": "github:huangyuheng/dsh-token-use",
+  "kind": "plugin",
+  "name": "dsh-token-use",
+  "description": "实时 Token 用量仪表盘 · Real-time token usage dashboard for DeepSeek Harness — live totals, filters by model/day/month/project, smooth trend chart.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huangyuheng/dsh-token-use",
+  "repositoryUrl": "https://github.com/huangyuheng/dsh-token-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3552
+}
