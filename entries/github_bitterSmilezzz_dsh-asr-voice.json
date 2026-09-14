@@ -1,0 +1,20 @@
+{
+  "id": "github:bitterSmilezzz/dsh-asr-voice",
+  "kind": "plugin",
+  "name": "dsh-asr-voice",
+  "description": "开口即成文 · Speak-to-prompt for DeepSeek Harness：云端 ASR 语音识别 + 提示词优化 + 填入草稿/自动发送，跨平台 macOS / Windows。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bitterSmilezzz/dsh-asr-voice",
+  "repositoryUrl": "https://github.com/bitterSmilezzz/dsh-asr-voice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3352
+}
