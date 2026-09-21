@@ -1,0 +1,20 @@
+{
+  "id": "github:gulagala001/oh-my-dsh",
+  "kind": "plugin",
+  "name": "oh-my-dsh",
+  "description": "让你的 DSH，火力全开。长上下文、任务验证、提示词优化、代码理解、电脑操作与四套完整主题。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gulagala001/oh-my-dsh",
+  "repositoryUrl": "https://github.com/gulagala001/oh-my-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3925
+}
