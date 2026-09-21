@@ -1,0 +1,20 @@
+{
+  "id": "github:yoza10635/dsh-argp",
+  "kind": "plugin",
+  "name": "dsh-argp",
+  "description": "Guarded context compaction for DeepSeek Harness (dsh): the LLM proposes, deterministic guards dispose — eager per-atom shrink (extract/summary/false under verbatim guards) + lazy reference-graph eviction (0-LLM) + byte-exact recall from an append-only log. 守卫式上下文压缩：LLM 只提议、确定性守卫裁决——逐原子缩放 + 惰性引用图剪枝（0-LLM）+ 追加式日志逐字节召回；压缩率精确兑现，历史永不销毁。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yoza10635/dsh-argp",
+  "repositoryUrl": "https://github.com/yoza10635/dsh-argp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3783
+}
