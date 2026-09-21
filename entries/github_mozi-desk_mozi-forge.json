@@ -1,0 +1,20 @@
+{
+  "id": "github:mozi-desk/mozi-forge",
+  "kind": "plugin",
+  "name": "mozi-forge",
+  "description": "A foundation for self-evolving AI agents, built on DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mozi-desk/mozi-forge",
+  "repositoryUrl": "https://github.com/mozi-desk/mozi-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3790
+}
