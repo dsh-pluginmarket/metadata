@@ -1,0 +1,20 @@
+{
+  "id": "github:HoodyHuo/dsh-plugin-glm-balance",
+  "kind": "plugin",
+  "name": "dsh-plugin-glm-balance",
+  "description": "DSH (DeepSeek Harness) Web GUI 插件：在输入框旁显示智谱 GLM（bigmodel.cn）套餐额度条 —— 小时/周额度、点击刷新、右键菜单，并自带「GLM 余额」设置分区（authorization、供应商 ID、自动刷新间隔，默认 30 分钟）。GLM coding-plan quota indicator for the DeepSeek Harness web GUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HoodyHuo/dsh-plugin-glm-balance",
+  "repositoryUrl": "https://github.com/HoodyHuo/dsh-plugin-glm-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4173
+}
