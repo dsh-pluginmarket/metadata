@@ -1,0 +1,20 @@
+{
+  "id": "github:scotthuang/agent-knock-knock",
+  "kind": "plugin",
+  "name": "agent-knock-knock",
+  "description": "Control local Codex and Claude Code from OpenClaw through shared tmux terminals, with seamless human-agent handoff.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "scotthuang/agent-knock-knock",
+  "repositoryUrl": "https://github.com/scotthuang/agent-knock-knock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4023
+}
