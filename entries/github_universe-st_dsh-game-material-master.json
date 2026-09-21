@@ -1,0 +1,20 @@
+{
+  "id": "github:universe-st/dsh-game-material-master",
+  "kind": "plugin",
+  "name": "dsh-game-material-master",
+  "description": "dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "universe-st/dsh-game-material-master",
+  "repositoryUrl": "https://github.com/universe-st/dsh-game-material-master",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3771
+}
