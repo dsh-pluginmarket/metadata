@@ -1,0 +1,20 @@
+{
+  "id": "github:ccr-wer/dsh-dolphin-security",
+  "kind": "plugin",
+  "name": "dsh-dolphin-security",
+  "description": "集扫描、远程执行、报告于一体的 DSH 主动安全巡逻插件，基于 SSH + Semgrep",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccr-wer/dsh-dolphin-security",
+  "repositoryUrl": "https://github.com/ccr-wer/dsh-dolphin-security",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3753
+}
