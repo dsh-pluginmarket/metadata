@@ -1,0 +1,20 @@
+{
+  "id": "github:sqzssg12138/dsh-service-runner",
+  "kind": "plugin",
+  "name": "dsh-service-runner",
+  "description": "为 DSH (DeepSeek Harness) 加上 IDEA 风格的工作区服务启停面板：多工作区隔离、Node/Java/Python/Docker 自动探测、实时日志与端口占用者处置。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sqzssg12138/dsh-service-runner",
+  "repositoryUrl": "https://github.com/sqzssg12138/dsh-service-runner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3976
+}
