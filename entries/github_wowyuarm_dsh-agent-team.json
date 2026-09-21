@@ -1,0 +1,20 @@
+{
+  "id": "github:wowyuarm/dsh-agent-team",
+  "kind": "plugin",
+  "name": "dsh-agent-team",
+  "description": "dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wowyuarm/dsh-agent-team",
+  "repositoryUrl": "https://github.com/wowyuarm/dsh-agent-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4101
+}
