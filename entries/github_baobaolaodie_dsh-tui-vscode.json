@@ -1,0 +1,20 @@
+{
+  "id": "github:baobaolaodie/dsh-tui-vscode",
+  "kind": "plugin",
+  "name": "dsh-tui-vscode",
+  "description": "VS Code companion extension for dsh-TUI — an experience almost identical to the official Claude Code VS Code extension",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "baobaolaodie/dsh-tui-vscode",
+  "repositoryUrl": "https://github.com/baobaolaodie/dsh-tui-vscode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3853
+}
