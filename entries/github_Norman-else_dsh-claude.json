@@ -1,0 +1,20 @@
+{
+  "id": "github:Norman-else/dsh-claude",
+  "kind": "plugin",
+  "name": "dsh-claude",
+  "description": "Run Claude Code as a first-class DSH conversation while preserving its native agent loop, tools, skills, hooks, and MCP integrations in DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Norman-else/dsh-claude",
+  "repositoryUrl": "https://github.com/Norman-else/dsh-claude",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3943
+}
