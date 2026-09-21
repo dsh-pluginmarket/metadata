@@ -1,0 +1,20 @@
+{
+  "id": "github:citisen/dsh-font",
+  "kind": "plugin",
+  "name": "dsh-font",
+  "description": "DeepSeek Harness plugin: customize the Web GUI fonts (interface font, code font, and font sizes) from Settings",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "citisen/dsh-font",
+  "repositoryUrl": "https://github.com/citisen/dsh-font",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4001
+}
