@@ -1,0 +1,20 @@
+{
+  "id": "github:ct-jaryn/dsh-plugin-baizhi-agent-toolkit",
+  "kind": "plugin",
+  "name": "dsh-plugin-baizhi-agent-toolkit",
+  "description": "Optional community BaizhiCloud Agent Toolkit MCP configuration bundle for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ct-jaryn/dsh-plugin-baizhi-agent-toolkit",
+  "repositoryUrl": "https://github.com/ct-jaryn/dsh-plugin-baizhi-agent-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4020
+}
