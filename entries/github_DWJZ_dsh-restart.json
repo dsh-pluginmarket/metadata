@@ -1,0 +1,20 @@
+{
+  "id": "github:DWJZ/dsh-restart",
+  "kind": "plugin",
+  "name": "dsh-restart",
+  "description": "Related DeepSeek Harness project: DWJZ/dsh-restart",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DWJZ/dsh-restart",
+  "repositoryUrl": "https://github.com/DWJZ/dsh-restart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4032
+}
