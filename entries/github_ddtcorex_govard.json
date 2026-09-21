@@ -1,0 +1,20 @@
+{
+  "id": "github:ddtcorex/govard",
+  "kind": "plugin",
+  "name": "govard",
+  "description": "Go-based local development orchestrator for Magento, Laravel, Symfony, Next.js, WordPress, and more. Docker stacks, SSL, Xdebug, and a desktop dashboard.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ddtcorex/govard",
+  "repositoryUrl": "https://github.com/ddtcorex/govard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4253
+}
