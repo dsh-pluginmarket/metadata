@@ -1,0 +1,20 @@
+{
+  "id": "github:donghangxunlang-cmd/dsh-attention-health",
+  "kind": "plugin",
+  "name": "dsh-attention-health",
+  "description": "会话越跑越傻、越跑越贵？用真实日志检测思考打转/复读，算清「继续 vs 交接」的账，并机械生成交接文档（零模型 / 零 token / 不联网）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "donghangxunlang-cmd/dsh-attention-health",
+  "repositoryUrl": "https://github.com/donghangxunlang-cmd/dsh-attention-health",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4103
+}
