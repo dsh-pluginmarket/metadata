@@ -1,0 +1,20 @@
+{
+  "id": "github:boe1900/owndsh",
+  "kind": "plugin",
+  "name": "owndsh",
+  "description": "The Self-Hosted Control Plane for DeepSeek-Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "boe1900/owndsh",
+  "repositoryUrl": "https://github.com/boe1900/owndsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4081
+}
