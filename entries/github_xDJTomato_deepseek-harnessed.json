@@ -1,0 +1,20 @@
+{
+  "id": "github:xDJTomato/deepseek-harnessed",
+  "kind": "plugin",
+  "name": "deepseek-harnessed",
+  "description": "Turn a DeepSeek Harness (DSH) instance into a subagent any harness (Cursor / Claude Code / Codex / Gemini CLI ...) can call over MCP - plus a live monitor panel inside DSH Desktop.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xDJTomato/deepseek-harnessed",
+  "repositoryUrl": "https://github.com/xDJTomato/deepseek-harnessed",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4095
+}
