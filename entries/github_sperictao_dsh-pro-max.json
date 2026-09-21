@@ -1,0 +1,20 @@
+{
+  "id": "github:sperictao/dsh-pro-max",
+  "kind": "plugin",
+  "name": "dsh-pro-max",
+  "description": "DeepSeek Harness desktop launcher — one-click local web UI, Tailscale-secured remote access, plugin marketplace & model configuration. Built with Tauri 2 + React + TypeScript.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sperictao/dsh-pro-max",
+  "repositoryUrl": "https://github.com/sperictao/dsh-pro-max",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3871
+}
