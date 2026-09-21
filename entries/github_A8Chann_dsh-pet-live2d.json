@@ -1,0 +1,20 @@
+{
+  "id": "github:A8Chann/dsh-pet-live2d",
+  "kind": "plugin",
+  "name": "dsh-pet-live2d",
+  "description": "DSH Web GUI 的 Live2D 桌宠插件：可拖动、跟随鼠标、跟着会话状态换动作与表情，右键面板可换装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "A8Chann/dsh-pet-live2d",
+  "repositoryUrl": "https://github.com/A8Chann/dsh-pet-live2d",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3762
+}
