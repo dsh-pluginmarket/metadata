@@ -1,0 +1,20 @@
+{
+  "id": "github:metabolism-tools/workspace-metabolism",
+  "kind": "plugin",
+  "name": "workspace-metabolism",
+  "description": "Govern what Claude Code, Codex, Aider and OpenClaw leave in your workspace: one JSON policy file, audit, recyclable clean, rollback, hash-chained audit trail.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "metabolism-tools/workspace-metabolism",
+  "repositoryUrl": "https://github.com/metabolism-tools/workspace-metabolism",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4242
+}
