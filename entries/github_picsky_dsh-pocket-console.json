@@ -1,0 +1,20 @@
+{
+  "id": "github:picsky/dsh-pocket-console",
+  "kind": "plugin",
+  "name": "dsh-pocket-console",
+  "description": "Don't hand over the whole machine, just the decision blocking it: an unattended DeepSeek Harness (DSH) run's tool-call approvals and ask_user_question prompts reach your phone as Feishu cards — desktop first, outbound only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "picsky/dsh-pocket-console",
+  "repositoryUrl": "https://github.com/picsky/dsh-pocket-console",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3981
+}
