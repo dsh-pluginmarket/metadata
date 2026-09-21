@@ -1,0 +1,20 @@
+{
+  "id": "github:xujiping/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "DeepSeek Harness 自研插件全家桶（monorepo）：dsh-memory 全局记忆等",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xujiping/dsh-plugins",
+  "repositoryUrl": "https://github.com/xujiping/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4028
+}
