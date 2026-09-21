@@ -1,0 +1,20 @@
+{
+  "id": "github:yzsnstotz/hanamesh-plugin-app-host",
+  "kind": "plugin",
+  "name": "hanamesh-plugin-app-host",
+  "description": "HanaMesh MOD-04 application host DSH plugin (app-host)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yzsnstotz/hanamesh-plugin-app-host",
+  "repositoryUrl": "https://github.com/yzsnstotz/hanamesh-plugin-app-host",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3818
+}
