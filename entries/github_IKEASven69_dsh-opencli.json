@@ -1,0 +1,20 @@
+{
+  "id": "github:IKEASven69/dsh-opencli",
+  "kind": "plugin",
+  "name": "dsh-opencli",
+  "description": "让 DeepSeek Harness (dsh) 会办事:登录态真实浏览器 + 170+ 站点适配器 + write 审批门",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "IKEASven69/dsh-opencli",
+  "repositoryUrl": "https://github.com/IKEASven69/dsh-opencli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4031
+}
