@@ -1,0 +1,20 @@
+{
+  "id": "github:22-ai-00/dsh-enhanced",
+  "kind": "plugin",
+  "name": "dsh-enhanced",
+  "description": "专门用来实现dsh的增强插件集",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "22-ai-00/dsh-enhanced",
+  "repositoryUrl": "https://github.com/22-ai-00/dsh-enhanced",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3722
+}
