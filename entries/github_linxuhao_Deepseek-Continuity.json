@@ -1,0 +1,20 @@
+{
+  "id": "github:linxuhao/Deepseek-Continuity",
+  "kind": "plugin",
+  "name": "Deepseek-Continuity",
+  "description": "DeepSeek Harness plugin for local image / voice / music / SFX generation: the same character stays the same character across calls, degenerate output is refused rather than returned, and the GPU is untouched when idle. Hand the image half to any OpenAI-shaped API instead and its engine and 10.1 GiB of weights are never installed.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "linxuhao/Deepseek-Continuity",
+  "repositoryUrl": "https://github.com/linxuhao/Deepseek-Continuity",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3786
+}
