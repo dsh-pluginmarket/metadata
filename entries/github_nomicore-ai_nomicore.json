@@ -1,0 +1,20 @@
+{
+  "id": "github:nomicore-ai/nomicore",
+  "kind": "plugin",
+  "name": "nomicore",
+  "description": "A self-describing, governed data core for AI agents—schemas, authority, validation, and semantic context travel with the data.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nomicore-ai/nomicore",
+  "repositoryUrl": "https://github.com/nomicore-ai/nomicore",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4151
+}
