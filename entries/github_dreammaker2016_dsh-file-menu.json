@@ -1,0 +1,20 @@
+{
+  "id": "github:dreammaker2016/dsh-file-menu",
+  "kind": "plugin",
+  "name": "dsh-file-menu",
+  "description": "Related DeepSeek Harness project: dreammaker2016/dsh-file-menu",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dreammaker2016/dsh-file-menu",
+  "repositoryUrl": "https://github.com/dreammaker2016/dsh-file-menu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3741
+}
