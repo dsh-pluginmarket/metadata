@@ -1,0 +1,20 @@
+{
+  "id": "github:VDERR/echocat-skill-panel",
+  "kind": "plugin",
+  "name": "echocat-skill-panel",
+  "description": "DSH 技能调用审计 + 应用内 skill 管理器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "VDERR/echocat-skill-panel",
+  "repositoryUrl": "https://github.com/VDERR/echocat-skill-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4153
+}
