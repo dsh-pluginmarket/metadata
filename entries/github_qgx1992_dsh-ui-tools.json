@@ -1,0 +1,20 @@
+{
+  "id": "github:qgx1992/dsh-ui-tools",
+  "kind": "plugin",
+  "name": "dsh-ui-tools",
+  "description": "DSH web 插件：模型选择双按钮（供应商+模型两级联动，含推理等级调节）+ 侧边栏工作区折叠/展开",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qgx1992/dsh-ui-tools",
+  "repositoryUrl": "https://github.com/qgx1992/dsh-ui-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3939
+}
