@@ -1,0 +1,20 @@
+{
+  "id": "github:MrWeiCodes/dsh-loop-guard",
+  "kind": "plugin",
+  "name": "dsh-loop-guard",
+  "description": "为 DeepSeek Harness（DSH）提供的思考循环守护插件：模型陷入「只想不做」的退化循环时自动打断，不必再手动中止",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MrWeiCodes/dsh-loop-guard",
+  "repositoryUrl": "https://github.com/MrWeiCodes/dsh-loop-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4046
+}
