@@ -1,0 +1,20 @@
+{
+  "id": "github:ireza7/dsh-persian-rtl",
+  "kind": "plugin",
+  "name": "dsh-persian-rtl",
+  "description": "Persian (Farsi) RTL fix for DeepSeek Harness: automatic per-paragraph direction for assistant answers, thinking cells, tool cells and question boxes",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ireza7/dsh-persian-rtl",
+  "repositoryUrl": "https://github.com/ireza7/dsh-persian-rtl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4025
+}
