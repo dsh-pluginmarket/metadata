@@ -1,0 +1,20 @@
+{
+  "id": "github:Smallballoons01/retirement-calc",
+  "kind": "plugin",
+  "name": "retirement-calc",
+  "description": "中国法定退休年龄与养老金测算：2025 渐进式延迟退休、退休倒计时、预计月养老金 —— 单文件网页计算器 + DeepSeek Harness 插件 + 跨工具 Agent Skill",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Smallballoons01/retirement-calc",
+  "repositoryUrl": "https://github.com/Smallballoons01/retirement-calc",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4008
+}
