@@ -1,0 +1,20 @@
+{
+  "id": "github:yzsnstotz/hanamesh-core",
+  "kind": "plugin",
+  "name": "hanamesh-core",
+  "description": "HanaMesh MOD-02 identity client plugin (plugin-identity)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yzsnstotz/hanamesh-core",
+  "repositoryUrl": "https://github.com/yzsnstotz/hanamesh-core",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3759
+}
