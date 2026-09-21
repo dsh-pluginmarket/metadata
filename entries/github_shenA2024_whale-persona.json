@@ -1,0 +1,20 @@
+{
+  "id": "github:shenA2024/whale-persona",
+  "kind": "plugin",
+  "name": "whale-persona",
+  "description": "多宿主人设引擎：一份 config.json 让 DeepSeek Harness 与 ZCode 共用同一套人设、工作契约、思维链语言与长期记忆；记忆由 AI 提议、人工确认后才生效（代码强制）。A persona engine for AI coding harnesses (DeepSeek Harness + ZCode).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shenA2024/whale-persona",
+  "repositoryUrl": "https://github.com/shenA2024/whale-persona",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4121
+}
