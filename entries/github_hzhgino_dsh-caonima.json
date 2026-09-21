@@ -1,0 +1,20 @@
+{
+  "id": "github:hzhgino/dsh-caonima",
+  "kind": "plugin",
+  "name": "dsh-caonima",
+  "description": "核动力草泥马 - DSH Web GUI desktop pet plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hzhgino/dsh-caonima",
+  "repositoryUrl": "https://github.com/hzhgino/dsh-caonima",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3893
+}
