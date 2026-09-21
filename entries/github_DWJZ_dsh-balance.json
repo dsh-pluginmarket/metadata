@@ -1,0 +1,20 @@
+{
+  "id": "github:DWJZ/dsh-balance",
+  "kind": "plugin",
+  "name": "dsh-balance",
+  "description": "DeepSeek Harness 余额查询插件：用 /balance 命令在会话里查看 DeepSeek 账户余额。 / DeepSeek account balance as the /balance command.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DWJZ/dsh-balance",
+  "repositoryUrl": "https://github.com/DWJZ/dsh-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4033
+}
