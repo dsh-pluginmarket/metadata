@@ -1,0 +1,20 @@
+{
+  "id": "github:inclusionAI/Avernet",
+  "kind": "plugin",
+  "name": "Avernet",
+  "description": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "inclusionAI/Avernet",
+  "repositoryUrl": "https://github.com/inclusionAI/Avernet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3688
+}
