@@ -1,0 +1,20 @@
+{
+  "id": "github:shengyvself/dsh-autoresume",
+  "kind": "plugin",
+  "name": "dsh-autoresume",
+  "description": "Related DeepSeek Harness project: shengyvself/dsh-autoresume",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shengyvself/dsh-autoresume",
+  "repositoryUrl": "https://github.com/shengyvself/dsh-autoresume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3764
+}
