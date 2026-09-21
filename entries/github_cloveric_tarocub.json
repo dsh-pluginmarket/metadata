@@ -1,0 +1,20 @@
+{
+  "id": "github:cloveric/tarocub",
+  "kind": "plugin",
+  "name": "tarocub",
+  "description": "Feishu/Lark-first local AI agent gateway and native DeepSeek Harness plugin for Codex, Claude Code, Kimi Code, DeepSeek Harness, and Antigravity; Telegram optional.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cloveric/tarocub",
+  "repositoryUrl": "https://github.com/cloveric/tarocub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4244
+}
