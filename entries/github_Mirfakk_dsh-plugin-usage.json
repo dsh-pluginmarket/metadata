@@ -1,0 +1,20 @@
+{
+  "id": "github:Mirfakk/dsh-plugin-usage",
+  "kind": "plugin",
+  "name": "dsh-plugin-usage",
+  "description": "DSH 额度面板：输入框下方实时显示本会话消费金额（官方峰谷分时计价）、token 用量与 DeepSeek 账户余额。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Mirfakk/dsh-plugin-usage",
+  "repositoryUrl": "https://github.com/Mirfakk/dsh-plugin-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4056
+}
