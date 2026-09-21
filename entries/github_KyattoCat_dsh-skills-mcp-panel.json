@@ -1,0 +1,20 @@
+{
+  "id": "github:KyattoCat/dsh-skills-mcp-panel",
+  "kind": "plugin",
+  "name": "dsh-skills-mcp-panel",
+  "description": "Skills & MCP panel for the DeepSeek Harness Web GUI: grouped by origin, searchable, hot-toggleable.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KyattoCat/dsh-skills-mcp-panel",
+  "repositoryUrl": "https://github.com/KyattoCat/dsh-skills-mcp-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4006
+}
