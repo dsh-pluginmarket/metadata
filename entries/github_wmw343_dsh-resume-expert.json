@@ -1,0 +1,20 @@
+{
+  "id": "github:wmw343/dsh-resume-expert",
+  "kind": "plugin",
+  "name": "dsh-resume-expert",
+  "description": "引导式简历生成插件：对话式四阶段 + A4 PDF 直出，双宿主验证",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wmw343/dsh-resume-expert",
+  "repositoryUrl": "https://github.com/wmw343/dsh-resume-expert",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3827
+}
