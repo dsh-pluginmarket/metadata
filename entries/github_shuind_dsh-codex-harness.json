@@ -1,0 +1,20 @@
+{
+  "id": "github:shuind/dsh-codex-harness",
+  "kind": "plugin",
+  "name": "dsh-codex-harness",
+  "description": "Related DeepSeek Harness project: shuind/dsh-codex-harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shuind/dsh-codex-harness",
+  "repositoryUrl": "https://github.com/shuind/dsh-codex-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4170
+}
