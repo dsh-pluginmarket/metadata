@@ -1,0 +1,20 @@
+{
+  "id": "github:elanski/dsh-failover-continue",
+  "kind": "plugin",
+  "name": "dsh-failover-continue",
+  "description": "Unified auto-continue + model failover plugin for DeepSeek Harness (RU/EN settings card)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elanski/dsh-failover-continue",
+  "repositoryUrl": "https://github.com/elanski/dsh-failover-continue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3713
+}
