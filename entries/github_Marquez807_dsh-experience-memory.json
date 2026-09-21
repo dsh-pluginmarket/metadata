@@ -1,0 +1,20 @@
+{
+  "id": "github:Marquez807/dsh-experience-memory",
+  "kind": "plugin",
+  "name": "dsh-experience-memory",
+  "description": "Cross-session experience memory for DSH: a lesson reaches the model only with a verifiable source, relevant ones are injected each turn, and what nobody uses is retired.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Marquez807/dsh-experience-memory",
+  "repositoryUrl": "https://github.com/Marquez807/dsh-experience-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4255
+}
