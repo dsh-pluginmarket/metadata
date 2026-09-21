@@ -1,0 +1,20 @@
+{
+  "id": "github:Zn-Dk/dsh-plugin-creator",
+  "kind": "plugin",
+  "name": "dsh-plugin-creator",
+  "description": "Agent skill: scaffold and iterate DSH (DeepSeek Harness) Web plugins.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zn-Dk/dsh-plugin-creator",
+  "repositoryUrl": "https://github.com/Zn-Dk/dsh-plugin-creator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3756
+}
