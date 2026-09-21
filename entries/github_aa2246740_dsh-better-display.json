@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-better-display",
+  "kind": "plugin",
+  "name": "dsh-better-display",
+  "description": "A calmer reading view for DeepSeek Harness: native process details, live reasoning, and clean final answers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-better-display",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-better-display",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3770
+}
