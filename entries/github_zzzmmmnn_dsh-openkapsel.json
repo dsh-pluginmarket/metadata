@@ -1,0 +1,20 @@
+{
+  "id": "github:zzzmmmnn/dsh-openkapsel",
+  "kind": "plugin",
+  "name": "dsh-openkapsel",
+  "description": "Remote-only OpenKapsel workspace bridge for the DeepSeek Harness: replaces host filesystem and shell tools with a fail-closed remote tool set. Self-hosted alternative to cloud agent sandboxes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zzzmmmnn/dsh-openkapsel",
+  "repositoryUrl": "https://github.com/zzzmmmnn/dsh-openkapsel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3745
+}
