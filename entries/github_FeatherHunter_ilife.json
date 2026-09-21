@@ -1,0 +1,20 @@
+{
+  "id": "github:FeatherHunter/ilife",
+  "kind": "plugin",
+  "name": "ilife",
+  "description": "Related DeepSeek Harness project: FeatherHunter/ilife",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FeatherHunter/ilife",
+  "repositoryUrl": "https://github.com/FeatherHunter/ilife",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3836
+}
