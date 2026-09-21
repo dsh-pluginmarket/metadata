@@ -1,0 +1,20 @@
+{
+  "id": "github:log-li/dsh-peakrate",
+  "kind": "plugin",
+  "name": "dsh-peakrate",
+  "description": "Peak / off-peak rate badges for DeepSeek Harness — per provider, per model, in the model selector and the composer tool row. Judges each provider by its own time zone and schedule instead of DeepSeek-only hours.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "log-li/dsh-peakrate",
+  "repositoryUrl": "https://github.com/log-li/dsh-peakrate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3909
+}
