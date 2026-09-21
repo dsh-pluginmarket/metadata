@@ -1,0 +1,20 @@
+{
+  "id": "github:xrn1997/dsh-novel",
+  "kind": "plugin",
+  "name": "dsh-novel",
+  "description": "deepseek-harness嵌入一个小说阅读功能，防止打瞌睡",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xrn1997/dsh-novel",
+  "repositoryUrl": "https://github.com/xrn1997/dsh-novel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3920
+}
