@@ -1,0 +1,20 @@
+{
+  "id": "github:Underwater008/deepshell",
+  "kind": "plugin",
+  "name": "deepshell",
+  "description": "A native macOS shell for the official DeepSeek Harness. No Electron, no telemetry, no vendor gateway — ~150 lines of Swift + one bash script.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Underwater008/deepshell",
+  "repositoryUrl": "https://github.com/Underwater008/deepshell",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3763
+}
