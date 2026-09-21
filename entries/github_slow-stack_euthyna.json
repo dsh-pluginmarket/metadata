@@ -1,0 +1,20 @@
+{
+  "id": "github:slow-stack/euthyna",
+  "kind": "plugin",
+  "name": "euthyna",
+  "description": "⚖️ The audit AI coding agents can't skip — deterministic facts (git history, test coverage) and six-gate claim adjudication for code security audits. Not another scanner.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "slow-stack/euthyna",
+  "repositoryUrl": "https://github.com/slow-stack/euthyna",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3707
+}
