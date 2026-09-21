@@ -1,0 +1,20 @@
+{
+  "id": "github:wanghuiym123/dsh-cherry-kb",
+  "kind": "plugin",
+  "name": "dsh-cherry-kb",
+  "description": "Knowledge-base and memory switch for dsh web — two composer controls and two settings pages, backed by 22 /dsh/kb/* routes. Requires the local 我的知识库 toolchain (记忆开关 / idx / cherry).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wanghuiym123/dsh-cherry-kb",
+  "repositoryUrl": "https://github.com/wanghuiym123/dsh-cherry-kb",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3964
+}
