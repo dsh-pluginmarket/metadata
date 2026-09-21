@@ -1,0 +1,20 @@
+{
+  "id": "github:mia-wong1016/dsh-codex-plus",
+  "kind": "plugin",
+  "name": "dsh-codex-plus",
+  "description": "Codex（ChatGPT Plus/Pro）订阅接入 DSH：展示 5 小时与一周额度、重置时间与重置券并支持一键重置；读取额度时自动把订阅模型接进模型选择器；access token 到期前自动续期。无需填写 API key。Codex (ChatGPT Plus/Pro) subscription for DSH: quota panel with one-click reset, subscription model routing, and token upkeep.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mia-wong1016/dsh-codex-plus",
+  "repositoryUrl": "https://github.com/mia-wong1016/dsh-codex-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3715
+}
