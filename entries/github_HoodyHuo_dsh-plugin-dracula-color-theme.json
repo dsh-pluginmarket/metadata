@@ -1,0 +1,20 @@
+{
+  "id": "github:HoodyHuo/dsh-plugin-dracula-color-theme",
+  "kind": "plugin",
+  "name": "dsh-plugin-dracula-color-theme",
+  "description": "DSH (DeepSeek Harness) Web GUI 主题插件：官方 Dracula 配色，覆盖 alias + specific 两层 design token 与 shiki 语法高亮，并可接管系统主题偏好。Official Dracula theme (draculatheme.com) for the DeepSeek Harness web GUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HoodyHuo/dsh-plugin-dracula-color-theme",
+  "repositoryUrl": "https://github.com/HoodyHuo/dsh-plugin-dracula-color-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4171
+}
