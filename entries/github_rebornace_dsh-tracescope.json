@@ -1,0 +1,20 @@
+{
+  "id": "github:rebornace/dsh-tracescope",
+  "kind": "plugin",
+  "name": "dsh-tracescope",
+  "description": "基于 Git 代码差异智能缩减手工测试范围，支持 Web / 移动端操作录制与崩溃日志采集，依托 DSH AI 自动生成可复现缺陷流程，实现变更驱动的手工测试闭环提效插件。A DSH native test assistant plugin. It intelligently narrows manual test scope via Git diff, records web & mobile operation tracks and crash logs, and generates reproducible bug steps through AI analysis to close manual testing workflow efficiently.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rebornace/dsh-tracescope",
+  "repositoryUrl": "https://github.com/rebornace/dsh-tracescope",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3856
+}
