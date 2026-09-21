@@ -1,0 +1,20 @@
+{
+  "id": "github:lizhiyao/oh-my-knowledge",
+  "kind": "plugin",
+  "name": "oh-my-knowledge",
+  "description": "OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lizhiyao/oh-my-knowledge",
+  "repositoryUrl": "https://github.com/lizhiyao/oh-my-knowledge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3912
+}
