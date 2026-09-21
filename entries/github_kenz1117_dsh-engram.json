@@ -1,0 +1,20 @@
+{
+  "id": "github:kenz1117/dsh-engram",
+  "kind": "plugin",
+  "name": "dsh-engram",
+  "description": "Related DeepSeek Harness project: kenz1117/dsh-engram",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kenz1117/dsh-engram",
+  "repositoryUrl": "https://github.com/kenz1117/dsh-engram",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4040
+}
