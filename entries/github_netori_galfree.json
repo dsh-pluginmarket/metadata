@@ -1,0 +1,20 @@
+{
+  "id": "github:netori/galfree",
+  "kind": "plugin",
+  "name": "galfree",
+  "description": "Related DeepSeek Harness project: netori/galfree",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "netori/galfree",
+  "repositoryUrl": "https://github.com/netori/galfree",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4084
+}
