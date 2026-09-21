@@ -1,0 +1,20 @@
+{
+  "id": "github:danbao/dsh-jev",
+  "kind": "plugin",
+  "name": "dsh-jev",
+  "description": "Related DeepSeek Harness project: danbao/dsh-jev",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "danbao/dsh-jev",
+  "repositoryUrl": "https://github.com/danbao/dsh-jev",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3693
+}
