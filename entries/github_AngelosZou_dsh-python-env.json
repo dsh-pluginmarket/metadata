@@ -1,0 +1,20 @@
+{
+  "id": "github:AngelosZou/dsh-python-env",
+  "kind": "plugin",
+  "name": "dsh-python-env",
+  "description": "Workspace-scoped Python virtual environment management for a DeepSeek Harness project — discover, create, install into, and remove virtual environments without sandbox, network, or subprocess pitfalls.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AngelosZou/dsh-python-env",
+  "repositoryUrl": "https://github.com/AngelosZou/dsh-python-env",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4048
+}
