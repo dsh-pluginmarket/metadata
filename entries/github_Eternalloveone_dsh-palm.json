@@ -1,0 +1,20 @@
+{
+  "id": "github:Eternalloveone/dsh-palm",
+  "kind": "plugin",
+  "name": "dsh-palm",
+  "description": "Standalone mobile surface for the dsh web GUI: scan-to-pair device trust, /m/ phone UI, realtime SSE mux, task plan & background jobs, offline outbox, PWA",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Eternalloveone/dsh-palm",
+  "repositoryUrl": "https://github.com/Eternalloveone/dsh-palm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3815
+}
