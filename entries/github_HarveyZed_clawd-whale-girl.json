@@ -1,0 +1,20 @@
+{
+  "id": "github:HarveyZed/clawd-whale-girl",
+  "kind": "plugin",
+  "name": "clawd-whale-girl",
+  "description": "Clawd on Desk × DeepSeek Harness 增强桥接：上下文用量、审批、子代理、上下文压缩、余额告警，外加鲸鱼娘桌宠主题。Extended DSH bridge + whale-girl theme.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HarveyZed/clawd-whale-girl",
+  "repositoryUrl": "https://github.com/HarveyZed/clawd-whale-girl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3825
+}
