@@ -1,0 +1,20 @@
+{
+  "id": "github:hnmrxz/deepseek-harness-desktop-HarmonyOS",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop-HarmonyOS",
+  "description": "Deepseek Harness HarmonyOS 多端客户端",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hnmrxz/deepseek-harness-desktop-HarmonyOS",
+  "repositoryUrl": "https://github.com/hnmrxz/deepseek-harness-desktop-HarmonyOS",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3997
+}
