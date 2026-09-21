@@ -1,0 +1,20 @@
+{
+  "id": "github:new-Beginner/dsh-thought-fold",
+  "kind": "plugin",
+  "name": "dsh-thought-fold",
+  "description": "DeepSeek Harness 的原生执行过程折叠与样式增强插件。提供展开段底部收起、输入区智能浮动吸顶收起、中途插话自动分段与任务中断折叠；纯 UI 交互增强，零模型提示词注入，稳定不破坏消息 DOM。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "new-Beginner/dsh-thought-fold",
+  "repositoryUrl": "https://github.com/new-Beginner/dsh-thought-fold",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3697
+}
