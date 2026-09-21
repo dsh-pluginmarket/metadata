@@ -1,0 +1,20 @@
+{
+  "id": "github:deanzhang2026-max/dsh-lived-pet",
+  "kind": "plugin",
+  "name": "dsh-lived-pet",
+  "description": "Related DeepSeek Harness project: deanzhang2026-max/dsh-lived-pet",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deanzhang2026-max/dsh-lived-pet",
+  "repositoryUrl": "https://github.com/deanzhang2026-max/dsh-lived-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4037
+}
