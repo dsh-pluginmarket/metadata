@@ -1,0 +1,20 @@
+{
+  "id": "github:syncable-dev/memtrace-public",
+  "kind": "plugin",
+  "name": "memtrace-public",
+  "description": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "syncable-dev/memtrace-public",
+  "repositoryUrl": "https://github.com/syncable-dev/memtrace-public",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3787
+}
