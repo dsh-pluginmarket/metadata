@@ -1,0 +1,20 @@
+{
+  "id": "github:aa2246740/dsh-watcher",
+  "kind": "plugin",
+  "name": "dsh-watcher",
+  "description": "Read-only Agent work-path observer for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aa2246740/dsh-watcher",
+  "repositoryUrl": "https://github.com/aa2246740/dsh-watcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4247
+}
