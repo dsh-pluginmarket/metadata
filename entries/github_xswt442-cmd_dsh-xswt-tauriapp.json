@@ -1,0 +1,20 @@
+{
+  "id": "github:xswt442-cmd/dsh-xswt-tauriapp",
+  "kind": "plugin",
+  "name": "dsh-xswt-tauriapp",
+  "description": "给 DeepSeek Harness 的轻量 Tauri 桌面外壳：窗口、进程、启动与复用、会话交接、菜单与托盘、快捷键、更新和故障恢复归外壳，页面内容仍归 dsh。 A lightweight Tauri desktop shell for DeepSeek Harness: windows, the dsh server process, launch and reuse, the session hand-off, menu and tray, hotkeys, updates and failure recovery are the shell's; the page stays dsh's.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xswt442-cmd/dsh-xswt-tauriapp",
+  "repositoryUrl": "https://github.com/xswt442-cmd/dsh-xswt-tauriapp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4111
+}
