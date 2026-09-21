@@ -1,0 +1,20 @@
+{
+  "id": "github:SAXEM1997/specpowers",
+  "kind": "plugin",
+  "name": "specpowers",
+  "description": "SpecPowers — SDD+TDD engineering methodology as a DeepSeek Harness (DSH) plugin and Claude Code skill group: 6 skills fusing OpenSpec spec-driven development with Superpowers TDD discipline into one Phase 0→4 workflow.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SAXEM1997/specpowers",
+  "repositoryUrl": "https://github.com/SAXEM1997/specpowers",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3805
+}
