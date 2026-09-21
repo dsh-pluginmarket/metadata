@@ -1,0 +1,20 @@
+{
+  "id": "github:PianoPrince/dsh-workspace-mover",
+  "kind": "plugin",
+  "name": "dsh-workspace-mover",
+  "description": "拖拽真迁移 DSH 会话跨工作区：批量移动、分组合并、挂错归位、回收站、备份恢复；步步备份可回滚，零 token / True migration of DSH sessions across workspaces: bulk move, group merge, misfiled homing, recycle bin & backup restore; every step backed up, zero tokens",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PianoPrince/dsh-workspace-mover",
+  "repositoryUrl": "https://github.com/PianoPrince/dsh-workspace-mover",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4145
+}
