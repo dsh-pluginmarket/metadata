@@ -1,0 +1,20 @@
+{
+  "id": "github:domitor-syh/dsh-rollback",
+  "kind": "plugin",
+  "name": "dsh-rollback",
+  "description": "TRAE-style conversation rollback plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "domitor-syh/dsh-rollback",
+  "repositoryUrl": "https://github.com/domitor-syh/dsh-rollback",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3932
+}
