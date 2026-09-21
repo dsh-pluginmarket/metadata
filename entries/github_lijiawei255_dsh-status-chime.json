@@ -1,0 +1,20 @@
+{
+  "id": "github:lijiawei255/dsh-status-chime",
+  "kind": "plugin",
+  "name": "dsh-status-chime",
+  "description": "Spoken status alerts for DeepSeek Harness where clip LENGTH encodes urgency: a 2s approval chime vs an 8s failure announcement. Eight scenes, zero third-party dependencies on Windows 10/11. · DSH 语音状态提示：用时长编码紧急度，零第三方依赖。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lijiawei255/dsh-status-chime",
+  "repositoryUrl": "https://github.com/lijiawei255/dsh-status-chime",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4233
+}
