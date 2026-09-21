@@ -1,0 +1,20 @@
+{
+  "id": "github:Awoodwhale/dsh-agent-persona",
+  "kind": "plugin",
+  "name": "dsh-agent-persona",
+  "description": "Workspace personas for DeepSeek Harness (DSH): many system-prompt personas, each scoped by workspace path or session id, managed from the Web settings page (Apache-2.0)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Awoodwhale/dsh-agent-persona",
+  "repositoryUrl": "https://github.com/Awoodwhale/dsh-agent-persona",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3908
+}
