@@ -1,0 +1,20 @@
+{
+  "id": "github:01Virex/dsh-status-rotator",
+  "kind": "plugin",
+  "name": "dsh-status-rotator",
+  "description": "把 DSH Web 状态行换成 1063 条梗:打字机 + 炫彩渐变 + 弹幕 + 12 个主题词库包,设置页可视化编辑。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "01Virex/dsh-status-rotator",
+  "repositoryUrl": "https://github.com/01Virex/dsh-status-rotator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4190
+}
