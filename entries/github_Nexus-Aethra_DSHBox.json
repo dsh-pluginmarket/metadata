@@ -1,0 +1,20 @@
+{
+  "id": "github:Nexus-Aethra/DSHBox",
+  "kind": "plugin",
+  "name": "DSHBox",
+  "description": "Manage DeepSeek Harness locally: run multiple DSH versions in isolated containers, open the UI in an embedded WebView, import plugins/skills with one click, share extension bundles, and let a queued task system handle installs with live logs. Zero-dependency installer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Nexus-Aethra/DSHBox",
+  "repositoryUrl": "https://github.com/Nexus-Aethra/DSHBox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3865
+}
