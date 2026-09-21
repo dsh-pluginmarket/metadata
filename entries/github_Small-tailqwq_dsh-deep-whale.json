@@ -1,0 +1,20 @@
+{
+  "id": "github:Small-tailqwq/dsh-deep-whale",
+  "kind": "plugin",
+  "name": "dsh-deep-whale",
+  "description": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Small-tailqwq/dsh-deep-whale",
+  "repositoryUrl": "https://github.com/Small-tailqwq/dsh-deep-whale",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4066
+}
