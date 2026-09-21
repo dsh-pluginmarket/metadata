@@ -1,0 +1,20 @@
+{
+  "id": "github:why-did/dsh-tailscale-access",
+  "kind": "plugin",
+  "name": "dsh-tailscale-access",
+  "description": "Remote access for the DeepSeek Harness Web GUI via Tailscale or cloudflared — early-stage, read the notice first.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "why-did/dsh-tailscale-access",
+  "repositoryUrl": "https://github.com/why-did/dsh-tailscale-access",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4131
+}
