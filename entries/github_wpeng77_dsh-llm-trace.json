@@ -1,0 +1,20 @@
+{
+  "id": "github:wpeng77/dsh-llm-trace",
+  "kind": "plugin",
+  "name": "dsh-llm-trace",
+  "description": "Wire-level LLM inspector for DeepSeek Harness: capture the raw HTTP request and response bodies of every model provider call, attributed per session, in a Conversation View tab and a loopback viewer page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wpeng77/dsh-llm-trace",
+  "repositoryUrl": "https://github.com/wpeng77/dsh-llm-trace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3774
+}
