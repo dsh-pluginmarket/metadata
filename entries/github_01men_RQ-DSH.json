@@ -1,0 +1,20 @@
+{
+  "id": "github:01men/RQ-DSH",
+  "kind": "plugin",
+  "name": "RQ-DSH",
+  "description": "榕器定制轨（01门）· AI 代理与人类协作前台——行业 AI 工作台（IAW）与一线面板/看板：dsh 一键插件化（班组长工作台/执行卡/Skill 点名直调/钉钉桥），上游 01men/ybkk-AIOS",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "01men/RQ-DSH",
+  "repositoryUrl": "https://github.com/01men/RQ-DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4200
+}
