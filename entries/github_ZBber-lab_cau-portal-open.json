@@ -1,0 +1,20 @@
+{
+  "id": "github:ZBber-lab/cau-portal-open",
+  "kind": "plugin",
+  "name": "cau-portal-open",
+  "description": "农大门户（cau-portal）：中国农业大学通知公告 DSH 插件 + 爬虫/AI 加工管道（开源工具，数据由使用者自建）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZBber-lab/cau-portal-open",
+  "repositoryUrl": "https://github.com/ZBber-lab/cau-portal-open",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4183
+}
