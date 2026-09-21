@@ -1,0 +1,20 @@
+{
+  "id": "github:mingzhicode/dsh-interactive-terminal",
+  "kind": "plugin",
+  "name": "dsh-interactive-terminal",
+  "description": "Persistent Bash terminals for DeepSeek Harness, letting humans take over and continue model-started sessions through an xterm.js UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mingzhicode/dsh-interactive-terminal",
+  "repositoryUrl": "https://github.com/mingzhicode/dsh-interactive-terminal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4146
+}
