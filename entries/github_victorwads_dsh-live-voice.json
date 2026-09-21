@@ -1,0 +1,20 @@
+{
+  "id": "github:victorwads/dsh-live-voice",
+  "kind": "plugin",
+  "name": "dsh-live-voice",
+  "description": "Local-first voice conversations for DSH. Run speech recognition and speech synthesis on your own machine, with optional external providers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "victorwads/dsh-live-voice",
+  "repositoryUrl": "https://github.com/victorwads/dsh-live-voice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4079
+}
