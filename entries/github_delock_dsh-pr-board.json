@@ -1,0 +1,20 @@
+{
+  "id": "github:delock/dsh-pr-board",
+  "kind": "plugin",
+  "name": "dsh-pr-board",
+  "description": "Maintainer PR review queue board for DeepSeek Harness: five-state tracking (waiting on me / waiting on author / ready to merge / merged / inbox), sidebar counters, fullscreen kanban, polling, and back-to-you transition toasts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "delock/dsh-pr-board",
+  "repositoryUrl": "https://github.com/delock/dsh-pr-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4064
+}
