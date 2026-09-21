@@ -1,0 +1,20 @@
+{
+  "id": "github:olimc2016/dsh-token-meter-panel",
+  "kind": "plugin",
+  "name": "dsh-token-meter-panel",
+  "description": "DSH（DeepSeek Harness）Token 用量与花费面板插件：今日消费、预算进度、成本构成、缓存命中省下的钱。社区插件，非官方。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "olimc2016/dsh-token-meter-panel",
+  "repositoryUrl": "https://github.com/olimc2016/dsh-token-meter-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4203
+}
