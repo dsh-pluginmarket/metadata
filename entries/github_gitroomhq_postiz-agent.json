@@ -1,0 +1,20 @@
+{
+  "id": "github:gitroomhq/postiz-agent",
+  "kind": "plugin",
+  "name": "postiz-agent",
+  "description": "Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gitroomhq/postiz-agent",
+  "repositoryUrl": "https://github.com/gitroomhq/postiz-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3886
+}
