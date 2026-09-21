@@ -1,0 +1,20 @@
+{
+  "id": "github:Innocent-children/dev-flow",
+  "kind": "plugin",
+  "name": "dev-flow",
+  "description": "Long-running AI coding, under control. Durable State · Explicit Scope · Bounded Verification · Safe Recovery",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Innocent-children/dev-flow",
+  "repositoryUrl": "https://github.com/Innocent-children/dev-flow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3777
+}
