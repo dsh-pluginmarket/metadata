@@ -1,0 +1,20 @@
+{
+  "id": "github:YaoApp/yao",
+  "kind": "plugin",
+  "name": "yao",
+  "description": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YaoApp/yao",
+  "repositoryUrl": "https://github.com/YaoApp/yao",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3849
+}
