@@ -1,0 +1,20 @@
+{
+  "id": "github:esengine/DeepSeek-Reasonix",
+  "kind": "plugin",
+  "name": "DeepSeek-Reasonix",
+  "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "esengine/DeepSeek-Reasonix",
+  "repositoryUrl": "https://github.com/esengine/DeepSeek-Reasonix",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3788
+}
