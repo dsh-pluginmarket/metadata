@@ -1,0 +1,20 @@
+{
+  "id": "github:gehennawu/dsh-service",
+  "kind": "plugin",
+  "name": "dsh-service",
+  "description": "DSH Web 一站式运维面板：安全重启、健康诊断、模型用量与额度查询、会话管理、备份与权限维护、任务通知、技能与子代理模型路由。｜All-in-one operations panel for DSH Web: safe restart , health diagnostics, model usage & quota lookup, session management, backup & permission maintenance, task notifications, skills & subagent model routing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gehennawu/dsh-service",
+  "repositoryUrl": "https://github.com/gehennawu/dsh-service",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3973
+}
