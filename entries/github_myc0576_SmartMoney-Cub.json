@@ -1,0 +1,20 @@
+{
+  "id": "github:myc0576/SmartMoney-Cub",
+  "kind": "plugin",
+  "name": "SmartMoney-Cub",
+  "description": "Read-only trading journal and review harness: Jev typed judgments, agent integration, and a reproducible finance benchmark. No orders, no advice.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "myc0576/SmartMoney-Cub",
+  "repositoryUrl": "https://github.com/myc0576/SmartMoney-Cub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3902
+}
