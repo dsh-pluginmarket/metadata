@@ -1,0 +1,20 @@
+{
+  "id": "github:f-infinite-z/dsh-plugin-ops",
+  "kind": "plugin",
+  "name": "dsh-plugin-ops",
+  "description": "DeepSeek Harness plugin operations: pre-boot health gate, failure attribution, dependency governance, and a web panel — the startup-lifecycle guard for the dsh plugin ecosystem.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "f-infinite-z/dsh-plugin-ops",
+  "repositoryUrl": "https://github.com/f-infinite-z/dsh-plugin-ops",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3857
+}
