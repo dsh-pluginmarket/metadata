@@ -1,0 +1,20 @@
+{
+  "id": "github:OtterMind/sqlx",
+  "kind": "plugin",
+  "name": "sqlx",
+  "description": "A Rust database CLI for agents with encrypted datasources and on-demand native/JDBC workers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "OtterMind/sqlx",
+  "repositoryUrl": "https://github.com/OtterMind/sqlx",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3689
+}
