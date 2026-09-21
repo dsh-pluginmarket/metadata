@@ -1,0 +1,20 @@
+{
+  "id": "github:Amakurai/dsh-liketavern",
+  "kind": "plugin",
+  "name": "dsh-liketavern",
+  "description": "A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Amakurai/dsh-liketavern",
+  "repositoryUrl": "https://github.com/Amakurai/dsh-liketavern",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4110
+}
