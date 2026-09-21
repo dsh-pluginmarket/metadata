@@ -1,0 +1,20 @@
+{
+  "id": "github:SugarFatFree/dsh-agent-extension",
+  "kind": "plugin",
+  "name": "dsh-agent-extension",
+  "description": "DeepSeek Harness plugin for workspace commands, skills, and path-scoped rules.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SugarFatFree/dsh-agent-extension",
+  "repositoryUrl": "https://github.com/SugarFatFree/dsh-agent-extension",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3702
+}
