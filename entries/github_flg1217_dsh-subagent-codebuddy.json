@@ -1,0 +1,20 @@
+{
+  "id": "github:flg1217/dsh-subagent-codebuddy",
+  "kind": "plugin",
+  "name": "dsh-subagent-codebuddy",
+  "description": "CodeBuddy CLI ACP 子代理插件:dsh subagent provider + subagent_codebuddy 工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "flg1217/dsh-subagent-codebuddy",
+  "repositoryUrl": "https://github.com/flg1217/dsh-subagent-codebuddy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3845
+}
