@@ -1,0 +1,20 @@
+{
+  "id": "github:liuyuguo99/dsh-task-todo",
+  "kind": "plugin",
+  "name": "dsh-task-todo",
+  "description": "Todo & task manager for DeepSeek Harness (dsh): list / board / calendar / gantt, subtasks, recurrence; the same data is exposed to the agent as tools and a slash command.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuyuguo99/dsh-task-todo",
+  "repositoryUrl": "https://github.com/liuyuguo99/dsh-task-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4179
+}
