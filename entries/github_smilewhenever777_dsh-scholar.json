@@ -1,0 +1,20 @@
+{
+  "id": "github:smilewhenever777/dsh-scholar",
+  "kind": "plugin",
+  "name": "dsh-scholar",
+  "description": "DSH(DeepSeek Harness) 自研插件集:学者工作台(文献库/精读/知识图谱/Idea卡片) + 服务器看板(GPU监控) + 研究主线图(DAG/实验台账)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smilewhenever777/dsh-scholar",
+  "repositoryUrl": "https://github.com/smilewhenever777/dsh-scholar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3942
+}
