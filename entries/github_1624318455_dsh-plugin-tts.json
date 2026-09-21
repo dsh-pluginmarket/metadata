@@ -1,0 +1,20 @@
+{
+  "id": "github:1624318455/dsh-plugin-tts",
+  "kind": "plugin",
+  "name": "dsh-plugin-tts",
+  "description": "Edge TTS voice plugin for DeepSeek Harness: read assistant replies aloud, auto-read toggle, voice settings panel (free, no API key)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1624318455/dsh-plugin-tts",
+  "repositoryUrl": "https://github.com/1624318455/dsh-plugin-tts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4212
+}
