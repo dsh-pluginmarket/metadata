@@ -1,0 +1,20 @@
+{
+  "id": "github:xydijkkk/dsh-voredteam",
+  "kind": "plugin",
+  "name": "dsh-voredteam",
+  "description": "dsh-voredteam｜DSH 插件形态的单模式安全作战系统：黑板（Fact/Intent/Hint）+ 六阶段六矩阵作业法 + 总控与 12 个专业子 agent + 作战面板（八泳道实时图 / 覆盖矩阵 / 按会话分类）。唯一门禁：禁 DDoS、禁爆破、模糊测试低频化。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xydijkkk/dsh-voredteam",
+  "repositoryUrl": "https://github.com/xydijkkk/dsh-voredteam",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3987
+}
