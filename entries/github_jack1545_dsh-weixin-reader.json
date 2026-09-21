@@ -1,0 +1,20 @@
+{
+  "id": "github:jack1545/dsh-weixin-reader",
+  "kind": "plugin",
+  "name": "dsh-weixin-reader",
+  "description": "WeChat Official Account article reader for DeepSeek Harness: parses mp.weixin.qq.com article bodies into clean Markdown",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jack1545/dsh-weixin-reader",
+  "repositoryUrl": "https://github.com/jack1545/dsh-weixin-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3686
+}
