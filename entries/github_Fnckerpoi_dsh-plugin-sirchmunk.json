@@ -1,0 +1,20 @@
+{
+  "id": "github:Fnckerpoi/dsh-plugin-sirchmunk",
+  "kind": "plugin",
+  "name": "dsh-plugin-sirchmunk",
+  "description": "DSH集成sirchmunk插件管理。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fnckerpoi/dsh-plugin-sirchmunk",
+  "repositoryUrl": "https://github.com/Fnckerpoi/dsh-plugin-sirchmunk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4209
+}
