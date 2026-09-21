@@ -1,0 +1,20 @@
+{
+  "id": "github:shengyvself/dsh-reading-pad",
+  "kind": "plugin",
+  "name": "dsh-reading-pad",
+  "description": "Immersive read-only reading panel for DeepSeek Harness: model delivers pre-formatted Markdown via reading_pad_send; 3 low-blue-light themes, 30em measure, progress bar, chapter browsing. better-sidebar tab plugin. Apache-2.0.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shengyvself/dsh-reading-pad",
+  "repositoryUrl": "https://github.com/shengyvself/dsh-reading-pad",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3793
+}
