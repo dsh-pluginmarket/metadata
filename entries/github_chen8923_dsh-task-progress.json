@@ -1,0 +1,20 @@
+{
+  "id": "github:chen8923/dsh-task-progress",
+  "kind": "plugin",
+  "name": "dsh-task-progress",
+  "description": "Live progress for long-running DSH tasks: scripts report structured progress, the Web UI shows it in a floating overlay, a sidebar tab, and a settings page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chen8923/dsh-task-progress",
+  "repositoryUrl": "https://github.com/chen8923/dsh-task-progress",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4133
+}
