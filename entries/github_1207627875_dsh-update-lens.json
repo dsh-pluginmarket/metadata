@@ -1,0 +1,20 @@
+{
+  "id": "github:1207627875/dsh-update-lens",
+  "kind": "plugin",
+  "name": "dsh-update-lens",
+  "description": "Read-only update checker for DeepSeek Harness (dsh): version comparison across npm and GitHub, in-app update notification, and breaking-change annotations on release notes. 只读更新检查 + 破坏性变更标注。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1207627875/dsh-update-lens",
+  "repositoryUrl": "https://github.com/1207627875/dsh-update-lens",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4105
+}
