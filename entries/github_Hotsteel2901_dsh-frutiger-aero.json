@@ -1,0 +1,20 @@
+{
+  "id": "github:Hotsteel2901/dsh-frutiger-aero",
+  "kind": "plugin",
+  "name": "dsh-frutiger-aero",
+  "description": "🫧 Frutiger Aero skin for DeepSeek Harness (dsh): glass over a living sky-and-water wallpaper, aqua gloss, light + dark. Rebuilds the phone layout too — drawer, dock, edge swipes, keyboard-aware composer. 玻璃质感皮肤，电脑端与手机端都适配。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Hotsteel2901/dsh-frutiger-aero",
+  "repositoryUrl": "https://github.com/Hotsteel2901/dsh-frutiger-aero",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4085
+}
