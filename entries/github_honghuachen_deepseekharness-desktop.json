@@ -1,0 +1,20 @@
+{
+  "id": "github:honghuachen/deepseekharness-desktop",
+  "kind": "plugin",
+  "name": "deepseekharness-desktop",
+  "description": "一键安装的跨平台桌面容器(macOS / Windows),完整运行官方 DeepSeek Harness Web 壳,内置兼容性守护机制,支持第三方插件管理、更新与移除,并自动拉取官方内核最新版本。 | One-click cross-platform desktop container (macOS / Windows) running the official DeepSeek Harness Web shell, with built-in compatibility safeguards, third-party plugin management (update & remove), and automatic updates to the official runtime.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "honghuachen/deepseekharness-desktop",
+  "repositoryUrl": "https://github.com/honghuachen/deepseekharness-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3929
+}
