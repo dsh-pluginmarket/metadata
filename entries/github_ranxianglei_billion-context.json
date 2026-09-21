@@ -1,0 +1,20 @@
+{
+  "id": "github:ranxianglei/billion-context",
+  "kind": "plugin",
+  "name": "billion-context",
+  "description": "基本稳定可用 100K tokens is enough. Universal context-compression proxy for ALL AI coding agents,10w上下文足矣",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ranxianglei/billion-context",
+  "repositoryUrl": "https://github.com/ranxianglei/billion-context",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3983
+}
