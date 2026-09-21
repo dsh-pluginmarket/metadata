@@ -1,0 +1,20 @@
+{
+  "id": "github:evlon/deepseek-harness-launcher",
+  "kind": "plugin",
+  "name": "deepseek-harness-launcher",
+  "description": "托盘常驻的 DeepSeek Harness 安装 / 启动器（Tauri 2 无窗口应用，仅系统托盘 + 原生通知 + 日志文件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "evlon/deepseek-harness-launcher",
+  "repositoryUrl": "https://github.com/evlon/deepseek-harness-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3990
+}
