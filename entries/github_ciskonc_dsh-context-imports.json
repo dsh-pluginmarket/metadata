@@ -1,0 +1,20 @@
+{
+  "id": "github:ciskonc/dsh-context-imports",
+  "kind": "plugin",
+  "name": "dsh-context-imports",
+  "description": "Claude Code-style @path imports for DeepSeek Harness: expands @imports in AGENTS.md/CLAUDE.md and injects referenced files into context at session start",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ciskonc/dsh-context-imports",
+  "repositoryUrl": "https://github.com/ciskonc/dsh-context-imports",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3978
+}
