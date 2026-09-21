@@ -1,0 +1,20 @@
+{
+  "id": "github:vv5v5/dsh-memory-archive",
+  "kind": "plugin",
+  "name": "dsh-memory-archive",
+  "description": "Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually sent, and (optionally) install the bundled RP preset.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vv5v5/dsh-memory-archive",
+  "repositoryUrl": "https://github.com/vv5v5/dsh-memory-archive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3862
+}
