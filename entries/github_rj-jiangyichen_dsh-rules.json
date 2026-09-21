@@ -1,0 +1,20 @@
+{
+  "id": "github:rj-jiangyichen/dsh-rules",
+  "kind": "plugin",
+  "name": "dsh-rules",
+  "description": "Related DeepSeek Harness project: rj-jiangyichen/dsh-rules",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rj-jiangyichen/dsh-rules",
+  "repositoryUrl": "https://github.com/rj-jiangyichen/dsh-rules",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4206
+}
