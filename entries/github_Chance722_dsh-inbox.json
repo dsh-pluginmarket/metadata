@@ -1,0 +1,20 @@
+{
+  "id": "github:Chance722/dsh-inbox",
+  "kind": "plugin",
+  "name": "dsh-inbox",
+  "description": "dsh 插件：把复制粘贴的链接、图片、文本、账密收进本地仓库，自动分类，能在对话里检索取回",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chance722/dsh-inbox",
+  "repositoryUrl": "https://github.com/Chance722/dsh-inbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3779
+}
