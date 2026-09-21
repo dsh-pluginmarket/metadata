@@ -1,0 +1,20 @@
+{
+  "id": "github:GJayun/dsh-goal-zcode-like",
+  "kind": "plugin",
+  "name": "dsh-goal-zcode-like",
+  "description": "Related DeepSeek Harness project: GJayun/dsh-goal-zcode-like",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GJayun/dsh-goal-zcode-like",
+  "repositoryUrl": "https://github.com/GJayun/dsh-goal-zcode-like",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4016
+}
