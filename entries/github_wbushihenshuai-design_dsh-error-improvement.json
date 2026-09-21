@@ -1,0 +1,20 @@
+{
+  "id": "github:wbushihenshuai-design/dsh-error-improvement",
+  "kind": "plugin",
+  "name": "dsh-error-improvement",
+  "description": "Standalone DSH plugin: user-confirmed anti-regression lessons for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wbushihenshuai-design/dsh-error-improvement",
+  "repositoryUrl": "https://github.com/wbushihenshuai-design/dsh-error-improvement",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3946
+}
