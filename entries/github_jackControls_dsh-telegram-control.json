@@ -1,0 +1,20 @@
+{
+  "id": "github:jackControls/dsh-telegram-control",
+  "kind": "plugin",
+  "name": "dsh-telegram-control",
+  "description": "Telegram remote control for DeepSeek Harness (dsh): conversations with titles + workspace, on-demand resume of paused sessions, turn-tracked replies, inline-button approvals, reasoning summaries, bot command menu",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jackControls/dsh-telegram-control",
+  "repositoryUrl": "https://github.com/jackControls/dsh-telegram-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4234
+}
