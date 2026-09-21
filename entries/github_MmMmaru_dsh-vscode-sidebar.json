@@ -1,0 +1,20 @@
+{
+  "id": "github:MmMmaru/dsh-vscode-sidebar",
+  "kind": "plugin",
+  "name": "dsh-vscode-sidebar",
+  "description": "simple sidebar for deepseek-harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MmMmaru/dsh-vscode-sidebar",
+  "repositoryUrl": "https://github.com/MmMmaru/dsh-vscode-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4252
+}
