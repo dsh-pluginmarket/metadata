@@ -1,0 +1,20 @@
+{
+  "id": "github:Nwflower/dsh-claude-style",
+  "kind": "plugin",
+  "name": "dsh-claude-style",
+  "description": "Claude Code Desktop theme for DeepSeek Harness｜ 为 DeepSeek Harness 网页 GUI 打造的 Claude Code 桌面主题",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Nwflower/dsh-claude-style",
+  "repositoryUrl": "https://github.com/Nwflower/dsh-claude-style",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4054
+}
