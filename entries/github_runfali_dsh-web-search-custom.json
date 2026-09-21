@@ -1,0 +1,20 @@
+{
+  "id": "github:runfali/dsh-web-search-custom",
+  "kind": "plugin",
+  "name": "dsh-web-search-custom",
+  "description": "让 DSH Web UI 使用任意 JSON 搜索 API 的通用搜索插件，默认对接自建 SearXNG，支持 API Key、GET/POST 与字段映射。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "runfali/dsh-web-search-custom",
+  "repositoryUrl": "https://github.com/runfali/dsh-web-search-custom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3938
+}
