@@ -1,0 +1,20 @@
+{
+  "id": "github:TheYoungChen/dsh-annotate",
+  "kind": "plugin",
+  "name": "dsh-annotate",
+  "description": "Annotate any web element — local or online — with DOM facts and your comments, straight into your DeepSeek Harness chat. Built-in sidebar browser, Codex-style review, no X-Frame-Options pain. / 直接在DeepSeek Harness中用“标记DOM”和你的“评论”来标注任何网页元素——无论是本地的还是在线的。内置侧边栏浏览器，无需担心X-Frame-Options",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TheYoungChen/dsh-annotate",
+  "repositoryUrl": "https://github.com/TheYoungChen/dsh-annotate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3766
+}
