@@ -1,0 +1,20 @@
+{
+  "id": "github:shenA2024/whale-persona-presets",
+  "kind": "plugin",
+  "name": "whale-persona-presets",
+  "description": "whale-persona 的人设内容包：现成的预设 JSON（一句立场 + 逐条可勾选的工作契约）。引擎在本体仓，出厂空白。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shenA2024/whale-persona-presets",
+  "repositoryUrl": "https://github.com/shenA2024/whale-persona-presets",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4068
+}
