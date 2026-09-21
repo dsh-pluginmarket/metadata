@@ -1,0 +1,20 @@
+{
+  "id": "github:zhy5/wxbridge",
+  "kind": "plugin",
+  "name": "wxbridge",
+  "description": "DSH plugin: connect WeChat (official iLink/ClawBot) to DeepSeek Harness — live status settings panel + bundled bridge/keeper kernel",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhy5/wxbridge",
+  "repositoryUrl": "https://github.com/zhy5/wxbridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3967
+}
