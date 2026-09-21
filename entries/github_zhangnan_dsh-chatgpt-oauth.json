@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangnan/dsh-chatgpt-oauth",
+  "kind": "plugin",
+  "name": "dsh-chatgpt-oauth",
+  "description": "ChatGPT OAuth login and Codex usage for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangnan/dsh-chatgpt-oauth",
+  "repositoryUrl": "https://github.com/zhangnan/dsh-chatgpt-oauth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4188
+}
