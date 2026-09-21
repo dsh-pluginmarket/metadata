@@ -1,0 +1,20 @@
+{
+  "id": "github:riesbri/dshline",
+  "kind": "plugin",
+  "name": "dshline",
+  "description": "Terminal-native frontend for DeepSeek Harness with real scrollback; a direct, in-process consumer of Harness capabilities.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "riesbri/dshline",
+  "repositoryUrl": "https://github.com/riesbri/dshline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4015
+}
