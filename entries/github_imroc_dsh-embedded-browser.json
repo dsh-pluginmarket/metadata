@@ -1,0 +1,20 @@
+{
+  "id": "github:imroc/dsh-embedded-browser",
+  "kind": "plugin",
+  "name": "dsh-embedded-browser",
+  "description": "A shared browser inside the DeepSeek Harness host: the AI drives it with browser_panel_* tools, and you watch or take over the same tab in the DSH Web UI — logins, 2FA, QR codes included.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "imroc/dsh-embedded-browser",
+  "repositoryUrl": "https://github.com/imroc/dsh-embedded-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3832
+}
