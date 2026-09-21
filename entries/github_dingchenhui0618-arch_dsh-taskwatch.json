@@ -1,0 +1,20 @@
+{
+  "id": "github:dingchenhui0618-arch/dsh-taskwatch",
+  "kind": "plugin",
+  "name": "dsh-taskwatch",
+  "description": "Read-only task monitor for DeepSeek Harness: sessions, background jobs, subagents, goals, workflows and pending approvals, as a phone-friendly page and a GUI sidebar panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dingchenhui0618-arch/dsh-taskwatch",
+  "repositoryUrl": "https://github.com/dingchenhui0618-arch/dsh-taskwatch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4215
+}
