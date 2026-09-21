@@ -1,0 +1,20 @@
+{
+  "id": "github:mario841859784/dsh-expert-orchestrator",
+  "kind": "plugin",
+  "name": "dsh-expert-orchestrator",
+  "description": "DSH 专家编排模式 agent preset — PM-first planning, Agency expert delegation, gated delivery, experience pooling",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mario841859784/dsh-expert-orchestrator",
+  "repositoryUrl": "https://github.com/mario841859784/dsh-expert-orchestrator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3706
+}
