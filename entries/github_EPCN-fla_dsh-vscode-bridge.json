@@ -1,0 +1,20 @@
+{
+  "id": "github:EPCN-fla/dsh-vscode-bridge",
+  "kind": "plugin",
+  "name": "dsh-vscode-bridge",
+  "description": "Cordis plugin bridging the dsh-vscode extension to native DSH services (workspace grouping, session titles, archive, agent presets, permission presets, slash commands, skill catalog, session export) over a token-authenticated local JSON-RPC socket.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EPCN-fla/dsh-vscode-bridge",
+  "repositoryUrl": "https://github.com/EPCN-fla/dsh-vscode-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4226
+}
