@@ -1,0 +1,20 @@
+{
+  "id": "github:wangxuewangxue98/dsh-motor-ai-l0",
+  "kind": "plugin",
+  "name": "dsh-motor-ai-l0",
+  "description": "Related DeepSeek Harness project: wangxuewangxue98/dsh-motor-ai-l0",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangxuewangxue98/dsh-motor-ai-l0",
+  "repositoryUrl": "https://github.com/wangxuewangxue98/dsh-motor-ai-l0",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4130
+}
