@@ -1,0 +1,20 @@
+{
+  "id": "github:qigelunbiya/DSH-Patrol",
+  "kind": "plugin",
+  "name": "DSH-Patrol",
+  "description": "Browser patrol & website inspection plugin for DeepSeek Harness (DSH). Teach once, replay deterministic runbooks with managed Chromium, screenshots, credentials, checkpoints and selector recovery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qigelunbiya/DSH-Patrol",
+  "repositoryUrl": "https://github.com/qigelunbiya/DSH-Patrol",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3692
+}
