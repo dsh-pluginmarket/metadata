@@ -1,0 +1,20 @@
+{
+  "id": "github:zhang24xiao/dsh-snippets",
+  "kind": "plugin",
+  "name": "dsh-snippets",
+  "description": "Related DeepSeek Harness project: zhang24xiao/dsh-snippets",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhang24xiao/dsh-snippets",
+  "repositoryUrl": "https://github.com/zhang24xiao/dsh-snippets",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 3794
+}
