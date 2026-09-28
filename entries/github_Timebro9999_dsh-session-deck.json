@@ -1,0 +1,20 @@
+{
+  "id": "github:Timebro9999/dsh-session-deck",
+  "kind": "plugin",
+  "name": "dsh-session-deck",
+  "description": "Manage your whole workspace in the DeepSeek Harness sidebar: a pinned band for projects and conversations, a bell activity view with answer previews, per-project emoji icons, and collapsible 置顶/项目/组件 sections. On npm as dsh-session-deck. Bilingual (EN/中文).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Timebro9999/dsh-session-deck",
+  "repositoryUrl": "https://github.com/Timebro9999/dsh-session-deck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4733
+}
