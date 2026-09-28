@@ -1,0 +1,20 @@
+{
+  "id": "github:LeeLizuoLiu/rice-patrol",
+  "kind": "plugin",
+  "name": "rice-patrol",
+  "description": "Rice Patrol: a bounded reasoning loop guard and clean recovery plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LeeLizuoLiu/rice-patrol",
+  "repositoryUrl": "https://github.com/LeeLizuoLiu/rice-patrol",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4487
+}
