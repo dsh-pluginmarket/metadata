@@ -1,0 +1,20 @@
+{
+  "id": "github:luoxunhao/dsh-quote",
+  "kind": "plugin",
+  "name": "dsh-quote",
+  "description": "Related DeepSeek Harness project: luoxunhao/dsh-quote",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luoxunhao/dsh-quote",
+  "repositoryUrl": "https://github.com/luoxunhao/dsh-quote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4839
+}
