@@ -1,0 +1,20 @@
+{
+  "id": "github:oranskyx/dsh-tingxue",
+  "kind": "plugin",
+  "name": "dsh-tingxue",
+  "description": "DeepSeek Harness 双模式插件：人格化 QQ 对话（LanceDB 长期记忆 + 自建关系图谱）+ 用完即焚的隔离文件处理会话",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oranskyx/dsh-tingxue",
+  "repositoryUrl": "https://github.com/oranskyx/dsh-tingxue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4686
+}
