@@ -1,0 +1,20 @@
+{
+  "id": "github:yangyu666/dsh-jev-prune",
+  "kind": "plugin",
+  "name": "dsh-jev-prune",
+  "description": "Jev-judged context compaction for DeepSeek Harness: semantic tool-result pruning + deterministic receipt compaction",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yangyu666/dsh-jev-prune",
+  "repositoryUrl": "https://github.com/yangyu666/dsh-jev-prune",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4553
+}
