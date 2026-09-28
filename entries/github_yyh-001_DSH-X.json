@@ -1,0 +1,20 @@
+{
+  "id": "github:yyh-001/DSH-X",
+  "kind": "plugin",
+  "name": "DSH-X",
+  "description": "DeepSeek Harness 轻量启动器。选一个版本，启动 DSH web。A lightweight launcher for DeepSeek Harness. Pick a version, start DSH web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yyh-001/DSH-X",
+  "repositoryUrl": "https://github.com/yyh-001/DSH-X",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4300
+}
