@@ -1,0 +1,20 @@
+{
+  "id": "github:NEINC1/muche-dsh-plugin",
+  "kind": "plugin",
+  "name": "muche-dsh-plugin",
+  "description": "连接小沐（MuChe 数字生命）的 dsh 插件：可以和有持续状态的小沐聊天，小沐可调用本机 dsh 执行任务",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NEINC1/muche-dsh-plugin",
+  "repositoryUrl": "https://github.com/NEINC1/muche-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4580
+}
