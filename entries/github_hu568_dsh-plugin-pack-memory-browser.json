@@ -1,0 +1,20 @@
+{
+  "id": "github:hu568/dsh-plugin-pack-memory-browser",
+  "kind": "plugin",
+  "name": "dsh-plugin-pack-memory-browser",
+  "description": "DSH 插件包：记忆 + 浏览器（Schema v1 分发清单，spec 指向各插件仓库，随包附带离线 tarball 与自检脚本）。MIT。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hu568/dsh-plugin-pack-memory-browser",
+  "repositoryUrl": "https://github.com/hu568/dsh-plugin-pack-memory-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4476
+}
