@@ -1,0 +1,20 @@
+{
+  "id": "github:hu568/dsh-plugin-persona-memory",
+  "kind": "plugin",
+  "name": "dsh-plugin-persona-memory",
+  "description": "DSH 插件：角色设定与长期记忆（角色库 persona.yml/SOUL.md/USER.md + FACT.md/MEMORY.md + JOURNAL.jsonl），注册在宿主组合层，对所有 agent 预设生效，附右侧栏管理面板。MIT。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hu568/dsh-plugin-persona-memory",
+  "repositoryUrl": "https://github.com/hu568/dsh-plugin-persona-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4480
+}
