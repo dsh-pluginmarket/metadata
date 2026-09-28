@@ -1,0 +1,20 @@
+{
+  "id": "github:JasonQQ/dsh-btw-plugin",
+  "kind": "plugin",
+  "name": "dsh-btw-plugin",
+  "description": "Codex-style /btw command for DeepSeek Harness: side questions answered in a conversation-seeded subagent context, without polluting the main context",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JasonQQ/dsh-btw-plugin",
+  "repositoryUrl": "https://github.com/JasonQQ/dsh-btw-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4641
+}
