@@ -1,0 +1,20 @@
+{
+  "id": "github:KannaKuron/dsh-ptc-cordis-preset",
+  "kind": "plugin",
+  "name": "dsh-ptc-cordis-preset",
+  "description": "PTC 模式基础上的创造模式:DSH 插件,合成 Code Mode 工具编排 + 自引用 Cordis 工具与 preset 创作指导,物化为 'ptc-cordis' 用户 preset",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KannaKuron/dsh-ptc-cordis-preset",
+  "repositoryUrl": "https://github.com/KannaKuron/dsh-ptc-cordis-preset",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4725
+}
