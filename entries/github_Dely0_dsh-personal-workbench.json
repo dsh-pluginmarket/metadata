@@ -1,0 +1,20 @@
+{
+  "id": "github:Dely0/dsh-personal-workbench",
+  "kind": "plugin",
+  "name": "dsh-personal-workbench",
+  "description": "DSH 个人工作台：日历 + 任务列表 + AI 澄清/拆解/执行/复盘 | Personal workbench for DeepSeek Harness Web: calendar + task list + AI assistant",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dely0/dsh-personal-workbench",
+  "repositoryUrl": "https://github.com/Dely0/dsh-personal-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4436
+}
