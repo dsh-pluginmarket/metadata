@@ -1,0 +1,20 @@
+{
+  "id": "github:dao-awa/dsh-computer-use-native",
+  "kind": "plugin",
+  "name": "dsh-computer-use-native",
+  "description": "Windows computer use for DeepSeek Harness, built for a vision model: screenshot the real desktop, read the interface from pixels, and drive it through Win32 FFI with no accessibility tree. Input posts to a window's own queue so the desktop focus is left alone.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dao-awa/dsh-computer-use-native",
+  "repositoryUrl": "https://github.com/dao-awa/dsh-computer-use-native",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4659
+}
