@@ -1,0 +1,20 @@
+{
+  "id": "github:hardcandydemoralisation573/dsh-xiaoyao-skins",
+  "kind": "plugin",
+  "name": "dsh-xiaoyao-skins",
+  "description": "为 DeepSeek Harness Web 提供可安装、可卸载、可测试的社区皮肤合集，不替换核心系统，支持即刻预览。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hardcandydemoralisation573/dsh-xiaoyao-skins",
+  "repositoryUrl": "https://github.com/hardcandydemoralisation573/dsh-xiaoyao-skins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4316
+}
