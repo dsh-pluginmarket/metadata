@@ -1,0 +1,20 @@
+{
+  "id": "github:weibaohui/dsh-gaokao",
+  "kind": "plugin",
+  "name": "dsh-gaokao",
+  "description": "dsh 插件 · 梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按 学科/分类 放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weibaohui/dsh-gaokao",
+  "repositoryUrl": "https://github.com/weibaohui/dsh-gaokao",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4434
+}
