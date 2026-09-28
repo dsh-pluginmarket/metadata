@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-test-pilot",
+  "kind": "plugin",
+  "name": "dsh-test-pilot",
+  "description": "Bounded automatic test feedback plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-test-pilot",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-test-pilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4526
+}
