@@ -1,0 +1,20 @@
+{
+  "id": "github:xurunxin/dsh-llm-model-tuning",
+  "kind": "plugin",
+  "name": "dsh-llm-model-tuning",
+  "description": "Per-model reasoning-effort levels and multimodal input settings for custom providers in the DeepSeek Harness Models settings page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xurunxin/dsh-llm-model-tuning",
+  "repositoryUrl": "https://github.com/xurunxin/dsh-llm-model-tuning",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4423
+}
