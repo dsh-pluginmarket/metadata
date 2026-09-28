@@ -1,0 +1,20 @@
+{
+  "id": "github:Moningxuan-bot/blue-fish-station",
+  "kind": "plugin",
+  "name": "blue-fish-station",
+  "description": "蓝色大肥鱼工作站 —— DSH 单独应用 + 美化：桌面 EXE（WebView2 外壳，一键启动）+ Web UI 覆盖层（品牌标/思考文案/背景毛玻璃/推理强度滑块），不改 DSH 源码",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Moningxuan-bot/blue-fish-station",
+  "repositoryUrl": "https://github.com/Moningxuan-bot/blue-fish-station",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4506
+}
