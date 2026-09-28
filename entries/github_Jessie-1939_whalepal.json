@@ -1,0 +1,20 @@
+{
+  "id": "github:Jessie-1939/whalepal",
+  "kind": "plugin",
+  "name": "whalepal",
+  "description": "WhalePal — a desktop whale-girl companion that understands what you're working on via cloud vision, with local-only data and no telemetry.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jessie-1939/whalepal",
+  "repositoryUrl": "https://github.com/Jessie-1939/whalepal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4719
+}
