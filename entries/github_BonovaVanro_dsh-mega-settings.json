@@ -1,0 +1,20 @@
+{
+  "id": "github:BonovaVanro/dsh-mega-settings",
+  "kind": "plugin",
+  "name": "dsh-mega-settings",
+  "description": "dsh设置面板增强、mega 系列插件的统一设置收纳宿主、提供多项dsh优化设置",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BonovaVanro/dsh-mega-settings",
+  "repositoryUrl": "https://github.com/BonovaVanro/dsh-mega-settings",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4847
+}
