@@ -1,0 +1,20 @@
+{
+  "id": "github:laa1991/dsh-health",
+  "kind": "plugin",
+  "name": "dsh-health",
+  "description": "Declarative health readout for DSH: declare where to read, what counts as healthy, and which verdict each reading maps to. Read-only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "laa1991/dsh-health",
+  "repositoryUrl": "https://github.com/laa1991/dsh-health",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4763
+}
