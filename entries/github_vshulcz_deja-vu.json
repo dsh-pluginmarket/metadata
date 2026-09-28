@@ -1,0 +1,20 @@
+{
+  "id": "github:vshulcz/deja-vu",
+  "kind": "plugin",
+  "name": "deja-vu",
+  "description": "The most accurate, cheapest and fastest memory for coding agents: searchable session history from Claude Code, Codex, Cursor and 32 more agents, already on your disk. No LLM, one Go binary.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vshulcz/deja-vu",
+  "repositoryUrl": "https://github.com/vshulcz/deja-vu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4647
+}
