@@ -1,0 +1,20 @@
+{
+  "id": "github:syyr1987/dsh-linghun",
+  "kind": "plugin",
+  "name": "dsh-linghun",
+  "description": "灵魂（Linghun）— 给 DeepSeek Harness 装一个会思考的自我：灵魂卡四字段（姓名/性格/沟通风格/其他）+ 认知循环 + 海马体记忆沉淀。收口者身份锚点 + 边界判断纪律。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "syyr1987/dsh-linghun",
+  "repositoryUrl": "https://github.com/syyr1987/dsh-linghun",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4463
+}
