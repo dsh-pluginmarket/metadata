@@ -1,0 +1,20 @@
+{
+  "id": "github:rinDBeans/codex-ui",
+  "kind": "plugin",
+  "name": "codex-ui",
+  "description": "DSH Web 的 Codex 化界面插件 · A Codex-style interface plugin for DSH Web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rinDBeans/codex-ui",
+  "repositoryUrl": "https://github.com/rinDBeans/codex-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4554
+}
