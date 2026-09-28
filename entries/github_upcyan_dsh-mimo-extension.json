@@ -1,0 +1,20 @@
+{
+  "id": "github:upcyan/dsh-mimo-extension",
+  "kind": "plugin",
+  "name": "dsh-mimo-extension",
+  "description": "MiMo (Xiaomi) quota ring and usage detail tab for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "upcyan/dsh-mimo-extension",
+  "repositoryUrl": "https://github.com/upcyan/dsh-mimo-extension",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4442
+}
