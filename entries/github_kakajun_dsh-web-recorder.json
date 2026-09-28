@@ -1,0 +1,20 @@
+{
+  "id": "github:kakajun/dsh-web-recorder",
+  "kind": "plugin",
+  "name": "dsh-web-recorder",
+  "description": "Browser-recording tools for DSH: records real browser operations and network requests, then exports a Markdown timeline report for the model to analyze and reproduce.      🥇DSH 的浏览器录制工具：记录真实浏览器操作和网络请求，然后导出 Markdown 时间线报告供模型分析和重现。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kakajun/dsh-web-recorder",
+  "repositoryUrl": "https://github.com/kakajun/dsh-web-recorder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4638
+}
