@@ -1,0 +1,20 @@
+{
+  "id": "github:TGYD-helige/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Generic DeepSeek Harness (dsh) plugins: A2A protocol server, session storage mirror, and Langfuse observability.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TGYD-helige/dsh-plugins",
+  "repositoryUrl": "https://github.com/TGYD-helige/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4332
+}
