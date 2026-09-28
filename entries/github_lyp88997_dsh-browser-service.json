@@ -1,0 +1,20 @@
+{
+  "id": "github:lyp88997/dsh-browser-service",
+  "kind": "plugin",
+  "name": "dsh-browser-service",
+  "description": "自建 DSH 浏览器服务：单例 CDP 守护 + DSH ctx.browser provider + 兼容 dsh-univer-office 的可执行包装（非 root 服务器环境）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lyp88997/dsh-browser-service",
+  "repositoryUrl": "https://github.com/lyp88997/dsh-browser-service",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4671
+}
