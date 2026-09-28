@@ -1,0 +1,20 @@
+{
+  "id": "github:bailong-Hakuryu/dsh-engineering-control-plane",
+  "kind": "plugin",
+  "name": "dsh-engineering-control-plane",
+  "description": "DeepSeek Harness 工程任务编排与发布门禁插件，支持 /mission 指令、任务路由、计划执行、验证和状态跟踪。 | Engineering mission orchestration and release-gate plugin for DeepSeek Harness with /mission routing, planning, execution, verification, and status tracking.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bailong-Hakuryu/dsh-engineering-control-plane",
+  "repositoryUrl": "https://github.com/bailong-Hakuryu/dsh-engineering-control-plane",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4466
+}
