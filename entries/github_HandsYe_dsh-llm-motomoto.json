@@ -1,0 +1,20 @@
+{
+  "id": "github:HandsYe/dsh-llm-motomoto",
+  "kind": "plugin",
+  "name": "dsh-llm-motomoto",
+  "description": "DeepSeek Harness bundle for MotoMoto's OpenAI-compatible endpoint: pi-ai provider route + Settings status card",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HandsYe/dsh-llm-motomoto",
+  "repositoryUrl": "https://github.com/HandsYe/dsh-llm-motomoto",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4706
+}
