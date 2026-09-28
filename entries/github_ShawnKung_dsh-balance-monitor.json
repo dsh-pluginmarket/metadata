@@ -1,0 +1,20 @@
+{
+  "id": "github:ShawnKung/dsh-balance-monitor",
+  "kind": "plugin",
+  "name": "dsh-balance-monitor",
+  "description": "DSH Web 侧边栏余额与用量监控插件，支持 DeepSeek 官方 API 和 TeamoRouter。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ShawnKung/dsh-balance-monitor",
+  "repositoryUrl": "https://github.com/ShawnKung/dsh-balance-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4645
+}
