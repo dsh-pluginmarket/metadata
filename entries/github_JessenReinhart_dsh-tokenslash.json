@@ -1,0 +1,20 @@
+{
+  "id": "github:JessenReinhart/dsh-tokenslash",
+  "kind": "plugin",
+  "name": "dsh-tokenslash",
+  "description": "Related DeepSeek Harness project: JessenReinhart/dsh-tokenslash",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JessenReinhart/dsh-tokenslash",
+  "repositoryUrl": "https://github.com/JessenReinhart/dsh-tokenslash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4831
+}
