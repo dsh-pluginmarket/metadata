@@ -1,0 +1,20 @@
+{
+  "id": "github:etony668/dsh-task-board",
+  "kind": "plugin",
+  "name": "dsh-task-board",
+  "description": "DSH 项目任务看板插件：会话「任务看板」视图 + 父子任务树工具与技能 + 本地 JSON 存储（CodexFF 移植）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "etony668/dsh-task-board",
+  "repositoryUrl": "https://github.com/etony668/dsh-task-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4616
+}
