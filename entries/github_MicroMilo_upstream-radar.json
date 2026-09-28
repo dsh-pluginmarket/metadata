@@ -1,0 +1,20 @@
+{
+  "id": "github:MicroMilo/upstream-radar",
+  "kind": "plugin",
+  "name": "upstream-radar",
+  "description": "Always-on compatibility testing for DeepSeek Harness plugins: exact releases, isolated runners, and fixable upstream issues.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MicroMilo/upstream-radar",
+  "repositoryUrl": "https://github.com/MicroMilo/upstream-radar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4337
+}
