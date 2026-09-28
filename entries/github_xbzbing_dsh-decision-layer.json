@@ -1,0 +1,20 @@
+{
+  "id": "github:xbzbing/dsh-decision-layer",
+  "kind": "plugin",
+  "name": "dsh-decision-layer",
+  "description": "A structured decision layer for the DeepSeek Harness agent loop, backed by a pluggable adjudication model (dev / laya).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xbzbing/dsh-decision-layer",
+  "repositoryUrl": "https://github.com/xbzbing/dsh-decision-layer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4581
+}
