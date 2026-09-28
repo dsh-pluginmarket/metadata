@@ -1,0 +1,20 @@
+{
+  "id": "github:haohaiHuang/Design-Agent",
+  "kind": "plugin",
+  "name": "Design-Agent",
+  "description": "DSH 设计 Agent 完整可复现包：design-references 路由技能（DSH 适配）+ design-router 确定性工具插件 + my-agent 预设",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "haohaiHuang/Design-Agent",
+  "repositoryUrl": "https://github.com/haohaiHuang/Design-Agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4771
+}
