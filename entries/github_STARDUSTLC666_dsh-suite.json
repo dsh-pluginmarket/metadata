@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-suite",
+  "kind": "plugin",
+  "name": "dsh-suite",
+  "description": "DSH 插件全家桶：18 个组件覆盖邮件、日历、媒体创作、开发运维、消息通知与极简 PTC，一条命令安装。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-suite",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4404
+}
