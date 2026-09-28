@@ -1,0 +1,20 @@
+{
+  "id": "github:byx-darwin/dsh-agent-kit",
+  "kind": "plugin",
+  "name": "dsh-agent-kit",
+  "description": "DeepSeek Harness plugin kit for always-on agent workers: WebSocket, DingTalk, Claude Code/Codex, Jev.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "byx-darwin/dsh-agent-kit",
+  "repositoryUrl": "https://github.com/byx-darwin/dsh-agent-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4594
+}
