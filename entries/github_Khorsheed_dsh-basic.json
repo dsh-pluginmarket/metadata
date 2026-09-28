@@ -1,0 +1,20 @@
+{
+  "id": "github:Khorsheed/dsh-basic",
+  "kind": "plugin",
+  "name": "dsh-basic",
+  "description": "Related DeepSeek Harness project: Khorsheed/dsh-basic",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Khorsheed/dsh-basic",
+  "repositoryUrl": "https://github.com/Khorsheed/dsh-basic",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4861
+}
