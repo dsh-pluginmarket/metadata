@@ -1,0 +1,20 @@
+{
+  "id": "github:ming-14/download-by-mirror-skill",
+  "kind": "plugin",
+  "name": "download-by-mirror-skill",
+  "description": "让 AI 学会从镜像下载资源 - 覆盖 GitHub NuGet HuggingFace vcpkg Cargo Maven Maven DockerHub apt WinGet pip npm/pnpm",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ming-14/download-by-mirror-skill",
+  "repositoryUrl": "https://github.com/ming-14/download-by-mirror-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4606
+}
