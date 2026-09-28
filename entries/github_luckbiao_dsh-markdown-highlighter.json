@@ -1,0 +1,20 @@
+{
+  "id": "github:luckbiao/dsh-markdown-highlighter",
+  "kind": "plugin",
+  "name": "dsh-markdown-highlighter",
+  "description": "Rich syntax highlighting for DSH Markdown: activates builtin Shiki theme colors and styles diff codeblocks with green/red backgrounds and split-view",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luckbiao/dsh-markdown-highlighter",
+  "repositoryUrl": "https://github.com/luckbiao/dsh-markdown-highlighter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4327
+}
