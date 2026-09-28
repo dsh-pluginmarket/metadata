@@ -1,0 +1,20 @@
+{
+  "id": "github:etony668/dsh-balance",
+  "kind": "plugin",
+  "name": "dsh-balance",
+  "description": "DeepSeek API 余额常驻显示（侧边栏「设置」旁）· DeepSeek API balance badge beside Settings in the DSH sidebar",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "etony668/dsh-balance",
+  "repositoryUrl": "https://github.com/etony668/dsh-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4655
+}
