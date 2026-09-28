@@ -1,0 +1,20 @@
+{
+  "id": "github:wannanbigpig/dsh-usage-stats",
+  "kind": "plugin",
+  "name": "dsh-usage-stats",
+  "description": "DeepSeek Harness web 用量与计费插件：官方余额、Token 用量、贡献热图与按小时计费统计。Balance, token usage, contribution heatmap & per-hour cost stats for dsh web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wannanbigpig/dsh-usage-stats",
+  "repositoryUrl": "https://github.com/wannanbigpig/dsh-usage-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4400
+}
