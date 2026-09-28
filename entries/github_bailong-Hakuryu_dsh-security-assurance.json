@@ -1,0 +1,20 @@
+{
+  "id": "github:bailong-Hakuryu/dsh-security-assurance",
+  "kind": "plugin",
+  "name": "dsh-security-assurance",
+  "description": "DeepSeek Harness 策略驱动的仓库安全评估插件，支持包生命周期评估、证据、发现、裁决、导出和 /security 指令。 | Policy-driven repository security assurance plugin for DeepSeek Harness with package lifecycle assessments, evidence, findings, verdicts, exports, and /security routing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bailong-Hakuryu/dsh-security-assurance",
+  "repositoryUrl": "https://github.com/bailong-Hakuryu/dsh-security-assurance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4465
+}
