@@ -1,0 +1,20 @@
+{
+  "id": "github:ZSeven-W/rish-app",
+  "kind": "plugin",
+  "name": "rish-app",
+  "description": "Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH · Claude Code · Codex · GLM).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZSeven-W/rish-app",
+  "repositoryUrl": "https://github.com/ZSeven-W/rish-app",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4731
+}
