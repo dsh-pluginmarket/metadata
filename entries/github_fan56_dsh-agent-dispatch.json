@@ -1,0 +1,20 @@
+{
+  "id": "github:fan56/dsh-agent-dispatch",
+  "kind": "plugin",
+  "name": "dsh-agent-dispatch",
+  "description": "Jev-guided dispatch advice for DeepSeek Harness: before each turn, Jev judges whether to delegate and to which registered agent. Advice only — jev-optional, fail-open, keychain-first.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fan56/dsh-agent-dispatch",
+  "repositoryUrl": "https://github.com/fan56/dsh-agent-dispatch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4479
+}
