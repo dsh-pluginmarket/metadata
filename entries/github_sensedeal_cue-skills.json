@@ -1,0 +1,20 @@
+{
+  "id": "github:sensedeal/cue-skills",
+  "kind": "plugin",
+  "name": "cue-skills",
+  "description": "Cue Skills for Agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sensedeal/cue-skills",
+  "repositoryUrl": "https://github.com/sensedeal/cue-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4499
+}
