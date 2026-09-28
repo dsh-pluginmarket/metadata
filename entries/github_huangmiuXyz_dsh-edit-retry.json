@@ -1,0 +1,20 @@
+{
+  "id": "github:huangmiuXyz/dsh-edit-retry",
+  "kind": "plugin",
+  "name": "dsh-edit-retry",
+  "description": "Right-click any user message to edit it and retry from that point — a client-side plugin for DeepSeek Harness (DSH). · 右键编辑任意一条用户消息并从那里重试。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huangmiuXyz/dsh-edit-retry",
+  "repositoryUrl": "https://github.com/huangmiuXyz/dsh-edit-retry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4623
+}
