@@ -1,0 +1,20 @@
+{
+  "id": "github:hezhongtang/dsh-update-copilot",
+  "kind": "plugin",
+  "name": "dsh-update-copilot",
+  "description": "Update copilot for DeepSeek Harness: full version radar over the DSH core, bundles & every plugin (npm+git, package-centric across profiles); gated plugin updates, dual-mode gated core updates, patch-name audit. · DSH 更新助手：全量雷达 + 带闸门的插件与本体更新 + 补丁名体检",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hezhongtang/dsh-update-copilot",
+  "repositoryUrl": "https://github.com/hezhongtang/dsh-update-copilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4360
+}
