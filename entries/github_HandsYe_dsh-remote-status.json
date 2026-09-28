@@ -1,0 +1,20 @@
+{
+  "id": "github:HandsYe/dsh-remote-status",
+  "kind": "plugin",
+  "name": "dsh-remote-status",
+  "description": "DeepSeek Harness 插件：侧边栏底部本地/远程状态芯片 + 远程镜像工作区标题自动标记（目录 ⇄ 机器名）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HandsYe/dsh-remote-status",
+  "repositoryUrl": "https://github.com/HandsYe/dsh-remote-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4859
+}
