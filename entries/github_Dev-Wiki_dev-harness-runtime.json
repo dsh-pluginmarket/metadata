@@ -1,0 +1,20 @@
+{
+  "id": "github:Dev-Wiki/dev-harness-runtime",
+  "kind": "plugin",
+  "name": "dev-harness-runtime",
+  "description": "dev-harness skill runtime",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dev-Wiki/dev-harness-runtime",
+  "repositoryUrl": "https://github.com/Dev-Wiki/dev-harness-runtime",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4372
+}
