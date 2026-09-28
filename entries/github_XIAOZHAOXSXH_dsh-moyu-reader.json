@@ -1,0 +1,20 @@
+{
+  "id": "github:XIAOZHAOXSXH/dsh-moyu-reader",
+  "kind": "plugin",
+  "name": "dsh-moyu-reader",
+  "description": "dsh-moyu-reader，dsh小说阅读器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "XIAOZHAOXSXH/dsh-moyu-reader",
+  "repositoryUrl": "https://github.com/XIAOZHAOXSXH/dsh-moyu-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4508
+}
