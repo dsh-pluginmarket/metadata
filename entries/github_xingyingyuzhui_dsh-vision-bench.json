@@ -1,0 +1,20 @@
+{
+  "id": "github:xingyingyuzhui/dsh-vision-bench",
+  "kind": "plugin",
+  "name": "dsh-vision-bench",
+  "description": "DSH plugin: Vision bench — Keil debug and Modbus HMI in the session view",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xingyingyuzhui/dsh-vision-bench",
+  "repositoryUrl": "https://github.com/xingyingyuzhui/dsh-vision-bench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4749
+}
