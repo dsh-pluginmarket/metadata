@@ -1,0 +1,20 @@
+{
+  "id": "github:CrazyPigHead/dsh-plugin-agents-loader",
+  "kind": "plugin",
+  "name": "dsh-plugin-agents-loader",
+  "description": "dsh plugin: auto-load ~/.agents/mcp.json MCP servers (http/stdio), ~/.agents/commands/ slash commands and AGENTS.md, with hot reload",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CrazyPigHead/dsh-plugin-agents-loader",
+  "repositoryUrl": "https://github.com/CrazyPigHead/dsh-plugin-agents-loader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4666
+}
