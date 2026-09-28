@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaozhuyuqing/dsh-repeat-guard",
+  "kind": "plugin",
+  "name": "dsh-repeat-guard",
+  "description": "Tell your deepseek-v4.1-flash: \"shut up! Stop looping!\"",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaozhuyuqing/dsh-repeat-guard",
+  "repositoryUrl": "https://github.com/xiaozhuyuqing/dsh-repeat-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4829
+}
