@@ -1,0 +1,20 @@
+{
+  "id": "github:xingzhen199186/dsh-mini-remote",
+  "kind": "plugin",
+  "name": "dsh-mini-remote",
+  "description": "DSH 极简风远程移动端：只把「指令」和「回复」送到手机，隐藏执行步骤。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xingzhen199186/dsh-mini-remote",
+  "repositoryUrl": "https://github.com/xingzhen199186/dsh-mini-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4836
+}
