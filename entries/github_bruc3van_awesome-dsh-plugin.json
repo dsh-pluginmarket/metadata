@@ -1,0 +1,20 @@
+{
+  "id": "github:bruc3van/awesome-dsh-plugin",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugin",
+  "description": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bruc3van/awesome-dsh-plugin",
+  "repositoryUrl": "https://github.com/bruc3van/awesome-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4705
+}
