@@ -1,0 +1,20 @@
+{
+  "id": "github:Astervolans/dsh-literature-search",
+  "kind": "plugin",
+  "name": "dsh-literature-search",
+  "description": "Literature search for DeepSeek Harness: PubMed NCBI E-utilities + Google Scholar, unified paper output. Zero runtime dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Astervolans/dsh-literature-search",
+  "repositoryUrl": "https://github.com/Astervolans/dsh-literature-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4769
+}
