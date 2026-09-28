@@ -1,0 +1,20 @@
+{
+  "id": "github:linkingoscar/dsh-billing-glass",
+  "kind": "plugin",
+  "name": "dsh-billing-glass",
+  "description": "Liquid-glass billing overlay for the DeepSeek Harness Web GUI: provider balances, session cost, daily spend and token buckets. DeepSeek-first and extensible.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "linkingoscar/dsh-billing-glass",
+  "repositoryUrl": "https://github.com/linkingoscar/dsh-billing-glass",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4702
+}
