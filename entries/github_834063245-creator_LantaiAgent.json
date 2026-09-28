@@ -1,0 +1,20 @@
+{
+  "id": "github:834063245-creator/LantaiAgent",
+  "kind": "plugin",
+  "name": "LantaiAgent",
+  "description": "I’m a helpful assistant",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "834063245-creator/LantaiAgent",
+  "repositoryUrl": "https://github.com/834063245-creator/LantaiAgent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4619
+}
