@@ -1,0 +1,20 @@
+{
+  "id": "github:lemonxiny55/dsh-code-index",
+  "kind": "plugin",
+  "name": "dsh-code-index",
+  "description": "Structural code index for DeepSeek Harness (dsh): tree-sitter symbol index, ranked lexical search, a bounded auto-injected repo map, and call-graph tracing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lemonxiny55/dsh-code-index",
+  "repositoryUrl": "https://github.com/lemonxiny55/dsh-code-index",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4451
+}
