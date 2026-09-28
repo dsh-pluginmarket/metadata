@@ -1,0 +1,20 @@
+{
+  "id": "github:loulangogogo/dsh-plugins-loulan",
+  "kind": "plugin",
+  "name": "dsh-plugins-loulan",
+  "description": "Plugin collection for DeepSeek Harness (DSH): auto-mounts MCP servers from .mcp.json (with a Web \"MCP\" tab) and injects global and project rule files into sessions. TypeScript + pnpm monorepo.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "loulangogogo/dsh-plugins-loulan",
+  "repositoryUrl": "https://github.com/loulangogogo/dsh-plugins-loulan",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4453
+}
