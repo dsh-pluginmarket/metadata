@@ -1,0 +1,20 @@
+{
+  "id": "github:YuMS/dsh-duet",
+  "kind": "plugin",
+  "name": "dsh-duet",
+  "description": "二重奏：DSH 语音操控和语音播报",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YuMS/dsh-duet",
+  "repositoryUrl": "https://github.com/YuMS/dsh-duet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4494
+}
