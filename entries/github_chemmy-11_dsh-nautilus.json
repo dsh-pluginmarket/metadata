@@ -1,0 +1,20 @@
+{
+  "id": "github:chemmy-11/dsh-nautilus",
+  "kind": "plugin",
+  "name": "dsh-nautilus",
+  "description": "Vault observation plugin for DeepSeek Harness: Obsidian vault metadata snapshot + edit stats + observation panel",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chemmy-11/dsh-nautilus",
+  "repositoryUrl": "https://github.com/chemmy-11/dsh-nautilus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4350
+}
