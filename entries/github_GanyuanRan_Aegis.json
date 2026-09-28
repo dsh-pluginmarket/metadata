@@ -1,0 +1,20 @@
+{
+  "id": "github:GanyuanRan/Aegis",
+  "kind": "plugin",
+  "name": "Aegis",
+  "description": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GanyuanRan/Aegis",
+  "repositoryUrl": "https://github.com/GanyuanRan/Aegis",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4324
+}
