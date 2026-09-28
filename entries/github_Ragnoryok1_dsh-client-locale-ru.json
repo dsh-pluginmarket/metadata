@@ -1,0 +1,20 @@
+{
+  "id": "github:Ragnoryok1/dsh-client-locale-ru",
+  "kind": "plugin",
+  "name": "dsh-client-locale-ru",
+  "description": "Russian (ru) language pack for the DeepSeek Harness web GUI - installable hybrid dsh.bundle + dsh.client plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ragnoryok1/dsh-client-locale-ru",
+  "repositoryUrl": "https://github.com/Ragnoryok1/dsh-client-locale-ru",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4687
+}
