@@ -1,0 +1,20 @@
+{
+  "id": "github:Dominic789654/awesome-deepseek-harness",
+  "kind": "plugin",
+  "name": "awesome-deepseek-harness",
+  "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dominic789654/awesome-deepseek-harness",
+  "repositoryUrl": "https://github.com/Dominic789654/awesome-deepseek-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4517
+}
