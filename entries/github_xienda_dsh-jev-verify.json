@@ -1,0 +1,20 @@
+{
+  "id": "github:xienda/dsh-jev-verify",
+  "kind": "plugin",
+  "name": "dsh-jev-verify",
+  "description": "Jev (TypeSafe System One decision model) for DeepSeek Harness: jev_decision, jev_overview, jev_guard_status and jev_verify, structured in-chat tool views, a full settings card, an auto-guard (deterministic + Jev risk/loop) and a /jev dashboard. Real API only, measured numbers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xienda/dsh-jev-verify",
+  "repositoryUrl": "https://github.com/xienda/dsh-jev-verify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4354
+}
