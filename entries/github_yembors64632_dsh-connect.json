@@ -1,0 +1,20 @@
+{
+  "id": "github:yembors64632/dsh-connect",
+  "kind": "plugin",
+  "name": "dsh-connect",
+  "description": "DSH 插件：一个插件接入 WorkBuddy / Trae / Qoder 三渠道模型，带统一状态面板、一键签到与渠道管理",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yembors64632/dsh-connect",
+  "repositoryUrl": "https://github.com/yembors64632/dsh-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4592
+}
