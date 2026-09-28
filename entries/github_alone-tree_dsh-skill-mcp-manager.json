@@ -1,0 +1,20 @@
+{
+  "id": "github:alone-tree/dsh-skill-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-skill-mcp-manager",
+  "description": "能力库 (Capability) — one-stop visual management of DSH Skills & MCP: on-demand MCP loading, in-session hot reload, and SKILL/MCP descriptions viewable in the plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alone-tree/dsh-skill-mcp-manager",
+  "repositoryUrl": "https://github.com/alone-tree/dsh-skill-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4832
+}
