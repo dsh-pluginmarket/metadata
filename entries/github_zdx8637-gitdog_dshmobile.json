@@ -1,0 +1,20 @@
+{
+  "id": "github:zdx8637-gitdog/dshmobile",
+  "kind": "plugin",
+  "name": "dshmobile",
+  "description": "Remotely control DeepSeek Harness from your phone: Android App + cloud relay + PC plugin. One persistent QR code, three uses — download, pairing, and login/grant.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zdx8637-gitdog/dshmobile",
+  "repositoryUrl": "https://github.com/zdx8637-gitdog/dshmobile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4362
+}
