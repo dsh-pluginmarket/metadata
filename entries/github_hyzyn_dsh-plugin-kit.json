@@ -1,0 +1,20 @@
+{
+  "id": "github:hyzyn/dsh-plugin-kit",
+  "kind": "plugin",
+  "name": "dsh-plugin-kit",
+  "description": "Plugin family for the DeepSeek Harness (DSH) Web GUI: a pnpm monorepo with a plugin template, dev kit, and one-command all-in-one bundle — Codegraph, env & secrets, MCP config, profiles, prompts, RSS digest, global search, and terminal panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hyzyn/dsh-plugin-kit",
+  "repositoryUrl": "https://github.com/hyzyn/dsh-plugin-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4632
+}
