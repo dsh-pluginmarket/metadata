@@ -1,0 +1,20 @@
+{
+  "id": "github:KannaKuron/dsh-agent-lang",
+  "kind": "plugin",
+  "name": "dsh-agent-lang",
+  "description": "Agent language control: DSH plugin — tool-call descriptions, model thinking, and replies each follow the GUI language, force a fixed language, or turn off; injected as one global runtime-context directive. | Agent 语言控制:DSH 插件——工具描述、模型思考、回复输出三通道各自跟随界面语言 / 强制指定 / 关闭,以全局 runtime-context 注入,不改任何 preset。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KannaKuron/dsh-agent-lang",
+  "repositoryUrl": "https://github.com/KannaKuron/dsh-agent-lang",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4774
+}
