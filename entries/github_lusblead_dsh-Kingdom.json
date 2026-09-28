@@ -1,0 +1,20 @@
+{
+  "id": "github:lusblead/dsh-Kingdom",
+  "kind": "plugin",
+  "name": "dsh-Kingdom",
+  "description": "在 DSH 中建立属于你的 Agent 王国——让 Agent 拥有角色、权限、领地与治理秩序，并通过事实验证机制与权威账本，让每一次执行、声明与裁决都可核验、可追溯。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lusblead/dsh-Kingdom",
+  "repositoryUrl": "https://github.com/lusblead/dsh-Kingdom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4534
+}
