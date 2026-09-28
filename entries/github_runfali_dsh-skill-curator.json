@@ -1,0 +1,20 @@
+{
+  "id": "github:runfali/dsh-skill-curator",
+  "kind": "plugin",
+  "name": "dsh-skill-curator",
+  "description": "为 dsh 打造的自动技能策展插件：每 N 轮真实对话，后台起一个评审子代理阅读会话摘要，主动把值得沉淀的经验提炼为 ~/.dsh/skills/<name>/SKILL.md - 把 Hermes 的「后台评审自我改进」闭环移植到 DSH，零侵入 bundle 插件，不改 dsh 源码。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "runfali/dsh-skill-curator",
+  "repositoryUrl": "https://github.com/runfali/dsh-skill-curator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4384
+}
