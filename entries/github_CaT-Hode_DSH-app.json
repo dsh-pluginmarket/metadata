@@ -1,0 +1,20 @@
+{
+  "id": "github:CaT-Hode/DSH-app",
+  "kind": "plugin",
+  "name": "DSH-app",
+  "description": "Windows desktop plugin for DeepSeek Harness — shared Web sessions and plugins, startup logs and update recovery. DSH 桌面插件：共用 Web 对话与插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CaT-Hode/DSH-app",
+  "repositoryUrl": "https://github.com/CaT-Hode/DSH-app",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4821
+}
