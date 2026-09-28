@@ -1,0 +1,20 @@
+{
+  "id": "github:cyh3436332528/dsh-plugin-session-purge",
+  "kind": "plugin",
+  "name": "dsh-plugin-session-purge",
+  "description": "DSH 会话管理插件：永久删除会话，连同它的日志、投影缓存、工作区记账与子会话（子代理）一起清掉。设置页入口，删除不可恢复。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cyh3436332528/dsh-plugin-session-purge",
+  "repositoryUrl": "https://github.com/cyh3436332528/dsh-plugin-session-purge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4417
+}
