@@ -1,0 +1,20 @@
+{
+  "id": "github:wszhoho/dsh-file-attachment",
+  "kind": "plugin",
+  "name": "dsh-file-attachment",
+  "description": "支持拖入/粘贴 图片、文件，替换dsh本体上传按钮，支持文本模型调用多模态模型识别图片。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wszhoho/dsh-file-attachment",
+  "repositoryUrl": "https://github.com/wszhoho/dsh-file-attachment",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4610
+}
