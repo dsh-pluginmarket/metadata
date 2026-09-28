@@ -1,0 +1,20 @@
+{
+  "id": "github:SanChou0627/dsh-token-bill",
+  "kind": "plugin",
+  "name": "dsh-token-bill",
+  "description": "Live DeepSeek balance and per-hour token costing for DSH: two agent tools read the live balance and the ledger-observed daily charge, then write Markdown/HTML/JSON statements.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SanChou0627/dsh-token-bill",
+  "repositoryUrl": "https://github.com/SanChou0627/dsh-token-bill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4615
+}
