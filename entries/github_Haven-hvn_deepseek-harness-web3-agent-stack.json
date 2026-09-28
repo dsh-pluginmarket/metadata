@@ -1,0 +1,20 @@
+{
+  "id": "github:Haven-hvn/deepseek-harness-web3-agent-stack",
+  "kind": "plugin",
+  "name": "deepseek-harness-web3-agent-stack",
+  "description": "web3 extensions for the deepseek harness where everything is a plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Haven-hvn/deepseek-harness-web3-agent-stack",
+  "repositoryUrl": "https://github.com/Haven-hvn/deepseek-harness-web3-agent-stack",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4855
+}
