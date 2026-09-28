@@ -1,0 +1,20 @@
+{
+  "id": "github:mingdui/dsh-growth-workbench",
+  "kind": "plugin",
+  "name": "dsh-growth-workbench",
+  "description": "面向普通用户的AI个人成长工作台：画像 → 能力模型 → 90 天计划 → 今日执行 → 证据 → 考核复盘。基于 DeepSeek Harness底座。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mingdui/dsh-growth-workbench",
+  "repositoryUrl": "https://github.com/mingdui/dsh-growth-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4304
+}
