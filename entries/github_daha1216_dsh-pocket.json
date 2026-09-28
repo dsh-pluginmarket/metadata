@@ -1,0 +1,20 @@
+{
+  "id": "github:daha1216/dsh-pocket",
+  "kind": "plugin",
+  "name": "dsh-pocket",
+  "description": "把 DeepSeek Harness 装进口袋：手机扫码同步操控电脑端 DSH（局域网/公网直连 + 移动端抽屉布局）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daha1216/dsh-pocket",
+  "repositoryUrl": "https://github.com/daha1216/dsh-pocket",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4349
+}
