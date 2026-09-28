@@ -1,0 +1,20 @@
+{
+  "id": "github:Chillizu/mop-plugins",
+  "kind": "plugin",
+  "name": "mop-plugins",
+  "description": "MiOpIIk：DeepSeek Harness 单职责插件集 + 四层 agent 工作流 preset（npm: dsh-miopiik）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chillizu/mop-plugins",
+  "repositoryUrl": "https://github.com/Chillizu/mop-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4299
+}
