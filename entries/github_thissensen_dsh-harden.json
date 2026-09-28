@@ -1,0 +1,20 @@
+{
+  "id": "github:thissensen/dsh-harden",
+  "kind": "plugin",
+  "name": "dsh-harden",
+  "description": "DSH 运行时看护层：API 调用失败自动续接重试、工具调用失败被吞自动拉回、只输出思考的回合自动重试、修复资源管理器无响应、新增对接 pwsh 的后台 job 工具。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "thissensen/dsh-harden",
+  "repositoryUrl": "https://github.com/thissensen/dsh-harden",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4571
+}
