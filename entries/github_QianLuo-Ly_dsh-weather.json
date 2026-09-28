@@ -1,0 +1,20 @@
+{
+  "id": "github:QianLuo-Ly/dsh-weather",
+  "kind": "plugin",
+  "name": "dsh-weather",
+  "description": "dsh的天气插件（没有高大上的东西，生活不易，出门记得看天气~）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QianLuo-Ly/dsh-weather",
+  "repositoryUrl": "https://github.com/QianLuo-Ly/dsh-weather",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4845
+}
