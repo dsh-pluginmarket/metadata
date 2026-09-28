@@ -1,0 +1,20 @@
+{
+  "id": "github:broody-cascarillabark100/DeepSeek-Harness-Desktop",
+  "kind": "plugin",
+  "name": "DeepSeek-Harness-Desktop",
+  "description": "Launch DeepSeek Harness with one click—no terminal setup required. A desktop companion app that starts the service and connects automatically, ideal for local AI development.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "broody-cascarillabark100/DeepSeek-Harness-Desktop",
+  "repositoryUrl": "https://github.com/broody-cascarillabark100/DeepSeek-Harness-Desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4318
+}
