@@ -1,0 +1,20 @@
+{
+  "id": "github:798645706/dsh-strawberry-data-hub",
+  "kind": "plugin",
+  "name": "dsh-strawberry-data-hub",
+  "description": "Strawberry research tools for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "798645706/dsh-strawberry-data-hub",
+  "repositoryUrl": "https://github.com/798645706/dsh-strawberry-data-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4471
+}
