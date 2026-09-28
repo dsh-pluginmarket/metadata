@@ -1,0 +1,20 @@
+{
+  "id": "github:oiuv/dsh-achievements",
+  "kind": "plugin",
+  "name": "dsh-achievements",
+  "description": "Usage statistics and achievements for DeepSeek Harness — track your progress, explore capabilities, and level up your developer journey.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oiuv/dsh-achievements",
+  "repositoryUrl": "https://github.com/oiuv/dsh-achievements",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4376
+}
