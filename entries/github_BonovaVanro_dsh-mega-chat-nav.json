@@ -1,0 +1,20 @@
+{
+  "id": "github:BonovaVanro/dsh-mega-chat-nav",
+  "kind": "plugin",
+  "name": "dsh-mega-chat-nav",
+  "description": "mega 对话导航栏",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BonovaVanro/dsh-mega-chat-nav",
+  "repositoryUrl": "https://github.com/BonovaVanro/dsh-mega-chat-nav",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4759
+}
