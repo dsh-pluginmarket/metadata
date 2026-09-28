@@ -1,0 +1,20 @@
+{
+  "id": "github:Jackson-chen97/dsh-devops",
+  "kind": "plugin",
+  "name": "dsh-devops",
+  "description": "GitLab + Kubernetes monitoring plugin for DSH — track CI/CD pipelines and K8s cluster health in one place.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jackson-chen97/dsh-devops",
+  "repositoryUrl": "https://github.com/Jackson-chen97/dsh-devops",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4503
+}
