@@ -1,0 +1,20 @@
+{
+  "id": "github:AtlasCloudAI/cli",
+  "kind": "plugin",
+  "name": "cli",
+  "description": "AtlasCloud CLI installers and release artifacts",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AtlasCloudAI/cli",
+  "repositoryUrl": "https://github.com/AtlasCloudAI/cli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4582
+}
