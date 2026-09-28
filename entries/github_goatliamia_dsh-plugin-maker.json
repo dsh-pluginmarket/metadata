@@ -1,0 +1,20 @@
+{
+  "id": "github:goatliamia/dsh-plugin-maker",
+  "kind": "plugin",
+  "name": "dsh-plugin-maker",
+  "description": "Related DeepSeek Harness project: goatliamia/dsh-plugin-maker",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "goatliamia/dsh-plugin-maker",
+  "repositoryUrl": "https://github.com/goatliamia/dsh-plugin-maker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4607
+}
