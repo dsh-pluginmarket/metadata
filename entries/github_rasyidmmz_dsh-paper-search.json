@@ -1,0 +1,20 @@
+{
+  "id": "github:rasyidmmz/dsh-paper-search",
+  "kind": "plugin",
+  "name": "dsh-paper-search",
+  "description": "Literature search for DeepSeek Harness: 13 international sources and 3 Indonesian journal portals, all native HTTP, with a status tool that reports which sources answer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rasyidmmz/dsh-paper-search",
+  "repositoryUrl": "https://github.com/rasyidmmz/dsh-paper-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4390
+}
