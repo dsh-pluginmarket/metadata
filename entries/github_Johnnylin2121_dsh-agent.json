@@ -1,0 +1,20 @@
+{
+  "id": "github:Johnnylin2121/dsh-agent",
+  "kind": "plugin",
+  "name": "dsh-agent",
+  "description": "DSH（DeepSeek Harness）个人技能库：21 个 skill + 插件配置/补丁备份 + push 防护（隐私扫描钩子）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Johnnylin2121/dsh-agent",
+  "repositoryUrl": "https://github.com/Johnnylin2121/dsh-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4473
+}
