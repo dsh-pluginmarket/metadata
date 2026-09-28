@@ -1,0 +1,20 @@
+{
+  "id": "github:chendefine/dsh-composer-markdown",
+  "kind": "plugin",
+  "name": "dsh-composer-markdown",
+  "description": "Related DeepSeek Harness project: chendefine/dsh-composer-markdown",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chendefine/dsh-composer-markdown",
+  "repositoryUrl": "https://github.com/chendefine/dsh-composer-markdown",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4609
+}
