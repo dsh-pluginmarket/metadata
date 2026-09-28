@@ -1,0 +1,20 @@
+{
+  "id": "github:lpf20200901/dsh-memory-delta",
+  "kind": "plugin",
+  "name": "dsh-memory-delta",
+  "description": "给 AI 编码助手的跨会话长期记忆：自动注入、只推变化。DSH 插件 + 零依赖 CLI。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lpf20200901/dsh-memory-delta",
+  "repositoryUrl": "https://github.com/lpf20200901/dsh-memory-delta",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4346
+}
