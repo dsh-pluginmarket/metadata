@@ -1,0 +1,20 @@
+{
+  "id": "github:BoyangL04/dsh-task-notify",
+  "kind": "plugin",
+  "name": "dsh-task-notify",
+  "description": "DeepSeek Harness plugin: in-app toast + macOS notification when a session finishes a turn or is blocked on you (tool approval, question, plan review).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BoyangL04/dsh-task-notify",
+  "repositoryUrl": "https://github.com/BoyangL04/dsh-task-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4799
+}
