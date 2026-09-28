@@ -1,0 +1,20 @@
+{
+  "id": "github:qiuyiwu1989-star/dsh-k12-substrate",
+  "kind": "plugin",
+  "name": "dsh-k12-substrate",
+  "description": "K12 capability substrate for DeepSeek Harness — 143 objectively-decidable capability anchors and 6,091 list items from China's MOE 2022 curriculum standards, with local-only learner profiles",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qiuyiwu1989-star/dsh-k12-substrate",
+  "repositoryUrl": "https://github.com/qiuyiwu1989-star/dsh-k12-substrate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4355
+}
