@@ -1,0 +1,20 @@
+{
+  "id": "github:SunlitCrack/dsh-skills-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-skills-mcp-manager",
+  "description": "DSH 插件：设置页统一管理技能 / MCP 服务器 / 指令文件（AGENTS.md 家族）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SunlitCrack/dsh-skills-mcp-manager",
+  "repositoryUrl": "https://github.com/SunlitCrack/dsh-skills-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4747
+}
