@@ -1,0 +1,20 @@
+{
+  "id": "github:zongzack/dsh-jev-router",
+  "kind": "plugin",
+  "name": "dsh-jev-router",
+  "description": "DSH plugin that uses the JEV model to score task complexity and switch to the appropriate model for each dispatch request.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zongzack/dsh-jev-router",
+  "repositoryUrl": "https://github.com/zongzack/dsh-jev-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4857
+}
