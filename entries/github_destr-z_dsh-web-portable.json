@@ -1,0 +1,20 @@
+{
+  "id": "github:destr-z/dsh-web-portable",
+  "kind": "plugin",
+  "name": "dsh-web-portable",
+  "description": "非官方的 DSH（DeepSeek Harness）Web 界面 Windows 便携版，面向 AI 短剧/AI 视频的剧本工作流：自带「剧本批注」（小说→剧本）与「提示词对照」（剧本→视频提示词）两个成对的改稿工作台，划词写批注交给 AI 改稿。主程序走 Releases。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "destr-z/dsh-web-portable",
+  "repositoryUrl": "https://github.com/destr-z/dsh-web-portable",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4301
+}
