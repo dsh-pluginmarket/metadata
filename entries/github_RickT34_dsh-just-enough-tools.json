@@ -1,0 +1,20 @@
+{
+  "id": "github:RickT34/dsh-just-enough-tools",
+  "kind": "plugin",
+  "name": "dsh-just-enough-tools",
+  "description": "Nearly half the agent cost, with accuracy intact. Just enough tools is a DeepSeek Harness plugin that uses Jev to reveal tools and skills progressively. The main model starts with a clean planning step. Jev then selects which capabilities to add as the task unfolds.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RickT34/dsh-just-enough-tools",
+  "repositoryUrl": "https://github.com/RickT34/dsh-just-enough-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4497
+}
