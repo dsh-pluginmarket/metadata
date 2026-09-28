@@ -1,0 +1,20 @@
+{
+  "id": "github:Han-Yao94/dsh-session-toolkit",
+  "kind": "plugin",
+  "name": "dsh-session-toolkit",
+  "description": "DeepSeek Harness plugin bundle — session identity, global prompt (global + per-workspace), session auto-resume, session-log button relocation, peer-session messaging, prompt dedup. Five local plugins consolidated into one package, installed with a single dsh plugin add.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Han-Yao94/dsh-session-toolkit",
+  "repositoryUrl": "https://github.com/Han-Yao94/dsh-session-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4791
+}
