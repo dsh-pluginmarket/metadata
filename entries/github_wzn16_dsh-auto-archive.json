@@ -1,0 +1,20 @@
+{
+  "id": "github:wzn16/dsh-auto-archive",
+  "kind": "plugin",
+  "name": "dsh-auto-archive",
+  "description": "Auto-archive for DeepSeek Harness: archive sessions idle beyond a threshold, with full archived-session management UI · DSH 自动归档插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wzn16/dsh-auto-archive",
+  "repositoryUrl": "https://github.com/wzn16/dsh-auto-archive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4626
+}
