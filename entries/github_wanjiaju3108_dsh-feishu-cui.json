@@ -1,0 +1,20 @@
+{
+  "id": "github:wanjiaju3108/dsh-feishu-cui",
+  "kind": "plugin",
+  "name": "dsh-feishu-cui",
+  "description": "用飞书私聊远程操作 DSH：消息与卡片走机器人长连接，不用公网入口、不用证书、不用内网穿透",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wanjiaju3108/dsh-feishu-cui",
+  "repositoryUrl": "https://github.com/wanjiaju3108/dsh-feishu-cui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4414
+}
