@@ -1,0 +1,20 @@
+{
+  "id": "github:klarkxy/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Small, independently installable plugins for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "klarkxy/dsh-plugins",
+  "repositoryUrl": "https://github.com/klarkxy/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4739
+}
