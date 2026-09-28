@@ -1,0 +1,20 @@
+{
+  "id": "github:whiteS18/dsh-mcp-servers-panel",
+  "kind": "plugin",
+  "name": "dsh-mcp-servers-panel",
+  "description": "DSH MCP 服务器管理面板：设置里新增/编辑/启停 MCP 服务器，工具自动注册到对话",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "whiteS18/dsh-mcp-servers-panel",
+  "repositoryUrl": "https://github.com/whiteS18/dsh-mcp-servers-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4385
+}
