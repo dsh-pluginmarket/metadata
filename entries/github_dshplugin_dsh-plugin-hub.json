@@ -1,0 +1,20 @@
+{
+  "id": "github:dshplugin/dsh-plugin-hub",
+  "kind": "plugin",
+  "name": "dsh-plugin-hub",
+  "description": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 10000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dshplugin/dsh-plugin-hub",
+  "repositoryUrl": "https://github.com/dshplugin/dsh-plugin-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4630
+}
