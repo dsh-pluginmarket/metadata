@@ -1,0 +1,20 @@
+{
+  "id": "github:d0ublecl1ck/dsh-skill-dollar",
+  "kind": "plugin",
+  "name": "dsh-skill-dollar",
+  "description": "Invoke DeepSeek Harness skills with a $name gesture — conflict-free with / commands, with composer completion and blue text-ref parity. 用 $name 手势调用 DSH skill（与 / 命令不冲突）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "d0ublecl1ck/dsh-skill-dollar",
+  "repositoryUrl": "https://github.com/d0ublecl1ck/dsh-skill-dollar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4767
+}
