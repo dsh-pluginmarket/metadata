@@ -1,0 +1,20 @@
+{
+  "id": "github:itsnone-liu/dsh-feishu",
+  "kind": "plugin",
+  "name": "dsh-feishu",
+  "description": "Feishu/Lark bridge for DeepSeek Harness (dsh) — long-connection, card streaming, slash commands",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itsnone-liu/dsh-feishu",
+  "repositoryUrl": "https://github.com/itsnone-liu/dsh-feishu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4792
+}
