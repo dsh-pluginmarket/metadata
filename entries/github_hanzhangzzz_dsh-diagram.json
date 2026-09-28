@@ -1,0 +1,20 @@
+{
+  "id": "github:hanzhangzzz/dsh-diagram",
+  "kind": "plugin",
+  "name": "dsh-diagram",
+  "description": "Turn DeepSeek Harness articles into editable Excalidraw canvases — live diagrams, not disposable Mermaid output.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hanzhangzzz/dsh-diagram",
+  "repositoryUrl": "https://github.com/hanzhangzzz/dsh-diagram",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4398
+}
