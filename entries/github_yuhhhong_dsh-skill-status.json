@@ -1,0 +1,20 @@
+{
+  "id": "github:yuhhhong/dsh-skill-status",
+  "kind": "plugin",
+  "name": "dsh-skill-status",
+  "description": "dsh插件，用于显示当前会话skill的状态",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuhhhong/dsh-skill-status",
+  "repositoryUrl": "https://github.com/yuhhhong/dsh-skill-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4378
+}
