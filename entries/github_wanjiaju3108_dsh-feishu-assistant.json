@@ -1,0 +1,20 @@
+{
+  "id": "github:wanjiaju3108/dsh-feishu-assistant",
+  "kind": "plugin",
+  "name": "dsh-feishu-assistant",
+  "description": "飞书私聊机器人就是你的 DSH 助理：配对码绑管理员、审批卡放行、串行排队、回答成卡片回到飞书",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wanjiaju3108/dsh-feishu-assistant",
+  "repositoryUrl": "https://github.com/wanjiaju3108/dsh-feishu-assistant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4450
+}
