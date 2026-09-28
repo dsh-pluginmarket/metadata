@@ -1,0 +1,20 @@
+{
+  "id": "github:ShukebtAb/Dsh-OtherAPI",
+  "kind": "plugin",
+  "name": "Dsh-OtherAPI",
+  "description": "One-click setup for any OpenAI-compatible API in DeepSeek Harness, with automatic thinking-mode support. Adapted to the DSH 0.1.7 entry-config settings model.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ShukebtAb/Dsh-OtherAPI",
+  "repositoryUrl": "https://github.com/ShukebtAb/Dsh-OtherAPI",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4662
+}
