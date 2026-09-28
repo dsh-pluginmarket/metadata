@@ -1,0 +1,20 @@
+{
+  "id": "github:chengxianglibra/dsh-data-analysis",
+  "kind": "plugin",
+  "name": "dsh-data-analysis",
+  "description": "data analysis plugin for deepseek harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chengxianglibra/dsh-data-analysis",
+  "repositoryUrl": "https://github.com/chengxianglibra/dsh-data-analysis",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4429
+}
