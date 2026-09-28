@@ -1,0 +1,20 @@
+{
+  "id": "github:tr1v3r/dsh-quote-followup",
+  "kind": "plugin",
+  "name": "dsh-quote-followup",
+  "description": "Quote selected conversation text into the composer and ask a targeted follow-up — a Web-only DeepSeek Harness plugin, public seams only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tr1v3r/dsh-quote-followup",
+  "repositoryUrl": "https://github.com/tr1v3r/dsh-quote-followup",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4548
+}
