@@ -1,0 +1,20 @@
+{
+  "id": "github:labring/sealos-skills",
+  "kind": "plugin",
+  "name": "sealos-skills",
+  "description": "AI agent skills for Sealos — deploy any project, provision databases, object storage & more with one command. Works with Claude Code, Gemini CLI, Codex.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "labring/sealos-skills",
+  "repositoryUrl": "https://github.com/labring/sealos-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4634
+}
