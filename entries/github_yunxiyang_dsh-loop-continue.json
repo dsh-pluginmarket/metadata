@@ -1,0 +1,20 @@
+{
+  "id": "github:yunxiyang/dsh-loop-continue",
+  "kind": "plugin",
+  "name": "dsh-loop-continue",
+  "description": "Continue a DeepSeek Harness agent turn whose model narrated its next action but called no tool.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yunxiyang/dsh-loop-continue",
+  "repositoryUrl": "https://github.com/yunxiyang/dsh-loop-continue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4577
+}
