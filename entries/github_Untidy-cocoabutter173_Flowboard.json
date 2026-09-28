@@ -1,0 +1,20 @@
+{
+  "id": "github:Untidy-cocoabutter173/Flowboard",
+  "kind": "plugin",
+  "name": "Flowboard",
+  "description": "Align your team goals, meetings, agents, and documents in one workflow—Flowboard turns DeepSeek Harness into a natural hub for work without task management overhead.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Untidy-cocoabutter173/Flowboard",
+  "repositoryUrl": "https://github.com/Untidy-cocoabutter173/Flowboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4313
+}
