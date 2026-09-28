@@ -1,0 +1,20 @@
+{
+  "id": "github:BarneyZhaoooo/dsh-theme-native",
+  "kind": "plugin",
+  "name": "dsh-theme-native",
+  "description": "A small, native theme plugin for the DeepSeek Harness Web GUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BarneyZhaoooo/dsh-theme-native",
+  "repositoryUrl": "https://github.com/BarneyZhaoooo/dsh-theme-native",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4365
+}
