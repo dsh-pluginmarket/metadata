@@ -1,0 +1,20 @@
+{
+  "id": "github:jeffreyren1/dsh-custom-js",
+  "kind": "plugin",
+  "name": "dsh-custom-js",
+  "description": "Customize DeepSeek Harness without forking it—load, edit, manage, and hot-reload trusted JavaScript and TypeScript userscripts from the Web UI.自定义 DeepSeek Harness，无需 Fork——直接在 Web UI 中加载、编辑、管理并热重载可信的 JavaScript 和 TypeScript 用户脚本。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jeffreyren1/dsh-custom-js",
+  "repositoryUrl": "https://github.com/jeffreyren1/dsh-custom-js",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4781
+}
