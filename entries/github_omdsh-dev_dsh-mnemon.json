@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-mnemon",
+  "kind": "plugin",
+  "name": "dsh-mnemon",
+  "description": "Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-mnemon",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-mnemon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4341
+}
