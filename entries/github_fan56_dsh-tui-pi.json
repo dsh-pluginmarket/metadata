@@ -1,0 +1,20 @@
+{
+  "id": "github:fan56/dsh-tui-pi",
+  "kind": "plugin",
+  "name": "dsh-tui-pi",
+  "description": "A fully-featured pi-style terminal UI for DeepSeek Harness (dsh) — history look-back & fork-at-turn, guided preset switching, live subagent steering, model profiles & themes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fan56/dsh-tui-pi",
+  "repositoryUrl": "https://github.com/fan56/dsh-tui-pi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4714
+}
