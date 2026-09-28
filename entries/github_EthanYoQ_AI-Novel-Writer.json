@@ -1,0 +1,20 @@
+{
+  "id": "github:EthanYoQ/AI-Novel-Writer",
+  "kind": "plugin",
+  "name": "AI-Novel-Writer",
+  "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EthanYoQ/AI-Novel-Writer",
+  "repositoryUrl": "https://github.com/EthanYoQ/AI-Novel-Writer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4765
+}
