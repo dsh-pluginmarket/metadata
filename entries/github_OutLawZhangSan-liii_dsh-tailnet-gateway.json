@@ -1,0 +1,20 @@
+{
+  "id": "github:OutLawZhangSan-liii/dsh-tailnet-gateway",
+  "kind": "plugin",
+  "name": "dsh-tailnet-gateway",
+  "description": "Related DeepSeek Harness project: OutLawZhangSan-liii/dsh-tailnet-gateway",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "OutLawZhangSan-liii/dsh-tailnet-gateway",
+  "repositoryUrl": "https://github.com/OutLawZhangSan-liii/dsh-tailnet-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4334
+}
