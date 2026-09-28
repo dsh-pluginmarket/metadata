@@ -1,0 +1,20 @@
+{
+  "id": "github:malko/dsh-malko-prefs",
+  "kind": "plugin",
+  "name": "dsh-malko-prefs",
+  "description": "Some settings to make deepseek harness more comfortable to use",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "malko/dsh-malko-prefs",
+  "repositoryUrl": "https://github.com/malko/dsh-malko-prefs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4523
+}
