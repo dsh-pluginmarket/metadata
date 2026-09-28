@@ -1,0 +1,20 @@
+{
+  "id": "github:Nexus-Aethra/Nexus-Terminal",
+  "kind": "plugin",
+  "name": "Nexus-Terminal",
+  "description": "dshell — a terminal-first AI workbench built as dsh plugins: one terminal timeline per session, cross-session pipes with a named buffer, SSH device sessions. | 终端优先的 AI 工作台（dsh 插件集）：一个会话一条终端时间线，跨会话管道委派与缓冲区文件共享，可把会话直接开到 SSH 设备上。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Nexus-Aethra/Nexus-Terminal",
+  "repositoryUrl": "https://github.com/Nexus-Aethra/Nexus-Terminal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4684
+}
