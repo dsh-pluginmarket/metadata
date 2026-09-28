@@ -1,0 +1,20 @@
+{
+  "id": "github:zukunftsholz/dsh-zgit",
+  "kind": "plugin",
+  "name": "dsh-zgit",
+  "description": "DeepSeek Harness 插件：纯 HTTPS 取源码与发行版，无需 git 二进制、不 clone。| DeepSeek Harness plugin: fetch source & releases over plain HTTPS, no git binary, no clone.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zukunftsholz/dsh-zgit",
+  "repositoryUrl": "https://github.com/zukunftsholz/dsh-zgit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4834
+}
