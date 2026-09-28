@@ -1,0 +1,20 @@
+{
+  "id": "github:flyhigao/dsh-file-download",
+  "kind": "plugin",
+  "name": "dsh-file-download",
+  "description": "Add a download button to DSH document previews",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "flyhigao/dsh-file-download",
+  "repositoryUrl": "https://github.com/flyhigao/dsh-file-download",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4613
+}
