@@ -1,0 +1,20 @@
+{
+  "id": "github:taptap/instant-games-open-mcp",
+  "kind": "plugin",
+  "name": "instant-games-open-mcp",
+  "description": "TapTap 小游戏开放能力 mcp",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "taptap/instant-games-open-mcp",
+  "repositoryUrl": "https://github.com/taptap/instant-games-open-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4514
+}
