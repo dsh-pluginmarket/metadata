@@ -1,0 +1,20 @@
+{
+  "id": "github:qikairo7/dsh-gemini-pool",
+  "kind": "plugin",
+  "name": "dsh-gemini-pool",
+  "description": "多账号 Google Gemini 提供商（DSH 插件）：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号，附中英双语设置页",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qikairo7/dsh-gemini-pool",
+  "repositoryUrl": "https://github.com/qikairo7/dsh-gemini-pool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4723
+}
