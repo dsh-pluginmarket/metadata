@@ -1,0 +1,20 @@
+{
+  "id": "github:nagatoquin33/dsh-villager-hmm",
+  "kind": "plugin",
+  "name": "dsh-villager-hmm",
+  "description": "Play a Minecraft villager hmm whenever the model hums inside its reasoning chain. DeepSeek Harness plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nagatoquin33/dsh-villager-hmm",
+  "repositoryUrl": "https://github.com/nagatoquin33/dsh-villager-hmm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4520
+}
