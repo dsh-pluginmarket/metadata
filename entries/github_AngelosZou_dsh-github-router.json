@@ -1,0 +1,20 @@
+{
+  "id": "github:AngelosZou/dsh-github-router",
+  "kind": "plugin",
+  "name": "dsh-github-router",
+  "description": "Read-only GitHub access for agents, wrapping several tools. Inside the tool it automatically probes and selects whichever GitHub access method works locally, and tries network proxies on its own. That cuts down the network and parsing problems an agent may hit when accessing GitHub, and the overhead of it repeatedly trying different approaches.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AngelosZou/dsh-github-router",
+  "repositoryUrl": "https://github.com/AngelosZou/dsh-github-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4657
+}
