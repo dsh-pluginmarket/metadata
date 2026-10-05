@@ -1,0 +1,20 @@
+{
+  "id": "github:AliceSaikawa/dsh-webui-m3e",
+  "kind": "plugin",
+  "name": "dsh-webui-m3e",
+  "description": "Material 3 Expressive mobile Web UI plugin for DeepSeek Harness (DSH), switched per device",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AliceSaikawa/dsh-webui-m3e",
+  "repositoryUrl": "https://github.com/AliceSaikawa/dsh-webui-m3e",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5136
+}
