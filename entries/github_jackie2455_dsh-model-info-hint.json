@@ -1,0 +1,20 @@
+{
+  "id": "github:jackie2455/dsh-model-info-hint",
+  "kind": "plugin",
+  "name": "dsh-model-info-hint",
+  "description": "hovering over a candidate model pops up a hint showing that model's full configuration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jackie2455/dsh-model-info-hint",
+  "repositoryUrl": "https://github.com/jackie2455/dsh-model-info-hint",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5340
+}
