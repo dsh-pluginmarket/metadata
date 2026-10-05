@@ -1,0 +1,20 @@
+{
+  "id": "github:lov0vo/dsh-composer-autopair",
+  "kind": "plugin",
+  "name": "dsh-composer-autopair",
+  "description": "DSH 聊天输入框的括号/引号自动配对插件 —— Auto-pair brackets and quotes in the DeepSeek Harness chat composer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lov0vo/dsh-composer-autopair",
+  "repositoryUrl": "https://github.com/lov0vo/dsh-composer-autopair",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5488
+}
