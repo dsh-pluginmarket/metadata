@@ -1,0 +1,20 @@
+{
+  "id": "github:loopx-project/loopx",
+  "kind": "plugin",
+  "name": "loopx",
+  "description": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "loopx-project/loopx",
+  "repositoryUrl": "https://github.com/loopx-project/loopx",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5114
+}
