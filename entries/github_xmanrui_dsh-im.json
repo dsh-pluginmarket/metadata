@@ -1,0 +1,20 @@
+{
+  "id": "github:xmanrui/dsh-im",
+  "kind": "plugin",
+  "name": "dsh-im",
+  "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xmanrui/dsh-im",
+  "repositoryUrl": "https://github.com/xmanrui/dsh-im",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5274
+}
