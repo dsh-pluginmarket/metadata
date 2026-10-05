@@ -1,0 +1,20 @@
+{
+  "id": "github:Cyrene-xl/DSH-Cyrene",
+  "kind": "plugin",
+  "name": "DSH-Cyrene",
+  "description": "DeepSeek Harness 插件：增加「纯文本对话模式」agent 预设——整份替换系统提示词进行纯角色对话，只保留联网搜索与表情包。随包人设文本整理自开源项目 Cyrene-Agent（MIT）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Cyrene-xl/DSH-Cyrene",
+  "repositoryUrl": "https://github.com/Cyrene-xl/DSH-Cyrene",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5194
+}
