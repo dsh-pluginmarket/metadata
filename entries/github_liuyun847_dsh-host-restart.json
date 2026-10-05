@@ -1,0 +1,20 @@
+{
+  "id": "github:liuyun847/dsh-host-restart",
+  "kind": "plugin",
+  "name": "dsh-host-restart",
+  "description": "DSH 宿主插件:给模型一个 restart_dsh 工具,重启 dsh 后自动恢复原会话续跑 (DeepSeek Harness)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuyun847/dsh-host-restart",
+  "repositoryUrl": "https://github.com/liuyun847/dsh-host-restart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5359
+}
