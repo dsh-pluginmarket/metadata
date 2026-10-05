@@ -1,0 +1,20 @@
+{
+  "id": "github:121212165/dsh-plugin-prompt-vault",
+  "kind": "plugin",
+  "name": "dsh-plugin-prompt-vault",
+  "description": "dsh plugin: personal prompt library inside the harness - import tagged templates, browse them, and fire one into the current session (/pv)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "121212165/dsh-plugin-prompt-vault",
+  "repositoryUrl": "https://github.com/121212165/dsh-plugin-prompt-vault",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5051
+}
