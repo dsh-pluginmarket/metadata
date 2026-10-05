@@ -1,0 +1,20 @@
+{
+  "id": "github:121212165/dsh-plugin-relay-quota",
+  "kind": "plugin",
+  "name": "dsh-plugin-relay-quota",
+  "description": "dsh plugin: reads remaining quota and usage from any OpenAI-compatible relay's billing surface (/quota, quota_check)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "121212165/dsh-plugin-relay-quota",
+  "repositoryUrl": "https://github.com/121212165/dsh-plugin-relay-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5165
+}
