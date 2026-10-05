@@ -1,0 +1,20 @@
+{
+  "id": "github:xxww0098/dsh-plugin-oauth-subs",
+  "kind": "plugin",
+  "name": "dsh-plugin-oauth-subs",
+  "description": "ChatGPT Codex and xAI Grok subscription OAuth for DeepSeek Harness — PKCE / device-code, local Responses proxy, llm-pi-ai sync",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xxww0098/dsh-plugin-oauth-subs",
+  "repositoryUrl": "https://github.com/xxww0098/dsh-plugin-oauth-subs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5383
+}
