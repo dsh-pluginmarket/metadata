@@ -1,0 +1,20 @@
+{
+  "id": "github:Daizhdd/dsh-pet-quota",
+  "kind": "plugin",
+  "name": "dsh-pet-quota",
+  "description": "给 DSH 桌面宠物挂一条今日 token 额度气泡：轻度/中度/重度三档只用一个彩色圆点表示，没有进度条也没有百分比。A token-quota bubble for the DSH desktop pet.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Daizhdd/dsh-pet-quota",
+  "repositoryUrl": "https://github.com/Daizhdd/dsh-pet-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5312
+}
