@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-translate",
+  "kind": "plugin",
+  "name": "dsh-translate",
+  "description": "Vendor parameter translation and deterministic JSON repair for DeepSeek Harness: /translate maps temperature/top_p/max_tokens/stop/system across 11 vendors, and the post-execute repair layer (plus fix_json) fixes broken JSON tool output without ever fabricating data",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-translate",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-translate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5214
+}
