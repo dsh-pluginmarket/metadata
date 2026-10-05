@@ -1,0 +1,20 @@
+{
+  "id": "github:pk14742952-AD/dsh-host-rsi",
+  "kind": "plugin",
+  "name": "dsh-host-rsi",
+  "description": "DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pk14742952-AD/dsh-host-rsi",
+  "repositoryUrl": "https://github.com/pk14742952-AD/dsh-host-rsi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5341
+}
