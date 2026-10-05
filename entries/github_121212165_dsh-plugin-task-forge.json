@@ -1,0 +1,20 @@
+{
+  "id": "github:121212165/dsh-plugin-task-forge",
+  "kind": "plugin",
+  "name": "dsh-plugin-task-forge",
+  "description": "dsh plugin: compiles a rough need into a versioned task book, then hands it to any AI window losslessly via a read-back handshake (/forge /relay /ack /answer /forge-list)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "121212165/dsh-plugin-task-forge",
+  "repositoryUrl": "https://github.com/121212165/dsh-plugin-task-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5320
+}
