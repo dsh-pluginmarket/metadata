@@ -1,0 +1,20 @@
+{
+  "id": "github:ahian-lee/dsh-bliss-glass",
+  "kind": "plugin",
+  "name": "dsh-bliss-glass",
+  "description": "XP scenery wallpapers x frosted-glass UI for DeepSeek Harness. Desktop and mobile.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ahian-lee/dsh-bliss-glass",
+  "repositoryUrl": "https://github.com/ahian-lee/dsh-bliss-glass",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5482
+}
