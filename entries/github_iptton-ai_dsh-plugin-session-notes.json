@@ -1,0 +1,20 @@
+{
+  "id": "github:iptton-ai/dsh-plugin-session-notes",
+  "kind": "plugin",
+  "name": "dsh-plugin-session-notes",
+  "description": "Highlight & annotate DeepSeek Harness (DSH) conversations with sticky notes — dynamic Cordis plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iptton-ai/dsh-plugin-session-notes",
+  "repositoryUrl": "https://github.com/iptton-ai/dsh-plugin-session-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4951
+}
