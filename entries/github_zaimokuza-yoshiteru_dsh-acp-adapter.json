@@ -1,0 +1,20 @@
+{
+  "id": "github:zaimokuza-yoshiteru/dsh-acp-adapter",
+  "kind": "plugin",
+  "name": "dsh-acp-adapter",
+  "description": "Use AI agents from the DSH session UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zaimokuza-yoshiteru/dsh-acp-adapter",
+  "repositoryUrl": "https://github.com/zaimokuza-yoshiteru/dsh-acp-adapter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5461
+}
