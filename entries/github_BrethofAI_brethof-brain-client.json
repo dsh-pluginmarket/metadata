@@ -1,0 +1,20 @@
+{
+  "id": "github:BrethofAI/brethof-brain-client",
+  "kind": "plugin",
+  "name": "brethof-brain-client",
+  "description": "brethof-brain client — long-term memory for AI agents: the Claude Code plugin, a Gemini CLI extension and adapters for 20 coding harnesses. Source-available.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BrethofAI/brethof-brain-client",
+  "repositoryUrl": "https://github.com/BrethofAI/brethof-brain-client",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5082
+}
