@@ -1,0 +1,20 @@
+{
+  "id": "github:xiex16070-jpg/dsh-learn",
+  "kind": "plugin",
+  "name": "dsh-learn",
+  "description": "Persistent learning for DeepSeek Harness: turn a session's corrections, failures and fixes into ordinary DSH skills. Zero extra model calls.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiex16070-jpg/dsh-learn",
+  "repositoryUrl": "https://github.com/xiex16070-jpg/dsh-learn",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5424
+}
