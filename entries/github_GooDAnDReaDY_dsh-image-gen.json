@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-image-gen",
+  "kind": "plugin",
+  "name": "dsh-image-gen",
+  "description": "Image generation & visual processing suite for DeepSeek Harness: pluggable providers (FAL, Replicate, OpenAI, ChatGPT Plus, Grok, ComfyUI, SeaDream, Gemini), tools (remove_background, upscale_image, vectorize_image, blend_images), style presets and chat card.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-image-gen",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-image-gen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5177
+}
