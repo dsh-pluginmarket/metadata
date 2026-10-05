@@ -1,0 +1,20 @@
+{
+  "id": "github:itchenshi/dsh-ready-gui",
+  "kind": "plugin",
+  "name": "dsh-ready-gui",
+  "description": "DeepSeek Harness 桌面壳：内嵌 Web UI、引擎自动保持最新、预置 4 个插件、插件装坏能自愈。另有 Linux AppImage / zip 产物（CI 构建，未实机验证）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itchenshi/dsh-ready-gui",
+  "repositoryUrl": "https://github.com/itchenshi/dsh-ready-gui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5100
+}
