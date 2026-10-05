@@ -1,0 +1,20 @@
+{
+  "id": "github:seewhydee/dsh-emacs-bridge",
+  "kind": "plugin",
+  "name": "dsh-emacs-bridge",
+  "description": "Deepseek Harness to Emacs bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "seewhydee/dsh-emacs-bridge",
+  "repositoryUrl": "https://github.com/seewhydee/dsh-emacs-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5249
+}
