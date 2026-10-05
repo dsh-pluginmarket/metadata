@@ -1,0 +1,20 @@
+{
+  "id": "github:bitsmug/dsh-bgjobs",
+  "kind": "plugin",
+  "name": "dsh-bgjobs",
+  "description": "将命令提交为独立于 DSH 进程的后台任务，关闭 DSH 也不影响运行，并提供实时网页面板与离线 CLI/GUI 管理。Runs commands as background jobs that keep executing when DSH exits, with a live web panel and offline CLI/GUI management.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bitsmug/dsh-bgjobs",
+  "repositoryUrl": "https://github.com/bitsmug/dsh-bgjobs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5098
+}
