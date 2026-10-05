@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-plugin-doctor",
+  "kind": "plugin",
+  "name": "dsh-plugin-doctor",
+  "description": "Zero-dependency verification standard for DeepSeek Harness (dsh) plugins — static structure gates (R), cordis contract checks (K), sandbox smoke (D), ecosystem-listing checks (CC). 零依赖 DSH 插件核验标准：静态结构门禁、cordis 契约扫描、无头沙箱冒烟与生态收录核验。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-plugin-doctor",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-plugin-doctor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5201
+}
