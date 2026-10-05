@@ -1,0 +1,20 @@
+{
+  "id": "github:YottaMeta/yotta-skills-plugin",
+  "kind": "plugin",
+  "name": "yotta-skills-plugin",
+  "description": "YuanGe (元阁) — orchestration and routing for the YottaMeta skill family, packaged as an Agent Plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YottaMeta/yotta-skills-plugin",
+  "repositoryUrl": "https://github.com/YottaMeta/yotta-skills-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5493
+}
