@@ -1,0 +1,20 @@
+{
+  "id": "github:Tabbyaccessorial446/dsh-plugin-canvas",
+  "kind": "plugin",
+  "name": "dsh-plugin-canvas",
+  "description": "Render HTML design prototypes directly in DeepSeek Harness with a canvas tab for visual review, annotation, and sandboxed previews.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tabbyaccessorial446/dsh-plugin-canvas",
+  "repositoryUrl": "https://github.com/Tabbyaccessorial446/dsh-plugin-canvas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5265
+}
