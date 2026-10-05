@@ -1,0 +1,20 @@
+{
+  "id": "github:lingfengQAQ/webnovel-writer",
+  "kind": "plugin",
+  "name": "webnovel-writer",
+  "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lingfengQAQ/webnovel-writer",
+  "repositoryUrl": "https://github.com/lingfengQAQ/webnovel-writer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5343
+}
