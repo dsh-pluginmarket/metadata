@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-plugin-upgrade",
+  "kind": "plugin",
+  "name": "dsh-plugin-upgrade",
+  "description": "Plugin-author upgrade skill for DeepSeek Harness: one package, one corridor index - it detects the caller peer band, routes to the matching closed corridor card (0.1.3-alpha.1 -> 0.1.5-rc.1, 0.1.5-rc.2 -> 0.1.6-alpha.2) and runs a zero-dependency seam scanner as a bundle skill + npx CLI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-plugin-upgrade",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-plugin-upgrade",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5208
+}
