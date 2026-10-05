@@ -1,0 +1,20 @@
+{
+  "id": "github:vonweller/dsh-skillhub",
+  "kind": "plugin",
+  "name": "dsh-skillhub",
+  "description": "Browse skillhub.cn skills and install selected ones into ~/.dsh/skills",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vonweller/dsh-skillhub",
+  "repositoryUrl": "https://github.com/vonweller/dsh-skillhub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5283
+}
