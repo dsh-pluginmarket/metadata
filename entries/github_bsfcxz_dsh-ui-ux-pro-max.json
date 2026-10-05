@@ -1,0 +1,20 @@
+{
+  "id": "github:bsfcxz/dsh-ui-ux-pro-max",
+  "kind": "plugin",
+  "name": "dsh-ui-ux-pro-max",
+  "description": "DeepSeek Harness 插件：当请求涉及 UI/UX 时自动加载 ui-ux-pro-max 设计智能技能（内置 7 个技能包，开箱即用）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bsfcxz/dsh-ui-ux-pro-max",
+  "repositoryUrl": "https://github.com/bsfcxz/dsh-ui-ux-pro-max",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5132
+}
