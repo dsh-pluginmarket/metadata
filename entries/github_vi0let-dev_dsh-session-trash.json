@@ -1,0 +1,20 @@
+{
+  "id": "github:vi0let-dev/dsh-session-trash",
+  "kind": "plugin",
+  "name": "dsh-session-trash",
+  "description": "给 DeepSeek Harness 补上会话删除：删除先进回收站可还原，彻底删除会清干净日志、工作区记账、归档标记与宿主会话表。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vi0let-dev/dsh-session-trash",
+  "repositoryUrl": "https://github.com/vi0let-dev/dsh-session-trash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5410
+}
