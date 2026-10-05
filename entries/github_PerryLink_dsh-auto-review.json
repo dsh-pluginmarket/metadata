@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-auto-review",
+  "kind": "plugin",
+  "name": "dsh-auto-review",
+  "description": "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-auto-review",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-auto-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4987
+}
