@@ -1,0 +1,20 @@
+{
+  "id": "github:Wisdoverse/dsh-skills-manager-plugin",
+  "kind": "plugin",
+  "name": "dsh-skills-manager-plugin",
+  "description": "Skill manager for DeepSeek Harness: proactive skill activation with trigger hooks, GitHub source sync, and a Settings management UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wisdoverse/dsh-skills-manager-plugin",
+  "repositoryUrl": "https://github.com/Wisdoverse/dsh-skills-manager-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5152
+}
