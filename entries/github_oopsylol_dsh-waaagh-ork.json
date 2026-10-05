@@ -1,0 +1,20 @@
+{
+  "id": "github:oopsylol/dsh-waaagh-ork",
+  "kind": "plugin",
+  "name": "dsh-waaagh-ork",
+  "description": "Related DeepSeek Harness project: oopsylol/dsh-waaagh-ork",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oopsylol/dsh-waaagh-ork",
+  "repositoryUrl": "https://github.com/oopsylol/dsh-waaagh-ork",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5248
+}
