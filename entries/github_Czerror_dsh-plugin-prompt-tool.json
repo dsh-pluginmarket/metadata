@@ -1,0 +1,20 @@
+{
+  "id": "github:Czerror/dsh-plugin-prompt-tool",
+  "kind": "plugin",
+  "name": "dsh-plugin-prompt-tool",
+  "description": "DSH 插件：简体中文行为规范三层注入（常驻层 + prompt 技能 + anchored preset 锚定注入）+ Web UI 编辑 prompt.md",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Czerror/dsh-plugin-prompt-tool",
+  "repositoryUrl": "https://github.com/Czerror/dsh-plugin-prompt-tool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5331
+}
