@@ -1,0 +1,20 @@
+{
+  "id": "github:hjqcan/dsh-goodmemory",
+  "kind": "plugin",
+  "name": "dsh-goodmemory",
+  "description": "Automatic cross-session GoodMemory recall and writeback for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hjqcan/dsh-goodmemory",
+  "repositoryUrl": "https://github.com/hjqcan/dsh-goodmemory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5190
+}
