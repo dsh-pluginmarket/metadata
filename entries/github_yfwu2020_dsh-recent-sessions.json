@@ -1,0 +1,20 @@
+{
+  "id": "github:yfwu2020/dsh-recent-sessions",
+  "kind": "plugin",
+  "name": "dsh-recent-sessions",
+  "description": "DSH sidebar plugin: a floating recent-sessions sheet that blends into the sidebar",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yfwu2020/dsh-recent-sessions",
+  "repositoryUrl": "https://github.com/yfwu2020/dsh-recent-sessions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5495
+}
