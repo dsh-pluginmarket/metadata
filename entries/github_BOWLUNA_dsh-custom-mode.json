@@ -1,0 +1,20 @@
+{
+  "id": "github:BOWLUNA/dsh-custom-mode",
+  "kind": "plugin",
+  "name": "dsh-custom-mode",
+  "description": "Edit a DeepSeek Harness (dsh) mode's system prompt, base mode, and plugin switches.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BOWLUNA/dsh-custom-mode",
+  "repositoryUrl": "https://github.com/BOWLUNA/dsh-custom-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5211
+}
