@@ -1,0 +1,20 @@
+{
+  "id": "github:superSizzzz/dsh-pitfalls",
+  "kind": "plugin",
+  "name": "dsh-pitfalls",
+  "description": "DeepSeek Harness 插件：把工作中踩过的坑记成可检索的档案（现象 / 怎么踩进去的 / 怎么解决），下次遇到同类问题先翻历史",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "superSizzzz/dsh-pitfalls",
+  "repositoryUrl": "https://github.com/superSizzzz/dsh-pitfalls",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5181
+}
