@@ -1,0 +1,20 @@
+{
+  "id": "github:artec/clat",
+  "kind": "plugin",
+  "name": "clat",
+  "description": "Cmd-Line Agent, a Rust foundation compatible with the DeepSeek Harness framework. 命令行智能体，兼容深度探索驾具的 Rust 基座。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "artec/clat",
+  "repositoryUrl": "https://github.com/artec/clat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5285
+}
