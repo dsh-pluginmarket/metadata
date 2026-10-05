@@ -1,0 +1,20 @@
+{
+  "id": "github:buhuikongpan/dsh-win-gitbash",
+  "kind": "plugin",
+  "name": "dsh-win-gitbash",
+  "description": "Git Bash tool plugin for Windows (replaces pwsh and WSL-only bash)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "buhuikongpan/dsh-win-gitbash",
+  "repositoryUrl": "https://github.com/buhuikongpan/dsh-win-gitbash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5367
+}
