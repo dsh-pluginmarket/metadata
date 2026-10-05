@@ -1,0 +1,20 @@
+{
+  "id": "github:itchenshi/dsh-model-surplus",
+  "kind": "plugin",
+  "name": "dsh-model-surplus",
+  "description": "DeepSeek Harness plugin: model usage, plan quota and account balance in the session header — OpenCode Go plan usage (rolling/weekly/monthly) with the selected model's monthly cap, Command Code 5-hour/weekly windows with remaining credits, and DeepSeek account balance.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itchenshi/dsh-model-surplus",
+  "repositoryUrl": "https://github.com/itchenshi/dsh-model-surplus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5064
+}
