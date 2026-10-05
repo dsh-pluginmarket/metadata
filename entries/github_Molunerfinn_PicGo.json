@@ -1,0 +1,20 @@
+{
+  "id": "github:Molunerfinn/PicGo",
+  "kind": "plugin",
+  "name": "PicGo",
+  "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Molunerfinn/PicGo",
+  "repositoryUrl": "https://github.com/Molunerfinn/PicGo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5117
+}
