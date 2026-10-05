@@ -1,0 +1,20 @@
+{
+  "id": "github:luobosibing2/dsh-jev-plugin",
+  "kind": "plugin",
+  "name": "dsh-jev-plugin",
+  "description": "Native DeepSeek Harness (DSH) plugin integrating TypeSafe Jev as a System One decision layer for agent selection, supervision, corrections, and approvals.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luobosibing2/dsh-jev-plugin",
+  "repositoryUrl": "https://github.com/luobosibing2/dsh-jev-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5456
+}
