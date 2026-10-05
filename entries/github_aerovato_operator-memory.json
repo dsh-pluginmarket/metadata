@@ -1,0 +1,20 @@
+{
+  "id": "github:aerovato/operator-memory",
+  "kind": "plugin",
+  "name": "operator-memory",
+  "description": "The self-improving context engine for coding agents.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aerovato/operator-memory",
+  "repositoryUrl": "https://github.com/aerovato/operator-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5261
+}
