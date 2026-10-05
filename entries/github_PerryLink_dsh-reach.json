@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-reach",
+  "kind": "plugin",
+  "name": "dsh-reach",
+  "description": "Multi-channel decision & remote-control bridge for DeepSeek Harness: pushes any workspace's approval/question cards to IM channels (WeChat iLink first) and answers them from chat, with a session console, per-channel security, and an open push service.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-reach",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-reach",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4925
+}
