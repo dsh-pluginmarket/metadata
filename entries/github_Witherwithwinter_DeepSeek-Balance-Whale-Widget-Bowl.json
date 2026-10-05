@@ -1,0 +1,20 @@
+{
+  "id": "github:Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl",
+  "kind": "plugin",
+  "name": "DeepSeek-Balance-Whale-Widget-Bowl",
+  "description": "DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件。基于 MeteorNOX/DeepSeek-Balance-Whale-Widget 修改的铁盆鲸鱼娘版。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl",
+  "repositoryUrl": "https://github.com/Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5468
+}
