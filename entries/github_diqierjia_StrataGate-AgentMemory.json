@@ -1,0 +1,20 @@
+{
+  "id": "github:diqierjia/StrataGate-AgentMemory",
+  "kind": "plugin",
+  "name": "StrataGate-AgentMemory",
+  "description": "Recent memories stay detailed. Older ones grow concise. Important ones live on.近期记忆保持详细，旧记忆逐渐精简，重要记忆长期存在。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "diqierjia/StrataGate-AgentMemory",
+  "repositoryUrl": "https://github.com/diqierjia/StrataGate-AgentMemory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5241
+}
