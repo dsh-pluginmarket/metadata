@@ -1,0 +1,20 @@
+{
+  "id": "github:xfpuls/dsh-usage-suite",
+  "kind": "plugin",
+  "name": "dsh-usage-suite",
+  "description": "DSH 用量与费用统计 + 提问置顶：本轮花费、今日 token 与消费、空闲/高峰时段，并钉住最新提问",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xfpuls/dsh-usage-suite",
+  "repositoryUrl": "https://github.com/xfpuls/dsh-usage-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5334
+}
