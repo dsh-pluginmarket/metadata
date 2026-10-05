@@ -1,0 +1,20 @@
+{
+  "id": "github:elonnzhang/dsh-digital-life",
+  "kind": "plugin",
+  "name": "dsh-digital-life",
+  "description": "Related DeepSeek Harness project: elonnzhang/dsh-digital-life",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elonnzhang/dsh-digital-life",
+  "repositoryUrl": "https://github.com/elonnzhang/dsh-digital-life",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4931
+}
