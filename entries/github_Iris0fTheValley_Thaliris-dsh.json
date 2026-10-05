@@ -1,0 +1,20 @@
+{
+  "id": "github:Iris0fTheValley/Thaliris-dsh",
+  "kind": "plugin",
+  "name": "Thaliris-dsh",
+  "description": "Thaliris plugin for DeepSeek Harness using native agents, subagents, Settings and shared Web/Desktop client extensions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Iris0fTheValley/Thaliris-dsh",
+  "repositoryUrl": "https://github.com/Iris0fTheValley/Thaliris-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5124
+}
