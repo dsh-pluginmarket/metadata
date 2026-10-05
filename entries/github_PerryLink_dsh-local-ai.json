@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-local-ai",
+  "kind": "plugin",
+  "name": "dsh-local-ai",
+  "description": "Local-model (Ollama) integration for DeepSeek Harness: discover, pull, remove, and inspect local models, route requests to them by task type or keyword with automatic fallback to the cloud, and get a one-shot status overview via /ollama.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-local-ai",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-local-ai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4946
+}
