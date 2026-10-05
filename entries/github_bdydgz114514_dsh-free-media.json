@@ -1,0 +1,20 @@
+{
+  "id": "github:bdydgz114514/dsh-free-media",
+  "kind": "plugin",
+  "name": "dsh-free-media",
+  "description": "DSH 免费多模态三件套：零 Key 文生图 + 零 Key 视频理解 + 免费文生视频/图生视频。三个工具 + 一份 skill，MIT。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bdydgz114514/dsh-free-media",
+  "repositoryUrl": "https://github.com/bdydgz114514/dsh-free-media",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5354
+}
