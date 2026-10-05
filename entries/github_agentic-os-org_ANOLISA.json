@@ -1,0 +1,20 @@
+{
+  "id": "github:agentic-os-org/ANOLISA",
+  "kind": "plugin",
+  "name": "ANOLISA",
+  "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "agentic-os-org/ANOLISA",
+  "repositoryUrl": "https://github.com/agentic-os-org/ANOLISA",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5127
+}
