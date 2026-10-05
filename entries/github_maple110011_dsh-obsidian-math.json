@@ -1,0 +1,20 @@
+{
+  "id": "github:maple110011/dsh-obsidian-math",
+  "kind": "plugin",
+  "name": "dsh-obsidian-math",
+  "description": "面向数学笔记的 DeepSeek Harness 助手，驻留在 Obsidian 右侧栏。可直接读写数学笔记，维护分层长期记忆（画像、主题、类型化记录、原始证据），按 Rethlas 风格证明工作流工作，内置个人定理索引与问题模板库，并能把关键想法捕捉到备忘录、主动提醒打磨。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "maple110011/dsh-obsidian-math",
+  "repositoryUrl": "https://github.com/maple110011/dsh-obsidian-math",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5019
+}
