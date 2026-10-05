@@ -1,0 +1,20 @@
+{
+  "id": "github:datit309/dsh-telegram-bridge",
+  "kind": "plugin",
+  "name": "dsh-telegram-bridge",
+  "description": "Full 2-way Telegram Remote Control, Vision, Voice, Shell, Diff & Sound Notifications for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "datit309/dsh-telegram-bridge",
+  "repositoryUrl": "https://github.com/datit309/dsh-telegram-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5200
+}
