@@ -1,0 +1,20 @@
+{
+  "id": "github:Gyanano/dsh-grok-auth",
+  "kind": "plugin",
+  "name": "dsh-grok-auth",
+  "description": "DeepSeek Harness plugin that reuses the official Grok CLI login (SuperGrok / X Premium OAuth) for an xai LLM route",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gyanano/dsh-grok-auth",
+  "repositoryUrl": "https://github.com/Gyanano/dsh-grok-auth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5326
+}
