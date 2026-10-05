@@ -1,0 +1,20 @@
+{
+  "id": "github:lyjsyyds/dsh-novel-studio",
+  "kind": "plugin",
+  "name": "dsh-novel-studio",
+  "description": "A dedicated novel-writing partition for DeepSeek Harness: books, characters, worldbuilding, outline, chapters, an auto-wired relationship graph, and an AI pane that reads your real setting.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lyjsyyds/dsh-novel-studio",
+  "repositoryUrl": "https://github.com/lyjsyyds/dsh-novel-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4973
+}
