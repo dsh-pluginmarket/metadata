@@ -1,0 +1,20 @@
+{
+  "id": "github:beijingwahw/dsh-proof",
+  "kind": "plugin",
+  "name": "dsh-proof",
+  "description": "Evidence-driven completion proof & regression attribution plugin for DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beijingwahw/dsh-proof",
+  "repositoryUrl": "https://github.com/beijingwahw/dsh-proof",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5409
+}
