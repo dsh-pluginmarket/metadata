@@ -1,0 +1,20 @@
+{
+  "id": "github:yinnho/aginxbrowser",
+  "kind": "plugin",
+  "name": "aginxbrowser",
+  "description": "The browser built for AI agents — fetch live pages as markdown, render JS/SPAs with built-in V8, take screenshots without Chromium, meta-search 20 engines, and drive interactive login sessions. One Rust binary, stealth TLS fingerprints, MCP native for Claude Code & Cursor. Headless browser alternative to Puppeteer/Playwright.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yinnho/aginxbrowser",
+  "repositoryUrl": "https://github.com/yinnho/aginxbrowser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5281
+}
