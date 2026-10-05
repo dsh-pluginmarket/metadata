@@ -1,0 +1,20 @@
+{
+  "id": "github:shengbinxu/dsh-llm-latency",
+  "kind": "plugin",
+  "name": "dsh-llm-latency",
+  "description": "Related DeepSeek Harness project: shengbinxu/dsh-llm-latency",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shengbinxu/dsh-llm-latency",
+  "repositoryUrl": "https://github.com/shengbinxu/dsh-llm-latency",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5246
+}
