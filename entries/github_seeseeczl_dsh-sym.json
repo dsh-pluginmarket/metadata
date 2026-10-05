@@ -1,0 +1,20 @@
+{
+  "id": "github:seeseeczl/dsh-sym",
+  "kind": "plugin",
+  "name": "dsh-sym",
+  "description": "给 DeepSeek Harness 接的共生体（dsh-sym）：实时会话花费（人民币，按厂商/模型与峰谷时段折算）、每轮费用、账户余额、峰谷时段标记，以及把任一回复作为上下文引用的 @ 按钮。名字取自 symbiote —— 附着在宿主上、持续长出能力，功能不限于计费。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "seeseeczl/dsh-sym",
+  "repositoryUrl": "https://github.com/seeseeczl/dsh-sym",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5484
+}
