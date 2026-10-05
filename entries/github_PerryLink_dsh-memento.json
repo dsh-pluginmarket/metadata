@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-memento",
+  "kind": "plugin",
+  "name": "dsh-memento",
+  "description": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memory tool + frozen snapshot injection)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-memento",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-memento",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4937
+}
