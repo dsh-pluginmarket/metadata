@@ -1,0 +1,20 @@
+{
+  "id": "github:beijingwahw/dsh-computer-use-plugin",
+  "kind": "plugin",
+  "name": "dsh-computer-use-plugin",
+  "description": "Vision-only desktop automation agent plugin for DeepSeek Harness (DSH) | 纯视觉桌面自动化 Agent 插件：SoM grounding · Planner-Actor · effect verification · skill library",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beijingwahw/dsh-computer-use-plugin",
+  "repositoryUrl": "https://github.com/beijingwahw/dsh-computer-use-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5475
+}
