@@ -1,0 +1,20 @@
+{
+  "id": "github:LJH-snow/dsh-tool-zendesk",
+  "kind": "plugin",
+  "name": "dsh-tool-zendesk",
+  "description": "Related DeepSeek Harness project: LJH-snow/dsh-tool-zendesk",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LJH-snow/dsh-tool-zendesk",
+  "repositoryUrl": "https://github.com/LJH-snow/dsh-tool-zendesk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5394
+}
