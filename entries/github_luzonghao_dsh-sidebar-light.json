@@ -1,0 +1,20 @@
+{
+  "id": "github:luzonghao/dsh-sidebar-light",
+  "kind": "plugin",
+  "name": "dsh-sidebar-light",
+  "description": "Sidebar Light — sidebar Workspaces|Tags tabs (tag tree / view options / drag / search) + four-state workspace status lights with tree roll-up + session-row tag button & mark-unread + system button row with refresh (⌘R). Client-only, zero-config DSH plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luzonghao/dsh-sidebar-light",
+  "repositoryUrl": "https://github.com/luzonghao/dsh-sidebar-light",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5288
+}
