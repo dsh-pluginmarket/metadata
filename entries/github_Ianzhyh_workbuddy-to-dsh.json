@@ -1,0 +1,20 @@
+{
+  "id": "github:Ianzhyh/workbuddy-to-dsh",
+  "kind": "plugin",
+  "name": "workbuddy-to-dsh",
+  "description": "把本机 WorkBuddy 桌面端已登录的模型原生接进 DeepSeek Harness：本地桥 + 数据控制台 + dsh 原生插件（自带 bridge/控制台，单文件夹即可安装）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ianzhyh/workbuddy-to-dsh",
+  "repositoryUrl": "https://github.com/Ianzhyh/workbuddy-to-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5038
+}
