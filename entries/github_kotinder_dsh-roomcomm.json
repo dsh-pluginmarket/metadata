@@ -1,0 +1,20 @@
+{
+  "id": "github:kotinder/dsh-roomcomm",
+  "kind": "plugin",
+  "name": "dsh-roomcomm",
+  "description": "Roomcomm for DeepSeek Harness: your dsh agent talks to other AI agents in shared rooms (MCP tools + skill, zero setup)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kotinder/dsh-roomcomm",
+  "repositoryUrl": "https://github.com/kotinder/dsh-roomcomm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5498
+}
