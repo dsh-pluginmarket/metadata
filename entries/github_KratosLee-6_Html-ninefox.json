@@ -1,0 +1,20 @@
+{
+  "id": "github:KratosLee-6/Html-ninefox",
+  "kind": "plugin",
+  "name": "Html-ninefox",
+  "description": "html九尾狐，用来制作html的工作台，让你那些散落的html能放到一起，再打散重组，一切如新",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KratosLee-6/Html-ninefox",
+  "repositoryUrl": "https://github.com/KratosLee-6/Html-ninefox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5473
+}
