@@ -1,0 +1,20 @@
+{
+  "id": "github:slow-stack/mneme",
+  "kind": "plugin",
+  "name": "mneme",
+  "description": "🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Offline & private, auto-consolidates in its sleep (autoDream), visualized in a memory panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "slow-stack/mneme",
+  "repositoryUrl": "https://github.com/slow-stack/mneme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5486
+}
