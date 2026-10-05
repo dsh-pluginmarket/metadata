@@ -1,0 +1,20 @@
+{
+  "id": "github:bauerelizabeth07139/dsh-plugin-dxpdf",
+  "kind": "plugin",
+  "name": "dsh-plugin-dxpdf",
+  "description": "DeepSeek Harness plugin: convert Word .docx to PDF with the dxpdf Rust/Skia engine — no Microsoft Office, no LibreOffice, no network. It repairs the schema-invalid constructs WPS Office writes and restores Word's odd/even page parity.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bauerelizabeth07139/dsh-plugin-dxpdf",
+  "repositoryUrl": "https://github.com/bauerelizabeth07139/dsh-plugin-dxpdf",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5144
+}
