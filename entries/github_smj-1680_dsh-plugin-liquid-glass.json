@@ -1,0 +1,20 @@
+{
+  "id": "github:smj-1680/dsh-plugin-liquid-glass",
+  "kind": "plugin",
+  "name": "dsh-plugin-liquid-glass",
+  "description": "适用于 DSH 桌面端的液态玻璃美化插件：输入框、消息气泡、侧栏与顶栏等主要界面元素改为液态玻璃材质，可搭配各类壁纸插件使用（需深色模式）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smj-1680/dsh-plugin-liquid-glass",
+  "repositoryUrl": "https://github.com/smj-1680/dsh-plugin-liquid-glass",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5376
+}
