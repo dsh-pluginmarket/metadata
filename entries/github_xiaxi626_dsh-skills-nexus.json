@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaxi626/dsh-skills-nexus",
+  "kind": "plugin",
+  "name": "dsh-skills-nexus",
+  "description": "Universal DSH skill adapter. Install once, then register any GitHub repo containing a SKILL.md as a DSH skill — one command per repo. No Cordis plugin code or package.json needed in the skill repo.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaxi626/dsh-skills-nexus",
+  "repositoryUrl": "https://github.com/xiaxi626/dsh-skills-nexus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4953
+}
