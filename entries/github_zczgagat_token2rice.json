@@ -1,0 +1,20 @@
+{
+  "id": "github:zczgagat/token2rice",
+  "kind": "plugin",
+  "name": "token2rice",
+  "description": "一个能把你消耗的token转换为白米饭的dsh插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zczgagat/token2rice",
+  "repositoryUrl": "https://github.com/zczgagat/token2rice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5183
+}
