@@ -1,0 +1,20 @@
+{
+  "id": "github:annkun/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "Deepseek harness memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "annkun/dsh-memory",
+  "repositoryUrl": "https://github.com/annkun/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5318
+}
