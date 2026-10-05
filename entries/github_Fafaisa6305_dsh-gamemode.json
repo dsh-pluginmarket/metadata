@@ -1,0 +1,20 @@
+{
+  "id": "github:Fafaisa6305/dsh-gamemode",
+  "kind": "plugin",
+  "name": "dsh-gamemode",
+  "description": "Related DeepSeek Harness project: Fafaisa6305/dsh-gamemode",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fafaisa6305/dsh-gamemode",
+  "repositoryUrl": "https://github.com/Fafaisa6305/dsh-gamemode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5267
+}
