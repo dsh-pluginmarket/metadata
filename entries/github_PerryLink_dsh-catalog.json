@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-catalog",
+  "kind": "plugin",
+  "name": "dsh-catalog",
+  "description": "DSH Desktop Market standard catalog source for the PerryLink plugin family: curated summaries, same-origin icons, contract-validated, CI-smoked.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-catalog",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-catalog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5236
+}
