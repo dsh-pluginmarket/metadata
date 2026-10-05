@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-mcp-panel",
+  "kind": "plugin",
+  "name": "dsh-mcp-panel",
+  "description": "MCP management console for the official DeepSeek Harness MCP client: /mcp command with health diagnostics and pipeline trial calls, a Settings MCP tab with server CRUD (approval-gated writes, automatic backups) and a tool trial console over the official tool pipeline (Apache-2.0, dsh-plugin).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-mcp-panel",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-mcp-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4939
+}
