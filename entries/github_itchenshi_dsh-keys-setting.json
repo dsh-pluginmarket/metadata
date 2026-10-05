@@ -1,0 +1,20 @@
+{
+  "id": "github:itchenshi/dsh-keys-setting",
+  "kind": "plugin",
+  "name": "dsh-keys-setting",
+  "description": "DeepSeek Harness plugin: choose whether Enter / Shift+Enter / Ctrl/Cmd+Enter sends the message or inserts a line break",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itchenshi/dsh-keys-setting",
+  "repositoryUrl": "https://github.com/itchenshi/dsh-keys-setting",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5085
+}
