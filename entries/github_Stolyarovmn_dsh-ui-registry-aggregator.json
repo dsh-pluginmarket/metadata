@@ -1,0 +1,20 @@
+{
+  "id": "github:Stolyarovmn/dsh-ui-registry-aggregator",
+  "kind": "plugin",
+  "name": "dsh-ui-registry-aggregator",
+  "description": "Federated plugin registry aggregator for DeepSeek Harness — combine npm, GitHub, and JSON catalogs into one searchable index.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Stolyarovmn/dsh-ui-registry-aggregator",
+  "repositoryUrl": "https://github.com/Stolyarovmn/dsh-ui-registry-aggregator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5489
+}
