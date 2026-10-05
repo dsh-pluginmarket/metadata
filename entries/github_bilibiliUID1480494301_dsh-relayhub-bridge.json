@@ -1,0 +1,20 @@
+{
+  "id": "github:bilibiliUID1480494301/dsh-relayhub-bridge",
+  "kind": "plugin",
+  "name": "dsh-relayhub-bridge",
+  "description": "DeepSeek Harness plugin: join a relay-hub station with a TOIP dynamic password and get per-plugin log accounting on the station side. 用动态口令把 DSH 接入中转站。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bilibiliUID1480494301/dsh-relayhub-bridge",
+  "repositoryUrl": "https://github.com/bilibiliUID1480494301/dsh-relayhub-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5035
+}
