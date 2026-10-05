@@ -1,0 +1,20 @@
+{
+  "id": "github:A7m0spHere/dsh-feiyuFM",
+  "kind": "plugin",
+  "name": "dsh-feiyuFM",
+  "description": "肥鱼电台 FishFM：面向 DeepSeek Harness（DSH）的社区音乐插件，支持网易云听歌、本地偏好学习、可选模型歌单与新歌筛选。开发预览。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "A7m0spHere/dsh-feiyuFM",
+  "repositoryUrl": "https://github.com/A7m0spHere/dsh-feiyuFM",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5356
+}
