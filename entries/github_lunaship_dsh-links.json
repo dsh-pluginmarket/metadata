@@ -1,0 +1,20 @@
+{
+  "id": "github:lunaship/dsh-links",
+  "kind": "plugin",
+  "name": "dsh-links",
+  "description": "Android companion for DeepSeek Harness: trusted-LAN pairing, mobile sessions, SSE approvals, experimental tunnels, and DeepLinks Relay (private testing).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lunaship/dsh-links",
+  "repositoryUrl": "https://github.com/lunaship/dsh-links",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5172
+}
