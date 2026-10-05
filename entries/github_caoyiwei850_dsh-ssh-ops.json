@@ -1,0 +1,20 @@
+{
+  "id": "github:caoyiwei850/dsh-ssh-ops",
+  "kind": "plugin",
+  "name": "dsh-ssh-ops",
+  "description": "DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "caoyiwei850/dsh-ssh-ops",
+  "repositoryUrl": "https://github.com/caoyiwei850/dsh-ssh-ops",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5292
+}
