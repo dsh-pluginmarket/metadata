@@ -1,0 +1,20 @@
+{
+  "id": "github:erduotong/dsh-plugin-graph",
+  "kind": "plugin",
+  "name": "dsh-plugin-graph",
+  "description": "一个Deepseek Harness的插件关系图谱可视化插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "erduotong/dsh-plugin-graph",
+  "repositoryUrl": "https://github.com/erduotong/dsh-plugin-graph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5187
+}
