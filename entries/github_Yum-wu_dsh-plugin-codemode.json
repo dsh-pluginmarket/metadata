@@ -1,0 +1,20 @@
+{
+  "id": "github:Yum-wu/dsh-plugin-codemode",
+  "kind": "plugin",
+  "name": "dsh-plugin-codemode",
+  "description": "Pi-style Code Mode for DeepSeek Harness (DSH): Programmatic Tool Calling via QuickJS-WASM sandbox",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yum-wu/dsh-plugin-codemode",
+  "repositoryUrl": "https://github.com/Yum-wu/dsh-plugin-codemode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4990
+}
