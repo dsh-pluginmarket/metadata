@@ -1,0 +1,20 @@
+{
+  "id": "github:sgzxs/dsh-global-task-list",
+  "kind": "plugin",
+  "name": "dsh-global-task-list",
+  "description": "A global task library plugin for DeepSeek Harness featuring cross-session persistence, a real-time generative-UI browser panel, and subagent job synchronization.DeepSeek Harness 全局任务插件：提供跨会话持久化任务库、生成式 UI (Generative-UI) 悬浮面板及子智能体 (Subagent) 状态自动同步。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sgzxs/dsh-global-task-list",
+  "repositoryUrl": "https://github.com/sgzxs/dsh-global-task-list",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5329
+}
