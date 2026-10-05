@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-lanmode",
+  "kind": "plugin",
+  "name": "dsh-lanmode",
+  "description": "Mobile gateway and secure local network access for DeepSeek Harness WebUI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-lanmode",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-lanmode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5293
+}
