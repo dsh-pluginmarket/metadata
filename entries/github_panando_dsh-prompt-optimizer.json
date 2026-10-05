@@ -1,0 +1,20 @@
+{
+  "id": "github:panando/dsh-prompt-optimizer",
+  "kind": "plugin",
+  "name": "dsh-prompt-optimizer",
+  "description": "One button prompt optimizer with configurable strategy.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "panando/dsh-prompt-optimizer",
+  "repositoryUrl": "https://github.com/panando/dsh-prompt-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5412
+}
