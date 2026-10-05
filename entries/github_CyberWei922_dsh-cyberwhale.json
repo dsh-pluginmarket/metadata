@@ -1,0 +1,20 @@
+{
+  "id": "github:CyberWei922/dsh-cyberwhale",
+  "kind": "plugin",
+  "name": "dsh-cyberwhale",
+  "description": "一只随 Harness 工作状态变化、陪你使用 DeepSeek Harness 官方 Desktop 的蓝色大肥鱼桌宠",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CyberWei922/dsh-cyberwhale",
+  "repositoryUrl": "https://github.com/CyberWei922/dsh-cyberwhale",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5070
+}
