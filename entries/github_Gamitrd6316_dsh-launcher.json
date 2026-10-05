@@ -1,0 +1,20 @@
+{
+  "id": "github:Gamitrd6316/dsh-launcher",
+  "kind": "plugin",
+  "name": "dsh-launcher",
+  "description": "Manage and launch DeepSeek Harness with a beginner-friendly desktop GUI—no command line required.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gamitrd6316/dsh-launcher",
+  "repositoryUrl": "https://github.com/Gamitrd6316/dsh-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5269
+}
