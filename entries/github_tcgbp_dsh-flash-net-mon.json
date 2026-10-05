@@ -1,0 +1,20 @@
+{
+  "id": "github:tcgbp/dsh-flash-net-mon",
+  "kind": "plugin",
+  "name": "dsh-flash-net-mon",
+  "description": "Network monitor, outbound audit and network-alert provider for dock-flash — a GitHub mirror of the authoritative Gitee repository.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tcgbp/dsh-flash-net-mon",
+  "repositoryUrl": "https://github.com/tcgbp/dsh-flash-net-mon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5405
+}
