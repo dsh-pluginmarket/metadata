@@ -1,0 +1,20 @@
+{
+  "id": "github:BotHarness/BotHarness",
+  "kind": "plugin",
+  "name": "BotHarness",
+  "description": "Related DeepSeek Harness project: BotHarness/BotHarness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BotHarness/BotHarness",
+  "repositoryUrl": "https://github.com/BotHarness/BotHarness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5108
+}
