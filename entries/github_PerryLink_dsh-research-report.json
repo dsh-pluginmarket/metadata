@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-research-report",
+  "kind": "plugin",
+  "name": "dsh-research-report",
+  "description": "Verifiable research-report engine for DeepSeek Harness: content-addressed evidence ledger (claim-snapshot binding, tamper-evident) plus versioned sealed reports with per-claim verification verdicts and a manifest-sealed directory.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-research-report",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-research-report",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4923
+}
