@@ -1,0 +1,20 @@
+{
+  "id": "github:yellpoliovirusvaccine37/dsh-launcher",
+  "kind": "plugin",
+  "name": "dsh-launcher",
+  "description": "Launch DeepSeek Harness on Windows with one double-click, featuring startup autostart and a compact standalone window—no command line required.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yellpoliovirusvaccine37/dsh-launcher",
+  "repositoryUrl": "https://github.com/yellpoliovirusvaccine37/dsh-launcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5273
+}
