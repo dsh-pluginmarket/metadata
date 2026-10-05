@@ -1,0 +1,20 @@
+{
+  "id": "github:tanle-mtr/dsh-plogin-plugin-recommender",
+  "kind": "plugin",
+  "name": "dsh-plogin-plugin-recommender",
+  "description": "The most comprehensive AI-curated list of DeepSeek Harness (DSH) plugins - 190+ plugins, 12 categories, updated hourly by AI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tanle-mtr/dsh-plogin-plugin-recommender",
+  "repositoryUrl": "https://github.com/tanle-mtr/dsh-plogin-plugin-recommender",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5348
+}
