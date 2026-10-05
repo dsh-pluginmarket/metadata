@@ -1,0 +1,20 @@
+{
+  "id": "github:cyjyyd/dsh-ssh-tui",
+  "kind": "plugin",
+  "name": "dsh-ssh-tui",
+  "description": "SSH-friendly DeepSeek Harness TUI. Plain ANSI, incremental redraws, no browser.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cyjyyd/dsh-ssh-tui",
+  "repositoryUrl": "https://github.com/cyjyyd/dsh-ssh-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5301
+}
