@@ -1,0 +1,20 @@
+{
+  "id": "github:Z8906/dsh-plugin-office-markdown",
+  "kind": "plugin",
+  "name": "dsh-plugin-office-markdown",
+  "description": "读取 Office / PDF 前先转成 Markdown，用一行路径代替整份全文 —— 省 token 的 DSH bundle 插件。0 npm 依赖，转换全在本地，产物归你所有，卸载自动清理 Python 环境。 Convert Office/PDF to Markdown before reading in DeepSeek Harness — one path instead of the whole document.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Z8906/dsh-plugin-office-markdown",
+  "repositoryUrl": "https://github.com/Z8906/dsh-plugin-office-markdown",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5256
+}
