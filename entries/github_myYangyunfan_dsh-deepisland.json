@@ -1,0 +1,20 @@
+{
+  "id": "github:myYangyunfan/dsh-deepisland",
+  "kind": "plugin",
+  "name": "dsh-deepisland",
+  "description": "DSH 智能体灵动岛：macOS 刘海 / Windows Fluent 双端兼容，实时显示 Agent 思考、工具调用与子代理并行状态",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "myYangyunfan/dsh-deepisland",
+  "repositoryUrl": "https://github.com/myYangyunfan/dsh-deepisland",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5252
+}
