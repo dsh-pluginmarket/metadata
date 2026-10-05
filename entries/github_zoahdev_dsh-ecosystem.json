@@ -1,0 +1,20 @@
+{
+  "id": "github:zoahdev/dsh-ecosystem",
+  "kind": "plugin",
+  "name": "dsh-ecosystem",
+  "description": "The living map of the DeepSeek Harness plugin ecosystem: curated plugin catalog with quality signals, bug radar, gap radar, and weekly editions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zoahdev/dsh-ecosystem",
+  "repositoryUrl": "https://github.com/zoahdev/dsh-ecosystem",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5205
+}
