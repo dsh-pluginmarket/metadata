@@ -1,0 +1,20 @@
+{
+  "id": "github:mrzturn/dsh-switchman",
+  "kind": "plugin",
+  "name": "dsh-switchman",
+  "description": "dsh-switchman who is a plugin for deepseek harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mrzturn/dsh-switchman",
+  "repositoryUrl": "https://github.com/mrzturn/dsh-switchman",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5016
+}
