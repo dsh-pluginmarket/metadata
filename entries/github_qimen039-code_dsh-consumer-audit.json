@@ -1,0 +1,20 @@
+{
+  "id": "github:qimen039-code/dsh-consumer-audit",
+  "kind": "plugin",
+  "name": "dsh-consumer-audit",
+  "description": "Audit a DSH profile for capabilities nothing consumes, and record completion claims with the evidence that supports them.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qimen039-code/dsh-consumer-audit",
+  "repositoryUrl": "https://github.com/qimen039-code/dsh-consumer-audit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5250
+}
