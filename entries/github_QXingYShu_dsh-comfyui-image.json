@@ -1,0 +1,20 @@
+{
+  "id": "github:QXingYShu/dsh-comfyui-image",
+  "kind": "plugin",
+  "name": "dsh-comfyui-image",
+  "description": "DeepSeek Harness plugin that drives a local ComfyUI image workflow (Z-Image-Turbo, Qwen-Image-2.1) from the agent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QXingYShu/dsh-comfyui-image",
+  "repositoryUrl": "https://github.com/QXingYShu/dsh-comfyui-image",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5112
+}
