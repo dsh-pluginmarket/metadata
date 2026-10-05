@@ -1,0 +1,20 @@
+{
+  "id": "github:9087/dsh-diff-approval",
+  "kind": "plugin",
+  "name": "dsh-diff-approval",
+  "description": "Make every agent edit approvable in DeepSeek Harness: full-diff review, per-file / per-block keep & revert, undo/redo.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "9087/dsh-diff-approval",
+  "repositoryUrl": "https://github.com/9087/dsh-diff-approval",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5244
+}
