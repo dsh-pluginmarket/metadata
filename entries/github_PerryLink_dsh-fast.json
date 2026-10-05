@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-fast",
+  "kind": "plugin",
+  "name": "dsh-fast",
+  "description": "Read-only performance diagnostics for DeepSeek Harness: session load/restore timing, spill-hit counts, compaction count and trigger, context-injection volume (AGENTS.md/skills/tool-schema token share), and LLM cache hit rate — surfaced via /fast, persisted as reconstructable session events with async sampling off the model path.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-fast",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-fast",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4958
+}
