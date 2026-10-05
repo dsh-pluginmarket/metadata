@@ -1,0 +1,20 @@
+{
+  "id": "github:CroissanTTs/dsh-voice-mini",
+  "kind": "plugin",
+  "name": "dsh-voice-mini",
+  "description": "Voice-feedback plugin for DeepSeek Harness: speak tool, verbalizer, per-session voices, chimes, monitoring, native pet. zh/en i18n.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CroissanTTs/dsh-voice-mini",
+  "repositoryUrl": "https://github.com/CroissanTTs/dsh-voice-mini",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5434
+}
