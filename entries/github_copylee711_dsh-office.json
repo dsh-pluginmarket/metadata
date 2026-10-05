@@ -1,0 +1,20 @@
+{
+  "id": "github:copylee711/dsh-office",
+  "kind": "plugin",
+  "name": "dsh-office",
+  "description": "DeepSeek Harness 插件：AI 直接在你打开的 Word / Excel / PowerPoint 里改文档，改动实时可见，可以一起编辑（Windows）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "copylee711/dsh-office",
+  "repositoryUrl": "https://github.com/copylee711/dsh-office",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5150
+}
