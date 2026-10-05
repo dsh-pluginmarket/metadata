@@ -1,0 +1,20 @@
+{
+  "id": "github:CH2008445/dsh-api-balance",
+  "kind": "plugin",
+  "name": "dsh-api-balance",
+  "description": "DeepSeek API account balance, per-run usage cost, and per-1M-token prices in the DSH web GUI sidebar footer. Copy in English, Chinese, Russian, and German. The API key stays in the host process: no shell, no sandbox bypass, official endpoint only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CH2008445/dsh-api-balance",
+  "repositoryUrl": "https://github.com/CH2008445/dsh-api-balance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5370
+}
