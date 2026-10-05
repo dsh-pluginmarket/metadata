@@ -1,0 +1,20 @@
+{
+  "id": "github:daoyu1993-lab/dsh-plugin-composer-expand",
+  "kind": "plugin",
+  "name": "dsh-plugin-composer-expand",
+  "description": "DSH composer plugin: an expand button that turns the input into an immersive overlay writing surface where Enter makes a newline and only the send button submits.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daoyu1993-lab/dsh-plugin-composer-expand",
+  "repositoryUrl": "https://github.com/daoyu1993-lab/dsh-plugin-composer-expand",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5003
+}
