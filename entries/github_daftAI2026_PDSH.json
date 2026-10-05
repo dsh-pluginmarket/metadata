@@ -1,0 +1,20 @@
+{
+  "id": "github:daftAI2026/PDSH",
+  "kind": "plugin",
+  "name": "PDSH",
+  "description": "DSH Private Mode: sidebar title masking, display identity, and managed plugin updates for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daftAI2026/PDSH",
+  "repositoryUrl": "https://github.com/daftAI2026/PDSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5081
+}
