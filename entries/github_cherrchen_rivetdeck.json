@@ -1,0 +1,20 @@
+{
+  "id": "github:cherrchen/rivetdeck",
+  "kind": "plugin",
+  "name": "rivetdeck",
+  "description": "DeepSeek Harness 非官方跨平台桌面封装，预装 Git 与 Theme Studio 插件；与上游同步。 / Non-official Cross-platform DeepSeek Harness desktop app with built-in Git and Theme Studio plugins; synchronized with upstream.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cherrchen/rivetdeck",
+  "repositoryUrl": "https://github.com/cherrchen/rivetdeck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5460
+}
