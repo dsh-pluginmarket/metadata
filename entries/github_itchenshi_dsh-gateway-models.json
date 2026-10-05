@@ -1,0 +1,20 @@
+{
+  "id": "github:itchenshi/dsh-gateway-models",
+  "kind": "plugin",
+  "name": "dsh-gateway-models",
+  "description": "DeepSeek Harness plugin for gateway routes: declares the OpenCode Go and Command Code route protocol + endpoint (so the API address never has to be typed) and completes their model lists. The OpenCode Go half puts DeepSeek V4.1 first; the Command Code half syncs all 81 models from its public catalog. Also adds the x-opencode-session header.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itchenshi/dsh-gateway-models",
+  "repositoryUrl": "https://github.com/itchenshi/dsh-gateway-models",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5046
+}
