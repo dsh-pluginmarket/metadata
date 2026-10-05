@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-moa",
+  "kind": "plugin",
+  "name": "dsh-moa",
+  "description": "Mixture of Agents (MoA) plugin for DeepSeek Harness with /moa slash command, file workspaces, and Live Canvas integration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-moa",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-moa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5040
+}
