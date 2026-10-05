@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-plugin-portal",
+  "kind": "plugin",
+  "name": "dsh-plugin-portal",
+  "description": "Zero-dependency static portal rendering the @perrylink DeepSeek Harness plugin ecosystem as grouped cards: one page, no build step, no runtime framework.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-plugin-portal",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-plugin-portal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5226
+}
