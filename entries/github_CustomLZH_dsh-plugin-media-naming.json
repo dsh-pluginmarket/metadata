@@ -1,0 +1,20 @@
+{
+  "id": "github:CustomLZH/dsh-plugin-media-naming",
+  "kind": "plugin",
+  "name": "dsh-plugin-media-naming",
+  "description": "Related DeepSeek Harness project: CustomLZH/dsh-plugin-media-naming",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CustomLZH/dsh-plugin-media-naming",
+  "repositoryUrl": "https://github.com/CustomLZH/dsh-plugin-media-naming",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5361
+}
