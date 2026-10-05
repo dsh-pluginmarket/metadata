@@ -1,0 +1,20 @@
+{
+  "id": "github:geml-spec/geml",
+  "kind": "plugin",
+  "name": "geml",
+  "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiable, and versioned for machines.  GEML is plain text — organized by one typed block for everything, remembered by a .gemlhistory sidecar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "geml-spec/geml",
+  "repositoryUrl": "https://github.com/geml-spec/geml",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5353
+}
