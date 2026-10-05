@@ -1,0 +1,20 @@
+{
+  "id": "github:abbccdd/dsh-localtts",
+  "kind": "plugin",
+  "name": "dsh-localtts",
+  "description": "Local IndexTTS 2.5 and GPT-SoVITS speech synthesis and playback for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "abbccdd/dsh-localtts",
+  "repositoryUrl": "https://github.com/abbccdd/dsh-localtts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4993
+}
