@@ -1,0 +1,20 @@
+{
+  "id": "github:S1m0n1314/dsh-TaskCompletedNotification-plugin",
+  "kind": "plugin",
+  "name": "dsh-TaskCompletedNotification-plugin",
+  "description": "用WorkBuddy有感，于是照做了个横幅通知",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "S1m0n1314/dsh-TaskCompletedNotification-plugin",
+  "repositoryUrl": "https://github.com/S1m0n1314/dsh-TaskCompletedNotification-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5454
+}
