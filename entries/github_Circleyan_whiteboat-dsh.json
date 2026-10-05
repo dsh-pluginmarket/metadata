@@ -1,0 +1,20 @@
+{
+  "id": "github:Circleyan/whiteboat-dsh",
+  "kind": "plugin",
+  "name": "whiteboat-dsh",
+  "description": "Whiteboat for DeepSeek Harness; the quiet water surface is the first feature slice.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Circleyan/whiteboat-dsh",
+  "repositoryUrl": "https://github.com/Circleyan/whiteboat-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5448
+}
