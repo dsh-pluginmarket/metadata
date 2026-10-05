@@ -1,0 +1,20 @@
+{
+  "id": "github:Wisdoverse/dsh-inline-media-viewer-plugin",
+  "kind": "plugin",
+  "name": "dsh-inline-media-viewer-plugin",
+  "description": "Inline image, video, and audio previews for DeepSeek Harness Web, with workspace-safe local files, direct web media, and an optional ComfyUI proxy.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wisdoverse/dsh-inline-media-viewer-plugin",
+  "repositoryUrl": "https://github.com/Wisdoverse/dsh-inline-media-viewer-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5156
+}
