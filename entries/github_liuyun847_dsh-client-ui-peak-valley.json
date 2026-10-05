@@ -1,0 +1,20 @@
+{
+  "id": "github:liuyun847/dsh-client-ui-peak-valley",
+  "kind": "plugin",
+  "name": "dsh-client-ui-peak-valley",
+  "description": "DSH Web 客户端插件:模型选择按钮左侧显示 DeepSeek API 峰/谷价状态(绿=谷,橙=峰)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuyun847/dsh-client-ui-peak-valley",
+  "repositoryUrl": "https://github.com/liuyun847/dsh-client-ui-peak-valley",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5365
+}
