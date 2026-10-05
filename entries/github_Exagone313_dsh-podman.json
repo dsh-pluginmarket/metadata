@@ -1,0 +1,20 @@
+{
+  "id": "github:Exagone313/dsh-podman",
+  "kind": "plugin",
+  "name": "dsh-podman",
+  "description": "Podman-backed execution for DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Exagone313/dsh-podman",
+  "repositoryUrl": "https://github.com/Exagone313/dsh-podman",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5393
+}
