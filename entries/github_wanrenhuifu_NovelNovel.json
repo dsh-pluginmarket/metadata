@@ -1,0 +1,20 @@
+{
+  "id": "github:wanrenhuifu/NovelNovel",
+  "kind": "plugin",
+  "name": "NovelNovel",
+  "description": "DeepSeek Harness 插件：让 agent 用 novel_* 工具写小说（章节 / SillyTavern 角色卡 / 世界观词条 / 写作预设 / 上下文组装 / 导出），数据落工作区文件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wanrenhuifu/NovelNovel",
+  "repositoryUrl": "https://github.com/wanrenhuifu/NovelNovel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5196
+}
