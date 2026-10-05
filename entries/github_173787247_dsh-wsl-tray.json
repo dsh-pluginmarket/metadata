@@ -1,0 +1,20 @@
+{
+  "id": "github:173787247/dsh-wsl-tray",
+  "kind": "plugin",
+  "name": "dsh-wsl-tray",
+  "description": "Install or report a Windows tray/shortcut launcher for dsh web in WSL.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "173787247/dsh-wsl-tray",
+  "repositoryUrl": "https://github.com/173787247/dsh-wsl-tray",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5431
+}
