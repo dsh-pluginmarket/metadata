@@ -1,0 +1,20 @@
+{
+  "id": "github:kelai141/dsh-mobile-apk",
+  "kind": "plugin",
+  "name": "dsh-mobile-apk",
+  "description": "dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑），为dsh本地运行设计的高性能方案",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kelai141/dsh-mobile-apk",
+  "repositoryUrl": "https://github.com/kelai141/dsh-mobile-apk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5290
+}
