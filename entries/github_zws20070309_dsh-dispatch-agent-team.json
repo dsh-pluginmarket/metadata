@@ -1,0 +1,20 @@
+{
+  "id": "github:zws20070309/dsh-dispatch-agent-team",
+  "kind": "plugin",
+  "name": "dsh-dispatch-agent-team",
+  "description": "调度模式（dispatch-mode）agent preset + 智能体团队插件 for DeepSeek Harness：12 类队员角色、共享队员卡（缓存友好）、report_result 结构化汇报、wake_teammate、缓存保活、会话级团队开关记忆。一条命令安装：node tools/install.cjs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zws20070309/dsh-dispatch-agent-team",
+  "repositoryUrl": "https://github.com/zws20070309/dsh-dispatch-agent-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5307
+}
