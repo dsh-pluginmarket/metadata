@@ -1,0 +1,20 @@
+{
+  "id": "github:PPawnsir/task-board-plugin",
+  "kind": "plugin",
+  "name": "task-board-plugin",
+  "description": "Related DeepSeek Harness project: PPawnsir/task-board-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PPawnsir/task-board-plugin",
+  "repositoryUrl": "https://github.com/PPawnsir/task-board-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5471
+}
