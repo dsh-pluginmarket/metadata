@@ -1,0 +1,20 @@
+{
+  "id": "github:takboo/dsh-usage-state",
+  "kind": "plugin",
+  "name": "dsh-usage-state",
+  "description": "DSH plugin: show account balance (API mode) or coding-plan quota usage (5h/7d) for the model in use",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "takboo/dsh-usage-state",
+  "repositoryUrl": "https://github.com/takboo/dsh-usage-state",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5052
+}
