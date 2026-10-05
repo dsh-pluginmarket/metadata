@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-data-quality",
+  "kind": "plugin",
+  "name": "dsh-data-quality",
+  "description": "DeepSeek Harness plugin: deterministic data profiling, cleaning, and verification (dsh-data-quality)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-data-quality",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-data-quality",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4967
+}
