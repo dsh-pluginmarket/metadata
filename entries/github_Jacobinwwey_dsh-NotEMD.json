@@ -1,0 +1,20 @@
+{
+  "id": "github:Jacobinwwey/dsh-NotEMD",
+  "kind": "plugin",
+  "name": "dsh-NotEMD",
+  "description": "Portable NoteMD workflow bundle for DeepSeek Harness: approval-gated markdown automation, knowledge indexing, diagrams, SVG previews, and Slidev exports.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jacobinwwey/dsh-NotEMD",
+  "repositoryUrl": "https://github.com/Jacobinwwey/dsh-NotEMD",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5092
+}
