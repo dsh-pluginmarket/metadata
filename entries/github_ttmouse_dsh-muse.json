@@ -1,0 +1,20 @@
+{
+  "id": "github:ttmouse/dsh-muse",
+  "kind": "plugin",
+  "name": "dsh-muse",
+  "description": "Muse-like persistence for DSH: durable autonomy across restarts + silent proactive heartbeat",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ttmouse/dsh-muse",
+  "repositoryUrl": "https://github.com/ttmouse/dsh-muse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5476
+}
