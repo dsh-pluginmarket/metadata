@@ -1,0 +1,20 @@
+{
+  "id": "github:kaine380/dsh-mcp-unified-panel",
+  "kind": "plugin",
+  "name": "dsh-mcp-unified-panel",
+  "description": "能力库 (Unified MCP & Skill Hub): All-in-One MCP & Skill manager for DeepSeek Harness with feature-based row recognition and built-in OAuth 2.1 client driver.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kaine380/dsh-mcp-unified-panel",
+  "repositoryUrl": "https://github.com/kaine380/dsh-mcp-unified-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5500
+}
