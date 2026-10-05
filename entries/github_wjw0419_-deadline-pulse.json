@@ -1,0 +1,20 @@
+{
+  "id": "github:wjw0419/-deadline-pulse",
+  "kind": "plugin",
+  "name": "-deadline-pulse",
+  "description": "一个帮你记住deadline的小工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wjw0419/-deadline-pulse",
+  "repositoryUrl": "https://github.com/wjw0419/-deadline-pulse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5170
+}
