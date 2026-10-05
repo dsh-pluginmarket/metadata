@@ -1,0 +1,20 @@
+{
+  "id": "github:reactive-resume/reactive-resume",
+  "kind": "plugin",
+  "name": "reactive-resume",
+  "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "reactive-resume/reactive-resume",
+  "repositoryUrl": "https://github.com/reactive-resume/reactive-resume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5055
+}
