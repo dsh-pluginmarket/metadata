@@ -1,0 +1,20 @@
+{
+  "id": "github:ApakohZzz/DSHPluginHub-Market-Framework",
+  "kind": "plugin",
+  "name": "DSHPluginHub-Market-Framework",
+  "description": "DeepSeek Harness 插件市场通用模板框架（DSH Plugin Market framework）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ApakohZzz/DSHPluginHub-Market-Framework",
+  "repositoryUrl": "https://github.com/ApakohZzz/DSHPluginHub-Market-Framework",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5229
+}
