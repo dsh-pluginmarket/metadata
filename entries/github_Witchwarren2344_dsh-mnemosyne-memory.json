@@ -1,0 +1,20 @@
+{
+  "id": "github:Witchwarren2344/dsh-mnemosyne-memory",
+  "kind": "plugin",
+  "name": "dsh-mnemosyne-memory",
+  "description": "Provide long-term memory, vector semantic search, and LLM reflection for DeepSeek Harness (DSH) with this free, MIT-licensed plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Witchwarren2344/dsh-mnemosyne-memory",
+  "repositoryUrl": "https://github.com/Witchwarren2344/dsh-mnemosyne-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5263
+}
