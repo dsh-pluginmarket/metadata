@@ -1,0 +1,20 @@
+{
+  "id": "github:MrTomTao/dsh-token-billing",
+  "kind": "plugin",
+  "name": "dsh-token-billing",
+  "description": "给DeepSeek Harness Web GUI用的会话token计费插件：在会话标题栏显示本次会话的实时花费，点开可以看输入 / 缓存命中 / 缓存写入 / 输出 / 推理的分项、按模型的账单，以及当前用的是高峰还是空闲时段价。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MrTomTao/dsh-token-billing",
+  "repositoryUrl": "https://github.com/MrTomTao/dsh-token-billing",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5088
+}
