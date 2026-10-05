@@ -1,0 +1,20 @@
+{
+  "id": "github:Unclecheng-li/AI_Animation",
+  "kind": "plugin",
+  "name": "AI_Animation",
+  "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Unclecheng-li/AI_Animation",
+  "repositoryUrl": "https://github.com/Unclecheng-li/AI_Animation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5338
+}
