@@ -1,0 +1,20 @@
+{
+  "id": "github:CLICGGER-TYPES/dsh-piggy",
+  "kind": "plugin",
+  "name": "dsh-piggy",
+  "description": "🐖 DeepSeek Harness 养成插件，也可作为 Windows/Linux/macOS 桌面宠物运行；支持成长、学习、打工、钓鱼、图鉴与换肤",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CLICGGER-TYPES/dsh-piggy",
+  "repositoryUrl": "https://github.com/CLICGGER-TYPES/dsh-piggy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5164
+}
