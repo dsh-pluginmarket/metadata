@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-session-pin",
+  "kind": "plugin",
+  "name": "dsh-session-pin",
+  "description": "Pin sessions and workspaces to the top of the DeepSeek Harness sidebar with per-pin row colors - a dual-face (host + client) dsh plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-session-pin",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-session-pin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4920
+}
