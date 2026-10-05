@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepEP-Ascend",
+  "kind": "plugin",
+  "name": "DeepEP-Ascend",
+  "description": "A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepEP-Ascend",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepEP-Ascend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5513
+}
