@@ -1,0 +1,20 @@
+{
+  "id": "github:ipromise2021/dsh-omc-tui",
+  "kind": "plugin",
+  "name": "dsh-omc-tui",
+  "description": "DeepSeek Harness (DSH) 原生全功能终端交互界面 · Claude Code-styled Terminal TUI & CLI for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ipromise2021/dsh-omc-tui",
+  "repositoryUrl": "https://github.com/ipromise2021/dsh-omc-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5459
+}
