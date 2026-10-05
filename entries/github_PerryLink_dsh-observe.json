@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-observe",
+  "kind": "plugin",
+  "name": "dsh-observe",
+  "description": "OpenTelemetry and Langfuse observability exporter for DeepSeek Harness: turn/step/tool/LLM spans, token and cost metrics, sanitized prompt/completion capture, async batching, bounded offline buffering, retry with backoff",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-observe",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-observe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4936
+}
