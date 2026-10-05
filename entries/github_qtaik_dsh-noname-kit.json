@@ -1,0 +1,20 @@
+{
+  "id": "github:qtaik/dsh-noname-kit",
+  "kind": "plugin",
+  "name": "dsh-noname-kit",
+  "description": "DeepSeek Harness无名杀插件  无名杀扩展开发工坊:AI 按规范写武将技能与卡牌(确认协议/校验门禁/区块化写入)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qtaik/dsh-noname-kit",
+  "repositoryUrl": "https://github.com/qtaik/dsh-noname-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5479
+}
