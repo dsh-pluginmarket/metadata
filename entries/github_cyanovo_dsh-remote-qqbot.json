@@ -1,0 +1,20 @@
+{
+  "id": "github:cyanovo/dsh-remote-qqbot",
+  "kind": "plugin",
+  "name": "dsh-remote-qqbot",
+  "description": "Related DeepSeek Harness project: cyanovo/dsh-remote-qqbot",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cyanovo/dsh-remote-qqbot",
+  "repositoryUrl": "https://github.com/cyanovo/dsh-remote-qqbot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5059
+}
