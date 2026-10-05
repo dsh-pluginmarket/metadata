@@ -1,0 +1,20 @@
+{
+  "id": "github:fsrmqi/dsh-research-kit",
+  "kind": "plugin",
+  "name": "dsh-research-kit",
+  "description": "dsh-research-kit 是一个 浏览器侧 DSH 插件：它维护科研资源目录、把工作流和用户参数组装成可编辑 Prompt，并由 DSH 当前会话负责实际发送与执行。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fsrmqi/dsh-research-kit",
+  "repositoryUrl": "https://github.com/fsrmqi/dsh-research-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5115
+}
