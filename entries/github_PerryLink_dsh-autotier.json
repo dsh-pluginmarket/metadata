@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-autotier",
+  "kind": "plugin",
+  "name": "dsh-autotier",
+  "description": "Automatic strong/cheap model-tier routing for DeepSeek Harness: intent-gated tier landing on the agent/request waterfall, plan-mode handoff (strong plans, cheap implements), deterministic high-risk guards on tools/pre-execute, failure escalation with TTL fallback, a /tier command, and tier status tools",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-autotier",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-autotier",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4984
+}
