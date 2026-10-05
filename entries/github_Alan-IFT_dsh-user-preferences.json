@@ -1,0 +1,20 @@
+{
+  "id": "github:Alan-IFT/dsh-user-preferences",
+  "kind": "plugin",
+  "name": "dsh-user-preferences",
+  "description": "Related DeepSeek Harness project: Alan-IFT/dsh-user-preferences",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Alan-IFT/dsh-user-preferences",
+  "repositoryUrl": "https://github.com/Alan-IFT/dsh-user-preferences",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5230
+}
