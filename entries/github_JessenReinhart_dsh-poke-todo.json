@@ -1,0 +1,20 @@
+{
+  "id": "github:JessenReinhart/dsh-poke-todo",
+  "kind": "plugin",
+  "name": "dsh-poke-todo",
+  "description": "Port of jcode's auto-poke incomplete-todos feature as a Cordis plugin for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JessenReinhart/dsh-poke-todo",
+  "repositoryUrl": "https://github.com/JessenReinhart/dsh-poke-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5300
+}
