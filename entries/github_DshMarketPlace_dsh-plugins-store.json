@@ -1,0 +1,20 @@
+{
+  "id": "github:DshMarketPlace/dsh-plugins-store",
+  "kind": "plugin",
+  "name": "dsh-plugins-store",
+  "description": "Browse and install DSH plugins from inside DeepSeek Harness. /store, a settings tab, and agent tools — bilingual.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DshMarketPlace/dsh-plugins-store",
+  "repositoryUrl": "https://github.com/DshMarketPlace/dsh-plugins-store",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5396
+}
