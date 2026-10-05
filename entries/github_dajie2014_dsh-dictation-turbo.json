@@ -1,0 +1,20 @@
+{
+  "id": "github:dajie2014/dsh-dictation-turbo",
+  "kind": "plugin",
+  "name": "dsh-dictation-turbo",
+  "description": "Dictation for DSH: double-tap Control and speak — Chinese and English work with DSH alone; the free VoiceStudio adds German and 600+ more. No IME switching. · 双击 Control 说话，文字落进 DSH 输入框；中英文不用装 VoiceStudio，要德语才装它（免费）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dajie2014/dsh-dictation-turbo",
+  "repositoryUrl": "https://github.com/dajie2014/dsh-dictation-turbo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5277
+}
