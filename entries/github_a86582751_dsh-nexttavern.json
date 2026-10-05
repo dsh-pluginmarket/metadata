@@ -1,0 +1,20 @@
+{
+  "id": "github:a86582751/dsh-nexttavern",
+  "kind": "plugin",
+  "name": "dsh-nexttavern",
+  "description": "DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch conversation, long-term memory, hybrid keyword and semantic retrieval, SillyTavern cards, interactive card authoring, card export, one-click installers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "a86582751/dsh-nexttavern",
+  "repositoryUrl": "https://github.com/a86582751/dsh-nexttavern",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5369
+}
