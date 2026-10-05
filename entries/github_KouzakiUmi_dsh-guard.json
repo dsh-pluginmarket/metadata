@@ -1,0 +1,20 @@
+{
+  "id": "github:KouzakiUmi/dsh-guard",
+  "kind": "plugin",
+  "name": "dsh-guard",
+  "description": "DSH 沙箱加固工具集：持久审计与文件回滚（dsh-audit-rollback）、可指定模型的自动审批（dsh-auto-review-router）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KouzakiUmi/dsh-guard",
+  "repositoryUrl": "https://github.com/KouzakiUmi/dsh-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5178
+}
