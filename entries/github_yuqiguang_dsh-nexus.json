@@ -1,0 +1,20 @@
+{
+  "id": "github:yuqiguang/dsh-nexus",
+  "kind": "plugin",
+  "name": "dsh-nexus",
+  "description": "Related DeepSeek Harness project: yuqiguang/dsh-nexus",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuqiguang/dsh-nexus",
+  "repositoryUrl": "https://github.com/yuqiguang/dsh-nexus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5321
+}
