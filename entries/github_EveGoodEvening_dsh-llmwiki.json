@@ -1,0 +1,20 @@
+{
+  "id": "github:EveGoodEvening/dsh-llmwiki",
+  "kind": "plugin",
+  "name": "dsh-llmwiki",
+  "description": "Related DeepSeek Harness project: EveGoodEvening/dsh-llmwiki",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EveGoodEvening/dsh-llmwiki",
+  "repositoryUrl": "https://github.com/EveGoodEvening/dsh-llmwiki",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5408
+}
