@@ -1,0 +1,20 @@
+{
+  "id": "github:wg5759/dsh-pager",
+  "kind": "plugin",
+  "name": "dsh-pager",
+  "description": "DeepSeek Harness 的手机寻呼机：33 KB 安卓 App + DSH 插件。后台提醒、通知栏直接审批、服务端折叠省流量。A pager for DeepSeek Harness (unofficial).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wg5759/dsh-pager",
+  "repositoryUrl": "https://github.com/wg5759/dsh-pager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5169
+}
