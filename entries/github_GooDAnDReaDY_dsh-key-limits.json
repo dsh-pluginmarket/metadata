@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-key-limits",
+  "kind": "plugin",
+  "name": "dsh-key-limits",
+  "description": "DeepSeek Harness plugin: API key / subscription quota limits (float chip, composer bar, settings)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-key-limits",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-key-limits",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5004
+}
