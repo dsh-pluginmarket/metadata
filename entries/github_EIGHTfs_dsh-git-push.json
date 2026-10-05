@@ -1,0 +1,20 @@
+{
+  "id": "github:EIGHTfs/dsh-git-push",
+  "kind": "plugin",
+  "name": "dsh-git-push",
+  "description": "DSH git 自动提交推送插件：扫描仓库 + 一键 commit/push（工具 + HTTP API）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EIGHTfs/dsh-git-push",
+  "repositoryUrl": "https://github.com/EIGHTfs/dsh-git-push",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5440
+}
