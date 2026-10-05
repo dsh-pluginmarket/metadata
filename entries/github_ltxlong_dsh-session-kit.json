@@ -1,0 +1,20 @@
+{
+  "id": "github:ltxlong/dsh-session-kit",
+  "kind": "plugin",
+  "name": "dsh-session-kit",
+  "description": "会话管理菜单、归档管理、轮次级删除、重新生成、记忆管理、任务管理、话题导航。Conversation management menu, archive management, round-level deletion, regeneration, memory management, task management, topic navigation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ltxlong/dsh-session-kit",
+  "repositoryUrl": "https://github.com/ltxlong/dsh-session-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5234
+}
