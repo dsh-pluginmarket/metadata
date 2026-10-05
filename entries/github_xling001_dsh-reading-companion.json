@@ -1,0 +1,20 @@
+{
+  "id": "github:xling001/dsh-reading-companion",
+  "kind": "plugin",
+  "name": "dsh-reading-companion",
+  "description": "Related DeepSeek Harness project: xling001/dsh-reading-companion",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xling001/dsh-reading-companion",
+  "repositoryUrl": "https://github.com/xling001/dsh-reading-companion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5133
+}
