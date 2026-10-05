@@ -1,0 +1,20 @@
+{
+  "id": "github:NamesMT/dsh-home-hosted",
+  "kind": "plugin",
+  "name": "dsh-home-hosted",
+  "description": "DeepSeek Harness (dsh) plugin: start your dsh web server automatically at boot, and manage home-hosted's panel and servers from inside dsh.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NamesMT/dsh-home-hosted",
+  "repositoryUrl": "https://github.com/NamesMT/dsh-home-hosted",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5345
+}
