@@ -1,0 +1,20 @@
+{
+  "id": "github:guo6x/dsh-pilot",
+  "kind": "plugin",
+  "name": "dsh-pilot",
+  "description": "Give your DSH agent hands: drive a real browser (Edge/Chrome over CDP) from the chat — ref-driven clicking, per-session browsers, and a live cockpit panel. Zero runtime deps, no API key.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guo6x/dsh-pilot",
+  "repositoryUrl": "https://github.com/guo6x/dsh-pilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5297
+}
