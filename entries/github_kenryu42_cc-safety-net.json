@@ -1,0 +1,20 @@
+{
+  "id": "github:kenryu42/cc-safety-net",
+  "kind": "plugin",
+  "name": "cc-safety-net",
+  "description": "A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Cursor, DeepSeek Harness, Gemini CLI, GitHub Copilot CLI, Grok Build, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kenryu42/cc-safety-net",
+  "repositoryUrl": "https://github.com/kenryu42/cc-safety-net",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5006
+}
