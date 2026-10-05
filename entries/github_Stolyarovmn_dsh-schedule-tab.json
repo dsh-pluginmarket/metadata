@@ -1,0 +1,20 @@
+{
+  "id": "github:Stolyarovmn/dsh-schedule-tab",
+  "kind": "plugin",
+  "name": "dsh-schedule-tab",
+  "description": "DeepSeek Harness Web plugin: a global Schedule tab showing reminders across all dialogs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Stolyarovmn/dsh-schedule-tab",
+  "repositoryUrl": "https://github.com/Stolyarovmn/dsh-schedule-tab",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5406
+}
