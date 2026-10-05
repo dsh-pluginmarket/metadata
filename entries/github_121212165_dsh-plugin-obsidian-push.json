@@ -1,0 +1,20 @@
+{
+  "id": "github:121212165/dsh-plugin-obsidian-push",
+  "kind": "plugin",
+  "name": "dsh-plugin-obsidian-push",
+  "description": "dsh plugin: pushes archived session transcripts into an Obsidian vault as Markdown with YAML frontmatter, deduped by content hash (/obsidian-push)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "121212165/dsh-plugin-obsidian-push",
+  "repositoryUrl": "https://github.com/121212165/dsh-plugin-obsidian-push",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5102
+}
