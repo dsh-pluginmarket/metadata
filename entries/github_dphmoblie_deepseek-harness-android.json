@@ -1,0 +1,20 @@
+{
+  "id": "github:dphmoblie/deepseek-harness-android",
+  "kind": "plugin",
+  "name": "deepseek-harness-android",
+  "description": "dsh安卓版：集成 DeepSeek Harness、Ubuntu 运行环境、插件与文件管理，以及用户授权的 Shizuku 和无障碍自动化。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dphmoblie/deepseek-harness-android",
+  "repositoryUrl": "https://github.com/dphmoblie/deepseek-harness-android",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5158
+}
