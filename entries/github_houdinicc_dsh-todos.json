@@ -1,0 +1,20 @@
+{
+  "id": "github:houdinicc/dsh-todos",
+  "kind": "plugin",
+  "name": "dsh-todos",
+  "description": "Todoist-style todos with a dashboard, agent tools and due reminders for DeepSeek Harness · 类 Todoist 的待办管理 + 仪表盘，内建 Agent 工具与到期提醒",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "houdinicc/dsh-todos",
+  "repositoryUrl": "https://github.com/houdinicc/dsh-todos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4994
+}
