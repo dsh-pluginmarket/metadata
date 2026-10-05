@@ -1,0 +1,20 @@
+{
+  "id": "github:itchenshi/dsh-gui-last-session",
+  "kind": "plugin",
+  "name": "dsh-gui-last-session",
+  "description": "DeepSeek Harness plugin: reopen the conversation you were last in after a restart, without patching engine files",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itchenshi/dsh-gui-last-session",
+  "repositoryUrl": "https://github.com/itchenshi/dsh-gui-last-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5106
+}
