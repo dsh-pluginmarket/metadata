@@ -1,0 +1,20 @@
+{
+  "id": "github:l33tdawg/dsh-workbench",
+  "kind": "plugin",
+  "name": "dsh-workbench",
+  "description": "DeepSeek Harness Plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "l33tdawg/dsh-workbench",
+  "repositoryUrl": "https://github.com/l33tdawg/dsh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5466
+}
