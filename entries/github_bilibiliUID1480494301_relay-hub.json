@@ -1,0 +1,20 @@
+{
+  "id": "github:bilibiliUID1480494301/relay-hub",
+  "kind": "plugin",
+  "name": "relay-hub",
+  "description": "Self-hosted LLM relay/gateway for LAN (pip install hubrelay): multi-upstream key pool, downstream tokens, usage accounting. 局域网大模型中转站，兼容 OpenAI/Anthropic 协议。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bilibiliUID1480494301/relay-hub",
+  "repositoryUrl": "https://github.com/bilibiliUID1480494301/relay-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5037
+}
