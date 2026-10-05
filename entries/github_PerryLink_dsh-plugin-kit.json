@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/dsh-plugin-kit",
+  "kind": "plugin",
+  "name": "dsh-plugin-kit",
+  "description": "Shared zero-runtime-dependency toolkit for PerryLink DSH plugins: a pluggable Provider registry seam, fail-closed approval and adaptive session-event gates, mechanical verify scripts, shared sanitize/pricing/judge modules, and a new-plugin skeleton.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/dsh-plugin-kit",
+  "repositoryUrl": "https://github.com/PerryLink/dsh-plugin-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 4926
+}
