@@ -1,0 +1,20 @@
+{
+  "id": "github:Noob-stupid/dsh-plugin-gating-hub",
+  "kind": "plugin",
+  "name": "dsh-plugin-gating-hub",
+  "description": "DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollback point, auto-rollback on failure, evidence-based auto-disable; plus a multi-source plugin market. Unofficial. | DSH 插件：框架升级安全 + 插件门控——升级前契约预检、回滚点、失败自动回滚、有确证证据才自动禁用；另带多源插件市场。非官方社区项目。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noob-stupid/dsh-plugin-gating-hub",
+  "repositoryUrl": "https://github.com/Noob-stupid/dsh-plugin-gating-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5122
+}
