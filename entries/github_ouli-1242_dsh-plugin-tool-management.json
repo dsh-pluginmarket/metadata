@@ -1,0 +1,20 @@
+{
+  "id": "github:ouli-1242/dsh-plugin-tool-management",
+  "kind": "plugin",
+  "name": "dsh-plugin-tool-management",
+  "description": "DSH 插件：一个设置面板，统一管理 MCP 服务器、技能、场景、记忆、子智能体人格、AGENTS.md 预设与归档会话——一个场景即可切换整个环境，模型也能帮你驱动这一切。 | DSH plugin: one settings panel managing MCP servers, skills, scenes, memories, subagent personas, AGENTS.md presets and archived sessions — one scene can switch the environment, and the model can help drive it all too.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ouli-1242/dsh-plugin-tool-management",
+  "repositoryUrl": "https://github.com/ouli-1242/dsh-plugin-tool-management",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5384
+}
