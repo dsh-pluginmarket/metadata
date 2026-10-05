@@ -1,0 +1,20 @@
+{
+  "id": "github:ai-eks/dsh-docking-layout",
+  "kind": "plugin",
+  "name": "dsh-docking-layout",
+  "description": "Organize unlimited conversation tabs into editor-style, drag-to-split groups for DeepSeek Harness Web.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ai-eks/dsh-docking-layout",
+  "repositoryUrl": "https://github.com/ai-eks/dsh-docking-layout",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5206
+}
