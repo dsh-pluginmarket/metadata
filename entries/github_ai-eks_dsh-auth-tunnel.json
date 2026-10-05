@@ -1,0 +1,20 @@
+{
+  "id": "github:ai-eks/dsh-auth-tunnel",
+  "kind": "plugin",
+  "name": "dsh-auth-tunnel",
+  "description": "Password-gated Cloudflare Tunnel access for the DeepSeek Harness Web GUI, with quick and named tunnel modes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ai-eks/dsh-auth-tunnel",
+  "repositoryUrl": "https://github.com/ai-eks/dsh-auth-tunnel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5255
+}
