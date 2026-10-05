@@ -1,0 +1,20 @@
+{
+  "id": "github:tarraencompassing61/dsh-lark-bot",
+  "kind": "plugin",
+  "name": "dsh-lark-bot",
+  "description": "Bridge DeepSeek Harness into Feishu / Lark—drive your local coding agent from mobile, group chats, and topics with conversations, tasks, cards, and project workspaces in one collaborative flow.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tarraencompassing61/dsh-lark-bot",
+  "repositoryUrl": "https://github.com/tarraencompassing61/dsh-lark-bot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5271
+}
