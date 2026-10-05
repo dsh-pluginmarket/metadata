@@ -1,0 +1,20 @@
+{
+  "id": "github:wgd753/awesome-dsh-plugin",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugin",
+  "description": "Awesome dsh plugin list — automated DeepSeek Harness plugin directory. Daily GitHub Actions crawl of topic:dsh-plugin / topic:deepseek-harness, bilingual README + machine-readable JSON/CSV",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wgd753/awesome-dsh-plugin",
+  "repositoryUrl": "https://github.com/wgd753/awesome-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5091
+}
