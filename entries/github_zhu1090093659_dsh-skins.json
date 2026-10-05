@@ -1,0 +1,20 @@
+{
+  "id": "github:zhu1090093659/dsh-skins",
+  "kind": "plugin",
+  "name": "dsh-skins",
+  "description": "Skin center plugin and built-in skins for the DSH Web GUI: skins are pure asset directories, loaded and rendered by the skin center, and installed on demand from dsh-market.com.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhu1090093659/dsh-skins",
+  "repositoryUrl": "https://github.com/zhu1090093659/dsh-skins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5444
+}
