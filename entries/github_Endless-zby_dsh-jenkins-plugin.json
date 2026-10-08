@@ -1,0 +1,24 @@
+{
+  "id": "github:Endless-zby/dsh-jenkins-plugin",
+  "kind": "plugin",
+  "name": "dsh-jenkins-plugin",
+  "description": "Jenkins integration for DeepSeek Harness: a live build-progress panel in the Web GUI plus model-facing tools for triggering builds, reading stages and console logs, and browsing a build's workspace.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "Endless-zby/dsh-jenkins-plugin",
+  "repositoryUrl": "https://github.com/Endless-zby/dsh-jenkins-plugin",
+  "npmPackage": "dsh-jenkins-plugin",
+  "tags": [
+    "jenkins",
+    "ci",
+    "devops",
+    "tooling"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "Endless-zby",
+  "issueNumber": 5550
+}
