@@ -1,0 +1,22 @@
+{
+  "id": "github:guzhou079-arch/dsh-plugin-android-vscreen",
+  "kind": "plugin",
+  "name": "dsh-plugin-android-vscreen",
+  "description": "在虚拟显示器上启动安卓应用，用读屏、点击与滑动驱动它们，主屏不受影响。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guzhou079-arch/dsh-plugin-android-vscreen",
+  "repositoryUrl": "https://github.com/guzhou079-arch/dsh-plugin-android-vscreen",
+  "tags": [
+    "dsh-plugin",
+    "android",
+    "automation",
+    "virtual-display"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "guzhou079-arch",
+  "issueNumber": 5553
+}
