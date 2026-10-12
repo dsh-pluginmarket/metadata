@@ -1,0 +1,20 @@
+{
+  "id": "github:sakanamaru/dsh-minato",
+  "kind": "plugin",
+  "name": "dsh-minato",
+  "description": "dsh-minato — 社区版本机部署运维套件 for DeepSeek Harness (dsh): install / start / monitor, backup & restore, diagnose and quarantine broken plugins (unofficial) · 安装 / 启动监控 / 备份恢复 / 插件诊断与隔离",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sakanamaru/dsh-minato",
+  "repositoryUrl": "https://github.com/sakanamaru/dsh-minato",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6123
+}
