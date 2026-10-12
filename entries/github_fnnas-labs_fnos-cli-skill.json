@@ -1,0 +1,20 @@
+{
+  "id": "github:fnnas-labs/fnos-cli-skill",
+  "kind": "plugin",
+  "name": "fnos-cli-skill",
+  "description": "Related DeepSeek Harness project: fnnas-labs/fnos-cli-skill",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fnnas-labs/fnos-cli-skill",
+  "repositoryUrl": "https://github.com/fnnas-labs/fnos-cli-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5899
+}
