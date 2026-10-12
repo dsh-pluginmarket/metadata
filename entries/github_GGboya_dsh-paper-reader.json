@@ -1,0 +1,20 @@
+{
+  "id": "github:GGboya/dsh-paper-reader",
+  "kind": "plugin",
+  "name": "dsh-paper-reader",
+  "description": "DeepSeek Harness (dsh) 插件:论文伴读工作台 —— PDF 转录 / 检索 / 流式问答 + 内置阅读器页面。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GGboya/dsh-paper-reader",
+  "repositoryUrl": "https://github.com/GGboya/dsh-paper-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5849
+}
