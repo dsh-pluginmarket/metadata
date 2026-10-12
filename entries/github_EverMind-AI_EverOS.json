@@ -1,0 +1,20 @@
+{
+  "id": "github:EverMind-AI/EverOS",
+  "kind": "plugin",
+  "name": "EverOS",
+  "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EverMind-AI/EverOS",
+  "repositoryUrl": "https://github.com/EverMind-AI/EverOS",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5917
+}
