@@ -1,0 +1,20 @@
+{
+  "id": "github:MoYu-CN/dsh-agent-profiles",
+  "kind": "plugin",
+  "name": "dsh-agent-profiles",
+  "description": "Agent profiles for DSH: per-session persona, duties, avatar and long-term memory, injected as a system-prompt section.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MoYu-CN/dsh-agent-profiles",
+  "repositoryUrl": "https://github.com/MoYu-CN/dsh-agent-profiles",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6114
+}
