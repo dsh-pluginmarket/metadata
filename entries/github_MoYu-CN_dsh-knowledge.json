@@ -1,0 +1,20 @@
+{
+  "id": "github:MoYu-CN/dsh-knowledge",
+  "kind": "plugin",
+  "name": "dsh-knowledge",
+  "description": "Project knowledge base for DSH agents: capture pitfalls and reusable methods into paged volumes and surface them while you work.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MoYu-CN/dsh-knowledge",
+  "repositoryUrl": "https://github.com/MoYu-CN/dsh-knowledge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6109
+}
