@@ -1,0 +1,20 @@
+{
+  "id": "github:Songyanglin-curious/dsh-sift",
+  "kind": "plugin",
+  "name": "dsh-sift",
+  "description": "从混杂内容中筛选、整理出有价值部分",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Songyanglin-curious/dsh-sift",
+  "repositoryUrl": "https://github.com/Songyanglin-curious/dsh-sift",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5908
+}
