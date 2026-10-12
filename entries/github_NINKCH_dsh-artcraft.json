@@ -1,0 +1,20 @@
+{
+  "id": "github:NINKCH/dsh-artcraft",
+  "kind": "plugin",
+  "name": "dsh-artcraft",
+  "description": "Drive the open-source ArtCraft studio apps — PhotoCraft, FilmCraft, EffectCraft... — from DeepSeek Harness, in chat or from your own UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NINKCH/dsh-artcraft",
+  "repositoryUrl": "https://github.com/NINKCH/dsh-artcraft",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5661
+}
