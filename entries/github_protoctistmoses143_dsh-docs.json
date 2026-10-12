@@ -1,0 +1,20 @@
+{
+  "id": "github:protoctistmoses143/dsh-docs",
+  "kind": "plugin",
+  "name": "dsh-docs",
+  "description": "Convert PDFs, Office docs, scanned images, and more to clean Markdown, JSON, or text locally with offline OCR—no servers, no API keys, fully private.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "protoctistmoses143/dsh-docs",
+  "repositoryUrl": "https://github.com/protoctistmoses143/dsh-docs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5767
+}
