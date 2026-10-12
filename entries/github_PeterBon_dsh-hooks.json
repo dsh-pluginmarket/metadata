@@ -1,0 +1,20 @@
+{
+  "id": "github:PeterBon/dsh-hooks",
+  "kind": "plugin",
+  "name": "dsh-hooks",
+  "description": "Config-driven lifecycle hooks plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PeterBon/dsh-hooks",
+  "repositoryUrl": "https://github.com/PeterBon/dsh-hooks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6112
+}
