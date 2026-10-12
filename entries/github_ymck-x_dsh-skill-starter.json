@@ -1,0 +1,20 @@
+{
+  "id": "github:ymck-x/dsh-skill-starter",
+  "kind": "plugin",
+  "name": "dsh-skill-starter",
+  "description": "DSH 技能管理器：自带基础技能与中文工程流程技能包，按「你遇到的问题」分组展示，模型可在对话里直接读写；升级技能包不覆盖你改过的文件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ymck-x/dsh-skill-starter",
+  "repositoryUrl": "https://github.com/ymck-x/dsh-skill-starter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5611
+}
