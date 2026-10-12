@@ -1,0 +1,20 @@
+{
+  "id": "github:xianyuyijinban/boardwise",
+  "kind": "plugin",
+  "name": "boardwise",
+  "description": "AI harness for EasyEDA Pro — offline schematic/PCB design review, live bridge (daemon + editor extension), review-to-local-edit with verified persistence",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xianyuyijinban/boardwise",
+  "repositoryUrl": "https://github.com/xianyuyijinban/boardwise",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5861
+}
