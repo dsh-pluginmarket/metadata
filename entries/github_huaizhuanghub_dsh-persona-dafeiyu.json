@@ -1,0 +1,20 @@
+{
+  "id": "github:huaizhuanghub/dsh-persona-dafeiyu",
+  "kind": "plugin",
+  "name": "dsh-persona-dafeiyu",
+  "description": "Persona library plugin for DeepSeek Harness: built-in personas, import your own, switch without restart.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huaizhuanghub/dsh-persona-dafeiyu",
+  "repositoryUrl": "https://github.com/huaizhuanghub/dsh-persona-dafeiyu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5685
+}
