@@ -1,0 +1,20 @@
+{
+  "id": "github:felixpu/dsh-restart-autostart",
+  "kind": "plugin",
+  "name": "dsh-restart-autostart",
+  "description": "在 DSH 网页版「设置 → 通用」加入进程控制行：手动重启 dsh web 宿主进程，以及「跟随系统启动」勾选框（写入 macOS launchd / Linux systemd / Windows 服务自启条目，开机拉起并在崩溃后自动重启）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "felixpu/dsh-restart-autostart",
+  "repositoryUrl": "https://github.com/felixpu/dsh-restart-autostart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5630
+}
