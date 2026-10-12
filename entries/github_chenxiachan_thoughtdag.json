@@ -1,0 +1,20 @@
+{
+  "id": "github:chenxiachan/thoughtdag",
+  "kind": "plugin",
+  "name": "thoughtdag",
+  "description": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenxiachan/thoughtdag",
+  "repositoryUrl": "https://github.com/chenxiachan/thoughtdag",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6014
+}
