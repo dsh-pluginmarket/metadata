@@ -1,0 +1,20 @@
+{
+  "id": "github:harismuna5268/DSH-Desktop",
+  "kind": "plugin",
+  "name": "DSH-Desktop",
+  "description": "Electron desktop shell for DeepSeek Harness, bundling node, pnpm, and the DSH runtime for one-click access to the dsh web UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "harismuna5268/DSH-Desktop",
+  "repositoryUrl": "https://github.com/harismuna5268/DSH-Desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5759
+}
