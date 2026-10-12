@@ -1,0 +1,20 @@
+{
+  "id": "github:xx529/dsh-task-gantt",
+  "kind": "plugin",
+  "name": "dsh-task-gantt",
+  "description": "Related DeepSeek Harness project: xx529/dsh-task-gantt",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xx529/dsh-task-gantt",
+  "repositoryUrl": "https://github.com/xx529/dsh-task-gantt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5563
+}
