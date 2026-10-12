@@ -1,0 +1,20 @@
+{
+  "id": "github:BlankTasftu/dsh-delivery-library",
+  "kind": "plugin",
+  "name": "dsh-delivery-library",
+  "description": "在 DSH 对话窗的「对话 / 轨迹」之外再加一个「交付文件」视图：汇总当前会话里全部显式交付（present）与文件产出（write / edit），一个会话一份可检索的文件库。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BlankTasftu/dsh-delivery-library",
+  "repositoryUrl": "https://github.com/BlankTasftu/dsh-delivery-library",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5744
+}
