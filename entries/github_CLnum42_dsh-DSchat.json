@@ -1,0 +1,20 @@
+{
+  "id": "github:CLnum42/dsh-DSchat",
+  "kind": "plugin",
+  "name": "dsh-DSchat",
+  "description": "在 DSH 原生面板里聊 DeepSeek 网页端，并一键迁移成 harness 会话",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CLnum42/dsh-DSchat",
+  "repositoryUrl": "https://github.com/CLnum42/dsh-DSchat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5569
+}
