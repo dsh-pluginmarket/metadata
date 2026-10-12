@@ -1,0 +1,20 @@
+{
+  "id": "github:PC2005-cloud/cursorkit",
+  "kind": "plugin",
+  "name": "cursorkit",
+  "description": "给你的页面装上会呼吸的光标。25 套鼠标光标动效，封装为零依赖 Web Component，原生 Canvas 绘制，一行 import 接入，Vue / React / Next.js 与纯 HTML 通吃。每套自带主题光标（雪花冒寒气、火牙飘火星、闪电打电弧），响应滚轮与长按蓄力，铺满视口却 pointer-events: none，不干扰宿主的按钮、输入框与文字选择。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PC2005-cloud/cursorkit",
+  "repositoryUrl": "https://github.com/PC2005-cloud/cursorkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5667
+}
