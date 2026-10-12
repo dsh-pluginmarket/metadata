@@ -1,0 +1,20 @@
+{
+  "id": "github:chenxiang6663635/job-workbench",
+  "kind": "plugin",
+  "name": "job-workbench",
+  "description": "Local-first, auditable AI-assisted job-search workbench: JD analysis, application tracking, resume workflows with anti-fabrication safeguards, interview & offer pipeline. Plain Markdown/CSV on your own disk, BYOK, no telemetry or project-run cloud; optional online features use services you enable.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenxiang6663635/job-workbench",
+  "repositoryUrl": "https://github.com/chenxiang6663635/job-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6089
+}
