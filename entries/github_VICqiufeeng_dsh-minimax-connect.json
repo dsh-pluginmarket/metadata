@@ -1,0 +1,20 @@
+{
+  "id": "github:VICqiufeeng/dsh-minimax-connect",
+  "kind": "plugin",
+  "name": "dsh-minimax-connect",
+  "description": "Use the MiniMax Code (Mavis) subscription already signed in on this machine as a DeepSeek Harness model provider — with self-renewing credentials, a points/check-in panel and a model roster editor.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "VICqiufeeng/dsh-minimax-connect",
+  "repositoryUrl": "https://github.com/VICqiufeeng/dsh-minimax-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6125
+}
