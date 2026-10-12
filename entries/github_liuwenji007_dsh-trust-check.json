@@ -1,0 +1,20 @@
+{
+  "id": "github:liuwenji007/dsh-trust-check",
+  "kind": "plugin",
+  "name": "dsh-trust-check",
+  "description": "Static capability disclosure for DeepSeek Harness plugins — evidence-backed, zero-token, no safety claims.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuwenji007/dsh-trust-check",
+  "repositoryUrl": "https://github.com/liuwenji007/dsh-trust-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5816
+}
