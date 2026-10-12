@@ -1,0 +1,20 @@
+{
+  "id": "github:Failing-coachman563/dsh-skill-viewer",
+  "kind": "plugin",
+  "name": "dsh-skill-viewer",
+  "description": "Manage and organize DSH skills via a web interface with one-click enable/disable, batch migration, and workspace-based grouping.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Failing-coachman563/dsh-skill-viewer",
+  "repositoryUrl": "https://github.com/Failing-coachman563/dsh-skill-viewer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5762
+}
