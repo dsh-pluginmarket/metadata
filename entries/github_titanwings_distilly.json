@@ -1,0 +1,20 @@
+{
+  "id": "github:titanwings/distilly",
+  "kind": "plugin",
+  "name": "distilly",
+  "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "titanwings/distilly",
+  "repositoryUrl": "https://github.com/titanwings/distilly",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6046
+}
