@@ -1,0 +1,20 @@
+{
+  "id": "github:chipweaver/veripower",
+  "kind": "plugin",
+  "name": "veripower",
+  "description": "An open-source agent flow from natural language spec through Verilog RTL and UVM verification to front-end signoff on commercial EDA tools",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chipweaver/veripower",
+  "repositoryUrl": "https://github.com/chipweaver/veripower",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5815
+}
