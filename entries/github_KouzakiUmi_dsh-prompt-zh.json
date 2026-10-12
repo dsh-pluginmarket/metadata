@@ -1,0 +1,20 @@
+{
+  "id": "github:KouzakiUmi/dsh-prompt-zh",
+  "kind": "plugin",
+  "name": "dsh-prompt-zh",
+  "description": "DeepSeek Harness 插件：将系统提示词本地化为简体中文，并按会话当前可见工具裁剪相关指引；保留英文工具 schema。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KouzakiUmi/dsh-prompt-zh",
+  "repositoryUrl": "https://github.com/KouzakiUmi/dsh-prompt-zh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5776
+}
