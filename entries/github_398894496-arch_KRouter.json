@@ -1,0 +1,20 @@
+{
+  "id": "github:398894496-arch/KRouter",
+  "kind": "plugin",
+  "name": "KRouter",
+  "description": "Your coding agents remember what you decided — and what you changed. Plain-Markdown memory in Obsidian, shared by Claude Code, Codex and Cursor over MCP. Every answer cites its page; when the vault does not know, it says so. Imports your past sessions on install.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "398894496-arch/KRouter",
+  "repositoryUrl": "https://github.com/398894496-arch/KRouter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6095
+}
