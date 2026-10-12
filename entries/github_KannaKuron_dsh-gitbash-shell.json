@@ -1,0 +1,20 @@
+{
+  "id": "github:KannaKuron/dsh-gitbash-shell",
+  "kind": "plugin",
+  "name": "dsh-gitbash-shell",
+  "description": "DSH plugin: Git Bash shell for all agent modes on Windows (replaces pwsh executor)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KannaKuron/dsh-gitbash-shell",
+  "repositoryUrl": "https://github.com/KannaKuron/dsh-gitbash-shell",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5936
+}
