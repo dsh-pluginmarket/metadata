@@ -1,0 +1,20 @@
+{
+  "id": "github:sjhmars/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "一个deepseek插件库",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sjhmars/dsh-plugins",
+  "repositoryUrl": "https://github.com/sjhmars/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6100
+}
