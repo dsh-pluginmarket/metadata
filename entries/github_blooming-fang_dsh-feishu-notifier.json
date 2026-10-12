@@ -1,0 +1,20 @@
+{
+  "id": "github:blooming-fang/dsh-feishu-notifier",
+  "kind": "plugin",
+  "name": "dsh-feishu-notifier",
+  "description": "DeepSeek Harness 飞书通知插件：在需要用户操作或对话结束时发送飞书机器人提醒，并支持持久化配置。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "blooming-fang/dsh-feishu-notifier",
+  "repositoryUrl": "https://github.com/blooming-fang/dsh-feishu-notifier",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6062
+}
