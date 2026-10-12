@@ -1,0 +1,20 @@
+{
+  "id": "github:Totoro-qaq/dsh-plugin-bridge",
+  "kind": "plugin",
+  "name": "dsh-plugin-bridge",
+  "description": "DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Totoro-qaq/dsh-plugin-bridge",
+  "repositoryUrl": "https://github.com/Totoro-qaq/dsh-plugin-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5986
+}
