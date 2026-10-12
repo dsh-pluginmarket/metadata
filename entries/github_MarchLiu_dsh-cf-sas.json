@@ -1,0 +1,20 @@
+{
+  "id": "github:MarchLiu/dsh-cf-sas",
+  "kind": "plugin",
+  "name": "dsh-cf-sas",
+  "description": "Related DeepSeek Harness project: MarchLiu/dsh-cf-sas",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MarchLiu/dsh-cf-sas",
+  "repositoryUrl": "https://github.com/MarchLiu/dsh-cf-sas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6008
+}
