@@ -1,0 +1,20 @@
+{
+  "id": "github:webkubor/dsh-llm-hub",
+  "kind": "plugin",
+  "name": "dsh-llm-hub",
+  "description": "给 DSH 模型页补上官方适配器缺的那半：网关可达性探测、模型目录拉取并勾选写回、余额/配额常驻、协议与接入地址可见。零运行时依赖，不改动 DSH 安装。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "webkubor/dsh-llm-hub",
+  "repositoryUrl": "https://github.com/webkubor/dsh-llm-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5728
+}
