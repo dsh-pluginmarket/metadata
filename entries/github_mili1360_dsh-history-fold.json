@@ -1,0 +1,20 @@
+{
+  "id": "github:mili1360/dsh-history-fold",
+  "kind": "plugin",
+  "name": "dsh-history-fold",
+  "description": "DSH plugin: folds the oldest part of a session history into one message backed by a lossless local archive. No model-written summary, everything recoverable.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mili1360/dsh-history-fold",
+  "repositoryUrl": "https://github.com/mili1360/dsh-history-fold",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5622
+}
