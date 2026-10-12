@@ -1,0 +1,20 @@
+{
+  "id": "github:Ronniealgo/dsh-mail-guardian",
+  "kind": "plugin",
+  "name": "dsh-mail-guardian",
+  "description": "DSH 邮箱管家：静默后台收信、缓存优先的即时双邮箱报告；明确同步失败与旧结果，邮件仅在本机处理。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ronniealgo/dsh-mail-guardian",
+  "repositoryUrl": "https://github.com/Ronniealgo/dsh-mail-guardian",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5648
+}
