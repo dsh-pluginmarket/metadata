@@ -1,0 +1,20 @@
+{
+  "id": "github:OrinVoss/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "DeepSeek Harness (DSH) 社区插件集：长期记忆 / 桌面宠物 / 7 套皮肤 / Token 用量报表 / 系统状态 / 旁支提问 / Agent Teams fork（上限 16 + release_teammate）| Community plugins for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "OrinVoss/dsh-plugins",
+  "repositoryUrl": "https://github.com/OrinVoss/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5909
+}
