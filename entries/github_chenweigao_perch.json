@@ -1,0 +1,20 @@
+{
+  "id": "github:chenweigao/perch",
+  "kind": "plugin",
+  "name": "perch",
+  "description": "A native macOS workspace for local and remote coding agents. Conversations, tools, approvals and tasks — with Kimi, Codex and more.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenweigao/perch",
+  "repositoryUrl": "https://github.com/chenweigao/perch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5770
+}
