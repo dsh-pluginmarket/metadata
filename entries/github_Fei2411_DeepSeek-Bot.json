@@ -1,0 +1,20 @@
+{
+  "id": "github:Fei2411/DeepSeek-Bot",
+  "kind": "plugin",
+  "name": "DeepSeek-Bot",
+  "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fei2411/DeepSeek-Bot",
+  "repositoryUrl": "https://github.com/Fei2411/DeepSeek-Bot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6052
+}
