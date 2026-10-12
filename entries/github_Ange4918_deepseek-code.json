@@ -1,0 +1,20 @@
+{
+  "id": "github:Ange4918/deepseek-code",
+  "kind": "plugin",
+  "name": "deepseek-code",
+  "description": "Unofficial community guide to Deep Code CLI and DeepSeek Coder models - setup, usage, and local deployment.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ange4918/deepseek-code",
+  "repositoryUrl": "https://github.com/Ange4918/deepseek-code",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5880
+}
