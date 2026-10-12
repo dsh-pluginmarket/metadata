@@ -1,0 +1,20 @@
+{
+  "id": "github:xingxingbk-git/dsh-deepseek-chat",
+  "kind": "plugin",
+  "name": "dsh-deepseek-chat",
+  "description": "为 DSH 提供 Chat / Harness 双模式切换",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xingxingbk-git/dsh-deepseek-chat",
+  "repositoryUrl": "https://github.com/xingxingbk-git/dsh-deepseek-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5952
+}
