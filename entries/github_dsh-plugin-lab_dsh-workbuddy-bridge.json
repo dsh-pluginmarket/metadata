@@ -1,0 +1,20 @@
+{
+  "id": "github:dsh-plugin-lab/dsh-workbuddy-bridge",
+  "kind": "plugin",
+  "name": "dsh-workbuddy-bridge",
+  "description": "DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入\"设置-插件-插件配置\"）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dsh-plugin-lab/dsh-workbuddy-bridge",
+  "repositoryUrl": "https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5615
+}
