@@ -1,0 +1,20 @@
+{
+  "id": "github:zhujunzhujunzhu/ai-token-report",
+  "kind": "plugin",
+  "name": "ai-token-report",
+  "description": "Related DeepSeek Harness project: zhujunzhujunzhu/ai-token-report",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhujunzhujunzhu/ai-token-report",
+  "repositoryUrl": "https://github.com/zhujunzhujunzhu/ai-token-report",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5558
+}
