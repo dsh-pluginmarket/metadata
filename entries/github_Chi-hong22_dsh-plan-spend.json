@@ -1,0 +1,20 @@
+{
+  "id": "github:Chi-hong22/dsh-plan-spend",
+  "kind": "plugin",
+  "name": "dsh-plan-spend",
+  "description": "Plan Spend：DSH Web GUI 弹窗插件，展示已配置服务商的套餐花销（DeepSeek 官方余额 / OpenCode Go 5h·7d·月配额）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chi-hong22/dsh-plan-spend",
+  "repositoryUrl": "https://github.com/Chi-hong22/dsh-plan-spend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5783
+}
