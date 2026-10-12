@@ -1,0 +1,20 @@
+{
+  "id": "github:Jun-Jun-Gao/dsh-token-usage-panel",
+  "kind": "plugin",
+  "name": "dsh-token-usage-panel",
+  "description": "DSH plugin — Token usage panel inside DeepSeek Harness settings: daily heatmap, 30-day trend, per-session breakdown and cost estimate.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jun-Jun-Gao/dsh-token-usage-panel",
+  "repositoryUrl": "https://github.com/Jun-Jun-Gao/dsh-token-usage-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5605
+}
