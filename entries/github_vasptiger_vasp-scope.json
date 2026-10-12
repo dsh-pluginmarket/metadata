@@ -1,0 +1,20 @@
+{
+  "id": "github:vasptiger/vasp-scope",
+  "kind": "plugin",
+  "name": "vasp-scope",
+  "description": "Local web dashboard for VASP results over SSH (read-only): band structure, PDOS, NEB barrier, AIMD (MSD/RDF); per-feature PNG/CSV export. 浏览器里看集群上的 VASP 计算结果 · 独立版 + DeepSeek Harness 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vasptiger/vasp-scope",
+  "repositoryUrl": "https://github.com/vasptiger/vasp-scope",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6033
+}
