@@ -1,0 +1,20 @@
+{
+  "id": "github:Tannnnhauser/pivot-web-search",
+  "kind": "plugin",
+  "name": "pivot-web-search",
+  "description": "Resilient multi-provider web search & content extraction for Claude Code, DeepSeek Harness, and any MCP host — quota-aware failover, JS rendering, and a CLI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tannnnhauser/pivot-web-search",
+  "repositoryUrl": "https://github.com/Tannnnhauser/pivot-web-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5689
+}
