@@ -1,0 +1,20 @@
+{
+  "id": "github:LiSheng5/dsh-taskforce",
+  "kind": "plugin",
+  "name": "dsh-taskforce",
+  "description": "Related DeepSeek Harness project: LiSheng5/dsh-taskforce",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LiSheng5/dsh-taskforce",
+  "repositoryUrl": "https://github.com/LiSheng5/dsh-taskforce",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5581
+}
