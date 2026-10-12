@@ -1,0 +1,20 @@
+{
+  "id": "github:liguobao/ds-harness-remote",
+  "kind": "plugin",
+  "name": "ds-harness-remote",
+  "description": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liguobao/ds-harness-remote",
+  "repositoryUrl": "https://github.com/liguobao/ds-harness-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6026
+}
