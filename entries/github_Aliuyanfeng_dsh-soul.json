@@ -1,0 +1,20 @@
+{
+  "id": "github:Aliuyanfeng/dsh-soul",
+  "kind": "plugin",
+  "name": "dsh-soul",
+  "description": "The DeepSeek Harness Personalization Settings plugin is used to configure the nickname, response style, tone, and custom commands of the Agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aliuyanfeng/dsh-soul",
+  "repositoryUrl": "https://github.com/Aliuyanfeng/dsh-soul",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5791
+}
