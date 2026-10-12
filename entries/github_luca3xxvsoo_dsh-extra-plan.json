@@ -1,0 +1,20 @@
+{
+  "id": "github:luca3xxvsoo/dsh-extra-plan",
+  "kind": "plugin",
+  "name": "dsh-extra-plan",
+  "description": "Related DeepSeek Harness project: luca3xxvsoo/dsh-extra-plan",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luca3xxvsoo/dsh-extra-plan",
+  "repositoryUrl": "https://github.com/luca3xxvsoo/dsh-extra-plan",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5931
+}
