@@ -1,0 +1,20 @@
+{
+  "id": "github:Noob-stupid/dsh-breadboard",
+  "kind": "plugin",
+  "name": "dsh-breadboard",
+  "description": "DSH 嵌入式硬件沙盒插件：3D 装配协作感知 + 项目级硬件在环仿真",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noob-stupid/dsh-breadboard",
+  "repositoryUrl": "https://github.com/Noob-stupid/dsh-breadboard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5975
+}
