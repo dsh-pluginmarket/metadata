@@ -1,0 +1,20 @@
+{
+  "id": "github:zyfgood/dsh-a2a",
+  "kind": "plugin",
+  "name": "dsh-a2a",
+  "description": "DeepSeek Harness A2A (Agent2Agent) plugin: expose DSH agents as standard A2A servers (agent card, message/send, message/stream SSE, tasks) + a2a_* tools to call remote A2A agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zyfgood/dsh-a2a",
+  "repositoryUrl": "https://github.com/zyfgood/dsh-a2a",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5870
+}
