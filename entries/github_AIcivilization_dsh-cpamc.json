@@ -1,0 +1,20 @@
+{
+  "id": "github:AIcivilization/dsh-cpamc",
+  "kind": "plugin",
+  "name": "dsh-cpamc",
+  "description": "在 DeepSeek Harness (dsh) 里打开完整的 CPAMC 管理界面 · Open the full CPAMC console inside dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AIcivilization/dsh-cpamc",
+  "repositoryUrl": "https://github.com/AIcivilization/dsh-cpamc",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6078
+}
