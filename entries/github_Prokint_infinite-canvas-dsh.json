@@ -1,0 +1,20 @@
+{
+  "id": "github:Prokint/infinite-canvas-dsh",
+  "kind": "plugin",
+  "name": "infinite-canvas-dsh",
+  "description": "Infinite Canvas fork with DeepSeek Harness desktop plugin and Canvas Agent MCP integration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Prokint/infinite-canvas-dsh",
+  "repositoryUrl": "https://github.com/Prokint/infinite-canvas-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6023
+}
