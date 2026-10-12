@@ -1,0 +1,20 @@
+{
+  "id": "github:Lixiaoyiao/deepseek-harness-action",
+  "kind": "plugin",
+  "name": "deepseek-harness-action",
+  "description": "Community GitHub Action for DeepSeek Harness — AI Code Review · CI Diagnosis · Auto Fix · Issue → PR",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lixiaoyiao/deepseek-harness-action",
+  "repositoryUrl": "https://github.com/Lixiaoyiao/deepseek-harness-action",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5794
+}
