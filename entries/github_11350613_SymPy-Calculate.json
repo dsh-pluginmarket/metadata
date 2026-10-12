@@ -1,0 +1,20 @@
+{
+  "id": "github:11350613/SymPy-Calculate",
+  "kind": "plugin",
+  "name": "SymPy-Calculate",
+  "description": "A DeepSeek Harness agent preset based on minimal. It adds one stateless tool, sympy_calculate, which runs a complete Python script in a fresh process against a local SymPy development checkout.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "11350613/SymPy-Calculate",
+  "repositoryUrl": "https://github.com/11350613/SymPy-Calculate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5606
+}
