@@ -1,0 +1,20 @@
+{
+  "id": "github:iluluyu/dsh-ui-outline",
+  "kind": "plugin",
+  "name": "dsh-ui-outline",
+  "description": "ChatGPT-style right-edge turn navigation plugin for DeepSeek Harness (dsh) web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iluluyu/dsh-ui-outline",
+  "repositoryUrl": "https://github.com/iluluyu/dsh-ui-outline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6048
+}
