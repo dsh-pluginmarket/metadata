@@ -1,0 +1,20 @@
+{
+  "id": "github:openbkn-ai/bkn-dsh",
+  "kind": "plugin",
+  "name": "bkn-dsh",
+  "description": "OpenBKN's DeepSeek Harness Web UI plugin enables business users to safely, accurately and reliably utilize the enterprise's business knowledge network to complete business analysis and decision-making.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "openbkn-ai/bkn-dsh",
+  "repositoryUrl": "https://github.com/openbkn-ai/bkn-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6101
+}
