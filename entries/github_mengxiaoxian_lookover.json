@@ -1,0 +1,20 @@
+{
+  "id": "github:mengxiaoxian/lookover",
+  "kind": "plugin",
+  "name": "lookover",
+  "description": "在当前页面提问，把解决经验留给下次：DSH 悬浮气泡、按需页面上下文与个人解决经验插件（dsh-bubble / dsh-look / dsh-expmem）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mengxiaoxian/lookover",
+  "repositoryUrl": "https://github.com/mengxiaoxian/lookover",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5595
+}
