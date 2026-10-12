@@ -1,0 +1,20 @@
+{
+  "id": "github:439436269-ctrl/dsh-video-pipeline",
+  "kind": "plugin",
+  "name": "dsh-video-pipeline",
+  "description": "DSH 插件：把一条短视频生产流水线（19 个 skill：编排 + 原子）内置进 agent 技能目录",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "439436269-ctrl/dsh-video-pipeline",
+  "repositoryUrl": "https://github.com/439436269-ctrl/dsh-video-pipeline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6091
+}
