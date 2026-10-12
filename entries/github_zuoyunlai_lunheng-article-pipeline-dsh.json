@@ -1,0 +1,20 @@
+{
+  "id": "github:zuoyunlai/lunheng-article-pipeline-dsh",
+  "kind": "plugin",
+  "name": "lunheng-article-pipeline-dsh",
+  "description": "论衡（lunheng-article-pipeline）DeepSeek Harness bundle 插件（DSH 适配版）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuoyunlai/lunheng-article-pipeline-dsh",
+  "repositoryUrl": "https://github.com/zuoyunlai/lunheng-article-pipeline-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6130
+}
