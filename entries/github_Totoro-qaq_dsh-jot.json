@@ -1,0 +1,20 @@
+{
+  "id": "github:Totoro-qaq/dsh-jot",
+  "kind": "plugin",
+  "name": "dsh-jot",
+  "description": "Human-editable notes, todos and documents for DeepSeek Harness, with search, tables, attachments, export and optional agent collaboration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Totoro-qaq/dsh-jot",
+  "repositoryUrl": "https://github.com/Totoro-qaq/dsh-jot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6017
+}
