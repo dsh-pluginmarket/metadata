@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaods/k8e",
+  "kind": "plugin",
+  "name": "k8e",
+  "description": "k8e.sh - OpenSource Agentic AI Sandbox Matrix",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaods/k8e",
+  "repositoryUrl": "https://github.com/xiaods/k8e",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6104
+}
