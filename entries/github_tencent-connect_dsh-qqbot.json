@@ -1,0 +1,20 @@
+{
+  "id": "github:tencent-connect/dsh-qqbot",
+  "kind": "plugin",
+  "name": "dsh-qqbot",
+  "description": "让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tencent-connect/dsh-qqbot",
+  "repositoryUrl": "https://github.com/tencent-connect/dsh-qqbot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6037
+}
