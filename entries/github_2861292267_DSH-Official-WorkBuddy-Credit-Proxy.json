@@ -1,0 +1,20 @@
+{
+  "id": "github:2861292267/DSH-Official-WorkBuddy-Credit-Proxy",
+  "kind": "plugin",
+  "name": "DSH-Official-WorkBuddy-Credit-Proxy",
+  "description": "DSH 官方版 · WorkBuddy 积分反代 —— 把本机 WorkBuddy 账号合并为自动故障转移的模型池，接入 DeepSeek Harness 官方版（含 DSH 内核 0.1.7 兼容修复、启动自动同步账号、卡片内 OAuth 扫码添加）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2861292267/DSH-Official-WorkBuddy-Credit-Proxy",
+  "repositoryUrl": "https://github.com/2861292267/DSH-Official-WorkBuddy-Credit-Proxy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6076
+}
