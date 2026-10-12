@@ -1,0 +1,20 @@
+{
+  "id": "github:ccl4-56-23-5/DSH-Plugins",
+  "kind": "plugin",
+  "name": "DSH-Plugins",
+  "description": "DSH插件：最高指令1.1.2、Api-Switcher2.1.5。完整源码、图文使用说明与最新版安装包。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccl4-56-23-5/DSH-Plugins",
+  "repositoryUrl": "https://github.com/ccl4-56-23-5/DSH-Plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6044
+}
