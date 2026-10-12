@@ -1,0 +1,20 @@
+{
+  "id": "github:MarchingWorkhorse/Output-Overview",
+  "kind": "plugin",
+  "name": "Output-Overview",
+  "description": "dsh产出统计，包括代码行，采纳率，文档数，编辑次数等信息",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MarchingWorkhorse/Output-Overview",
+  "repositoryUrl": "https://github.com/MarchingWorkhorse/Output-Overview",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5640
+}
