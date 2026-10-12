@@ -1,0 +1,20 @@
+{
+  "id": "github:kira905/dsh-firstaid",
+  "kind": "plugin",
+  "name": "dsh-firstaid",
+  "description": "Zero-dependency incident toolkit for long-running agent hosts: one entry point for stuck services, frozen UIs, rollbacks and data loss; emits a hand-off-ready on-site report. Read-only by default. | 零依赖急救台：起不来 / 假死 / 要撤销改动 / 数据被删四类现场压成一个入口，产出可整段交出去的体检报告",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kira905/dsh-firstaid",
+  "repositoryUrl": "https://github.com/kira905/dsh-firstaid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5924
+}
