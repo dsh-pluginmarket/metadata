@@ -1,0 +1,20 @@
+{
+  "id": "github:XINY11451/dsh-wsl",
+  "kind": "plugin",
+  "name": "dsh-wsl",
+  "description": "A model-facing WSL tool plugin for DeepSeek Harness (DSH). It lets an agent run Linux commands through wsl.exe directly — no hand-written .sh scripts or pwsh wrappers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "XINY11451/dsh-wsl",
+  "repositoryUrl": "https://github.com/XINY11451/dsh-wsl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5577
+}
