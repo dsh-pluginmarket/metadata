@@ -1,0 +1,20 @@
+{
+  "id": "github:webkubor/dsh-mirror",
+  "kind": "plugin",
+  "name": "dsh-mirror",
+  "description": "Let the AI know you. 让模型主动记下你的判断依据（原则/红线/工作方式），跨会话复用 —— 有容量、会遗忘、每条都说得出为什么记。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "webkubor/dsh-mirror",
+  "repositoryUrl": "https://github.com/webkubor/dsh-mirror",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5726
+}
