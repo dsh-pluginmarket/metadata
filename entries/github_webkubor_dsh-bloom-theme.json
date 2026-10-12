@@ -1,0 +1,20 @@
+{
+  "id": "github:webkubor/dsh-bloom-theme",
+  "kind": "plugin",
+  "name": "dsh-bloom-theme",
+  "description": "DeepSeek Harness (DSH) 主题插件：Bloom 莫兰迪配色 10 套中国风命名（黛蓝/朱砂/桃夭/天青/竹青/赭石/青金/琥珀/落霞/青莲），OKLCH 调色，明暗双主题，顶栏一键切换，20 组配色实测全部达 WCAG AA",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "webkubor/dsh-bloom-theme",
+  "repositoryUrl": "https://github.com/webkubor/dsh-bloom-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5708
+}
