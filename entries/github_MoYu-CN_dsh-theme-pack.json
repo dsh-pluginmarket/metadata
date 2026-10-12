@@ -1,0 +1,20 @@
+{
+  "id": "github:MoYu-CN/dsh-theme-pack",
+  "kind": "plugin",
+  "name": "dsh-theme-pack",
+  "description": "Extra light and dark color themes for the DSH UI, registered as pure color tokens on top of the official theme runtime.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MoYu-CN/dsh-theme-pack",
+  "repositoryUrl": "https://github.com/MoYu-CN/dsh-theme-pack",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6106
+}
