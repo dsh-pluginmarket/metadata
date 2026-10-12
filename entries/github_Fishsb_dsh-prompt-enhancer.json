@@ -1,0 +1,20 @@
+{
+  "id": "github:Fishsb/dsh-prompt-enhancer",
+  "kind": "plugin",
+  "name": "dsh-prompt-enhancer",
+  "description": "DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停·云端/本地双引擎）· 附 🔁 服务异常一键重启",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fishsb/dsh-prompt-enhancer",
+  "repositoryUrl": "https://github.com/Fishsb/dsh-prompt-enhancer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5987
+}
