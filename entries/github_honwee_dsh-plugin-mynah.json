@@ -1,0 +1,20 @@
+{
+  "id": "github:honwee/dsh-plugin-mynah",
+  "kind": "plugin",
+  "name": "dsh-plugin-mynah",
+  "description": "Give your DeepSeek Harness agent a talking face: drive a Mynah realtime digital human (speak, interrupt, sessions, channels, knowledge base).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "honwee/dsh-plugin-mynah",
+  "repositoryUrl": "https://github.com/honwee/dsh-plugin-mynah",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6054
+}
