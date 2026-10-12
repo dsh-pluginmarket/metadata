@@ -1,0 +1,20 @@
+{
+  "id": "github:guzhou079-arch/deepseek-harness-android",
+  "kind": "plugin",
+  "name": "deepseek-harness-android",
+  "description": "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境。它还能在手机上自己编译、打包、签名、发布。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guzhou079-arch/deepseek-harness-android",
+  "repositoryUrl": "https://github.com/guzhou079-arch/deepseek-harness-android",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5991
+}
