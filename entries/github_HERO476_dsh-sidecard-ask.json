@@ -1,0 +1,20 @@
+{
+  "id": "github:HERO476/dsh-sidecard-ask",
+  "kind": "plugin",
+  "name": "dsh-sidecard-ask",
+  "description": "DSH ????(??????):????/????????,???????????????????Selection follow-up for DeepSeek Harness with an independent side-card answerer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HERO476/dsh-sidecard-ask",
+  "repositoryUrl": "https://github.com/HERO476/dsh-sidecard-ask",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5885
+}
