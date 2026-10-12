@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-huoqu",
+  "kind": "plugin",
+  "name": "dsh-huoqu",
+  "description": "DSH desktop plugin: capture a rendered webpage into a local offline HTML and MHTML copy.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-huoqu",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-huoqu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5812
+}
