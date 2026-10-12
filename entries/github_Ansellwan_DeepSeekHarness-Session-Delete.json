@@ -1,0 +1,20 @@
+{
+  "id": "github:Ansellwan/DeepSeekHarness-Session-Delete",
+  "kind": "plugin",
+  "name": "DeepSeekHarness-Session-Delete",
+  "description": "为 DeepSeek Harness 侧栏会话补充官方缺失的「删除会话」：运行中置灰、二次确认、真删除。 A DeepSeek Harness plugin adding the missing Delete-session action to the sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ansellwan/DeepSeekHarness-Session-Delete",
+  "repositoryUrl": "https://github.com/Ansellwan/DeepSeekHarness-Session-Delete",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5852
+}
