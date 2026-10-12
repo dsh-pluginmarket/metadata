@@ -1,0 +1,20 @@
+{
+  "id": "github:NaivG/dsh-network",
+  "kind": "plugin",
+  "name": "dsh-network",
+  "description": "Let Deepseek Harness access the internet seamlessly. / 让 DeepSeek Harness 无缝访问互联网。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NaivG/dsh-network",
+  "repositoryUrl": "https://github.com/NaivG/dsh-network",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5646
+}
