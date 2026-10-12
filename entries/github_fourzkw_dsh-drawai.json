@@ -1,0 +1,20 @@
+{
+  "id": "github:fourzkw/dsh-drawai",
+  "kind": "plugin",
+  "name": "dsh-drawai",
+  "description": "DSH 右侧栏里的可编辑画布 —— 加上让模型直接改图的两个工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fourzkw/dsh-drawai",
+  "repositoryUrl": "https://github.com/fourzkw/dsh-drawai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6031
+}
