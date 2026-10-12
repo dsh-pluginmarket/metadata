@@ -1,0 +1,20 @@
+{
+  "id": "github:azazo1/dsh-approve-prefix",
+  "kind": "plugin",
+  "name": "dsh-approve-prefix",
+  "description": "按单命令前缀自动放行 DSH 沙箱提权请求, 含管道与链式的命令一律转人工审批.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "azazo1/dsh-approve-prefix",
+  "repositoryUrl": "https://github.com/azazo1/dsh-approve-prefix",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5968
+}
