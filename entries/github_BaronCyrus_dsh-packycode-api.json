@@ -1,0 +1,20 @@
+{
+  "id": "github:BaronCyrus/dsh-packycode-api",
+  "kind": "plugin",
+  "name": "dsh-packycode-api",
+  "description": "Use a PackyCode (PackyAPI) API key in DeepSeek Harness: built-in multi-protocol model route, ordered API-key rotation, and balance display",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BaronCyrus/dsh-packycode-api",
+  "repositoryUrl": "https://github.com/BaronCyrus/dsh-packycode-api",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5839
+}
