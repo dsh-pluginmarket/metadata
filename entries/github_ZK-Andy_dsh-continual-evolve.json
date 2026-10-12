@@ -1,0 +1,20 @@
+{
+  "id": "github:ZK-Andy/dsh-continual-evolve",
+  "kind": "plugin",
+  "name": "dsh-continual-evolve",
+  "description": "Continual self-evolution plugin for DeepSeek Harness: versioned, auditable, rollback-safe harness state refined from session trajectories, with a benchmark-driven validation loop.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZK-Andy/dsh-continual-evolve",
+  "repositoryUrl": "https://github.com/ZK-Andy/dsh-continual-evolve",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5586
+}
