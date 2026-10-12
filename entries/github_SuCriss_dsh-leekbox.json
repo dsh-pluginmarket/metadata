@@ -1,0 +1,20 @@
+{
+  "id": "github:SuCriss/dsh-leekbox",
+  "kind": "plugin",
+  "name": "dsh-leekbox",
+  "description": "韭菜盒子 LeekBox — A股看盘助手 · DeepSeek Harness (DSH) web 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SuCriss/dsh-leekbox",
+  "repositoryUrl": "https://github.com/SuCriss/dsh-leekbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5748
+}
