@@ -1,0 +1,20 @@
+{
+  "id": "github:furkancak1r/dsh-composer-plus",
+  "kind": "plugin",
+  "name": "dsh-composer-plus",
+  "description": "DeepSeek Harness composer helpers: input history, Shift+Tab /plan toggle, one-click Continue, drag-and-drop queue reordering, Copy deeplink",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "furkancak1r/dsh-composer-plus",
+  "repositoryUrl": "https://github.com/furkancak1r/dsh-composer-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5573
+}
