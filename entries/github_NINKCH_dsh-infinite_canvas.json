@@ -1,0 +1,20 @@
+{
+  "id": "github:NINKCH/dsh-infinite_canvas",
+  "kind": "plugin",
+  "name": "dsh-infinite_canvas",
+  "description": "A node-based short-drama studio inside DeepSeek Harness. Start from a one-line idea, walk out with a storyboarded, voiced, subtitled video cut — right on an infinite canvas.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NINKCH/dsh-infinite_canvas",
+  "repositoryUrl": "https://github.com/NINKCH/dsh-infinite_canvas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5989
+}
