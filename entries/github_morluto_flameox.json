@@ -1,0 +1,20 @@
+{
+  "id": "github:morluto/flameox",
+  "kind": "plugin",
+  "name": "flameox",
+  "description": "Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "morluto/flameox",
+  "repositoryUrl": "https://github.com/morluto/flameox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5938
+}
