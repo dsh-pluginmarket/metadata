@@ -1,0 +1,20 @@
+{
+  "id": "github:kkwings/dsh-super-memory",
+  "kind": "plugin",
+  "name": "dsh-super-memory",
+  "description": "Related DeepSeek Harness project: kkwings/dsh-super-memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kkwings/dsh-super-memory",
+  "repositoryUrl": "https://github.com/kkwings/dsh-super-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5843
+}
