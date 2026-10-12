@@ -1,0 +1,20 @@
+{
+  "id": "github:kira905/dsh-ecosystem-panel",
+  "kind": "plugin",
+  "name": "dsh-ecosystem-panel",
+  "description": "DSH plugin: read-only ecosystem health panel - bundle / patch / skill / upgrade / decoupling diagnosis in one view | DSH 插件：只读生态健康面板，六类体检一屏看完",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kira905/dsh-ecosystem-panel",
+  "repositoryUrl": "https://github.com/kira905/dsh-ecosystem-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5928
+}
