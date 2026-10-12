@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-zhanshi",
+  "kind": "plugin",
+  "name": "dsh-zhanshi",
+  "description": "DSH desktop plugin: show this-turn images and videos inline in the conversation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-zhanshi",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-zhanshi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5805
+}
