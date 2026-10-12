@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-sousuo",
+  "kind": "plugin",
+  "name": "dsh-sousuo",
+  "description": "DSH desktop search provider: AnySearch with rotating API keys on HTTP 402",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-sousuo",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-sousuo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5807
+}
