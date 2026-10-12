@@ -1,0 +1,20 @@
+{
+  "id": "github:AtlasCloudAI/mcp-server",
+  "kind": "plugin",
+  "name": "mcp-server",
+  "description": "MCP server for Atlas Cloud - AI API aggregation platform for image/video generation and LLM",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AtlasCloudAI/mcp-server",
+  "repositoryUrl": "https://github.com/AtlasCloudAI/mcp-server",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5969
+}
