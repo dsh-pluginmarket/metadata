@@ -1,0 +1,20 @@
+{
+  "id": "github:Fish-under-sea/dsh-fish",
+  "kind": "plugin",
+  "name": "dsh-fish",
+  "description": "自用 DSH（DeepSeek Harness）插件聚合包：一个 pnpm 工作区装齐 8 个插件（5 个自建 + 3 个上游补充版：AgentTeams / 思考强度 / 免费模型），子插件源码在 packages/ 下",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fish-under-sea/dsh-fish",
+  "repositoryUrl": "https://github.com/Fish-under-sea/dsh-fish",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5964
+}
