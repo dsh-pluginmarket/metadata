@@ -1,0 +1,20 @@
+{
+  "id": "github:dingminhua/dsh-connect-trae",
+  "kind": "plugin",
+  "name": "dsh-connect-trae",
+  "description": "Connect locally signed-in Trae models to DeepSeek Harness with a read-only credits overview.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dingminhua/dsh-connect-trae",
+  "repositoryUrl": "https://github.com/dingminhua/dsh-connect-trae",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5962
+}
