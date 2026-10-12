@@ -1,0 +1,20 @@
+{
+  "id": "github:abadiegie/dsh-jetbrains",
+  "kind": "plugin",
+  "name": "dsh-jetbrains",
+  "description": "Unofficial DeepSeek Harness ⇄ JetBrains integration: DSH chat inside your IDE, and your IDE workspace — project, attached modules, active file and caret — in front of the model.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "abadiegie/dsh-jetbrains",
+  "repositoryUrl": "https://github.com/abadiegie/dsh-jetbrains",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5559
+}
