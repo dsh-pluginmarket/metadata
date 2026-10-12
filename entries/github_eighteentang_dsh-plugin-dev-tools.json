@@ -1,0 +1,20 @@
+{
+  "id": "github:eighteentang/dsh-plugin-dev-tools",
+  "kind": "plugin",
+  "name": "dsh-plugin-dev-tools",
+  "description": "DSH 开发工具箱：界面元素定位（Alt+悬浮）、随插件分发的开发经验库、开发模式自检清单注入",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "eighteentang/dsh-plugin-dev-tools",
+  "repositoryUrl": "https://github.com/eighteentang/dsh-plugin-dev-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5796
+}
