@@ -1,0 +1,20 @@
+{
+  "id": "github:kovey/dsh-engineering-suite",
+  "kind": "plugin",
+  "name": "dsh-engineering-suite",
+  "description": "Engineering suite for DeepSeek Harness: seven plugins covering roles, specifications, test design, quality gates, evidence, audit trail and pipeline orchestration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kovey/dsh-engineering-suite",
+  "repositoryUrl": "https://github.com/kovey/dsh-engineering-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6006
+}
