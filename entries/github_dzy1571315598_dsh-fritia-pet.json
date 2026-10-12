@@ -1,0 +1,20 @@
+{
+  "id": "github:dzy1571315598/dsh-fritia-pet",
+  "kind": "plugin",
+  "name": "dsh-fritia-pet",
+  "description": "Fritia 桌宠 — DeepSeek Harness (DSH) 桌宠插件：右下角待机/走路/抓取/情绪/余额面板",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dzy1571315598/dsh-fritia-pet",
+  "repositoryUrl": "https://github.com/dzy1571315598/dsh-fritia-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5779
+}
