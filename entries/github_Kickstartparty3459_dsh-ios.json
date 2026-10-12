@@ -1,0 +1,20 @@
+{
+  "id": "github:Kickstartparty3459/dsh-ios",
+  "kind": "plugin",
+  "name": "dsh-ios",
+  "description": "Run live iOS simulators and your real iPhone over USB inside DeepSeek Harness conversations with 22 agent tools, MJPEG previews, and SwiftUI hot reload.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kickstartparty3459/dsh-ios",
+  "repositoryUrl": "https://github.com/Kickstartparty3459/dsh-ios",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5750
+}
