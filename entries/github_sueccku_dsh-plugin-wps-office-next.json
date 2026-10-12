@@ -1,0 +1,20 @@
+{
+  "id": "github:sueccku/dsh-plugin-wps-office-next",
+  "kind": "plugin",
+  "name": "dsh-plugin-wps-office-next",
+  "description": "在 DeepSeek Harness（DSH）里用中文对话操作 WPS 表格 / 文字 / 演示：读写数据、排版、公式图表、批量转 PDF。自带 MCP server 与常驻 COM 宿主，免装加载项、免配环境变量。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sueccku/dsh-plugin-wps-office-next",
+  "repositoryUrl": "https://github.com/sueccku/dsh-plugin-wps-office-next",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5635
+}
