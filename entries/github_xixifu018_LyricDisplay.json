@@ -1,0 +1,20 @@
+{
+  "id": "github:xixifu018/LyricDisplay",
+  "kind": "plugin",
+  "name": "LyricDisplay",
+  "description": "洛雪音乐桌面歌词浮窗 + DSH Web GUI 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xixifu018/LyricDisplay",
+  "repositoryUrl": "https://github.com/xixifu018/LyricDisplay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5802
+}
