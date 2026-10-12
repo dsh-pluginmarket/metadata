@@ -1,0 +1,20 @@
+{
+  "id": "github:tcgbp/dsh-flash",
+  "kind": "plugin",
+  "name": "dsh-flash",
+  "description": "Related DeepSeek Harness project: tcgbp/dsh-flash",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tcgbp/dsh-flash",
+  "repositoryUrl": "https://github.com/tcgbp/dsh-flash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5731
+}
