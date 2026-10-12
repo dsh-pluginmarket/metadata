@@ -1,0 +1,20 @@
+{
+  "id": "github:jxboop/dsh-plugin-mobile-bridge",
+  "kind": "plugin",
+  "name": "dsh-plugin-mobile-bridge",
+  "description": "给 DeepSeek Harness 用的手机端插件：在手机上发图/发视频/下发任务、实时看输出、插话与撤回、把电脑给的素材存进相册；局域网 / Tailscale Funnel 外网可达",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jxboop/dsh-plugin-mobile-bridge",
+  "repositoryUrl": "https://github.com/jxboop/dsh-plugin-mobile-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5775
+}
