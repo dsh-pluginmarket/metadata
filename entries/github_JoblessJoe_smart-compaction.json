@@ -1,0 +1,20 @@
+{
+  "id": "github:JoblessJoe/smart-compaction",
+  "kind": "plugin",
+  "name": "smart-compaction",
+  "description": "Let the dsh model compact its own context at a safe point (compact_now) and see real token usage (context_status).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JoblessJoe/smart-compaction",
+  "repositoryUrl": "https://github.com/JoblessJoe/smart-compaction",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5856
+}
