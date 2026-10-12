@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-shichang",
+  "kind": "plugin",
+  "name": "dsh-shichang",
+  "description": "DeepSeek Harness desktop read-only plugin catalog",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-shichang",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-shichang",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5806
+}
