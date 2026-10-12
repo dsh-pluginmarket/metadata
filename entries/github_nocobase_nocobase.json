@@ -1,0 +1,20 @@
+{
+  "id": "github:nocobase/nocobase",
+  "kind": "plugin",
+  "name": "nocobase",
+  "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nocobase/nocobase",
+  "repositoryUrl": "https://github.com/nocobase/nocobase",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5943
+}
