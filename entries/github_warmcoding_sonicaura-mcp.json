@@ -1,0 +1,20 @@
+{
+  "id": "github:warmcoding/sonicaura-mcp",
+  "kind": "plugin",
+  "name": "sonicaura-mcp",
+  "description": "Remote MCP server for audio stem separation, denoise, and reverb",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "warmcoding/sonicaura-mcp",
+  "repositoryUrl": "https://github.com/warmcoding/sonicaura-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6121
+}
