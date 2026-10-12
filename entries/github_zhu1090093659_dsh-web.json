@@ -1,0 +1,20 @@
+{
+  "id": "github:zhu1090093659/dsh-web",
+  "kind": "plugin",
+  "name": "dsh-web",
+  "description": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhu1090093659/dsh-web",
+  "repositoryUrl": "https://github.com/zhu1090093659/dsh-web",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5940
+}
