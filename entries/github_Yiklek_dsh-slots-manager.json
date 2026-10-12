@@ -1,0 +1,20 @@
+{
+  "id": "github:Yiklek/dsh-slots-manager",
+  "kind": "plugin",
+  "name": "dsh-slots-manager",
+  "description": "DSH web plugin: arrange the list slots other plugins contribute to — show/hide, reorder, rename — without touching upstream.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yiklek/dsh-slots-manager",
+  "repositoryUrl": "https://github.com/Yiklek/dsh-slots-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6097
+}
