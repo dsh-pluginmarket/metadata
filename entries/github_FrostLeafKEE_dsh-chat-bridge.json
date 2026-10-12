@@ -1,0 +1,20 @@
+{
+  "id": "github:FrostLeafKEE/dsh-chat-bridge",
+  "kind": "plugin",
+  "name": "dsh-chat-bridge",
+  "description": "Switch between DeepSeek web chat and workspaces in DeepSeek Harness. Web history sidebar and one-click conversation import. / 网页聊天、历史侧栏与工作区一键导入。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FrostLeafKEE/dsh-chat-bridge",
+  "repositoryUrl": "https://github.com/FrostLeafKEE/dsh-chat-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5982
+}
