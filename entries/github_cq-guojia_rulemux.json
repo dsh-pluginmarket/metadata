@@ -1,0 +1,20 @@
+{
+  "id": "github:cq-guojia/rulemux",
+  "kind": "plugin",
+  "name": "rulemux",
+  "description": "Related DeepSeek Harness project: cq-guojia/rulemux",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cq-guojia/rulemux",
+  "repositoryUrl": "https://github.com/cq-guojia/rulemux",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5845
+}
