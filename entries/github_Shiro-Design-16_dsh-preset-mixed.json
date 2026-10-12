@@ -1,0 +1,20 @@
+{
+  "id": "github:Shiro-Design-16/dsh-preset-mixed",
+  "kind": "plugin",
+  "name": "dsh-preset-mixed",
+  "description": "面向 dsh web 的「混合模式」agent preset 插件：只有宿主半边，无浏览器 UI、无配置项、零依赖、零构建。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shiro-Design-16/dsh-preset-mixed",
+  "repositoryUrl": "https://github.com/Shiro-Design-16/dsh-preset-mixed",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5835
+}
