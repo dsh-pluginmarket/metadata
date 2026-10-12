@@ -1,0 +1,20 @@
+{
+  "id": "github:redfox-data/redfox-community-dsh",
+  "kind": "plugin",
+  "name": "redfox-community-dsh",
+  "description": "The official bundle plugin package of DSH (DeepSeek Harness) from RedFoxHub（红狐数据）: Over 100 social media data skills (Douyin / Xiaohongshu / Kuaishou / Bilibili / Official Accounts / Video Accounts / Weibo / YouTube / TikTok, etc.), installed in the native DSH skill format with just one click.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "redfox-data/redfox-community-dsh",
+  "repositoryUrl": "https://github.com/redfox-data/redfox-community-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6065
+}
