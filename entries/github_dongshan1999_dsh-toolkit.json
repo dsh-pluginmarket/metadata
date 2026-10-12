@@ -1,0 +1,20 @@
+{
+  "id": "github:dongshan1999/dsh-toolkit",
+  "kind": "plugin",
+  "name": "dsh-toolkit",
+  "description": "Related DeepSeek Harness project: dongshan1999/dsh-toolkit",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dongshan1999/dsh-toolkit",
+  "repositoryUrl": "https://github.com/dongshan1999/dsh-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5916
+}
