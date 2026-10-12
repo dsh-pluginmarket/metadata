@@ -1,0 +1,20 @@
+{
+  "id": "github:miaoxingyunduo/dsh-session-cost",
+  "kind": "plugin",
+  "name": "dsh-session-cost",
+  "description": "DSH plugin: per-conversation token and money accounting — session_cost / list_session_costs tools, the /cost command, and a composer cost pill with per-model rates and DeepSeek peak/off-peak pricing",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "miaoxingyunduo/dsh-session-cost",
+  "repositoryUrl": "https://github.com/miaoxingyunduo/dsh-session-cost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5998
+}
