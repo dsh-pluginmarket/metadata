@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-shengcheng",
+  "kind": "plugin",
+  "name": "dsh-shengcheng",
+  "description": "DSH desktop plugin: generate images with logged-in Grok/GPT accounts, and videos with Grok",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-shengcheng",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-shengcheng",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5808
+}
