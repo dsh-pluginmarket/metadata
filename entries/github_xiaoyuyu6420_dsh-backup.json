@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoyuyu6420/dsh-backup",
+  "kind": "plugin",
+  "name": "dsh-backup",
+  "description": "一条命令备份/恢复/迁移 DSH 全部数据（~/.dsh）：升级前快照、换机迁移（会话/插件/MCP/技能）、会话日志修复、进程外救援、凭据脱敏。One-command backup / restore / migration for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoyuyu6420/dsh-backup",
+  "repositoryUrl": "https://github.com/xiaoyuyu6420/dsh-backup",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5974
+}
