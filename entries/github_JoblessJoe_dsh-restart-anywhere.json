@@ -1,0 +1,20 @@
+{
+  "id": "github:JoblessJoe/dsh-restart-anywhere",
+  "kind": "plugin",
+  "name": "dsh-restart-anywhere",
+  "description": "One restart button for the DeepSeek Harness (dsh) web GUI that works with your setup: systemd, Docker, Kubernetes, pm2, launchd, terminal, Windows. Restarts in place, zero dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JoblessJoe/dsh-restart-anywhere",
+  "repositoryUrl": "https://github.com/JoblessJoe/dsh-restart-anywhere",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5848
+}
