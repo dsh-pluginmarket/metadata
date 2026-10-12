@@ -1,0 +1,20 @@
+{
+  "id": "github:Capacious-diamondweddinganniversary929/DeepSeekHarnessDesktop",
+  "kind": "plugin",
+  "name": "DeepSeekHarnessDesktop",
+  "description": "Package DeepSeek Harness into a cross-platform desktop app with built-in Node runtime — double-click to launch the full web UI on Windows, macOS, and Linux.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Capacious-diamondweddinganniversary929/DeepSeekHarnessDesktop",
+  "repositoryUrl": "https://github.com/Capacious-diamondweddinganniversary929/DeepSeekHarnessDesktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5760
+}
