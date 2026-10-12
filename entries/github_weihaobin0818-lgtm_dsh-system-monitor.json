@@ -1,0 +1,20 @@
+{
+  "id": "github:weihaobin0818-lgtm/dsh-system-monitor",
+  "kind": "plugin",
+  "name": "dsh-system-monitor",
+  "description": "DSH 侧栏实时硬件监控：CPU / GPU / 内存 / 磁盘一页看完，每秒刷新，每个读数都能下钻到是哪个应用。支持容量与内存耗尽预测、阈值告警与 NDJSON 导出。纯 Node，零运行时依赖，完整功能仅 Windows。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weihaobin0818-lgtm/dsh-system-monitor",
+  "repositoryUrl": "https://github.com/weihaobin0818-lgtm/dsh-system-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5597
+}
