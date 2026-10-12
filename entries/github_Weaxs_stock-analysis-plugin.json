@@ -1,0 +1,20 @@
+{
+  "id": "github:Weaxs/stock-analysis-plugin",
+  "kind": "plugin",
+  "name": "stock-analysis-plugin",
+  "description": "Multi-market stock analysis, screening & backtesting plugin for AI agents — 39 tools + 20 strategy skills across A/HK/US/JP/KR/TW markets, works with Pi Agent, Hermes, OpenClaw & Deepseek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Weaxs/stock-analysis-plugin",
+  "repositoryUrl": "https://github.com/Weaxs/stock-analysis-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6010
+}
