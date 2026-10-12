@@ -1,0 +1,20 @@
+{
+  "id": "github:Kerberos255/dsh-skill-workshop",
+  "kind": "plugin",
+  "name": "dsh-skill-workshop",
+  "description": "Self-learning agent skills for DeepSeek Harness: evidence-gated auto-publishing, bounded growth and safe recovery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kerberos255/dsh-skill-workshop",
+  "repositoryUrl": "https://github.com/Kerberos255/dsh-skill-workshop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5912
+}
