@@ -1,0 +1,20 @@
+{
+  "id": "github:kira905/dsh-diagnostic-tools",
+  "kind": "plugin",
+  "name": "dsh-diagnostic-tools",
+  "description": "DSH diagnostic tools: dependency-closure & decoupling checks + chat image attachment reconciliation. Zero deps, read-only, reproducible | DSH 诊断取证工具组：依赖闭包/解耦体检 + 会话图片附件对账，零依赖只读",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kira905/dsh-diagnostic-tools",
+  "repositoryUrl": "https://github.com/kira905/dsh-diagnostic-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5926
+}
