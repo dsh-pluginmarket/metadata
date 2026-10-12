@@ -1,0 +1,20 @@
+{
+  "id": "github:LingyeSoul/dsh-tavern",
+  "kind": "plugin",
+  "name": "dsh-tavern",
+  "description": "把 DSH（deepseek-harness）扩展成兼容 SillyTavern 生态的角色扮演工作区。角色卡、世界书、预设、MVU变量结算、Mod 扩展——资产与数据都在你自己的机器上，LLM 跑在你自己的 DSH 路由与原生 AgentLoop 里",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LingyeSoul/dsh-tavern",
+  "repositoryUrl": "https://github.com/LingyeSoul/dsh-tavern",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6022
+}
