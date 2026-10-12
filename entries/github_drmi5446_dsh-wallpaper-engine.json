@@ -1,0 +1,20 @@
+{
+  "id": "github:drmi5446/dsh-wallpaper-engine",
+  "kind": "plugin",
+  "name": "dsh-wallpaper-engine",
+  "description": "Turn Wallpaper Engine wallpapers into a liquid glass background for the DSH web GUI, with video and web support.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drmi5446/dsh-wallpaper-engine",
+  "repositoryUrl": "https://github.com/drmi5446/dsh-wallpaper-engine",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5755
+}
