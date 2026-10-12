@@ -1,0 +1,20 @@
+{
+  "id": "github:FiretrUCK666/dsh-task-board",
+  "kind": "plugin",
+  "name": "dsh-task-board",
+  "description": "DSH Web GUI 的任务看板插件：侧边栏入口 + 五列看板，任务经 DSH 会话真实执行，host 端持久化并跨设备实时同步。Task board plugin for the DeepSeek Harness web GUI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FiretrUCK666/dsh-task-board",
+  "repositoryUrl": "https://github.com/FiretrUCK666/dsh-task-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5712
+}
