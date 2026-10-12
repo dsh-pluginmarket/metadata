@@ -1,0 +1,20 @@
+{
+  "id": "github:BanboLee/banbo-dsh",
+  "kind": "plugin",
+  "name": "banbo-dsh",
+  "description": "Related DeepSeek Harness project: BanboLee/banbo-dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BanboLee/banbo-dsh",
+  "repositoryUrl": "https://github.com/BanboLee/banbo-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6098
+}
