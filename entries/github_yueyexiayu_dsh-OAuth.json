@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-OAuth",
+  "kind": "plugin",
+  "name": "dsh-OAuth",
+  "description": "DSH desktop plugin: log in to Grok and ChatGPT Codex with official OAuth",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-OAuth",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-OAuth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5814
+}
