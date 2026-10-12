@@ -1,0 +1,20 @@
+{
+  "id": "github:Andiii208/gzhflow",
+  "kind": "plugin",
+  "name": "gzhflow",
+  "description": "跨 Agent 公众号内容发布工作流框架 — 素材先行/写作/去AI味/配图/排版/推草稿箱 六阶段流水线，适配 Claude Code/Cursor/Codex/Gemini/Qwen/DeepSeek 等主流 Agent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Andiii208/gzhflow",
+  "repositoryUrl": "https://github.com/Andiii208/gzhflow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5710
+}
