@@ -1,0 +1,20 @@
+{
+  "id": "github:Fo-Rimuru/dsh-thinking-panel",
+  "kind": "plugin",
+  "name": "dsh-thinking-panel",
+  "description": "让 DSH 的思考链看起来像 DeepSeek 官方 App：思考跟随语言，多行滚动预览，展开看完整推理。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fo-Rimuru/dsh-thinking-panel",
+  "repositoryUrl": "https://github.com/Fo-Rimuru/dsh-thinking-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5645
+}
