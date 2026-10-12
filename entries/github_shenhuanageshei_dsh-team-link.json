@@ -1,0 +1,20 @@
+{
+  "id": "github:shenhuanageshei/dsh-team-link",
+  "kind": "plugin",
+  "name": "dsh-team-link",
+  "description": "Session deep links + full session export (markdown/JSON) + approved cross-session messaging with pairing for DeepSeek Harness (dsh).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shenhuanageshei/dsh-team-link",
+  "repositoryUrl": "https://github.com/shenhuanageshei/dsh-team-link",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6051
+}
