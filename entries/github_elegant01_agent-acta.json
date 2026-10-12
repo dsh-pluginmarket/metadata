@@ -1,0 +1,20 @@
+{
+  "id": "github:elegant01/agent-acta",
+  "kind": "plugin",
+  "name": "agent-acta",
+  "description": "本地 AI agent 请求日志面板",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elegant01/agent-acta",
+  "repositoryUrl": "https://github.com/elegant01/agent-acta",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5867
+}
