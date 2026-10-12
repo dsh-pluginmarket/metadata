@@ -1,0 +1,20 @@
+{
+  "id": "github:lcy0121/dsh-plugin-compat-check",
+  "kind": "plugin",
+  "name": "dsh-plugin-compat-check",
+  "description": "在安装前判断一个 DSH 插件在你这一版 DeepSeek Harness 上是否真的可用 / Check whether a DeepSeek Harness plugin actually works on your version, before installing it",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lcy0121/dsh-plugin-compat-check",
+  "repositoryUrl": "https://github.com/lcy0121/dsh-plugin-compat-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5588
+}
