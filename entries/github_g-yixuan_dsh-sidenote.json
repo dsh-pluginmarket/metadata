@@ -1,0 +1,20 @@
+{
+  "id": "github:g-yixuan/dsh-sidenote",
+  "kind": "plugin",
+  "name": "dsh-sidenote",
+  "description": "侧边开一岔对话，划选留一条注释——DSH（DeepSeek Harness）插件：fork 主会话成侧边会话，支线问题不打断主线，结论一键回流。Side chat & selection annotations for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "g-yixuan/dsh-sidenote",
+  "repositoryUrl": "https://github.com/g-yixuan/dsh-sidenote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5642
+}
