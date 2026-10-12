@@ -1,0 +1,20 @@
+{
+  "id": "github:btspoony/mstar-harness",
+  "kind": "plugin",
+  "name": "mstar-harness",
+  "description": "An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "btspoony/mstar-harness",
+  "repositoryUrl": "https://github.com/btspoony/mstar-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5695
+}
