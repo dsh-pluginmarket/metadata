@@ -1,0 +1,20 @@
+{
+  "id": "github:viztor/dsh-opencode-patch",
+  "kind": "plugin",
+  "name": "dsh-opencode-patch",
+  "description": "OpenCode on DeepSeek Harness — DSH plugin that keeps OpenCode Zen + Go free-tier models working: session affinity, gateway origin headers, and tool-schema fallback.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "viztor/dsh-opencode-patch",
+  "repositoryUrl": "https://github.com/viztor/dsh-opencode-patch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5669
+}
