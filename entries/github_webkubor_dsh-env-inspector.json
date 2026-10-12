@@ -1,0 +1,20 @@
+{
+  "id": "github:webkubor/dsh-env-inspector",
+  "kind": "plugin",
+  "name": "dsh-env-inspector",
+  "description": "DSH 环境自检：让读者看到自己电脑装了什么 —— 系统/CLI/DSH 插件/秘钥是否存在",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "webkubor/dsh-env-inspector",
+  "repositoryUrl": "https://github.com/webkubor/dsh-env-inspector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5725
+}
