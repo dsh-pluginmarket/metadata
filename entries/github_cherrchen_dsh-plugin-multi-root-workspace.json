@@ -1,0 +1,20 @@
+{
+  "id": "github:cherrchen/dsh-plugin-multi-root-workspace",
+  "kind": "plugin",
+  "name": "dsh-plugin-multi-root-workspace",
+  "description": "多文件夹 workspace：让 DSH（DeepSeek Harness）的 Agent 不只能读写主目录，还能同时读写你添加的其他文件夹。Multi-folder workspace for DeepSeek Harness: let the agent read and write several folders at once, not just the primary one.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cherrchen/dsh-plugin-multi-root-workspace",
+  "repositoryUrl": "https://github.com/cherrchen/dsh-plugin-multi-root-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5894
+}
