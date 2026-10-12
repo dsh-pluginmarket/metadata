@@ -1,0 +1,20 @@
+{
+  "id": "github:TencentCloudBase/CloudBase-AI-Toolkit",
+  "kind": "plugin",
+  "name": "CloudBase-AI-Toolkit",
+  "description": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TencentCloudBase/CloudBase-AI-Toolkit",
+  "repositoryUrl": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5781
+}
