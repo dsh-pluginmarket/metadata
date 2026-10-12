@@ -1,0 +1,20 @@
+{
+  "id": "github:nightosong/gord-dsh-worktree",
+  "kind": "plugin",
+  "name": "gord-dsh-worktree",
+  "description": "Git worktrees for DeepSeek Harness — isolate parallel work in its own directory and branch. Ships Fast mode (快速模式).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nightosong/gord-dsh-worktree",
+  "repositoryUrl": "https://github.com/nightosong/gord-dsh-worktree",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6126
+}
