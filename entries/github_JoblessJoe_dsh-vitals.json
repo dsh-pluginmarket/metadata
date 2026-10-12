@@ -1,0 +1,20 @@
+{
+  "id": "github:JoblessJoe/dsh-vitals",
+  "kind": "plugin",
+  "name": "dsh-vitals",
+  "description": "Live CPU, memory, temperature and GPU load tab for the DeepSeek Harness (dsh) web GUI. btop-style, zero dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JoblessJoe/dsh-vitals",
+  "repositoryUrl": "https://github.com/JoblessJoe/dsh-vitals",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5847
+}
