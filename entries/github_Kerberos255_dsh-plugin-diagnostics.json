@@ -1,0 +1,20 @@
+{
+  "id": "github:Kerberos255/dsh-plugin-diagnostics",
+  "kind": "plugin",
+  "name": "dsh-plugin-diagnostics",
+  "description": "统一收集本地插件的加载、失败与任务状态，脱敏写入按日轮转的 JSONL 日志。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kerberos255/dsh-plugin-diagnostics",
+  "repositoryUrl": "https://github.com/Kerberos255/dsh-plugin-diagnostics",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5675
+}
