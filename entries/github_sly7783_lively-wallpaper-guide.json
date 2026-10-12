@@ -1,0 +1,20 @@
+{
+  "id": "github:sly7783/lively-wallpaper-guide",
+  "kind": "plugin",
+  "name": "lively-wallpaper-guide",
+  "description": "Set up Lively Wallpaper in minutes with step-by-step guides, performance tips, multi-monitor recipes, and curated wallpaper packs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sly7783/lively-wallpaper-guide",
+  "repositoryUrl": "https://github.com/sly7783/lively-wallpaper-guide",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5737
+}
