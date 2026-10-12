@@ -1,0 +1,20 @@
+{
+  "id": "github:himovo/movo",
+  "kind": "plugin",
+  "name": "movo",
+  "description": "Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "himovo/movo",
+  "repositoryUrl": "https://github.com/himovo/movo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5703
+}
