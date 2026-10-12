@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-bianji",
+  "kind": "plugin",
+  "name": "dsh-bianji",
+  "description": "DeepSeek Harness desktop workspace file editor plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-bianji",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-bianji",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5811
+}
