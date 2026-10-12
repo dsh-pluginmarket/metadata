@@ -1,0 +1,20 @@
+{
+  "id": "github:flymysql/dsh-remote",
+  "kind": "plugin",
+  "name": "dsh-remote",
+  "description": "Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "flymysql/dsh-remote",
+  "repositoryUrl": "https://github.com/flymysql/dsh-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5949
+}
