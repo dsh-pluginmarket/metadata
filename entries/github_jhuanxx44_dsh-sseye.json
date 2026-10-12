@@ -1,0 +1,20 @@
+{
+  "id": "github:jhuanxx44/dsh-sseye",
+  "kind": "plugin",
+  "name": "dsh-sseye",
+  "description": "The LLM debug console inside DeepSeek Harness: capture every model call, semantic diff, Replay & Mutate",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jhuanxx44/dsh-sseye",
+  "repositoryUrl": "https://github.com/jhuanxx44/dsh-sseye",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6082
+}
