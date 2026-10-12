@@ -1,0 +1,20 @@
+{
+  "id": "github:rangercd67/dsh-prompt-polish",
+  "kind": "plugin",
+  "name": "dsh-prompt-polish",
+  "description": "Prompt polishing for the DeepSeek Harness web GUI (dsh 0.2.x desktop runtime): concise rewrites, a built-in configuration page, and a route-leak fix. A derivative of dsh-prompt-enhance.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rangercd67/dsh-prompt-polish",
+  "repositoryUrl": "https://github.com/rangercd67/dsh-prompt-polish",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5704
+}
