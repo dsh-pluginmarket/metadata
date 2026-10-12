@@ -1,0 +1,20 @@
+{
+  "id": "github:warmwine/dsh-memoryleak",
+  "kind": "plugin",
+  "name": "dsh-memoryleak",
+  "description": "基于dsh的知识库和待办管理工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "warmwine/dsh-memoryleak",
+  "repositoryUrl": "https://github.com/warmwine/dsh-memoryleak",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6059
+}
