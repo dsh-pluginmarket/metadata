@@ -1,0 +1,20 @@
+{
+  "id": "github:ash-qw/dsh-theme-prts",
+  "kind": "plugin",
+  "name": "dsh-theme-prts",
+  "description": "Unofficial personal non-commercial Arknights P.R.T.S. fan UI for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ash-qw/dsh-theme-prts",
+  "repositoryUrl": "https://github.com/ash-qw/dsh-theme-prts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5739
+}
