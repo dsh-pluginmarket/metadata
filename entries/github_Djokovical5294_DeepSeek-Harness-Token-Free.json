@@ -1,0 +1,20 @@
+{
+  "id": "github:Djokovical5294/DeepSeek-Harness-Token-Free",
+  "kind": "plugin",
+  "name": "DeepSeek-Harness-Token-Free",
+  "description": "Run DeepSeek Harness on desktop with zero token costs—a free, open-source GUI for macOS and Windows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Djokovical5294/DeepSeek-Harness-Token-Free",
+  "repositoryUrl": "https://github.com/Djokovical5294/DeepSeek-Harness-Token-Free",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5752
+}
