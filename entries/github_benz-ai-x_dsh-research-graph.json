@@ -1,0 +1,20 @@
+{
+  "id": "github:benz-ai-x/dsh-research-graph",
+  "kind": "plugin",
+  "name": "dsh-research-graph",
+  "description": "DSH Research Graph · 研图 — DeepSeek Harness plugin for research topics, traceable knowledge cards, and reusable AI discussions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "benz-ai-x/dsh-research-graph",
+  "repositoryUrl": "https://github.com/benz-ai-x/dsh-research-graph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6117
+}
