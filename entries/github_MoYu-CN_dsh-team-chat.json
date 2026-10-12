@@ -1,0 +1,20 @@
+{
+  "id": "github:MoYu-CN/dsh-team-chat",
+  "kind": "plugin",
+  "name": "dsh-team-chat",
+  "description": "Chat room for DSH agents: shared room timeline, member roster, and task dispatch across agent sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MoYu-CN/dsh-team-chat",
+  "repositoryUrl": "https://github.com/MoYu-CN/dsh-team-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6108
+}
