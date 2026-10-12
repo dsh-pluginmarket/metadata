@@ -1,0 +1,20 @@
+{
+  "id": "github:Sikao-Engine/KimiX",
+  "kind": "plugin",
+  "name": "KimiX",
+  "description": "The next-gen lightweight coding agent cli",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sikao-Engine/KimiX",
+  "repositoryUrl": "https://github.com/Sikao-Engine/KimiX",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6024
+}
