@@ -1,0 +1,20 @@
+{
+  "id": "github:Pericardiac-podzolsoil527/deepseek-plugin-store",
+  "kind": "plugin",
+  "name": "deepseek-plugin-store",
+  "description": "发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Pericardiac-podzolsoil527/deepseek-plugin-store",
+  "repositoryUrl": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5756
+}
