@@ -1,0 +1,20 @@
+{
+  "id": "github:vvlife/awesome-deepseek-harness-plugins",
+  "kind": "plugin",
+  "name": "awesome-deepseek-harness-plugins",
+  "description": "A curated list of plugins, tools, skins, and extensions for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vvlife/awesome-deepseek-harness-plugins",
+  "repositoryUrl": "https://github.com/vvlife/awesome-deepseek-harness-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5832
+}
