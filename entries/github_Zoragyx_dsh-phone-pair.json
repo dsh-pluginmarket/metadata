@@ -1,0 +1,20 @@
+{
+  "id": "github:Zoragyx/dsh-phone-pair",
+  "kind": "plugin",
+  "name": "dsh-phone-pair",
+  "description": "手机上的 DSH 客户端（通用配对版）：密码锁屏 + 内置前端 + 与自己的电脑配对；附可选配套插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zoragyx/dsh-phone-pair",
+  "repositoryUrl": "https://github.com/Zoragyx/dsh-phone-pair",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5624
+}
