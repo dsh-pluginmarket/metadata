@@ -1,0 +1,20 @@
+{
+  "id": "github:KouzakiUmi/dsh-subusage",
+  "kind": "plugin",
+  "name": "dsh-subusage",
+  "description": "DeepSeek Harness 订阅用量插件：27 条提供商路由的额度、余额、重置时间与续用提示；余量药丸、统一设置页及只读 Agent API。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KouzakiUmi/dsh-subusage",
+  "repositoryUrl": "https://github.com/KouzakiUmi/dsh-subusage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5833
+}
