@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/deepseek-recipe",
+  "kind": "plugin",
+  "name": "deepseek-recipe",
+  "description": "Related DeepSeek Harness project: deepseek-ai/deepseek-recipe",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/deepseek-recipe",
+  "repositoryUrl": "https://github.com/deepseek-ai/deepseek-recipe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6140
+}
