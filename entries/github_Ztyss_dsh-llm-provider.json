@@ -1,0 +1,20 @@
+{
+  "id": "github:Ztyss/dsh-llm-provider",
+  "kind": "plugin",
+  "name": "dsh-llm-provider",
+  "description": "全量接管模型服务，并提供直观的配置方式与额度显示",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ztyss/dsh-llm-provider",
+  "repositoryUrl": "https://github.com/Ztyss/dsh-llm-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5565
+}
