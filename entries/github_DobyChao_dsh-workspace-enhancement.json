@@ -1,0 +1,20 @@
+{
+  "id": "github:DobyChao/dsh-workspace-enhancement",
+  "kind": "plugin",
+  "name": "dsh-workspace-enhancement",
+  "description": "DeepSeek Harness plugin: local and remote (SSH) workspaces in one place. Remote execution uses a single SSH connection (multi-hop jumps allowed); bash, files, PTY, and LSP share that link.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DobyChao/dsh-workspace-enhancement",
+  "repositoryUrl": "https://github.com/DobyChao/dsh-workspace-enhancement",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6041
+}
