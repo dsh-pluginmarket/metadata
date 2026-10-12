@@ -1,0 +1,20 @@
+{
+  "id": "github:liushQAQ/dsh-weixin-plus",
+  "kind": "plugin",
+  "name": "dsh-weixin-plus",
+  "description": "DSH 微信通道增强插件 — 集成 iLink 消息双向桥接、单实例锁、大文件智能投递与 Web 设置管理界面",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liushQAQ/dsh-weixin-plus",
+  "repositoryUrl": "https://github.com/liushQAQ/dsh-weixin-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5841
+}
