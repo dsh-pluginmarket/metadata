@@ -1,0 +1,20 @@
+{
+  "id": "github:2DogsLee/dsh-watcher",
+  "kind": "plugin",
+  "name": "dsh-watcher",
+  "description": "DeepSeek Harness (DSH) 插件 API 面自动比对引擎：升级前一条命令看清插件依赖的 API/配置字段变了没有 · Auto diff engine for DSH plugin-breaking changes, with CI watch & agent skill",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2DogsLee/dsh-watcher",
+  "repositoryUrl": "https://github.com/2DogsLee/dsh-watcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5602
+}
