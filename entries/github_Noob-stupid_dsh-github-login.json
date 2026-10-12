@@ -1,0 +1,20 @@
+{
+  "id": "github:Noob-stupid/dsh-github-login",
+  "kind": "plugin",
+  "name": "dsh-github-login",
+  "description": "DeepSeek Harness 生态的 GitHub 可视化登录工具（零终端）：设备码流程，令牌同步 gh CLI | Visual GitHub login for the DSH ecosystem - no terminal needed",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noob-stupid/dsh-github-login",
+  "repositoryUrl": "https://github.com/Noob-stupid/dsh-github-login",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6012
+}
