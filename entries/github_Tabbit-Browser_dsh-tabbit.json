@@ -1,0 +1,20 @@
+{
+  "id": "github:Tabbit-Browser/dsh-tabbit",
+  "kind": "plugin",
+  "name": "dsh-tabbit",
+  "description": "Tabbit Browser plugins for Deepseek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tabbit-Browser/dsh-tabbit",
+  "repositoryUrl": "https://github.com/Tabbit-Browser/dsh-tabbit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5713
+}
