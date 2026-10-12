@@ -1,0 +1,20 @@
+{
+  "id": "github:TH060419/gatherthread",
+  "kind": "plugin",
+  "name": "gatherthread",
+  "description": "GatherThread 共序：本地 AI 编程 Agent 多人联机协作、实时共享上下文。Self-hostable collaboration for local AI coding agents, Codex Desktop connector & DeepSeek Harness plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TH060419/gatherthread",
+  "repositoryUrl": "https://github.com/TH060419/gatherthread",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5557
+}
