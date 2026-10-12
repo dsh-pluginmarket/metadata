@@ -1,0 +1,20 @@
+{
+  "id": "github:badai147/dsh-leafy-skin",
+  "kind": "plugin",
+  "name": "dsh-leafy-skin",
+  "description": "An eye-friendly green skin for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "badai147/dsh-leafy-skin",
+  "repositoryUrl": "https://github.com/badai147/dsh-leafy-skin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5591
+}
