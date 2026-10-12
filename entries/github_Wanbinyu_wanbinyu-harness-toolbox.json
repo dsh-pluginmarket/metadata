@@ -1,0 +1,20 @@
+{
+  "id": "github:Wanbinyu/wanbinyu-harness-toolbox",
+  "kind": "plugin",
+  "name": "wanbinyu-harness-toolbox",
+  "description": "Independent third-party plugins and tools for DeepSeek Harness, maintained by Wanbinyu",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wanbinyu/wanbinyu-harness-toolbox",
+  "repositoryUrl": "https://github.com/Wanbinyu/wanbinyu-harness-toolbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5881
+}
