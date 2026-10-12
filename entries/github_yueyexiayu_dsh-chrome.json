@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-chrome",
+  "kind": "plugin",
+  "name": "dsh-chrome",
+  "description": "DSH desktop plugin: drive a dedicated visible Chrome window over CDP, with screenshots the model can see",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-chrome",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-chrome",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5813
+}
