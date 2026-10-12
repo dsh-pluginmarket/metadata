@@ -1,0 +1,20 @@
+{
+  "id": "github:RicardoYan/dsh-project-config",
+  "kind": "plugin",
+  "name": "dsh-project-config",
+  "description": "Per-workspace subagents, commands, MCP servers and hooks for DSH from .dsh/settings.yml · 从 .dsh/settings.yml 为 DSH 工作区加载子代理、命令、MCP 和 hooks",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RicardoYan/dsh-project-config",
+  "repositoryUrl": "https://github.com/RicardoYan/dsh-project-config",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5900
+}
