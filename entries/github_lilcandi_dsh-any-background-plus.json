@@ -1,0 +1,20 @@
+{
+  "id": "github:lilcandi/dsh-any-background-plus",
+  "kind": "plugin",
+  "name": "dsh-any-background-plus",
+  "description": "Enhanced fork of dsh-any-background: dual-lane wallpaper (one picture down each side, clear of the centre column) + one folder per side dsh-any-background 的增强分支：左右双图轮播（避开中间会话区）+ 左右各一个文件夹",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lilcandi/dsh-any-background-plus",
+  "repositoryUrl": "https://github.com/lilcandi/dsh-any-background-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6030
+}
