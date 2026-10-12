@@ -1,0 +1,20 @@
+{
+  "id": "github:mili1360/dsh-session-vacuum",
+  "kind": "plugin",
+  "name": "dsh-session-vacuum",
+  "description": "DSH plugin: prunes the dead streaming fragments out of session logs at startup, so a long session stops expanding into gigabytes when it is loaded. Inert and dry-run by default.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mili1360/dsh-session-vacuum",
+  "repositoryUrl": "https://github.com/mili1360/dsh-session-vacuum",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5617
+}
