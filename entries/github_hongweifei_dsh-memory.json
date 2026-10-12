@@ -1,0 +1,20 @@
+{
+  "id": "github:hongweifei/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "Related DeepSeek Harness project: hongweifei/dsh-memory",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hongweifei/dsh-memory",
+  "repositoryUrl": "https://github.com/hongweifei/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5994
+}
