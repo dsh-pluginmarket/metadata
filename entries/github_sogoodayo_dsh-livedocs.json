@@ -1,0 +1,20 @@
+{
+  "id": "github:sogoodayo/dsh-livedocs",
+  "kind": "plugin",
+  "name": "dsh-livedocs",
+  "description": "DSH 实时库文档：写代码前自动拉取项目安装版本的官方文档，消灭幻觉 API。零配置零 Key。Version-pinned live library docs for DeepSeek Harness — kill hallucinated APIs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sogoodayo/dsh-livedocs",
+  "repositoryUrl": "https://github.com/sogoodayo/dsh-livedocs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5876
+}
