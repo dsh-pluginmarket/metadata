@@ -1,0 +1,20 @@
+{
+  "id": "github:ifrankwang/openspec-agents",
+  "kind": "plugin",
+  "name": "openspec-agents",
+  "description": "OpenSpec 流程的 Agent Team：面向实施阶段的多 Agent 工作流编排。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ifrankwang/openspec-agents",
+  "repositoryUrl": "https://github.com/ifrankwang/openspec-agents",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5948
+}
