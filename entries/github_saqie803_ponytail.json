@@ -1,0 +1,20 @@
+{
+  "id": "github:saqie803/ponytail",
+  "kind": "plugin",
+  "name": "ponytail",
+  "description": "Ship production-ready code with one line of AI-generated output, built for 20 agents and zero ceremony.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "saqie803/ponytail",
+  "repositoryUrl": "https://github.com/saqie803/ponytail",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5742
+}
