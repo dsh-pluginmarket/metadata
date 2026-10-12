@@ -1,0 +1,20 @@
+{
+  "id": "github:HEArtattaCK2332/dsh-text-explain",
+  "kind": "plugin",
+  "name": "dsh-text-explain",
+  "description": "划词即解释：当ai叽里咕噜说一些看不懂的东西时，让他自己来解释。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HEArtattaCK2332/dsh-text-explain",
+  "repositoryUrl": "https://github.com/HEArtattaCK2332/dsh-text-explain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5935
+}
