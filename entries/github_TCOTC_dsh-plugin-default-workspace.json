@@ -1,0 +1,20 @@
+{
+  "id": "github:TCOTC/dsh-plugin-default-workspace",
+  "kind": "plugin",
+  "name": "dsh-plugin-default-workspace",
+  "description": "DSH plugin: pin the no-context fallback Workspace of new Sessions to one fixed folder (browser-side uiWorkspace policy, no host code).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TCOTC/dsh-plugin-default-workspace",
+  "repositoryUrl": "https://github.com/TCOTC/dsh-plugin-default-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5665
+}
