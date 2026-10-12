@@ -1,0 +1,20 @@
+{
+  "id": "github:wt0812/dsh-vocab-study",
+  "kind": "plugin",
+  "name": "dsh-vocab-study",
+  "description": "DeepSeek Harness (DSH) 的离线背单词插件：输入框旁一颗胶囊 + 右侧栏一个标签页，按记忆半衰期排期，零依赖、零联网、数据只存本地。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wt0812/dsh-vocab-study",
+  "repositoryUrl": "https://github.com/wt0812/dsh-vocab-study",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5772
+}
