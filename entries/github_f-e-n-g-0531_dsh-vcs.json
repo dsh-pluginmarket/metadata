@@ -1,0 +1,20 @@
+{
+  "id": "github:f-e-n-g-0531/dsh-vcs",
+  "kind": "plugin",
+  "name": "dsh-vcs",
+  "description": "Related DeepSeek Harness project: f-e-n-g-0531/dsh-vcs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "f-e-n-g-0531/dsh-vcs",
+  "repositoryUrl": "https://github.com/f-e-n-g-0531/dsh-vcs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5561
+}
