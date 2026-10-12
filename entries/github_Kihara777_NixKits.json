@@ -1,0 +1,20 @@
+{
+  "id": "github:Kihara777/NixKits",
+  "kind": "plugin",
+  "name": "NixKits",
+  "description": "软件、补丁、NixOS 模块与 AI 编码助手的技能合集。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kihara777/NixKits",
+  "repositoryUrl": "https://github.com/Kihara777/NixKits",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5826
+}
