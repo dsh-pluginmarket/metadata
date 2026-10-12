@@ -1,0 +1,20 @@
+{
+  "id": "github:Noob-stupid/dsh-connection-card-host",
+  "kind": "plugin",
+  "name": "dsh-connection-card-host",
+  "description": "DSH session connection card host - stateful connections between sessions, with connection-level card plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Noob-stupid/dsh-connection-card-host",
+  "repositoryUrl": "https://github.com/Noob-stupid/dsh-connection-card-host",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5954
+}
