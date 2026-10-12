@@ -1,0 +1,20 @@
+{
+  "id": "github:Nesarf/mega-index-map",
+  "kind": "plugin",
+  "name": "mega-index-map",
+  "description": "Cross-workspace interop Library for DeepSeek Harness: record, index and search files, tools, environments, knowledge and work records across workspaces, with a self-extending file-format library.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Nesarf/mega-index-map",
+  "repositoryUrl": "https://github.com/Nesarf/mega-index-map",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5671
+}
