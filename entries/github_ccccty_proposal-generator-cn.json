@@ -1,0 +1,20 @@
+{
+  "id": "github:ccccty/proposal-generator-cn",
+  "kind": "plugin",
+  "name": "proposal-generator-cn",
+  "description": "项目书生成 - 科研项目申报书撰写技能包（DSH plugin）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccccty/proposal-generator-cn",
+  "repositoryUrl": "https://github.com/ccccty/proposal-generator-cn",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6085
+}
