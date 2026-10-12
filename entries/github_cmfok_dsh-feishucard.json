@@ -1,0 +1,20 @@
+{
+  "id": "github:cmfok/dsh-feishucard",
+  "kind": "plugin",
+  "name": "dsh-feishucard",
+  "description": "DSH <-> Feishu (Lark) bridge, self-developed (not a fork): streaming reply card / many bots in ONE instance (each with own workspace + AGENTS.md) / mention-only group replies / approval cards / /switch workspace & session picker / identity injection / rate-limit + circuit-breaker fallback. 自研 DSH 飞书桥：流式回复卡｜单实例多 bot｜群里 @ 才回复｜审批卡｜工作区切换｜身份注入",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cmfok/dsh-feishucard",
+  "repositoryUrl": "https://github.com/cmfok/dsh-feishucard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6131
+}
