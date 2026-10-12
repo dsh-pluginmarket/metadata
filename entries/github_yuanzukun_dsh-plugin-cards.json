@@ -1,0 +1,20 @@
+{
+  "id": "github:yuanzukun/dsh-plugin-cards",
+  "kind": "plugin",
+  "name": "dsh-plugin-cards",
+  "description": "DeepSeek Harness (dsh) 设置卡片 + 对话节点插件 | Settings cards + conversation node plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuanzukun/dsh-plugin-cards",
+  "repositoryUrl": "https://github.com/yuanzukun/dsh-plugin-cards",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5793
+}
