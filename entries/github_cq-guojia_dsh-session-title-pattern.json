@@ -1,0 +1,20 @@
+{
+  "id": "github:cq-guojia/dsh-session-title-pattern",
+  "kind": "plugin",
+  "name": "dsh-session-title-pattern",
+  "description": "自动管理 dsh 会话标题，统一成「日期｜类型｜主题」的格式：类型与主题由模型对整段对话总结。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cq-guojia/dsh-session-title-pattern",
+  "repositoryUrl": "https://github.com/cq-guojia/dsh-session-title-pattern",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6057
+}
