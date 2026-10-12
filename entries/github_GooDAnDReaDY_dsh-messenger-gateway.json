@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-messenger-gateway",
+  "kind": "plugin",
+  "name": "dsh-messenger-gateway",
+  "description": "Telegram messenger bridge for DeepSeek Harness: sessions, steer, homes, and TTS voice notes",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-messenger-gateway",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-messenger-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5902
+}
