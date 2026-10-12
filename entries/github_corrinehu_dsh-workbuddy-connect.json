@@ -1,0 +1,20 @@
+{
+  "id": "github:corrinehu/dsh-workbuddy-connect",
+  "kind": "plugin",
+  "name": "dsh-workbuddy-connect",
+  "description": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "corrinehu/dsh-workbuddy-connect",
+  "repositoryUrl": "https://github.com/corrinehu/dsh-workbuddy-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5958
+}
