@@ -1,0 +1,20 @@
+{
+  "id": "github:pearjelly/deep-blend",
+  "kind": "plugin",
+  "name": "deep-blend",
+  "description": "Create and refine Blender product scenes in DSH: editable recipes, model imports, real previews, saved revisions and PNG/MP4 delivery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pearjelly/deep-blend",
+  "repositoryUrl": "https://github.com/pearjelly/deep-blend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5746
+}
