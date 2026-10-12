@@ -1,0 +1,20 @@
+{
+  "id": "github:AI-Scarlett/DSH-Store",
+  "kind": "plugin",
+  "name": "DSH-Store",
+  "description": "DSH STORE — third-party plugin marketplace and guarded lifecycle manager for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AI-Scarlett/DSH-Store",
+  "repositoryUrl": "https://github.com/AI-Scarlett/DSH-Store",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5971
+}
