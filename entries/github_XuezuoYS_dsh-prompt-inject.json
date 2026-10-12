@@ -1,0 +1,20 @@
+{
+  "id": "github:XuezuoYS/dsh-prompt-inject",
+  "kind": "plugin",
+  "name": "dsh-prompt-inject",
+  "description": "这是一个适用于 Deepseek Harness 的插件，向用户提供 GUI 下自定义且区分模型的发送 Prompt 注入功能。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "XuezuoYS/dsh-prompt-inject",
+  "repositoryUrl": "https://github.com/XuezuoYS/dsh-prompt-inject",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6038
+}
