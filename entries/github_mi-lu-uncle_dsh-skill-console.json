@@ -1,0 +1,20 @@
+{
+  "id": "github:mi-lu-uncle/dsh-skill-console",
+  "kind": "plugin",
+  "name": "dsh-skill-console",
+  "description": "DSH skill manager plugin: /skills, /skills-uninstall, /skills-update, /skills-doctor",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mi-lu-uncle/dsh-skill-console",
+  "repositoryUrl": "https://github.com/mi-lu-uncle/dsh-skill-console",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5628
+}
