@@ -1,0 +1,20 @@
+{
+  "id": "github:scottzx/session-reader",
+  "kind": "plugin",
+  "name": "session-reader",
+  "description": "Search and read local Claude Code, Codex, Antigravity, Grok and DSH sessions with the 1session CLI or DSH Web plugin. Raw files stay local; SQLite speeds search.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "scottzx/session-reader",
+  "repositoryUrl": "https://github.com/scottzx/session-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5830
+}
