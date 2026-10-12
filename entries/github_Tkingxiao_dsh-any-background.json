@@ -1,0 +1,20 @@
+{
+  "id": "github:Tkingxiao/dsh-any-background",
+  "kind": "plugin",
+  "name": "dsh-any-background",
+  "description": "Deepseek Harness 自定义主题插件，支持自定义图片/视频壁纸，对话框，侧边栏等透明度模糊度调整，全局主题色的色轮调整插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tkingxiao/dsh-any-background",
+  "repositoryUrl": "https://github.com/Tkingxiao/dsh-any-background",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5719
+}
