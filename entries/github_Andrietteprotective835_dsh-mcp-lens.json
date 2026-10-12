@@ -1,0 +1,20 @@
+{
+  "id": "github:Andrietteprotective835/dsh-mcp-lens",
+  "kind": "plugin",
+  "name": "dsh-mcp-lens",
+  "description": "Shrink massive MCP catalogs to two tools, letting DeepSeek Harness search and call 1,000+ remote APIs efficiently.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Andrietteprotective835/dsh-mcp-lens",
+  "repositoryUrl": "https://github.com/Andrietteprotective835/dsh-mcp-lens",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5764
+}
