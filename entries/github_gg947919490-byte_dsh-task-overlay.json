@@ -1,0 +1,20 @@
+{
+  "id": "github:gg947919490-byte/dsh-task-overlay",
+  "kind": "plugin",
+  "name": "dsh-task-overlay",
+  "description": "Desktop task overlay for DeepSeek Harness: goal / todo progress / pending-confirmation alerts, with an in-app switch.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gg947919490-byte/dsh-task-overlay",
+  "repositoryUrl": "https://github.com/gg947919490-byte/dsh-task-overlay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5652
+}
