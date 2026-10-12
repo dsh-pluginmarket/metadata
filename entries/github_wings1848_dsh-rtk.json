@@ -1,0 +1,20 @@
+{
+  "id": "github:wings1848/dsh-rtk",
+  "kind": "plugin",
+  "name": "dsh-rtk",
+  "description": "RTK command rewriting and tool-output compaction for the DeepSeek Harness: rewrites bash commands to their rtk equivalents and compacts the result before the model sees it.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wings1848/dsh-rtk",
+  "repositoryUrl": "https://github.com/wings1848/dsh-rtk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6055
+}
