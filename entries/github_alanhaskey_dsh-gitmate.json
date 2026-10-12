@@ -1,0 +1,20 @@
+{
+  "id": "github:alanhaskey/dsh-gitmate",
+  "kind": "plugin",
+  "name": "dsh-gitmate",
+  "description": "GitMate — a smart Git panel for DeepSeek Harness: diffs, generated commit messages, a commit graph with rewind, and .gitignore generation, plus ten agent tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alanhaskey/dsh-gitmate",
+  "repositoryUrl": "https://github.com/alanhaskey/dsh-gitmate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5801
+}
