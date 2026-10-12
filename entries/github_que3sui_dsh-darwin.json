@@ -1,0 +1,20 @@
+{
+  "id": "github:que3sui/dsh-darwin",
+  "kind": "plugin",
+  "name": "dsh-darwin",
+  "description": "DeepSeek Harness (dsh) 双插件自进化架构：dsh-sentinel 机械挖掘会话日志生成问题工单 + dsh-forge 分级合成/评测门/确定性回滚 | Two-plugin self-evolution for DSH: hindsight mining, gated synthesis, deterministic rollback (verified in simulation lab)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "que3sui/dsh-darwin",
+  "repositoryUrl": "https://github.com/que3sui/dsh-darwin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 5698
+}
