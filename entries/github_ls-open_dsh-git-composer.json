@@ -1,0 +1,25 @@
+{
+  "id": "github:ls-open/dsh-git-composer",
+  "kind": "plugin",
+  "name": "dsh-plugin-git-composer",
+  "description": "Claude-style Git branch and PR composer bar for DeepSeek Harness: quick branch switcher, native diff drawer integration, and adaptive PR creation with Actions CI status.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "ls-open/dsh-git-composer",
+  "repositoryUrl": "https://github.com/ls-open/dsh-git-composer",
+  "npmPackage": "dsh-plugin-git-composer",
+  "tags": [
+    "git",
+    "composer",
+    "ui",
+    "github",
+    "dsh-plugin"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "ls-open",
+  "issueNumber": 6185
+}
