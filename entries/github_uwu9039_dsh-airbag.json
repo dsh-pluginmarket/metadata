@@ -1,0 +1,20 @@
+{
+  "id": "github:uwu9039/dsh-airbag",
+  "kind": "plugin",
+  "name": "dsh-airbag",
+  "description": "呱来点人口牙...再也不会误把api key粘贴喂给ai了!!!可自定义的安全等级与安全措施，解决容易泄漏api key的底层问题。同时有报告记录可查!!!",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "uwu9039/dsh-airbag",
+  "repositoryUrl": "https://github.com/uwu9039/dsh-airbag",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6413
+}
