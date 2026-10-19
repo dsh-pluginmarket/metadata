@@ -1,0 +1,20 @@
+{
+  "id": "github:xing-shuyin/pi-web-ui",
+  "kind": "plugin",
+  "name": "pi-web-ui",
+  "description": "Just open your browser — get all your work done.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xing-shuyin/pi-web-ui",
+  "repositoryUrl": "https://github.com/xing-shuyin/pi-web-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6542
+}
