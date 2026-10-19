@@ -1,0 +1,20 @@
+{
+  "id": "github:Fishquito7/dsh-skill-mcp-panel",
+  "kind": "plugin",
+  "name": "dsh-skill-mcp-panel",
+  "description": "DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fishquito7/dsh-skill-mcp-panel",
+  "repositoryUrl": "https://github.com/Fishquito7/dsh-skill-mcp-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6681
+}
