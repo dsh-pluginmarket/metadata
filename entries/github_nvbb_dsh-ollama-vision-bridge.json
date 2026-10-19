@@ -1,0 +1,20 @@
+{
+  "id": "github:nvbb/dsh-ollama-vision-bridge",
+  "kind": "plugin",
+  "name": "dsh-ollama-vision-bridge",
+  "description": "DSH plugin: text-only chat models get local Ollama VL image descriptions (qwen3-vl:8b), VRAM cooling",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nvbb/dsh-ollama-vision-bridge",
+  "repositoryUrl": "https://github.com/nvbb/dsh-ollama-vision-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6189
+}
