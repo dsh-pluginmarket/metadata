@@ -1,0 +1,20 @@
+{
+  "id": "github:timho1047/dsh-stream-focus",
+  "kind": "plugin",
+  "name": "dsh-stream-focus",
+  "description": "Smooth, focused streaming for DSH: a zero-config plugin that keeps running thinking and tools in view across all four Work details modes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "timho1047/dsh-stream-focus",
+  "repositoryUrl": "https://github.com/timho1047/dsh-stream-focus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6227
+}
