@@ -1,0 +1,20 @@
+{
+  "id": "github:prgrmrwy/ohmydsh",
+  "kind": "plugin",
+  "name": "ohmydsh",
+  "description": "dsh 集成配置",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "prgrmrwy/ohmydsh",
+  "repositoryUrl": "https://github.com/prgrmrwy/ohmydsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6741
+}
