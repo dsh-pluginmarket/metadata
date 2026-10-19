@@ -1,0 +1,20 @@
+{
+  "id": "github:montersy123/dsh-skill-market",
+  "kind": "plugin",
+  "name": "dsh-skill-market",
+  "description": "Browse, search and install SkillHub skills inside DeepSeek Harness. / 在 DeepSeek Harness 内浏览、搜索并安装 SkillHub 技能。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "montersy123/dsh-skill-market",
+  "repositoryUrl": "https://github.com/montersy123/dsh-skill-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6688
+}
