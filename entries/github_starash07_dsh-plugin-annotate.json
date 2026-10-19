@@ -1,0 +1,20 @@
+{
+  "id": "github:starash07/dsh-plugin-annotate",
+  "kind": "plugin",
+  "name": "dsh-plugin-annotate",
+  "description": "Codex-style selection quote reply for the DeepSeek Harness desktop client (fork of mar1259/dsh-plugin-codex-annotate)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "starash07/dsh-plugin-annotate",
+  "repositoryUrl": "https://github.com/starash07/dsh-plugin-annotate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6192
+}
