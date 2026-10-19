@@ -1,0 +1,20 @@
+{
+  "id": "github:ddtcorex/maestro-ci",
+  "kind": "plugin",
+  "name": "maestro-ci",
+  "description": "Reusable GitHub Actions workflows for the Maestro suite: Node plugin CI and tag-driven release",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ddtcorex/maestro-ci",
+  "repositoryUrl": "https://github.com/ddtcorex/maestro-ci",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6317
+}
