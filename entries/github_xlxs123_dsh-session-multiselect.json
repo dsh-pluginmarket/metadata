@@ -1,0 +1,20 @@
+{
+  "id": "github:xlxs123/dsh-session-multiselect",
+  "kind": "plugin",
+  "name": "dsh-session-multiselect",
+  "description": "DSH Desktop plugin: multi-select panel for conversations ??grouped by workspace, batch delete / fork / export / summarize / pin / archive.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xlxs123/dsh-session-multiselect",
+  "repositoryUrl": "https://github.com/xlxs123/dsh-session-multiselect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6464
+}
