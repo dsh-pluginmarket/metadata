@@ -1,0 +1,20 @@
+{
+  "id": "github:Shuffle-1992/dsh-context-pilot",
+  "kind": "plugin",
+  "name": "dsh-context-pilot",
+  "description": "DSH 上下文智能压缩 + 智能思考：每轮注入用量、模型自主决定压缩并自动续跑；可选让模型按任务难度自主调整思考强度档位",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shuffle-1992/dsh-context-pilot",
+  "repositoryUrl": "https://github.com/Shuffle-1992/dsh-context-pilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6390
+}
