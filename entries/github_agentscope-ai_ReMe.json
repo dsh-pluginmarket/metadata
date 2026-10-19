@@ -1,0 +1,20 @@
+{
+  "id": "github:agentscope-ai/ReMe",
+  "kind": "plugin",
+  "name": "ReMe",
+  "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "agentscope-ai/ReMe",
+  "repositoryUrl": "https://github.com/agentscope-ai/ReMe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6336
+}
