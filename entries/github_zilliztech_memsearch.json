@@ -1,0 +1,20 @@
+{
+  "id": "github:zilliztech/memsearch",
+  "kind": "plugin",
+  "name": "memsearch",
+  "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zilliztech/memsearch",
+  "repositoryUrl": "https://github.com/zilliztech/memsearch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6410
+}
