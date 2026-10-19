@@ -1,0 +1,20 @@
+{
+  "id": "github:ZeroKingHao/dsh-cleaner",
+  "kind": "plugin",
+  "name": "dsh-cleaner",
+  "description": "deepseek-harness会话清理插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZeroKingHao/dsh-cleaner",
+  "repositoryUrl": "https://github.com/ZeroKingHao/dsh-cleaner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6530
+}
