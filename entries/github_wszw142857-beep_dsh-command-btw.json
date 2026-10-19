@@ -1,0 +1,20 @@
+{
+  "id": "github:wszw142857-beep/dsh-command-btw",
+  "kind": "plugin",
+  "name": "dsh-command-btw",
+  "description": "DSH /btw side questions — ask about the current session without adding the exchange to conversation history",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wszw142857-beep/dsh-command-btw",
+  "repositoryUrl": "https://github.com/wszw142857-beep/dsh-command-btw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6755
+}
