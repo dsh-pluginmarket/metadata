@@ -1,0 +1,20 @@
+{
+  "id": "github:andyfan1094/dsh-devforge",
+  "kind": "plugin",
+  "name": "dsh-devforge",
+  "description": "Spec-driven service forge and integrated operations plugin for DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "andyfan1094/dsh-devforge",
+  "repositoryUrl": "https://github.com/andyfan1094/dsh-devforge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6632
+}
