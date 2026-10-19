@@ -1,0 +1,20 @@
+{
+  "id": "github:yifabunemgshoushi-oss/dsh-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-mcp-manager",
+  "description": "Related DeepSeek Harness project: yifabunemgshoushi-oss/dsh-mcp-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yifabunemgshoushi-oss/dsh-mcp-manager",
+  "repositoryUrl": "https://github.com/yifabunemgshoushi-oss/dsh-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6713
+}
