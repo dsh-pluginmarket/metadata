@@ -1,0 +1,20 @@
+{
+  "id": "github:adamkhalile/luau-docs-oracle",
+  "kind": "plugin",
+  "name": "luau-docs-oracle",
+  "description": "Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "adamkhalile/luau-docs-oracle",
+  "repositoryUrl": "https://github.com/adamkhalile/luau-docs-oracle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6424
+}
