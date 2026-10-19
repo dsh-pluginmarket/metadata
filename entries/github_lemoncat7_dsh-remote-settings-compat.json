@@ -1,0 +1,20 @@
+{
+  "id": "github:lemoncat7/dsh-remote-settings-compat",
+  "kind": "plugin",
+  "name": "dsh-remote-settings-compat",
+  "description": "Remote settings compatibility plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lemoncat7/dsh-remote-settings-compat",
+  "repositoryUrl": "https://github.com/lemoncat7/dsh-remote-settings-compat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6504
+}
