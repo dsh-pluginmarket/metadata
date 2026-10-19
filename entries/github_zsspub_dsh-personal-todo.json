@@ -1,0 +1,20 @@
+{
+  "id": "github:zsspub/dsh-personal-todo",
+  "kind": "plugin",
+  "name": "dsh-personal-todo",
+  "description": "SQLite-backed personal todo tools and Web panel for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zsspub/dsh-personal-todo",
+  "repositoryUrl": "https://github.com/zsspub/dsh-personal-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6671
+}
