@@ -1,0 +1,20 @@
+{
+  "id": "github:zgat/dsh-wechat",
+  "kind": "plugin",
+  "name": "dsh-wechat",
+  "description": "把 DeepSeek Harness 接进微信：扫码绑定后在微信里派活、收结果、回审批（iLink/ClawBot 协议）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zgat/dsh-wechat",
+  "repositoryUrl": "https://github.com/zgat/dsh-wechat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6187
+}
