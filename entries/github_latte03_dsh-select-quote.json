@@ -1,0 +1,20 @@
+{
+  "id": "github:latte03/dsh-select-quote",
+  "kind": "plugin",
+  "name": "dsh-select-quote",
+  "description": "在对话里划词加批注——把选中的原文连同你的评论一起交给模型，并让它在回答里明确指出说的是哪一段。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "latte03/dsh-select-quote",
+  "repositoryUrl": "https://github.com/latte03/dsh-select-quote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6306
+}
