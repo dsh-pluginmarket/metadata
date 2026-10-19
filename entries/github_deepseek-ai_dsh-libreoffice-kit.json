@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/dsh-libreoffice-kit",
+  "kind": "plugin",
+  "name": "dsh-libreoffice-kit",
+  "description": "An internal component used by DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/dsh-libreoffice-kit",
+  "repositoryUrl": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6771
+}
