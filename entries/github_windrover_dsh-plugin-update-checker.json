@@ -1,0 +1,20 @@
+{
+  "id": "github:windrover/dsh-plugin-update-checker",
+  "kind": "plugin",
+  "name": "dsh-plugin-update-checker",
+  "description": "A DeepSeek Harness plugin that adds a Check-updates button to the Plugins settings: scans every installed bundle for published updates and DSH-runtime compatibility, with a per-plugin update action.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "windrover/dsh-plugin-update-checker",
+  "repositoryUrl": "https://github.com/windrover/dsh-plugin-update-checker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6318
+}
