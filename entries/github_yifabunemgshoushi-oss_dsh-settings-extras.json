@@ -1,0 +1,20 @@
+{
+  "id": "github:yifabunemgshoushi-oss/dsh-settings-extras",
+  "kind": "plugin",
+  "name": "dsh-settings-extras",
+  "description": "Related DeepSeek Harness project: yifabunemgshoushi-oss/dsh-settings-extras",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yifabunemgshoushi-oss/dsh-settings-extras",
+  "repositoryUrl": "https://github.com/yifabunemgshoushi-oss/dsh-settings-extras",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6646
+}
