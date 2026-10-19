@@ -1,0 +1,20 @@
+{
+  "id": "github:lugezuishuai/dsh-token-chart",
+  "kind": "plugin",
+  "name": "dsh-token-chart",
+  "description": "Related DeepSeek Harness project: lugezuishuai/dsh-token-chart",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lugezuishuai/dsh-token-chart",
+  "repositoryUrl": "https://github.com/lugezuishuai/dsh-token-chart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6638
+}
