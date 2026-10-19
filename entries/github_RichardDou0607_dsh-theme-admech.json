@@ -1,0 +1,20 @@
+{
+  "id": "github:RichardDou0607/dsh-theme-admech",
+  "kind": "plugin",
+  "name": "dsh-theme-admech",
+  "description": "Forge-Cathedral tech-gothic theme for DeepSeek Harness. Unofficial fan-made skin, original SVG art, provided gear-skull emblem. 机械神教 · 铸炉圣殿 DSH 外观插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RichardDou0607/dsh-theme-admech",
+  "repositoryUrl": "https://github.com/RichardDou0607/dsh-theme-admech",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6607
+}
