@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/clangd-ascend",
+  "kind": "plugin",
+  "name": "clangd-ascend",
+  "description": "Clangd for Ascend for Code Lint & Code Completion",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/clangd-ascend",
+  "repositoryUrl": "https://github.com/deepseek-ai/clangd-ascend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6773
+}
