@@ -1,0 +1,20 @@
+{
+  "id": "github:plyflai/dsh-ux-plus",
+  "kind": "plugin",
+  "name": "dsh-ux-plus",
+  "description": "UX enhancements and quality-of-life plugins that make DeepSeek Harness easier to handle.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "plyflai/dsh-ux-plus",
+  "repositoryUrl": "https://github.com/plyflai/dsh-ux-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6257
+}
