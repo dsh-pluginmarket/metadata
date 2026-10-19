@@ -1,0 +1,20 @@
+{
+  "id": "github:RHY006/agency-agents-zh-dsh-plugin",
+  "kind": "plugin",
+  "name": "agency-agents-zh-dsh-plugin",
+  "description": "DeepSeek Harness (dsh) plugin: agency-agents-zh Chinese AI expert library (268 roles / 20 departments) as native skills",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RHY006/agency-agents-zh-dsh-plugin",
+  "repositoryUrl": "https://github.com/RHY006/agency-agents-zh-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6362
+}
