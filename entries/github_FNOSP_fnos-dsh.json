@@ -1,0 +1,20 @@
+{
+  "id": "github:FNOSP/fnos-dsh",
+  "kind": "plugin",
+  "name": "fnos-dsh",
+  "description": "DeepSeek Harness应用与harness插件 monorepo",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FNOSP/fnos-dsh",
+  "repositoryUrl": "https://github.com/FNOSP/fnos-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6626
+}
