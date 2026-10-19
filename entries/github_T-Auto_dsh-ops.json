@@ -1,0 +1,20 @@
+{
+  "id": "github:T-Auto/dsh-ops",
+  "kind": "plugin",
+  "name": "dsh-ops",
+  "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "T-Auto/dsh-ops",
+  "repositoryUrl": "https://github.com/T-Auto/dsh-ops",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6479
+}
