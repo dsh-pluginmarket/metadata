@@ -1,0 +1,20 @@
+{
+  "id": "github:yuezhiye/dsh-closet",
+  "kind": "plugin",
+  "name": "dsh-closet",
+  "description": "DSH 插件 · 收纳间：按工作区统一管理临时脚本与日志（登记 · 扫描 · 执行 · 清运 · 回收站 · 面板）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuezhiye/dsh-closet",
+  "repositoryUrl": "https://github.com/yuezhiye/dsh-closet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6657
+}
