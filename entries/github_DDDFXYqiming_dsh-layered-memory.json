@@ -1,0 +1,20 @@
+{
+  "id": "github:DDDFXYqiming/dsh-layered-memory",
+  "kind": "plugin",
+  "name": "dsh-layered-memory",
+  "description": "Cross-session long-term memory plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DDDFXYqiming/dsh-layered-memory",
+  "repositoryUrl": "https://github.com/DDDFXYqiming/dsh-layered-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6403
+}
