@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-codex-pet",
+  "kind": "plugin",
+  "name": "dsh-codex-pet",
+  "description": "DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-based custom pets for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-codex-pet",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-codex-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6705
+}
