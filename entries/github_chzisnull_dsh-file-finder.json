@@ -1,0 +1,20 @@
+{
+  "id": "github:chzisnull/dsh-file-finder",
+  "kind": "plugin",
+  "name": "dsh-file-finder",
+  "description": "DeepSeek Harness plugin: search files by name or content, customizable shortcuts, and in-app text editing",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chzisnull/dsh-file-finder",
+  "repositoryUrl": "https://github.com/chzisnull/dsh-file-finder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6344
+}
