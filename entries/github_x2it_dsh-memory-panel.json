@@ -1,0 +1,20 @@
+{
+  "id": "github:x2it/dsh-memory-panel",
+  "kind": "plugin",
+  "name": "dsh-memory-panel",
+  "description": "Long-term memory for DeepSeek Harness: memory_save/recall/list tools + a sidebar panel visualizing what the agent remembers about you",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "x2it/dsh-memory-panel",
+  "repositoryUrl": "https://github.com/x2it/dsh-memory-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6696
+}
