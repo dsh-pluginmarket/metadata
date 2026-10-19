@@ -1,0 +1,20 @@
+{
+  "id": "github:jacket-sikaha/dsh-market-gist-autosync",
+  "kind": "plugin",
+  "name": "dsh-market-gist-autosync",
+  "description": "dsh-market-gist-autosync",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jacket-sikaha/dsh-market-gist-autosync",
+  "repositoryUrl": "https://github.com/jacket-sikaha/dsh-market-gist-autosync",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6409
+}
