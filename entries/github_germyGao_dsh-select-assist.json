@@ -1,0 +1,20 @@
+{
+  "id": "github:germyGao/dsh-select-assist",
+  "kind": "plugin",
+  "name": "dsh-select-assist",
+  "description": "任意 Windows 应用选中文字，即刻用 DeepSeek Harness 解释、总结、翻译、朗读，结果落在可拖动置顶浮窗。系统级划词、自动带上下文、不碰剪贴板、原生零依赖。仅 Windows · MIT",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "germyGao/dsh-select-assist",
+  "repositoryUrl": "https://github.com/germyGao/dsh-select-assist",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6460
+}
