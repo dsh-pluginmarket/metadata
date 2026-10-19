@@ -1,0 +1,20 @@
+{
+  "id": "github:P02-1010751281/dsh-project-context",
+  "kind": "plugin",
+  "name": "dsh-project-context",
+  "description": "dsh (DeepSeek Harness) plugins for project-level persistent context:  session archive with a mechanical index, memory consolidation (CONTEXT.md +  MEMORY.md), low-frequency skill autolearn, and automatic handoff.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "P02-1010751281/dsh-project-context",
+  "repositoryUrl": "https://github.com/P02-1010751281/dsh-project-context",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6737
+}
