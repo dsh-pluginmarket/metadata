@@ -1,0 +1,20 @@
+{
+  "id": "github:YiuTerran/dsh-wps365-plugin",
+  "kind": "plugin",
+  "name": "dsh-wps365-plugin",
+  "description": "配合官方wps365-cli的dsh插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YiuTerran/dsh-wps365-plugin",
+  "repositoryUrl": "https://github.com/YiuTerran/dsh-wps365-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6465
+}
