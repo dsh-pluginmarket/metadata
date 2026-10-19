@@ -1,0 +1,20 @@
+{
+  "id": "github:orziz/odai",
+  "kind": "plugin",
+  "name": "odai",
+  "description": "AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "orziz/odai",
+  "repositoryUrl": "https://github.com/orziz/odai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6699
+}
