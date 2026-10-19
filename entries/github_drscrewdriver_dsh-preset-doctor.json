@@ -1,0 +1,20 @@
+{
+  "id": "github:drscrewdriver/dsh-preset-doctor",
+  "kind": "plugin",
+  "name": "dsh-preset-doctor",
+  "description": "Related DeepSeek Harness project: drscrewdriver/dsh-preset-doctor",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drscrewdriver/dsh-preset-doctor",
+  "repositoryUrl": "https://github.com/drscrewdriver/dsh-preset-doctor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6378
+}
