@@ -1,0 +1,20 @@
+{
+  "id": "github:BuvkB/dsh-vaultwarden",
+  "kind": "plugin",
+  "name": "dsh-vaultwarden",
+  "description": "Vaultwarden/Bitwarden real-time sync for DeepSeek Harness: WebSocket push, incremental sync, read/write tools and an entry browser panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BuvkB/dsh-vaultwarden",
+  "repositoryUrl": "https://github.com/BuvkB/dsh-vaultwarden",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6625
+}
