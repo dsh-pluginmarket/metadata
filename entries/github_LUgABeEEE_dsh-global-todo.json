@@ -1,0 +1,20 @@
+{
+  "id": "github:LUgABeEEE/dsh-global-todo",
+  "kind": "plugin",
+  "name": "dsh-global-todo",
+  "description": "Global todo list plugin for DeepSeek Harness — one JSON list a person and an agent both write to",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LUgABeEEE/dsh-global-todo",
+  "repositoryUrl": "https://github.com/LUgABeEEE/dsh-global-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6199
+}
