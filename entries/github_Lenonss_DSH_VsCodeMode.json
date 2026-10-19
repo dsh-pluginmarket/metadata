@@ -1,0 +1,20 @@
+{
+  "id": "github:Lenonss/DSH_VsCodeMode",
+  "kind": "plugin",
+  "name": "DSH_VsCodeMode",
+  "description": "VSCode-style coding for DeepSeek Harness: Monaco editor (tabs/QuickOpen), agent edit-diff review (keep/reject/archive/rollback), LSP intelligence with VSIX installs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lenonss/DSH_VsCodeMode",
+  "repositoryUrl": "https://github.com/Lenonss/DSH_VsCodeMode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6562
+}
