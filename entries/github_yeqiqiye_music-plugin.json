@@ -1,0 +1,20 @@
+{
+  "id": "github:yeqiqiye/music-plugin",
+  "kind": "plugin",
+  "name": "music-plugin",
+  "description": "点歌台：DSH Web 插件（Alt+T 面板跨平台搜歌）+ IIROSE 用户脚本（一个 JS 链接，点歌进房间）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yeqiqiye/music-plugin",
+  "repositoryUrl": "https://github.com/yeqiqiye/music-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6214
+}
