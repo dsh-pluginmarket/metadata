@@ -1,0 +1,20 @@
+{
+  "id": "github:Lixiuxiu559/AgentForge",
+  "kind": "plugin",
+  "name": "AgentForge",
+  "description": "通用 agent 工作流与工程技能集，同时作为 Claude Code 插件与 DeepSeek Harness 插件分发。实施编排 + 三轴 diff 评审 + 复杂度审计 + 突变测试，零外部依赖。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lixiuxiu559/AgentForge",
+  "repositoryUrl": "https://github.com/Lixiuxiu559/AgentForge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6558
+}
