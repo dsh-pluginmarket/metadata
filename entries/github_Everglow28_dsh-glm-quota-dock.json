@@ -1,0 +1,20 @@
+{
+  "id": "github:Everglow28/dsh-glm-quota-dock",
+  "kind": "plugin",
+  "name": "dsh-glm-quota-dock",
+  "description": "GLM Coding Plan quota pill for the DeepSeek Harness web GUI - real-time per-window usage in the composer stats row",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Everglow28/dsh-glm-quota-dock",
+  "repositoryUrl": "https://github.com/Everglow28/dsh-glm-quota-dock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6190
+}
