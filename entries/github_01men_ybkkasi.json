@@ -1,0 +1,20 @@
+{
+  "id": "github:01men/ybkkasi",
+  "kind": "plugin",
+  "name": "ybkkasi",
+  "description": "企业 AI 资源管理平台 —— 把 MCP 服务 / Skill / Agent / AI 应用 统一成一套可管、可算、可审的资产。一套身份、一套权限、一套计量、一套审计。自托管 · MIT。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "01men/ybkkasi",
+  "repositoryUrl": "https://github.com/01men/ybkkasi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6658
+}
