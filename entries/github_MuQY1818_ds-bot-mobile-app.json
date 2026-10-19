@@ -1,0 +1,20 @@
+{
+  "id": "github:MuQY1818/ds-bot-mobile-app",
+  "kind": "plugin",
+  "name": "ds-bot-mobile-app",
+  "description": "Native mobile client source preview for DS Bot, with an independent desktop pairing companion. React Native + Expo; iOS and Android source.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MuQY1818/ds-bot-mobile-app",
+  "repositoryUrl": "https://github.com/MuQY1818/ds-bot-mobile-app",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6448
+}
