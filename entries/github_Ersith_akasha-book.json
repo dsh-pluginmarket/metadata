@@ -1,0 +1,20 @@
+{
+  "id": "github:Ersith/akasha-book",
+  "kind": "plugin",
+  "name": "akasha-book",
+  "description": "阿卡夏之书（Akasha Book）— an auditable external memory layer for LLM agents: six purpose-typed stores, supersession chain, bi-temporality, write gating, DSH plugins, paper included.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ersith/akasha-book",
+  "repositoryUrl": "https://github.com/Ersith/akasha-book",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6237
+}
