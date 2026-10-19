@@ -1,0 +1,20 @@
+{
+  "id": "github:wangyemen/agnes-ai-for-dsh",
+  "kind": "plugin",
+  "name": "agnes-ai-for-dsh",
+  "description": "Related DeepSeek Harness project: wangyemen/agnes-ai-for-dsh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangyemen/agnes-ai-for-dsh",
+  "repositoryUrl": "https://github.com/wangyemen/agnes-ai-for-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6687
+}
