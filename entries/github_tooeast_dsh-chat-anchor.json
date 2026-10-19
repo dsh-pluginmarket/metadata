@@ -1,0 +1,20 @@
+{
+  "id": "github:tooeast/dsh-chat-anchor",
+  "kind": "plugin",
+  "name": "dsh-chat-anchor",
+  "description": "把最新提问固定在聊天区顶部、回复向下生长，页面不再跟随滚动（dsh 网页聊天插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tooeast/dsh-chat-anchor",
+  "repositoryUrl": "https://github.com/tooeast/dsh-chat-anchor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6605
+}
