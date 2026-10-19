@@ -1,0 +1,20 @@
+{
+  "id": "github:ZekaiShi/evo-subagent",
+  "kind": "plugin",
+  "name": "evo-subagent",
+  "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/deny lists), so repeated tasks start from proven commands and save tokens. Unified subagent routing and evolution: prefercmd/memory serve as knowledge allow/deny lists, saving tokens.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZekaiShi/evo-subagent",
+  "repositoryUrl": "https://github.com/ZekaiShi/evo-subagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6574
+}
