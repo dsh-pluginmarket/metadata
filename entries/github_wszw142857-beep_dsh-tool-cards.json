@@ -1,0 +1,20 @@
+{
+  "id": "github:wszw142857-beep/dsh-tool-cards",
+  "kind": "plugin",
+  "name": "dsh-tool-cards",
+  "description": "Interactive cards for DeepSeek Harness replies: sliders, forms, charts and tables from a tool result, with actions that flow back to the agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wszw142857-beep/dsh-tool-cards",
+  "repositoryUrl": "https://github.com/wszw142857-beep/dsh-tool-cards",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6758
+}
