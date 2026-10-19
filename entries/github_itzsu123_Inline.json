@@ -1,0 +1,20 @@
+{
+  "id": "github:itzsu123/Inline",
+  "kind": "plugin",
+  "name": "Inline",
+  "description": "“Answers should grow where the question is asked — a single-file AI reading tool, zero dependencies, with all data kept local.”答案应该长在提问的地方 —— 单文件的 AI 阅读工具,零依赖,数据全在本地",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itzsu123/Inline",
+  "repositoryUrl": "https://github.com/itzsu123/Inline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6660
+}
