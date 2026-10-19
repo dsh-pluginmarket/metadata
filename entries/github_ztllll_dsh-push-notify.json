@@ -1,0 +1,20 @@
+{
+  "id": "github:ztllll/dsh-push-notify",
+  "kind": "plugin",
+  "name": "dsh-push-notify",
+  "description": "DeepSeek Harness (dsh) plugin: push a notification to ntfy (your phone) or your own webhook when an agent finishes, gets stuck, needs you, or hits a model error.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ztllll/dsh-push-notify",
+  "repositoryUrl": "https://github.com/ztllll/dsh-push-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6513
+}
