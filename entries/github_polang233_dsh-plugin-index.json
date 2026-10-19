@@ -1,0 +1,20 @@
+{
+  "id": "github:polang233/dsh-plugin-index",
+  "kind": "plugin",
+  "name": "dsh-plugin-index",
+  "description": "Open Plugin Market — Community plugin index for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "polang233/dsh-plugin-index",
+  "repositoryUrl": "https://github.com/polang233/dsh-plugin-index",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6252
+}
