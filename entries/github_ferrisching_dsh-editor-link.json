@@ -1,0 +1,20 @@
+{
+  "id": "github:ferrisching/dsh-editor-link",
+  "kind": "plugin",
+  "name": "dsh-editor-link",
+  "description": "The link between DeepSeek Harness and VS Code: approvals, questions and editor context in your editor, over one authenticated loopback bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ferrisching/dsh-editor-link",
+  "repositoryUrl": "https://github.com/ferrisching/dsh-editor-link",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6618
+}
