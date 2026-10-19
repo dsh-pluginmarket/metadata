@@ -1,0 +1,20 @@
+{
+  "id": "github:Rosynb666/dsh-whale-catch",
+  "kind": "plugin",
+  "name": "dsh-whale-catch",
+  "description": "Related DeepSeek Harness project: Rosynb666/dsh-whale-catch",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Rosynb666/dsh-whale-catch",
+  "repositoryUrl": "https://github.com/Rosynb666/dsh-whale-catch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6653
+}
