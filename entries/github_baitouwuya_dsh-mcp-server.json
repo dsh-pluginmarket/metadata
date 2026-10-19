@@ -1,0 +1,20 @@
+{
+  "id": "github:baitouwuya/dsh-mcp-server",
+  "kind": "plugin",
+  "name": "dsh-mcp-server",
+  "description": "DeepSeek Harness (DSH) plugin that publishes the running Harness as a Model Context Protocol (MCP) server for other agent harnesses.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "baitouwuya/dsh-mcp-server",
+  "repositoryUrl": "https://github.com/baitouwuya/dsh-mcp-server",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6228
+}
