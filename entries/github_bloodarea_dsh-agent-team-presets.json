@@ -1,0 +1,20 @@
+{
+  "id": "github:bloodarea/dsh-agent-team-presets",
+  "kind": "plugin",
+  "name": "dsh-agent-team-presets",
+  "description": "Reusable Agent Team presets for DeepSeek Harness: a captain plus members with their own prompt, model, reasoning effort, and tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bloodarea/dsh-agent-team-presets",
+  "repositoryUrl": "https://github.com/bloodarea/dsh-agent-team-presets",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6630
+}
