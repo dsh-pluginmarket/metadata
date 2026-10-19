@@ -1,0 +1,20 @@
+{
+  "id": "github:3ChatAI-NCT/3chatai-deepseek-harness-plugin",
+  "kind": "plugin",
+  "name": "3chatai-deepseek-harness-plugin",
+  "description": "3chat.ai skills",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "3ChatAI-NCT/3chatai-deepseek-harness-plugin",
+  "repositoryUrl": "https://github.com/3ChatAI-NCT/3chatai-deepseek-harness-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6640
+}
