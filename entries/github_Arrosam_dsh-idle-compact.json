@@ -1,0 +1,20 @@
+{
+  "id": "github:Arrosam/dsh-idle-compact",
+  "kind": "plugin",
+  "name": "dsh-idle-compact",
+  "description": "DSH plugin: auto-compact long sessions after user idle time, before the KV cache expires.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Arrosam/dsh-idle-compact",
+  "repositoryUrl": "https://github.com/Arrosam/dsh-idle-compact",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6718
+}
