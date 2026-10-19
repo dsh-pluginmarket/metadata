@@ -1,0 +1,20 @@
+{
+  "id": "github:ddtcorex/maestro-reviewer",
+  "kind": "plugin",
+  "name": "maestro-reviewer",
+  "description": "Pluggable merge-request review pipeline for DeepSeek Harness (webhook, orchestrator, findings) with a GitLab provider",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ddtcorex/maestro-reviewer",
+  "repositoryUrl": "https://github.com/ddtcorex/maestro-reviewer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6494
+}
