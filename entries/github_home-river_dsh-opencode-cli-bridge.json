@@ -1,0 +1,20 @@
+{
+  "id": "github:home-river/dsh-opencode-cli-bridge",
+  "kind": "plugin",
+  "name": "dsh-opencode-cli-bridge",
+  "description": "DeepSeek Harness 插件，经本机 OpenCode CLI 使用 OpenCode 兼容模型——原生 LlmAdapter 透传桥，OC 会话持久续接",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "home-river/dsh-opencode-cli-bridge",
+  "repositoryUrl": "https://github.com/home-river/dsh-opencode-cli-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6278
+}
