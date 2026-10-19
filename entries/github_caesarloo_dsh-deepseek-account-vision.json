@@ -1,0 +1,20 @@
+{
+  "id": "github:caesarloo/dsh-deepseek-account-vision",
+  "kind": "plugin",
+  "name": "dsh-deepseek-account-vision",
+  "description": "DeepSeek Harness plugin: use the DeepSeek account's DeepSeek-V4.1-Flash (deepseek-flash, 1017) for image recognition with any main model. No API key.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "caesarloo/dsh-deepseek-account-vision",
+  "repositoryUrl": "https://github.com/caesarloo/dsh-deepseek-account-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6728
+}
