@@ -1,0 +1,20 @@
+{
+  "id": "github:ximeng-y/Claude-DSH-Memory",
+  "kind": "plugin",
+  "name": "Claude-DSH-Memory",
+  "description": "Add a plugin for DeepSeek Harness that supports the Claude Code memory system.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ximeng-y/Claude-DSH-Memory",
+  "repositoryUrl": "https://github.com/ximeng-y/Claude-DSH-Memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6636
+}
