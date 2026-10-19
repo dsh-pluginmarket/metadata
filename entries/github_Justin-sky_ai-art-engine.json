@@ -1,0 +1,20 @@
+{
+  "id": "github:Justin-sky/ai-art-engine",
+  "kind": "plugin",
+  "name": "ai-art-engine",
+  "description": "AI 艺术创作引擎，专业的短视频，游戏3D资产，2D资产，广告创作工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Justin-sky/ai-art-engine",
+  "repositoryUrl": "https://github.com/Justin-sky/ai-art-engine",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6674
+}
