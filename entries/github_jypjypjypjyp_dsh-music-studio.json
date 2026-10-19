@@ -1,0 +1,20 @@
+{
+  "id": "github:jypjypjypjyp/dsh-music-studio",
+  "kind": "plugin",
+  "name": "dsh-music-studio",
+  "description": "Music composition for DeepSeek Harness: the model writes a score against a bundled composing skill, and a play_score tool renders it as an inline card with a piano roll, Web Audio playback and WAV/JSON export.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jypjypjypjyp/dsh-music-studio",
+  "repositoryUrl": "https://github.com/jypjypjypjyp/dsh-music-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6599
+}
