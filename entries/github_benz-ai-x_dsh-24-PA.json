@@ -1,0 +1,20 @@
+{
+  "id": "github:benz-ai-x/dsh-24-PA",
+  "kind": "plugin",
+  "name": "dsh-24-PA",
+  "description": "24私助（24PA）— Feishu personal-assistant plugin for dsh: dual-entry coordination, ledger-driven workers, offline-capable reminders, handwriting review, and a staged Feishu setup wizard. 飞书私人助理 dsh 插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "benz-ai-x/dsh-24-PA",
+  "repositoryUrl": "https://github.com/benz-ai-x/dsh-24-PA",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6486
+}
