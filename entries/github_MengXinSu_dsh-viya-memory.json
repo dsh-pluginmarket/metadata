@@ -1,0 +1,20 @@
+{
+  "id": "github:MengXinSu/dsh-viya-memory",
+  "kind": "plugin",
+  "name": "dsh-viya-memory",
+  "description": "本地长期记忆插件 for DeepSeek Harness：卡片以 Markdown 存在你自己的 Obsidian vault 里 · Local long-term memory as plain Markdown cards in your own Obsidian vault",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MengXinSu/dsh-viya-memory",
+  "repositoryUrl": "https://github.com/MengXinSu/dsh-viya-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6736
+}
