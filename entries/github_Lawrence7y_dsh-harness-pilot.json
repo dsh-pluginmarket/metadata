@@ -1,0 +1,20 @@
+{
+  "id": "github:Lawrence7y/dsh-harness-pilot",
+  "kind": "plugin",
+  "name": "dsh-harness-pilot",
+  "description": "把其他 agent harness（opencode / Antigravity / claude / codex / ZCode / MiMo / Cursor / Qoder …）接入 DeepSeek Harness：作为 DSH 子代理派发任务、指定各家模型，并在设置页查看已配置的 harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lawrence7y/dsh-harness-pilot",
+  "repositoryUrl": "https://github.com/Lawrence7y/dsh-harness-pilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6330
+}
