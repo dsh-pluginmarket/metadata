@@ -1,0 +1,20 @@
+{
+  "id": "github:hairyf/dsh-tool-activator",
+  "kind": "plugin",
+  "name": "dsh-tool-activator",
+  "description": "🗃️ 为 DSH 默认只加载基础工具，其余工具通过 activate_tools 按需加载。| Load only basic DSH tools by default, and activate the rest on demand via activate_tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hairyf/dsh-tool-activator",
+  "repositoryUrl": "https://github.com/hairyf/dsh-tool-activator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6749
+}
