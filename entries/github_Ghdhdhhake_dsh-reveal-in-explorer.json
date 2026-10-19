@@ -1,0 +1,20 @@
+{
+  "id": "github:Ghdhdhhake/dsh-reveal-in-explorer",
+  "kind": "plugin",
+  "name": "dsh-reveal-in-explorer",
+  "description": "dsh-reveal-in-explorer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ghdhdhhake/dsh-reveal-in-explorer",
+  "repositoryUrl": "https://github.com/Ghdhdhhake/dsh-reveal-in-explorer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6484
+}
