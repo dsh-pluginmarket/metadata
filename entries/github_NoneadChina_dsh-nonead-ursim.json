@@ -1,0 +1,20 @@
+{
+  "id": "github:NoneadChina/dsh-nonead-ursim",
+  "kind": "plugin",
+  "name": "dsh-nonead-ursim",
+  "description": "dsh-nonead-ursim gives a DSH agent a Universal Robots arm it can drive in plain language — the complete tool surface of a UR controller (86 ursim_* tools: joint and Cartesian motion, OptiMove, drawing primitives, pose and status readback, RTDE telemetry, standard/tool I/O and registers, URScript, TCP/payload/tool settings",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NoneadChina/dsh-nonead-ursim",
+  "repositoryUrl": "https://github.com/NoneadChina/dsh-nonead-ursim",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6499
+}
