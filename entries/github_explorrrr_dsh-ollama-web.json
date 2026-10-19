@@ -1,0 +1,20 @@
+{
+  "id": "github:explorrrr/dsh-ollama-web",
+  "kind": "plugin",
+  "name": "dsh-ollama-web",
+  "description": "Ollama Cloud web search provider for DeepSeek Harness (DSH) with a Web UI settings card.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "explorrrr/dsh-ollama-web",
+  "repositoryUrl": "https://github.com/explorrrr/dsh-ollama-web",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6299
+}
