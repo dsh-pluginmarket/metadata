@@ -1,0 +1,20 @@
+{
+  "id": "github:hldz-top/dsh-story",
+  "kind": "plugin",
+  "name": "dsh-story",
+  "description": "Independent novel-writing plugin for DSH: settings, outlines, chapters, review and continuity.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hldz-top/dsh-story",
+  "repositoryUrl": "https://github.com/hldz-top/dsh-story",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6648
+}
