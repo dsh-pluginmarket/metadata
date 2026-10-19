@@ -1,0 +1,20 @@
+{
+  "id": "github:Han-1413141/dsh-cost-meter",
+  "kind": "plugin",
+  "name": "dsh-cost-meter",
+  "description": "Cost tracking for DeepSeek Harness: session and model costs, token usage, budgets, provider balances, and coding-plan quotas. Bilingual English/Chinese UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Han-1413141/dsh-cost-meter",
+  "repositoryUrl": "https://github.com/Han-1413141/dsh-cost-meter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6518
+}
