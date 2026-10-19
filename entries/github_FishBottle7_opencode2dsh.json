@@ -1,0 +1,20 @@
+{
+  "id": "github:FishBottle7/opencode2dsh",
+  "kind": "plugin",
+  "name": "opencode2dsh",
+  "description": "DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FishBottle7/opencode2dsh",
+  "repositoryUrl": "https://github.com/FishBottle7/opencode2dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6240
+}
