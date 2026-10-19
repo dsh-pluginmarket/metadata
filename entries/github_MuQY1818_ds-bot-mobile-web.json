@@ -1,0 +1,20 @@
+{
+  "id": "github:MuQY1818/ds-bot-mobile-web",
+  "kind": "plugin",
+  "name": "ds-bot-mobile-web",
+  "description": "A mobile-first Web interface for your self-hosted DS Bot team. Install a DSH plugin, scan to connect, and keep chatting from your phone.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MuQY1818/ds-bot-mobile-web",
+  "repositoryUrl": "https://github.com/MuQY1818/ds-bot-mobile-web",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6223
+}
