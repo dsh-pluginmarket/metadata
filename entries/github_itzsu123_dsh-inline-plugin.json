@@ -1,0 +1,20 @@
+{
+  "id": "github:itzsu123/dsh-inline-plugin",
+  "kind": "plugin",
+  "name": "dsh-inline-plugin",
+  "description": "给 DeepSeek Harness 加个插件:把信息整理成 Inline 能接入的文章",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "itzsu123/dsh-inline-plugin",
+  "repositoryUrl": "https://github.com/itzsu123/dsh-inline-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6368
+}
