@@ -1,0 +1,20 @@
+{
+  "id": "github:matiomlei/dsh-workbuddy-project",
+  "kind": "plugin",
+  "name": "dsh-workbuddy-project",
+  "description": "Related DeepSeek Harness project: matiomlei/dsh-workbuddy-project",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "matiomlei/dsh-workbuddy-project",
+  "repositoryUrl": "https://github.com/matiomlei/dsh-workbuddy-project",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6634
+}
