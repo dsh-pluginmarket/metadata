@@ -1,0 +1,20 @@
+{
+  "id": "github:2672243194/dsh-read-url",
+  "kind": "plugin",
+  "name": "dsh-read-url",
+  "description": "DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2672243194/dsh-read-url",
+  "repositoryUrl": "https://github.com/2672243194/dsh-read-url",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6374
+}
