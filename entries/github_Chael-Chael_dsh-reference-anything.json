@@ -1,0 +1,20 @@
+{
+  "id": "github:Chael-Chael/dsh-reference-anything",
+  "kind": "plugin",
+  "name": "dsh-reference-anything",
+  "description": "The best DeepSeek Harness plugin for referencing anything — enhanced @ menu for commands, skills, files, agent sessions, cloud drives, DSH sessions, and conversations from web-based chatbot platforms. | 最强的 DeepSeek Harness 万物引用插件——增强 @ 菜单，统一引用命令、Skills、文件、Agent 会话、云盘、DSH 会话及网页端 Chatbot 平台对话。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chael-Chael/dsh-reference-anything",
+  "repositoryUrl": "https://github.com/Chael-Chael/dsh-reference-anything",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6642
+}
