@@ -1,0 +1,20 @@
+{
+  "id": "github:MimicHunterZ/dsh-agent-compact",
+  "kind": "plugin",
+  "name": "dsh-agent-compact",
+  "description": "DSH plugin for agent-driven span compaction: compress chosen conversation spans into self-written checkpoints instead of the official head-anchored full-context sweep.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MimicHunterZ/dsh-agent-compact",
+  "repositoryUrl": "https://github.com/MimicHunterZ/dsh-agent-compact",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6552
+}
