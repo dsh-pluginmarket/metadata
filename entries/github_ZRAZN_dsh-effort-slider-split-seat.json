@@ -1,0 +1,20 @@
+{
+  "id": "github:ZRAZN/dsh-effort-slider-split-seat",
+  "kind": "plugin",
+  "name": "dsh-effort-slider-split-seat",
+  "description": "Related DeepSeek Harness project: ZRAZN/dsh-effort-slider-split-seat",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZRAZN/dsh-effort-slider-split-seat",
+  "repositoryUrl": "https://github.com/ZRAZN/dsh-effort-slider-split-seat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6358
+}
