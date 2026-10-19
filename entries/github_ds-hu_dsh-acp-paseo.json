@@ -1,0 +1,20 @@
+{
+  "id": "github:ds-hu/dsh-acp-paseo",
+  "kind": "plugin",
+  "name": "dsh-acp-paseo",
+  "description": "The most feature-complete DeepSeek Harness – Paseo integration project.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ds-hu/dsh-acp-paseo",
+  "repositoryUrl": "https://github.com/ds-hu/dsh-acp-paseo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6194
+}
