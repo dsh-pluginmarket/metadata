@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangsaizz/dsh-widgets-plugin",
+  "kind": "plugin",
+  "name": "dsh-widgets-plugin",
+  "description": "支持 deepseek-harness 各类小组件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangsaizz/dsh-widgets-plugin",
+  "repositoryUrl": "https://github.com/zhangsaizz/dsh-widgets-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6578
+}
