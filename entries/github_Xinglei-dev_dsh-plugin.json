@@ -1,0 +1,20 @@
+{
+  "id": "github:Xinglei-dev/dsh-plugin",
+  "kind": "plugin",
+  "name": "dsh-plugin",
+  "description": "DeepSeek Harness 插件：固定 Web 启动 token 等。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Xinglei-dev/dsh-plugin",
+  "repositoryUrl": "https://github.com/Xinglei-dev/dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6348
+}
