@@ -1,0 +1,20 @@
+{
+  "id": "github:YEYEYEYESHIFU/dsh-split-screen",
+  "kind": "plugin",
+  "name": "dsh-split-screen",
+  "description": "Related DeepSeek Harness project: YEYEYEYESHIFU/dsh-split-screen",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YEYEYEYESHIFU/dsh-split-screen",
+  "repositoryUrl": "https://github.com/YEYEYEYESHIFU/dsh-split-screen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6284
+}
