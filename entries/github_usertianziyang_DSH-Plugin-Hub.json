@@ -1,0 +1,20 @@
+{
+  "id": "github:usertianziyang/DSH-Plugin-Hub",
+  "kind": "plugin",
+  "name": "DSH-Plugin-Hub",
+  "description": "DSH Plugin Hub — 基于 GitHub REST Search API 构建的 dsh-plugin 主题仓库索引站。数据每 6 小时自动同步、完整性校验后发布为静态快照；前端基于 React + TypeScript (Vite)，支持中英双语、全文搜索、分类筛选与分页，浏览器零 API 调用、零追踪，即开即用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "usertianziyang/DSH-Plugin-Hub",
+  "repositoryUrl": "https://github.com/usertianziyang/DSH-Plugin-Hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6220
+}
