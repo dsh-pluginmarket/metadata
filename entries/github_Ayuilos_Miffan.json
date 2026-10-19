@@ -1,0 +1,20 @@
+{
+  "id": "github:Ayuilos/Miffan",
+  "kind": "plugin",
+  "name": "Miffan",
+  "description": "RikkaHub fork，Android AI 客户端。支持 IM（类 Grok-Bot）模式，ChatGPT 订阅登录使用、跨应用划词悬浮翻译、高性能低延迟远程云电脑控制。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ayuilos/Miffan",
+  "repositoryUrl": "https://github.com/Ayuilos/Miffan",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6549
+}
