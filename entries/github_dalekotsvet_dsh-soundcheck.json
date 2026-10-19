@@ -1,0 +1,20 @@
+{
+  "id": "github:dalekotsvet/dsh-soundcheck",
+  "kind": "plugin",
+  "name": "dsh-soundcheck",
+  "description": "让文本模型读懂一首歌：本地音乐分析插件，把音频拆成能量、速度、调性、密度，音频不出本机。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dalekotsvet/dsh-soundcheck",
+  "repositoryUrl": "https://github.com/dalekotsvet/dsh-soundcheck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6292
+}
