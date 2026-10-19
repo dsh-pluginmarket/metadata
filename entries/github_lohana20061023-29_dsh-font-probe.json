@@ -1,0 +1,20 @@
+{
+  "id": "github:lohana20061023-29/dsh-font-probe",
+  "kind": "plugin",
+  "name": "dsh-font-probe",
+  "description": "DSH 字体插件：中英文字体分设、正文字号与代码字号、字距/行距/段距/首行缩进四根滑块，吸底总预览 + 确认制，配置写回 profile，不动 app.asar。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lohana20061023-29/dsh-font-probe",
+  "repositoryUrl": "https://github.com/lohana20061023-29/dsh-font-probe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6556
+}
