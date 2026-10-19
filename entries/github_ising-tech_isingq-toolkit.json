@@ -1,0 +1,20 @@
+{
+  "id": "github:ising-tech/isingq-toolkit",
+  "kind": "plugin",
+  "name": "isingq-toolkit",
+  "description": "IsingQ toolkit for MCP and DeepSeek Harness: guided QUBO modeling, local validation, and user-confirmed solving. 面向 MCP 与原生 Agent 的 QUBO 建模与 IsingQ 求解工具集。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ising-tech/isingq-toolkit",
+  "repositoryUrl": "https://github.com/ising-tech/isingq-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6235
+}
