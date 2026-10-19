@@ -1,0 +1,20 @@
+{
+  "id": "github:zexadev/dsh-tether",
+  "kind": "plugin",
+  "name": "dsh-tether",
+  "description": "Mobile client for the DeepSeek Harness — use the dsh on your dev machine from your Android or iOS phone, remotely across networks, peer-to-peer over iroh with no server to set up (falls back to a relay that only sees ciphertext)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zexadev/dsh-tether",
+  "repositoryUrl": "https://github.com/zexadev/dsh-tether",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6693
+}
