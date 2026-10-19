@@ -1,0 +1,20 @@
+{
+  "id": "github:molanxuan-del/DSH-MOTU",
+  "kind": "plugin",
+  "name": "DSH-MOTU",
+  "description": "墨图 MoTu — 把对话里的代码块渲染成真正的图。DSH 可视化套件：Mermaid / Graphviz / nomnoml / ECharts（含交互）/ Vega-Lite / 手写 SVG，六引擎本地伺服、离线可用、完整性校验。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "molanxuan-del/DSH-MOTU",
+  "repositoryUrl": "https://github.com/molanxuan-del/DSH-MOTU",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6438
+}
