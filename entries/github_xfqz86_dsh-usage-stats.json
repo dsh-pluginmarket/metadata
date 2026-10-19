@@ -1,0 +1,20 @@
+{
+  "id": "github:xfqz86/dsh-usage-stats",
+  "kind": "plugin",
+  "name": "dsh-usage-stats",
+  "description": "DSH Web 插件：侧边栏中的 Token 使用统计",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xfqz86/dsh-usage-stats",
+  "repositoryUrl": "https://github.com/xfqz86/dsh-usage-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6560
+}
