@@ -1,0 +1,20 @@
+{
+  "id": "github:vb2250158/dsh-codex-model-selector",
+  "kind": "plugin",
+  "name": "dsh-codex-model-selector",
+  "description": "Related DeepSeek Harness project: vb2250158/dsh-codex-model-selector",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vb2250158/dsh-codex-model-selector",
+  "repositoryUrl": "https://github.com/vb2250158/dsh-codex-model-selector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6315
+}
