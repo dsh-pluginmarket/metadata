@@ -1,0 +1,20 @@
+{
+  "id": "github:DBinK/dbk-handoff",
+  "kind": "plugin",
+  "name": "dbk-handoff",
+  "description": "轻量级、基于文件的上下文交接协议与 Agent Skills，在 Claude Code、Cursor、Windsurf、pi 等任意 Agent 间实现任务无缝接力。 | A lightweight, file-based context handoff protocol and Agent Skills for seamless task continuity across Claude Code, Cursor, Windsurf, pi, and any AI agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DBinK/dbk-handoff",
+  "repositoryUrl": "https://github.com/DBinK/dbk-handoff",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6567
+}
