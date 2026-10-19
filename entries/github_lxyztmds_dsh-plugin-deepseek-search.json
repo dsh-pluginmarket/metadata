@@ -1,0 +1,20 @@
+{
+  "id": "github:lxyztmds/dsh-plugin-deepseek-search",
+  "kind": "plugin",
+  "name": "dsh-plugin-deepseek-search",
+  "description": "Official DeepSeek Search / Fetch API tools for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lxyztmds/dsh-plugin-deepseek-search",
+  "repositoryUrl": "https://github.com/lxyztmds/dsh-plugin-deepseek-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6744
+}
