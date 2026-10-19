@@ -1,0 +1,20 @@
+{
+  "id": "github:xmmtr/dsh-better-right-click",
+  "kind": "plugin",
+  "name": "dsh-better-right-click",
+  "description": "Related DeepSeek Harness project: xmmtr/dsh-better-right-click",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xmmtr/dsh-better-right-click",
+  "repositoryUrl": "https://github.com/xmmtr/dsh-better-right-click",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6539
+}
