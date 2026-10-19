@@ -1,0 +1,20 @@
+{
+  "id": "github:xingtu1996/dsh-xingtu-skills",
+  "kind": "plugin",
+  "name": "dsh-xingtu-skills",
+  "description": "DeepSeek Harness (DSH) plugin: 26 production AI-agent skills (Caveman token compression, Ponytail minimalism, engineering practice) as a standard dsh-plugin bundle. 行途技能 DSH 插件包",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xingtu1996/dsh-xingtu-skills",
+  "repositoryUrl": "https://github.com/xingtu1996/dsh-xingtu-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6245
+}
