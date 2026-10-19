@@ -1,0 +1,20 @@
+{
+  "id": "github:dongfangxy/dsh-open-project",
+  "kind": "plugin",
+  "name": "dsh-open-project",
+  "description": "Explorer context-menu entry that opens a folder as a DSH project, with a switch in DSH settings",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dongfangxy/dsh-open-project",
+  "repositoryUrl": "https://github.com/dongfangxy/dsh-open-project",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6450
+}
