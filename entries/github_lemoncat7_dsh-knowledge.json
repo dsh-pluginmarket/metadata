@@ -1,0 +1,20 @@
+{
+  "id": "github:lemoncat7/dsh-knowledge",
+  "kind": "plugin",
+  "name": "dsh-knowledge",
+  "description": "Installable DeepSeek Harness knowledge base plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lemoncat7/dsh-knowledge",
+  "repositoryUrl": "https://github.com/lemoncat7/dsh-knowledge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6511
+}
