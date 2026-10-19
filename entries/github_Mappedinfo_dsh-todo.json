@@ -1,0 +1,20 @@
+{
+  "id": "github:Mappedinfo/dsh-todo",
+  "kind": "plugin",
+  "name": "dsh-todo",
+  "description": "DeepSeek Harness 待办清单插件：列表 / Markdown 双视图，自动补齐创建时间、提醒时间与提醒模式",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Mappedinfo/dsh-todo",
+  "repositoryUrl": "https://github.com/Mappedinfo/dsh-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6695
+}
