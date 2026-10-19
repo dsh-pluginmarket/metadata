@@ -1,0 +1,20 @@
+{
+  "id": "github:PlayForm/DeepSeek",
+  "kind": "plugin",
+  "name": "DeepSeek",
+  "description": "DeepSeek 🐳",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PlayForm/DeepSeek",
+  "repositoryUrl": "https://github.com/PlayForm/DeepSeek",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6611
+}
