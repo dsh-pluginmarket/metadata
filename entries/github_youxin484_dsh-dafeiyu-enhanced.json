@@ -1,0 +1,20 @@
+{
+  "id": "github:youxin484/dsh-dafeiyu-enhanced",
+  "kind": "plugin",
+  "name": "dsh-dafeiyu-enhanced",
+  "description": "DSH 大肥鱼桌宠增强版 — QCYTSN/dsh-dafeiyu 的修改版 | 视频 https://www.bilibili.com/video/BV1JAbC6wEWW/",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "youxin484/dsh-dafeiyu-enhanced",
+  "repositoryUrl": "https://github.com/youxin484/dsh-dafeiyu-enhanced",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6533
+}
