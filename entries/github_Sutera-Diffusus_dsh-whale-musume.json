@@ -1,0 +1,20 @@
+{
+  "id": "github:Sutera-Diffusus/dsh-whale-musume",
+  "kind": "plugin",
+  "name": "dsh-whale-musume",
+  "description": "DeepSeek Harness 桌宠插件：元气鲸鱼娘看板娘陪你写代码 🐋 支持 DSH 桌面端 0.2.0-rc.2 与旧版 Web（desktop pet / mascot，local-first）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sutera-Diffusus/dsh-whale-musume",
+  "repositoryUrl": "https://github.com/Sutera-Diffusus/dsh-whale-musume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6188
+}
