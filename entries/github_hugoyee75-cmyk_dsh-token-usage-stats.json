@@ -1,0 +1,20 @@
+{
+  "id": "github:hugoyee75-cmyk/dsh-token-usage-stats",
+  "kind": "plugin",
+  "name": "dsh-token-usage-stats",
+  "description": "把经过 DeepSeek Harness 的每一次模型调用记下来，在侧边栏给你一个 Token 用量统计页。按模型/供应商/项目/来源/账号/日期拆分，带缓存命中率、趋势图表与自更新。A Token usage statistics plugin for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hugoyee75-cmyk/dsh-token-usage-stats",
+  "repositoryUrl": "https://github.com/hugoyee75-cmyk/dsh-token-usage-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6219
+}
