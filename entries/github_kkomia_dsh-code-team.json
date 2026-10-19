@@ -1,0 +1,20 @@
+{
+  "id": "github:kkomia/dsh-code-team",
+  "kind": "plugin",
+  "name": "dsh-code-team",
+  "description": "Related DeepSeek Harness project: kkomia/dsh-code-team",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kkomia/dsh-code-team",
+  "repositoryUrl": "https://github.com/kkomia/dsh-code-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6436
+}
