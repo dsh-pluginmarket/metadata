@@ -1,0 +1,20 @@
+{
+  "id": "github:peijiping/dsh-plugin-zotero",
+  "kind": "plugin",
+  "name": "dsh-plugin-zotero",
+  "description": "DSH的zotero插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "peijiping/dsh-plugin-zotero",
+  "repositoryUrl": "https://github.com/peijiping/dsh-plugin-zotero",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6351
+}
