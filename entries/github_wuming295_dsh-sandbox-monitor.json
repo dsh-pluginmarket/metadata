@@ -1,0 +1,20 @@
+{
+  "id": "github:wuming295/dsh-sandbox-monitor",
+  "kind": "plugin",
+  "name": "dsh-sandbox-monitor",
+  "description": "Real-time sandbox observability for DeepSeek Harness: latency, loss, errors, tokens, CPU and a live sandbox preview in the native right sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wuming295/dsh-sandbox-monitor",
+  "repositoryUrl": "https://github.com/wuming295/dsh-sandbox-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6678
+}
