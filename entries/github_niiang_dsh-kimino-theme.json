@@ -1,0 +1,20 @@
+{
+  "id": "github:niiang/dsh-kimino-theme",
+  "kind": "plugin",
+  "name": "dsh-kimino-theme",
+  "description": "Kimi no Na wa (Your Name) theme for DeepSeek Harness Web GUI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "niiang/dsh-kimino-theme",
+  "repositoryUrl": "https://github.com/niiang/dsh-kimino-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6260
+}
