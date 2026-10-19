@@ -1,0 +1,20 @@
+{
+  "id": "github:Bainianzzz/dsh-fork-worktree",
+  "kind": "plugin",
+  "name": "dsh-fork-worktree",
+  "description": "DeepSeek Harness plugin: fork a workspace row into a git worktree, or delete the workspace folder",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Bainianzzz/dsh-fork-worktree",
+  "repositoryUrl": "https://github.com/Bainianzzz/dsh-fork-worktree",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6740
+}
