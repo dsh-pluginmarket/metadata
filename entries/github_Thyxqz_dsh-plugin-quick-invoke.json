@@ -1,0 +1,20 @@
+{
+  "id": "github:Thyxqz/dsh-plugin-quick-invoke",
+  "kind": "plugin",
+  "name": "dsh-plugin-quick-invoke",
+  "description": "Quick plugin invocation for DeepSeek Harness: drag installed plugin names into the prompt at the drop point, pin a draggable rail in the right sidebar, and choose which plugins (with remarks) appear in Settings.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Thyxqz/dsh-plugin-quick-invoke",
+  "repositoryUrl": "https://github.com/Thyxqz/dsh-plugin-quick-invoke",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6239
+}
