@@ -1,0 +1,20 @@
+{
+  "id": "github:elegant01/dsh-codearts",
+  "kind": "plugin",
+  "name": "dsh-codearts",
+  "description": "dsh-plugin, 在DSH中使用华为codearts的积分，token,",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elegant01/dsh-codearts",
+  "repositoryUrl": "https://github.com/elegant01/dsh-codearts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6302
+}
