@@ -1,0 +1,20 @@
+{
+  "id": "github:mokuyoaxis/agent-guard",
+  "kind": "plugin",
+  "name": "agent-guard",
+  "description": "Make destructive AI-agent actions reversible by default — quarantine + audit + human escalation for rm/git destructive operations. Reliability infrastructure, not a sandbox.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mokuyoaxis/agent-guard",
+  "repositoryUrl": "https://github.com/mokuyoaxis/agent-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6459
+}
