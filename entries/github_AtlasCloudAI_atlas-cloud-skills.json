@@ -1,0 +1,20 @@
+{
+  "id": "github:AtlasCloudAI/atlas-cloud-skills",
+  "kind": "plugin",
+  "name": "atlas-cloud-skills",
+  "description": "Atlas Cloud skills for Claude Code, Codex & Gemini CLI — generate images/videos and call 300+ AI models from your coding agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AtlasCloudAI/atlas-cloud-skills",
+  "repositoryUrl": "https://github.com/AtlasCloudAI/atlas-cloud-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6546
+}
