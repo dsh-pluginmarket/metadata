@@ -1,0 +1,20 @@
+{
+  "id": "github:thibautrey/multivibe",
+  "kind": "plugin",
+  "name": "multivibe",
+  "description": "OpenAI-compatible multi-account Codex and vibe coding proxy",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "thibautrey/multivibe",
+  "repositoryUrl": "https://github.com/thibautrey/multivibe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6281
+}
