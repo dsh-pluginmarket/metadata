@@ -1,0 +1,20 @@
+{
+  "id": "github:lemoncat7/dsh-partner",
+  "kind": "plugin",
+  "name": "dsh-partner",
+  "description": "Long-lived AI companions with WeChat channel routing for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lemoncat7/dsh-partner",
+  "repositoryUrl": "https://github.com/lemoncat7/dsh-partner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6510
+}
