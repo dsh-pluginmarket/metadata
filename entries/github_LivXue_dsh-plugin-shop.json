@@ -1,0 +1,20 @@
+{
+  "id": "github:LivXue/dsh-plugin-shop",
+  "kind": "plugin",
+  "name": "dsh-plugin-shop",
+  "description": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LivXue/dsh-plugin-shop",
+  "repositoryUrl": "https://github.com/LivXue/dsh-plugin-shop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6420
+}
