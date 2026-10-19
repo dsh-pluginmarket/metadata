@@ -1,0 +1,20 @@
+{
+  "id": "github:Azetus/dsh-quorfloat",
+  "kind": "plugin",
+  "name": "dsh-quorfloat",
+  "description": "Floating desktop chat panel for DeepSeek Harness — global-hotkey access to sessions, models, and tool approvals while you work in other apps. MacOS/Windows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Azetus/dsh-quorfloat",
+  "repositoryUrl": "https://github.com/Azetus/dsh-quorfloat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6517
+}
