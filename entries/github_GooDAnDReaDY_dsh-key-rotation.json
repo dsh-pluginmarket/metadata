@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-key-rotation",
+  "kind": "plugin",
+  "name": "dsh-key-rotation",
+  "description": "Per-provider API key rotation for DeepSeek Harness: key pools, automatic 429 rate-limit failover, cooldown probing & Settings UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-key-rotation",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-key-rotation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6370
+}
