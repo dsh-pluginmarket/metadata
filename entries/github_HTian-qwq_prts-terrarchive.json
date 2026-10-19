@@ -1,0 +1,20 @@
+{
+  "id": "github:HTian-qwq/prts-terrarchive",
+  "kind": "plugin",
+  "name": "prts-terrarchive",
+  "description": "为明日方舟的长篇剧情打造的RAG类DSH插件，拥有多种快速检索能力。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HTian-qwq/prts-terrarchive",
+  "repositoryUrl": "https://github.com/HTian-qwq/prts-terrarchive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6271
+}
