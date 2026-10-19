@@ -1,0 +1,20 @@
+{
+  "id": "github:HUSTforever/dsh-thinking-summary",
+  "kind": "plugin",
+  "name": "dsh-thinking-summary",
+  "description": "Codex-style per-step reasoning summaries inside DeepSeek Harness's native thinking disclosure",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HUSTforever/dsh-thinking-summary",
+  "repositoryUrl": "https://github.com/HUSTforever/dsh-thinking-summary",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6272
+}
