@@ -1,0 +1,20 @@
+{
+  "id": "github:NN-0101/dsh-remove-session",
+  "kind": "plugin",
+  "name": "dsh-remove-session",
+  "description": "在 DSH Web UI 的会话「…」菜单中增加红色“删除会话”，二次确认后从磁盘删除会话记录。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NN-0101/dsh-remove-session",
+  "repositoryUrl": "https://github.com/NN-0101/dsh-remove-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6536
+}
