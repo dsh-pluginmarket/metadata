@@ -1,0 +1,20 @@
+{
+  "id": "github:xbzbing/dsh-git-panel",
+  "kind": "plugin",
+  "name": "dsh-git-panel",
+  "description": "Web GUI 里的 IDE 风格 Git 面板——分支/提交历史总览、变更提交与 amend、AI 生成提交信息、文件浏览、代码与图片新旧差异对照、输入框分支标记、针对移动端优化 | an IDE-style Git panel for the Web GUI — branches & history, commit/amend for local changes, AI-generated commit messages, a file browser, code & image before/after diffs, an input-bar branch marker, optimized for mobile",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xbzbing/dsh-git-panel",
+  "repositoryUrl": "https://github.com/xbzbing/dsh-git-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6707
+}
