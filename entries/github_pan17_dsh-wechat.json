@@ -1,0 +1,20 @@
+{
+  "id": "github:pan17/dsh-wechat",
+  "kind": "plugin",
+  "name": "dsh-wechat",
+  "description": "DSH插件，将微信私聊消息桥接到DSH，支持文本、图片、文件、音视频的双向传输。目标是在微信端还原DSH的原生体验",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pan17/dsh-wechat",
+  "repositoryUrl": "https://github.com/pan17/dsh-wechat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6427
+}
