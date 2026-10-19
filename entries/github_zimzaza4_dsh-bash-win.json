@@ -1,0 +1,20 @@
+{
+  "id": "github:zimzaza4/dsh-bash-win",
+  "kind": "plugin",
+  "name": "dsh-bash-win",
+  "description": "在 Windows 环境中为 DeepSeek Harness 提供 Git Bash 与 WSL 2 bash 工具,含 bwrap 沙箱、审批模式、后台任务",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zimzaza4/dsh-bash-win",
+  "repositoryUrl": "https://github.com/zimzaza4/dsh-bash-win",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6712
+}
