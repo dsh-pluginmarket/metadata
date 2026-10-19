@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepGEMM-Ascend",
+  "kind": "plugin",
+  "name": "DeepGEMM-Ascend",
+  "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepGEMM-Ascend",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6764
+}
