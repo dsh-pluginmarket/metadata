@@ -1,0 +1,20 @@
+{
+  "id": "github:lilcandi/dsh-session-live",
+  "kind": "plugin",
+  "name": "dsh-session-live",
+  "description": "Live activity preview inside DSH session hover cards: what each session is doing right now, how much it spent, and the image it touched last.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lilcandi/dsh-session-live",
+  "repositoryUrl": "https://github.com/lilcandi/dsh-session-live",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6386
+}
