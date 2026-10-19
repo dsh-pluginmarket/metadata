@@ -1,0 +1,20 @@
+{
+  "id": "github:yushui6666/dsh-learning-mode",
+  "kind": "plugin",
+  "name": "dsh-learning-mode",
+  "description": "Related DeepSeek Harness project: yushui6666/dsh-learning-mode",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yushui6666/dsh-learning-mode",
+  "repositoryUrl": "https://github.com/yushui6666/dsh-learning-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6651
+}
