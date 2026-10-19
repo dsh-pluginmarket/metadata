@@ -1,0 +1,20 @@
+{
+  "id": "github:MDR-EX1000/dsh-rw",
+  "kind": "plugin",
+  "name": "dsh-rw",
+  "description": "Related DeepSeek Harness project: MDR-EX1000/dsh-rw",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MDR-EX1000/dsh-rw",
+  "repositoryUrl": "https://github.com/MDR-EX1000/dsh-rw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6335
+}
