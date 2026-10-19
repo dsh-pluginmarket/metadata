@@ -1,0 +1,20 @@
+{
+  "id": "github:kolawong/dsh-plugin-clinepass",
+  "kind": "plugin",
+  "name": "dsh-plugin-clinepass",
+  "description": "DeepSeek Harness bundle: ClinePass model provider — seeds the llm-pi-ai `clinepass` route (endpoint, protocol, credential ref, 12-model catalog) so the Models settings page needs only the API key.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kolawong/dsh-plugin-clinepass",
+  "repositoryUrl": "https://github.com/kolawong/dsh-plugin-clinepass",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6662
+}
