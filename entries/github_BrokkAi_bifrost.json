@@ -1,0 +1,20 @@
+{
+  "id": "github:BrokkAi/bifrost",
+  "kind": "plugin",
+  "name": "bifrost",
+  "description": "Multi-language static analysis for agents, editors, and large repositories.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BrokkAi/bifrost",
+  "repositoryUrl": "https://github.com/BrokkAi/bifrost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6677
+}
