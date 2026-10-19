@@ -1,0 +1,20 @@
+{
+  "id": "github:TinyNian/dsh-harness-os",
+  "kind": "plugin",
+  "name": "dsh-harness-os",
+  "description": "DeepSeek Harness 主界面皮肤 Harness OS：沿用 dsh-startup-screen 开机动画的技术档案版式，揭幕无缝衔接。含 fork 的开机动画。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TinyNian/dsh-harness-os",
+  "repositoryUrl": "https://github.com/TinyNian/dsh-harness-os",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6249
+}
