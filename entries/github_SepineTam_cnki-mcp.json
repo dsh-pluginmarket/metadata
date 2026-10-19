@@ -1,0 +1,20 @@
+{
+  "id": "github:SepineTam/cnki-mcp",
+  "kind": "plugin",
+  "name": "cnki-mcp",
+  "description": "An MCP server, CLI and Skills for reach CNKI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SepineTam/cnki-mcp",
+  "repositoryUrl": "https://github.com/SepineTam/cnki-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6623
+}
