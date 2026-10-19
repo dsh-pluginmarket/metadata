@@ -1,0 +1,20 @@
+{
+  "id": "github:drscrewdriver/dsh-canvas-tsx-sidebar",
+  "kind": "plugin",
+  "name": "dsh-canvas-tsx-sidebar",
+  "description": "DSH 侧边栏插件：把 Qoder Canvas `*.canvas.tsx` 静态解析为结构化报告页，在 dsh-better-sidebar 右侧栏渲染（文件查看器接管 + 页签）。纯静态管线，不执行源码。附 writing-qoder-canvas skill。｜ Render Qoder Canvas `.canvas.tsx` reports in the DSH right sidebar. Static parse only — no code execution.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drscrewdriver/dsh-canvas-tsx-sidebar",
+  "repositoryUrl": "https://github.com/drscrewdriver/dsh-canvas-tsx-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6488
+}
