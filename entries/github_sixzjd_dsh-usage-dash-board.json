@@ -1,0 +1,20 @@
+{
+  "id": "github:sixzjd/dsh-usage-dash-board",
+  "kind": "plugin",
+  "name": "dsh-usage-dash-board",
+  "description": "Local usage statistics for DeepSeek Harness: token consumption, request count, cache hit rate and estimated cost as a native settings section.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sixzjd/dsh-usage-dash-board",
+  "repositoryUrl": "https://github.com/sixzjd/dsh-usage-dash-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6602
+}
