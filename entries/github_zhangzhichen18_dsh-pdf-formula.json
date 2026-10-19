@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangzhichen18/dsh-pdf-formula",
+  "kind": "plugin",
+  "name": "dsh-pdf-formula",
+  "description": "PDF formula reader for DeepSeek Harness — decodes subset-font math glyphs into LaTeX",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangzhichen18/dsh-pdf-formula",
+  "repositoryUrl": "https://github.com/zhangzhichen18/dsh-pdf-formula",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6404
+}
