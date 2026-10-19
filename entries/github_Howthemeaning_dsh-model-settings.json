@@ -1,0 +1,20 @@
+{
+  "id": "github:Howthemeaning/dsh-model-settings",
+  "kind": "plugin",
+  "name": "dsh-model-settings",
+  "description": "Related DeepSeek Harness project: Howthemeaning/dsh-model-settings",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Howthemeaning/dsh-model-settings",
+  "repositoryUrl": "https://github.com/Howthemeaning/dsh-model-settings",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6391
+}
