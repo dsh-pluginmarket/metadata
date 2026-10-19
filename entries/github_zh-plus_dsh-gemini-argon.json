@@ -1,0 +1,20 @@
+{
+  "id": "github:zh-plus/dsh-gemini-argon",
+  "kind": "plugin",
+  "name": "dsh-gemini-argon",
+  "description": "Gemini 4 Argon on Google Vertex AI for DeepSeek Harness: streaming, tool calls, thought-signature replay.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zh-plus/dsh-gemini-argon",
+  "repositoryUrl": "https://github.com/zh-plus/dsh-gemini-argon",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6534
+}
