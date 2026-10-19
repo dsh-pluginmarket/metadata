@@ -1,0 +1,20 @@
+{
+  "id": "github:Wei-l-w/dsh-cline-quota",
+  "kind": "plugin",
+  "name": "dsh-cline-quota",
+  "description": "在 DeepSeek Harness 会话页头显示 Cline / ClinePass 额度、Credits 余额与 token 消耗（支持多账号切换）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wei-l-w/dsh-cline-quota",
+  "repositoryUrl": "https://github.com/Wei-l-w/dsh-cline-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6540
+}
