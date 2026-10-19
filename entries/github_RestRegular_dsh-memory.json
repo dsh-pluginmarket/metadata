@@ -1,0 +1,20 @@
+{
+  "id": "github:RestRegular/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "DSH memory plugin: local JSONL memory + embeddings + agent tools + settings panel",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RestRegular/dsh-memory",
+  "repositoryUrl": "https://github.com/RestRegular/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6565
+}
