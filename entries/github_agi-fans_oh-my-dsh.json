@@ -1,0 +1,20 @@
+{
+  "id": "github:agi-fans/oh-my-dsh",
+  "kind": "plugin",
+  "name": "oh-my-dsh",
+  "description": "A focused, keyboard-first DeepSeek coding agent built on the plugin architecture of DeepSeek Harness and inspired by the interaction quality of oh-my-pi.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "agi-fans/oh-my-dsh",
+  "repositoryUrl": "https://github.com/agi-fans/oh-my-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6206
+}
