@@ -1,0 +1,20 @@
+{
+  "id": "github:morluto/rea",
+  "kind": "plugin",
+  "name": "rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "morluto/rea",
+  "repositoryUrl": "https://github.com/morluto/rea",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6230
+}
