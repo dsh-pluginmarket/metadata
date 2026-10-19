@@ -1,0 +1,20 @@
+{
+  "id": "github:kongkongya367-glitch/dsh-bingo-ren",
+  "kind": "plugin",
+  "name": "dsh-bingo-ren",
+  "description": "DeepSeek Harness 插件管家：一键重启、新插件提醒、变更记录、临时试用和运行状态验收。支持拖动吸附、深浅色主题，零运行时依赖，无遥测。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kongkongya367-glitch/dsh-bingo-ren",
+  "repositoryUrl": "https://github.com/kongkongya367-glitch/dsh-bingo-ren",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6498
+}
