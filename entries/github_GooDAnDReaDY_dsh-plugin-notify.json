@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-plugin-notify",
+  "kind": "plugin",
+  "name": "dsh-plugin-notify",
+  "description": "DSH plugin: audio chimes, cross-session toasts, desktop push, and IM webhooks for turn completion, errors, and approvals.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-plugin-notify",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-plugin-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6589
+}
