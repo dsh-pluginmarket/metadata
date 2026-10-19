@@ -1,0 +1,20 @@
+{
+  "id": "github:Zenolzx/deepseek-harness-desktop-themes",
+  "kind": "plugin",
+  "name": "deepseek-harness-desktop-themes",
+  "description": "Related DeepSeek Harness project: Zenolzx/deepseek-harness-desktop-themes",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zenolzx/deepseek-harness-desktop-themes",
+  "repositoryUrl": "https://github.com/Zenolzx/deepseek-harness-desktop-themes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6730
+}
