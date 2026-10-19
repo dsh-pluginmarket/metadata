@@ -1,0 +1,20 @@
+{
+  "id": "github:blockman0321/dsh-sidebar-overlay",
+  "kind": "plugin",
+  "name": "dsh-sidebar-overlay",
+  "description": "Floating sidebar overlay for DeepSeek Harness: independently rendered workspace/session browser in the official shell.overlay seat, without touching the official sidebar or grid.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "blockman0321/dsh-sidebar-overlay",
+  "repositoryUrl": "https://github.com/blockman0321/dsh-sidebar-overlay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6276
+}
