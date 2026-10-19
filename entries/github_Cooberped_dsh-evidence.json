@@ -1,0 +1,20 @@
+{
+  "id": "github:Cooberped/dsh-evidence",
+  "kind": "plugin",
+  "name": "dsh-evidence",
+  "description": "Turn local files into versioned evidence in DeepSeek Harness: composer upload, private local retrieval, and coordinate-exact PDF/DOCX/XLSX/PPTX reads.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Cooberped/dsh-evidence",
+  "repositoryUrl": "https://github.com/Cooberped/dsh-evidence",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6327
+}
