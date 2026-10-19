@@ -1,0 +1,20 @@
+{
+  "id": "github:btspoony/dsh-keys-manager",
+  "kind": "plugin",
+  "name": "dsh-keys-manager",
+  "description": "A DSH plugin that turns one provider API key into a managed pool + more built-in LLM Providers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "btspoony/dsh-keys-manager",
+  "repositoryUrl": "https://github.com/btspoony/dsh-keys-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6340
+}
