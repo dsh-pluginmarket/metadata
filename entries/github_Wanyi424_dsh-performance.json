@@ -1,0 +1,20 @@
+{
+  "id": "github:Wanyi424/dsh-performance",
+  "kind": "plugin",
+  "name": "dsh-performance",
+  "description": "DSH 运行监控：侧栏实时读数；整机占比、CPU/内存/界面响应三轨联动、进程趋势与工具进程启停。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wanyi424/dsh-performance",
+  "repositoryUrl": "https://github.com/Wanyi424/dsh-performance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6616
+}
