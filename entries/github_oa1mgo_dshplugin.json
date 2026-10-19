@@ -1,0 +1,20 @@
+{
+  "id": "github:oa1mgo/dshplugin",
+  "kind": "plugin",
+  "name": "dshplugin",
+  "description": "Community-built discovery and verification registry for DeepSeek Harness plugins.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oa1mgo/dshplugin",
+  "repositoryUrl": "https://github.com/oa1mgo/dshplugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6445
+}
