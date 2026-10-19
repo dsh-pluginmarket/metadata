@@ -1,0 +1,20 @@
+{
+  "id": "github:fan56/dsh-subagent-registry",
+  "kind": "plugin",
+  "name": "dsh-subagent-registry",
+  "description": "dsh plugin: register ~/.dsh/agents/*.md as dsh-callable subagents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fan56/dsh-subagent-registry",
+  "repositoryUrl": "https://github.com/fan56/dsh-subagent-registry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6545
+}
