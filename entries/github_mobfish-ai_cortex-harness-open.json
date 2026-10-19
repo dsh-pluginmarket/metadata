@@ -1,0 +1,20 @@
+{
+  "id": "github:mobfish-ai/cortex-harness-open",
+  "kind": "plugin",
+  "name": "cortex-harness-open",
+  "description": "Cortex Harness — open protocol, schema, and reference tooling",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mobfish-ai/cortex-harness-open",
+  "repositoryUrl": "https://github.com/mobfish-ai/cortex-harness-open",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6508
+}
