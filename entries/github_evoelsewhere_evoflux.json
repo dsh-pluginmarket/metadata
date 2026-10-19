@@ -1,0 +1,20 @@
+{
+  "id": "github:evoelsewhere/evoflux",
+  "kind": "plugin",
+  "name": "evoflux",
+  "description": "Evoflux is an open-source, local-first workspace where AI agents build software, conduct deep research, automate browser tasks, and collaborate in parallel. Connect any model, keep control of your workspace and data, and take complex work from idea to completion—all in one place.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "evoelsewhere/evoflux",
+  "repositoryUrl": "https://github.com/evoelsewhere/evoflux",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6204
+}
