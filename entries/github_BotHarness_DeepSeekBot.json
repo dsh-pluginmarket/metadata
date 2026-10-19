@@ -1,0 +1,20 @@
+{
+  "id": "github:BotHarness/DeepSeekBot",
+  "kind": "plugin",
+  "name": "DeepSeekBot",
+  "description": "Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BotHarness/DeepSeekBot",
+  "repositoryUrl": "https://github.com/BotHarness/DeepSeekBot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6442
+}
