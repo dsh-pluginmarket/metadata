@@ -1,0 +1,20 @@
+{
+  "id": "github:Eileenes/dsh-reel",
+  "kind": "plugin",
+  "name": "dsh-reel",
+  "description": "Turn a DSH plugin repo into a promo video and promo image (local Remotion studio + host tools).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Eileenes/dsh-reel",
+  "repositoryUrl": "https://github.com/Eileenes/dsh-reel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6665
+}
