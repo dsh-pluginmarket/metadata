@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaolizi0v0/dsh-web-search-serper",
+  "kind": "plugin",
+  "name": "dsh-web-search-serper",
+  "description": "Related DeepSeek Harness project: xiaolizi0v0/dsh-web-search-serper",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaolizi0v0/dsh-web-search-serper",
+  "repositoryUrl": "https://github.com/xiaolizi0v0/dsh-web-search-serper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6359
+}
