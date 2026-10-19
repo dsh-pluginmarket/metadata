@@ -1,0 +1,20 @@
+{
+  "id": "github:Potato1008ypy/dsh-purge-0.2.1rc2-fix",
+  "kind": "plugin",
+  "name": "dsh-purge-0.2.1rc2-fix",
+  "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Potato1008ypy/dsh-purge-0.2.1rc2-fix",
+  "repositoryUrl": "https://github.com/Potato1008ypy/dsh-purge-0.2.1rc2-fix",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6667
+}
