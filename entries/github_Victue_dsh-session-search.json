@@ -1,0 +1,20 @@
+{
+  "id": "github:Victue/dsh-session-search",
+  "kind": "plugin",
+  "name": "dsh-session-search",
+  "description": "A DeepSeek Harness plugin: global search across session content, ordered by content time.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Victue/dsh-session-search",
+  "repositoryUrl": "https://github.com/Victue/dsh-session-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6200
+}
