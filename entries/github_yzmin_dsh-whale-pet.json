@@ -1,0 +1,20 @@
+{
+  "id": "github:yzmin/dsh-whale-pet",
+  "kind": "plugin",
+  "name": "dsh-whale-pet",
+  "description": "Animated DeepSeek whale pet for the DeepSeek Harness Web UI - live status, completion chime, and an interaction + token/cost panel. No dependencies, no build step.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yzmin/dsh-whale-pet",
+  "repositoryUrl": "https://github.com/yzmin/dsh-whale-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6288
+}
