@@ -1,0 +1,20 @@
+{
+  "id": "github:funcpn/volens",
+  "kind": "plugin",
+  "name": "volens",
+  "description": "Keeps a project's design doc in step with its decisions instead of letting it drift: an append-only decision log, a design snapshot derived from it, and a hook that refreshes it automatically. ADR-style docs that stay fresh. Ships as a plugin for Claude Code, Codex and DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "funcpn/volens",
+  "repositoryUrl": "https://github.com/funcpn/volens",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6621
+}
