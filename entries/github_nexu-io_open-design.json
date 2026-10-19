@@ -1,0 +1,20 @@
+{
+  "id": "github:nexu-io/open-design",
+  "kind": "plugin",
+  "name": "open-design",
+  "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nexu-io/open-design",
+  "repositoryUrl": "https://github.com/nexu-io/open-design",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6457
+}
