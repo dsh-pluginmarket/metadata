@@ -1,0 +1,20 @@
+{
+  "id": "github:heshuren371/dsh-music-player",
+  "kind": "plugin",
+  "name": "dsh-music-player",
+  "description": "DeepSeek Harness Web 本地音乐播放器插件：会话视图「音乐」标签页，flac/mp3 等常见格式，单曲/列表循环，macOS Music 风格 UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "heshuren371/dsh-music-player",
+  "repositoryUrl": "https://github.com/heshuren371/dsh-music-player",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6268
+}
