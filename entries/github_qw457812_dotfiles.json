@@ -1,0 +1,20 @@
+{
+  "id": "github:qw457812/dotfiles",
+  "kind": "plugin",
+  "name": "dotfiles",
+  "description": "My dotfiles on macOS and Termux, managed with Chezmoi.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qw457812/dotfiles",
+  "repositoryUrl": "https://github.com/qw457812/dotfiles",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6521
+}
