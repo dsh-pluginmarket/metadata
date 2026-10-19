@@ -1,0 +1,20 @@
+{
+  "id": "github:fwerkor/local-shell-mcp",
+  "kind": "plugin",
+  "name": "local-shell-mcp",
+  "description": "Enables LLM to use a cli environment.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fwerkor/local-shell-mcp",
+  "repositoryUrl": "https://github.com/fwerkor/local-shell-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6716
+}
