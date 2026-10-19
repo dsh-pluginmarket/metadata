@@ -1,0 +1,20 @@
+{
+  "id": "github:deepmean/dshModeltemperature",
+  "kind": "plugin",
+  "name": "dshModeltemperature",
+  "description": "Related DeepSeek Harness project: deepmean/dshModeltemperature",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepmean/dshModeltemperature",
+  "repositoryUrl": "https://github.com/deepmean/dshModeltemperature",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6680
+}
