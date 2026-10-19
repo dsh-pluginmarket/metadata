@@ -1,0 +1,20 @@
+{
+  "id": "github:amlyczz/dsh-agy-link",
+  "kind": "plugin",
+  "name": "dsh-agy-link",
+  "description": "Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "amlyczz/dsh-agy-link",
+  "repositoryUrl": "https://github.com/amlyczz/dsh-agy-link",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6310
+}
