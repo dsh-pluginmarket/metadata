@@ -1,0 +1,20 @@
+{
+  "id": "github:ccll/dsh-advisor-flow",
+  "kind": "plugin",
+  "name": "dsh-advisor-flow",
+  "description": "DeepSeek Harness plugin: on-demand executor/advisor workflow ported from pi-advisor-flow — ask_advisor, review gates, usage ledger, privacy tiers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccll/dsh-advisor-flow",
+  "repositoryUrl": "https://github.com/ccll/dsh-advisor-flow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6704
+}
