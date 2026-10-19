@@ -1,0 +1,20 @@
+{
+  "id": "github:iuuuuuuuu/dsh-agent-notes",
+  "kind": "plugin",
+  "name": "dsh-agent-notes",
+  "description": "DSH plugin: decision notes (Agent Notes) — 把「为什么这样改、放弃了什么」沉淀成可机械校验的仓库笔记：技能、会话开关、真门禁、上游合并",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iuuuuuuuu/dsh-agent-notes",
+  "repositoryUrl": "https://github.com/iuuuuuuuu/dsh-agent-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6400
+}
