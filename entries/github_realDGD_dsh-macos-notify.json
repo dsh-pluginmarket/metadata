@@ -1,0 +1,20 @@
+{
+  "id": "github:realDGD/dsh-macos-notify",
+  "kind": "plugin",
+  "name": "dsh-macos-notify",
+  "description": "Native interactive macOS notifications, approvals and full question forms for DeepSeek Harness Desktop",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "realDGD/dsh-macos-notify",
+  "repositoryUrl": "https://github.com/realDGD/dsh-macos-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6468
+}
