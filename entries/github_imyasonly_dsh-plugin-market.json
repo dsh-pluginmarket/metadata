@@ -1,0 +1,20 @@
+{
+  "id": "github:imyasonly/dsh-plugin-market",
+  "kind": "plugin",
+  "name": "dsh-plugin-market",
+  "description": "百通官方DSH插件市场",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "imyasonly/dsh-plugin-market",
+  "repositoryUrl": "https://github.com/imyasonly/dsh-plugin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6497
+}
