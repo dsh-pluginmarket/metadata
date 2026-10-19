@@ -1,0 +1,20 @@
+{
+  "id": "github:HuiHuangDDFS/dsh-codex-mini-pet",
+  "kind": "plugin",
+  "name": "dsh-codex-mini-pet",
+  "description": "dsh-codex-mini-pet 希望把 Codex 中熟悉、连贯的工作习惯带到 DeepSeek Harness：聊天与项目工作各有清晰入口，也能在同一窗口间自然切换；聊天历史集中管理，工作模式继续使用 Harness 原生的工作区、会话、模型与工具。桌面伙伴把快捷聊天、任务动态和完成提醒延伸到桌面，让 DeepSeek 不只适合单次问答，也能成为持续推进项目的工作空间。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HuiHuangDDFS/dsh-codex-mini-pet",
+  "repositoryUrl": "https://github.com/HuiHuangDDFS/dsh-codex-mini-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6434
+}
