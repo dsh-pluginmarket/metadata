@@ -1,0 +1,20 @@
+{
+  "id": "github:netbka/local-commander-plugins",
+  "kind": "plugin",
+  "name": "local-commander-plugins",
+  "description": "Cursor plugin and DeepSeek Harness bundle that connect your AI to Local Commander (https://localcmd.app/mcp) on your Windows computers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "netbka/local-commander-plugins",
+  "repositoryUrl": "https://github.com/netbka/local-commander-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6666
+}
