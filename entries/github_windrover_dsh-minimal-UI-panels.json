@@ -1,0 +1,20 @@
+{
+  "id": "github:windrover/dsh-minimal-UI-panels",
+  "kind": "plugin",
+  "name": "dsh-minimal-UI-panels",
+  "description": "Four right-Sidebar panels for the DeepSeek Harness web client — artifacts, long-term memory, terminal and notes — paired two per tab with a draggable split.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "windrover/dsh-minimal-UI-panels",
+  "repositoryUrl": "https://github.com/windrover/dsh-minimal-UI-panels",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6210
+}
