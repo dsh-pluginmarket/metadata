@@ -1,0 +1,20 @@
+{
+  "id": "github:laobinghongcha/dsh-plugin-turn-notify",
+  "kind": "plugin",
+  "name": "dsh-plugin-turn-notify",
+  "description": "DSH 回合结束通知插件 — 系统原生通知 + 提示音，成功/出错/受阻/截断文案各异",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "laobinghongcha/dsh-plugin-turn-notify",
+  "repositoryUrl": "https://github.com/laobinghongcha/dsh-plugin-turn-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6568
+}
