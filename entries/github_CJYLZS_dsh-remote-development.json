@@ -1,0 +1,20 @@
+{
+  "id": "github:CJYLZS/dsh-remote-development",
+  "kind": "plugin",
+  "name": "dsh-remote-development",
+  "description": "Remote development for DeepSeek Harness: pick a remote workspace over SSH and let the agent work on it with the same local tools. No extra model tools, no third-party UI plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CJYLZS/dsh-remote-development",
+  "repositoryUrl": "https://github.com/CJYLZS/dsh-remote-development",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6470
+}
