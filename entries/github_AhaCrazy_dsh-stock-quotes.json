@@ -1,0 +1,20 @@
+{
+  "id": "github:AhaCrazy/dsh-stock-quotes",
+  "kind": "plugin",
+  "name": "dsh-stock-quotes",
+  "description": "DeepSeek Harness plugin: neutral sidebar data panel for A-share / Hong Kong / US quotes, plus a stock_quote tool for the agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AhaCrazy/dsh-stock-quotes",
+  "repositoryUrl": "https://github.com/AhaCrazy/dsh-stock-quotes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6473
+}
