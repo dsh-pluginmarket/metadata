@@ -1,0 +1,20 @@
+{
+  "id": "github:wilsonchengassistant/dsh-zh-hant",
+  "kind": "plugin",
+  "name": "dsh-zh-hant",
+  "description": "Traditional Chinese (繁體中文) language pack for DeepSeek Harness (DSH): registers a zh-Hant locale and 2,699 generated dictionaries across every namespace the web GUI uses",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wilsonchengassistant/dsh-zh-hant",
+  "repositoryUrl": "https://github.com/wilsonchengassistant/dsh-zh-hant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6263
+}
