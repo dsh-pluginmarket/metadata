@@ -1,0 +1,20 @@
+{
+  "id": "github:drscrewdriver/dsh-thinking-levels",
+  "kind": "plugin",
+  "name": "dsh-thinking-levels",
+  "description": "deepseek-harness dsh thinging levels 调整 reasoning强度调整",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drscrewdriver/dsh-thinking-levels",
+  "repositoryUrl": "https://github.com/drscrewdriver/dsh-thinking-levels",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6216
+}
