@@ -1,0 +1,20 @@
+{
+  "id": "github:wilsonchengassistant/dsh-mobile-sidebar",
+  "kind": "plugin",
+  "name": "dsh-mobile-sidebar",
+  "description": "Give the whole left column back to the conversation on narrow screens: below 1024px the DSH sidebar leaves the frame entirely and a header button opens it as an overlay drawer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wilsonchengassistant/dsh-mobile-sidebar",
+  "repositoryUrl": "https://github.com/wilsonchengassistant/dsh-mobile-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6750
+}
