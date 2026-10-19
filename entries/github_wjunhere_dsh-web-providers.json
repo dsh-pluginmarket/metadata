@@ -1,0 +1,20 @@
+{
+  "id": "github:wjunhere/dsh-web-providers",
+  "kind": "plugin",
+  "name": "dsh-web-providers",
+  "description": "Exa/Tavily/Jina search and Jina/Tavily fetch providers for DeepSeek Harness ctx.web, with fallback chains",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wjunhere/dsh-web-providers",
+  "repositoryUrl": "https://github.com/wjunhere/dsh-web-providers",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6414
+}
