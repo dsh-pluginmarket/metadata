@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-time-machine",
+  "kind": "plugin",
+  "name": "dsh-time-machine",
+  "description": "DSH plugin for smart checkpoints, workspace safety guards, and instant rollback",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-time-machine",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-time-machine",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6606
+}
