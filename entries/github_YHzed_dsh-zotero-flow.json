@@ -1,0 +1,20 @@
+{
+  "id": "github:YHzed/dsh-zotero-flow",
+  "kind": "plugin",
+  "name": "dsh-zotero-flow",
+  "description": "DSH Desktop 插件：在机构登录会话下取回文献全文，并连同条目一起归档进 Zotero 分类",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YHzed/dsh-zotero-flow",
+  "repositoryUrl": "https://github.com/YHzed/dsh-zotero-flow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6342
+}
