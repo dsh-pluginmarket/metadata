@@ -1,0 +1,20 @@
+{
+  "id": "github:EternalNight996/memory-eternal",
+  "kind": "plugin",
+  "name": "memory-eternal",
+  "description": "DeepSeek Harness 插件：对话自动沉淀为知识卡，配可检索知识库 + 知识图谱 + 审核中心；SQLite/纯 Markdown 存储，零第三方依赖。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EternalNight996/memory-eternal",
+  "repositoryUrl": "https://github.com/EternalNight996/memory-eternal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6197
+}
