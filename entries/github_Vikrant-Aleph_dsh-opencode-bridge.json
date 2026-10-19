@@ -1,0 +1,20 @@
+{
+  "id": "github:Vikrant-Aleph/dsh-opencode-bridge",
+  "kind": "plugin",
+  "name": "dsh-opencode-bridge",
+  "description": "Use OpenCode free models in DeepSeek Harness through a compatible client protocol.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vikrant-Aleph/dsh-opencode-bridge",
+  "repositoryUrl": "https://github.com/Vikrant-Aleph/dsh-opencode-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6251
+}
