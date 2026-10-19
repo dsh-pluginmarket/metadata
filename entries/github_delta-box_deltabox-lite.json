@@ -1,0 +1,20 @@
+{
+  "id": "github:delta-box/deltabox-lite",
+  "kind": "plugin",
+  "name": "deltabox-lite",
+  "description": "Lightweight, agent-native sandboxing with diff, commit and abort",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "delta-box/deltabox-lite",
+  "repositoryUrl": "https://github.com/delta-box/deltabox-lite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6295
+}
