@@ -1,0 +1,20 @@
+{
+  "id": "github:mi-lu-uncle/dsh-pelican-watch",
+  "kind": "plugin",
+  "name": "dsh-pelican-watch",
+  "description": "DSH community plugin: ask any set of models to draw a pelican riding a bicycle on a schedule, then lay every drawing out on a read-only board. No scoring — the pictures are the result. Pausable, with a settable interval.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mi-lu-uncle/dsh-pelican-watch",
+  "repositoryUrl": "https://github.com/mi-lu-uncle/dsh-pelican-watch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6672
+}
