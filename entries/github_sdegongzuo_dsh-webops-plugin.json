@@ -1,0 +1,20 @@
+{
+  "id": "github:sdegongzuo/dsh-webops-plugin",
+  "kind": "plugin",
+  "name": "dsh-webops-plugin",
+  "description": "DeepSeek Harness 客户端网页操作与调试插件：多会话、新窗口、多标签页调试和操作网页",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sdegongzuo/dsh-webops-plugin",
+  "repositoryUrl": "https://github.com/sdegongzuo/dsh-webops-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6724
+}
