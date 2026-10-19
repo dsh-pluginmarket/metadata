@@ -1,0 +1,20 @@
+{
+  "id": "github:cyberElar/dsh-fast-term",
+  "kind": "plugin",
+  "name": "dsh-fast-term",
+  "description": "Low-latency terminal for the DeepSeek Harness right sidebar: dedicated PTY websocket, persistent sessions, copy/paste, zh/en.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cyberElar/dsh-fast-term",
+  "repositoryUrl": "https://github.com/cyberElar/dsh-fast-term",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6698
+}
