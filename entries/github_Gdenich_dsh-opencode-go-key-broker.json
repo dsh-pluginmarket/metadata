@@ -1,0 +1,20 @@
+{
+  "id": "github:Gdenich/dsh-opencode-go-key-broker",
+  "kind": "plugin",
+  "name": "dsh-opencode-go-key-broker",
+  "description": "DSH plugin: OpenCode Go API-key pool with quota-driven automatic switching, a Settings tab and a composer quota badge.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gdenich/dsh-opencode-go-key-broker",
+  "repositoryUrl": "https://github.com/Gdenich/dsh-opencode-go-key-broker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6746
+}
