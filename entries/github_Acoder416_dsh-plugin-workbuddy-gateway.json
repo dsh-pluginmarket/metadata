@@ -1,0 +1,20 @@
+{
+  "id": "github:Acoder416/dsh-plugin-workbuddy-gateway",
+  "kind": "plugin",
+  "name": "dsh-plugin-workbuddy-gateway",
+  "description": "Use a WorkBuddy subscription as a model provider in DSH: supervises the local OpenAI-compatible gateway and manages it from the settings page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Acoder416/dsh-plugin-workbuddy-gateway",
+  "repositoryUrl": "https://github.com/Acoder416/dsh-plugin-workbuddy-gateway",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6289
+}
