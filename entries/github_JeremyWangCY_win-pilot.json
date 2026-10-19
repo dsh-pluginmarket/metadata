@@ -1,0 +1,20 @@
+{
+  "id": "github:JeremyWangCY/win-pilot",
+  "kind": "plugin",
+  "name": "win-pilot",
+  "description": "Agent-neutral Windows Computer Use plugin with MCP, CLI, skills, and native host adapters",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JeremyWangCY/win-pilot",
+  "repositoryUrl": "https://github.com/JeremyWangCY/win-pilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6754
+}
