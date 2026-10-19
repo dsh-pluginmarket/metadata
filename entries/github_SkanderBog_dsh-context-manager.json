@@ -1,0 +1,20 @@
+{
+  "id": "github:SkanderBog/dsh-context-manager",
+  "kind": "plugin",
+  "name": "dsh-context-manager",
+  "description": "Inspect and selectively compact DeepSeek Harness conversation context with reviewable checkpoints",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SkanderBog/dsh-context-manager",
+  "repositoryUrl": "https://github.com/SkanderBog/dsh-context-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6224
+}
