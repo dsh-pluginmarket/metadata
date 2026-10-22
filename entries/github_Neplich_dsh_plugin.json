@@ -1,0 +1,20 @@
+{
+  "id": "github:Neplich/dsh_plugin",
+  "kind": "plugin",
+  "name": "dsh_plugin",
+  "description": "Related DeepSeek Harness project: Neplich/dsh_plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Neplich/dsh_plugin",
+  "repositoryUrl": "https://github.com/Neplich/dsh_plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 141
+}
