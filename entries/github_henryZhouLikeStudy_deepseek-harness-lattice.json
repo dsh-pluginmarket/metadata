@@ -1,0 +1,20 @@
+{
+  "id": "github:henryZhouLikeStudy/deepseek-harness-lattice",
+  "kind": "plugin",
+  "name": "deepseek-harness-lattice",
+  "description": "DSH Lattice aggregator plugin: multi-agent orchestration, group messaging, session reuse and history",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "henryZhouLikeStudy/deepseek-harness-lattice",
+  "repositoryUrl": "https://github.com/henryZhouLikeStudy/deepseek-harness-lattice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 109
+}
