@@ -1,0 +1,20 @@
+{
+  "id": "github:henryZhouLikeStudy/dsh-lattice-protocol",
+  "kind": "plugin",
+  "name": "dsh-lattice-protocol",
+  "description": "DSH Lattice V1 canonical protocol: schemas, types, validators and JSON Schema",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "henryZhouLikeStudy/dsh-lattice-protocol",
+  "repositoryUrl": "https://github.com/henryZhouLikeStudy/dsh-lattice-protocol",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 121
+}
