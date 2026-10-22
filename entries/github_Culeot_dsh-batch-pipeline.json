@@ -1,0 +1,20 @@
+{
+  "id": "github:Culeot/dsh-batch-pipeline",
+  "kind": "plugin",
+  "name": "dsh-batch-pipeline",
+  "description": "Batch task pipeline for DeepSeek Harness: cross-session ledger with progress pointer, budget guard, product assertions, resume after restart",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Culeot/dsh-batch-pipeline",
+  "repositoryUrl": "https://github.com/Culeot/dsh-batch-pipeline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 140
+}
