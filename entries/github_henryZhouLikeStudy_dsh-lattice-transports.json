@@ -1,0 +1,20 @@
+{
+  "id": "github:henryZhouLikeStudy/dsh-lattice-transports",
+  "kind": "plugin",
+  "name": "dsh-lattice-transports",
+  "description": "DSH Lattice transports: JSON-RPC stdio, CLI, exactly-one-tool MCP server, ACP/A2A clients",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "henryZhouLikeStudy/dsh-lattice-transports",
+  "repositoryUrl": "https://github.com/henryZhouLikeStudy/dsh-lattice-transports",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 112
+}
