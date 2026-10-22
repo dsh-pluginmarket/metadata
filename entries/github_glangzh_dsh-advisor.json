@@ -1,0 +1,20 @@
+{
+  "id": "github:glangzh/dsh-advisor",
+  "kind": "plugin",
+  "name": "dsh-advisor",
+  "description": "给 DeepSeek Harness 的 Agent 增加一位\"顾问\"：日常任务使用较弱模型（默认模型），遇到真正困难的决策时，Agent 会自动向一个更强的模型咨询。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "glangzh/dsh-advisor",
+  "repositoryUrl": "https://github.com/glangzh/dsh-advisor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 118
+}
