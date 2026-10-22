@@ -1,0 +1,20 @@
+{
+  "id": "github:yu2025-luo/dsh-file-panel",
+  "kind": "plugin",
+  "name": "dsh-file-panel",
+  "description": "Right-side file panel for DeepSeek Harness — auto-popup when the agent creates or downloads files, with image/text preview, reveal-in-folder and open actions. Bilingual · MIT",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yu2025-luo/dsh-file-panel",
+  "repositoryUrl": "https://github.com/yu2025-luo/dsh-file-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 111
+}
