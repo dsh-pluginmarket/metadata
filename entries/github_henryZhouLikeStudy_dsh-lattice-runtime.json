@@ -1,0 +1,20 @@
+{
+  "id": "github:henryZhouLikeStudy/dsh-lattice-runtime",
+  "kind": "plugin",
+  "name": "dsh-lattice-runtime",
+  "description": "DSH Lattice V1 runtime: event store, mailbox, session engine, state machines and security",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "henryZhouLikeStudy/dsh-lattice-runtime",
+  "repositoryUrl": "https://github.com/henryZhouLikeStudy/dsh-lattice-runtime",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 116
+}
