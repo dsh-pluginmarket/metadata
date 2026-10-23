@@ -1,0 +1,23 @@
+{
+  "id": "github:hxlog/dsh-mcp-tools",
+  "kind": "plugin",
+  "name": "dsh-mcp-tools",
+  "description": "MCP server and tool manager for the DeepSeek Harness settings panel: add streamable-http or stdio servers with Postman-style header rows, import an mcpServers block, run a connectivity check before saving, and toggle individual tools so disabled ones never reach the model.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "hxlog/dsh-mcp-tools",
+  "repositoryUrl": "https://github.com/hxlog/dsh-mcp-tools",
+  "npmPackage": "dsh-mcp-tools",
+  "tags": [
+    "mcp",
+    "tooling",
+    "settings"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "hxlog",
+  "issueNumber": 6809
+}
