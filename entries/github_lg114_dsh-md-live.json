@@ -1,0 +1,20 @@
+{
+  "id": "github:lg114/dsh-md-live",
+  "kind": "plugin",
+  "name": "dsh-md-live",
+  "description": "DSH independent right-panel Markdown live preview: edit + render side by side, auto-refresh on file change, send selection back to chat.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lg114/dsh-md-live",
+  "repositoryUrl": "https://github.com/lg114/dsh-md-live",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6845
+}
