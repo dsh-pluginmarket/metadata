@@ -1,0 +1,20 @@
+{
+  "id": "github:Chi-hong22/dsh-session-autoname",
+  "kind": "plugin",
+  "name": "dsh-session-autoname",
+  "description": "根会话首轮结束后按 MMDD｜类型｜主题 自动命名，并支持按全文内容按需命名指定会话",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chi-hong22/dsh-session-autoname",
+  "repositoryUrl": "https://github.com/Chi-hong22/dsh-session-autoname",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7219
+}
