@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-voice",
+  "kind": "plugin",
+  "name": "dsh-voice",
+  "description": "Voice input for DeepSeek Harness: dictation and voice messages with multi-provider STT fallback chains",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-voice",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-voice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7012
+}
