@@ -1,0 +1,20 @@
+{
+  "id": "github:yimeng-life/dsh-happy",
+  "kind": "plugin",
+  "name": "dsh-happy",
+  "description": "Ten animated backgrounds for the DSH conversation pane: starfield, code rain, circuit, sword, cat, girl, fighter jet, racer, snow, bubbles.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yimeng-life/dsh-happy",
+  "repositoryUrl": "https://github.com/yimeng-life/dsh-happy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7303
+}
