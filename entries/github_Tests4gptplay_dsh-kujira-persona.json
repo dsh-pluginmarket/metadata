@@ -1,0 +1,20 @@
+{
+  "id": "github:Tests4gptplay/dsh-kujira-persona",
+  "kind": "plugin",
+  "name": "dsh-kujira-persona",
+  "description": "DeepSeek Harness 全局人设插件：鲸鱼娘人设写成文件，可改可删，AI 可自行查证补充",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tests4gptplay/dsh-kujira-persona",
+  "repositoryUrl": "https://github.com/Tests4gptplay/dsh-kujira-persona",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6953
+}
