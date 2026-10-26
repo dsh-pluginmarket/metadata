@@ -1,0 +1,20 @@
+{
+  "id": "github:Sheep1x/dsh-aimy",
+  "kind": "plugin",
+  "name": "dsh-aimy",
+  "description": "dsh-Aimy — DeepSeek Harness 插件：用 Aimy 中转站的模型并真实切换分组（兼容 new-api / sub2api）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sheep1x/dsh-aimy",
+  "repositoryUrl": "https://github.com/Sheep1x/dsh-aimy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7221
+}
