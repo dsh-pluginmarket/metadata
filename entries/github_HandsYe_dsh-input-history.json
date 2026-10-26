@@ -1,0 +1,20 @@
+{
+  "id": "github:HandsYe/dsh-input-history",
+  "kind": "plugin",
+  "name": "dsh-input-history",
+  "description": "为 DSH 提供持久化输入历史，支持使用键盘上下方向键切换历史记录并恢复未发送草稿。Persistent input history for DSH with Arrow Up and Arrow Down navigation, draft recovery, deduplication, and local storage.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HandsYe/dsh-input-history",
+  "repositoryUrl": "https://github.com/HandsYe/dsh-input-history",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6846
+}
