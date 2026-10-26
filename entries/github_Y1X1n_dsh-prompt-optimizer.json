@@ -1,0 +1,20 @@
+{
+  "id": "github:Y1X1n/dsh-prompt-optimizer",
+  "kind": "plugin",
+  "name": "dsh-prompt-optimizer",
+  "description": "DeepSeek Harness 插件 · 发送栏一键「优化」提示词草稿：五维诊断 + 改写稿 SSE 流式上屏，可替换 / 复制 / 撤回，模型路由默认跟随当前会话。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Y1X1n/dsh-prompt-optimizer",
+  "repositoryUrl": "https://github.com/Y1X1n/dsh-prompt-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7316
+}
