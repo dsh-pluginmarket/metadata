@@ -1,0 +1,20 @@
+{
+  "id": "github:AumiSatori/dsh-ui-beautify",
+  "kind": "plugin",
+  "name": "dsh-ui-beautify",
+  "description": "DSH UI appearance, task and Artifact cards, custom message bubbles, backgrounds, particles and focus mode.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AumiSatori/dsh-ui-beautify",
+  "repositoryUrl": "https://github.com/AumiSatori/dsh-ui-beautify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6856
+}
