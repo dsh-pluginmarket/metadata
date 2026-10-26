@@ -1,0 +1,20 @@
+{
+  "id": "github:superdesigndev/treg",
+  "kind": "plugin",
+  "name": "treg",
+  "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "superdesigndev/treg",
+  "repositoryUrl": "https://github.com/superdesigndev/treg",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7169
+}
