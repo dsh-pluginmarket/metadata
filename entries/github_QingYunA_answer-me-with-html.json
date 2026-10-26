@@ -1,0 +1,20 @@
+{
+  "id": "github:QingYunA/answer-me-with-html",
+  "kind": "plugin",
+  "name": "answer-me-with-html",
+  "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QingYunA/answer-me-with-html",
+  "repositoryUrl": "https://github.com/QingYunA/answer-me-with-html",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6947
+}
