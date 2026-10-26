@@ -1,0 +1,20 @@
+{
+  "id": "github:Sivan757/dsh-agent-plugins-market",
+  "kind": "plugin",
+  "name": "dsh-agent-plugins-market",
+  "description": "One-stop skills, subagent, MCP and LSP manager for DeepSeek Harness (DSH) — compatible with Claude Code, Codex, Cursor, Kimi and other agent plugin layouts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sivan757/dsh-agent-plugins-market",
+  "repositoryUrl": "https://github.com/Sivan757/dsh-agent-plugins-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7340
+}
