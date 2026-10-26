@@ -1,0 +1,20 @@
+{
+  "id": "github:qwq-wny/dsh-eta-forecast",
+  "kind": "plugin",
+  "name": "dsh-eta-forecast",
+  "description": "DSH Web 界面的「工作完成时间预测」挂件：按 todo 清单与步进节奏估算本轮还剩多久、几点完成，附进度条与样本置信度。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qwq-wny/dsh-eta-forecast",
+  "repositoryUrl": "https://github.com/qwq-wny/dsh-eta-forecast",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6938
+}
