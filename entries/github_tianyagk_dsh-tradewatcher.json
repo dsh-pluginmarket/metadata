@@ -1,0 +1,20 @@
+{
+  "id": "github:tianyagk/dsh-tradewatcher",
+  "kind": "plugin",
+  "name": "dsh-tradewatcher",
+  "description": "DeepSeek Harness (DSH) web plugin: 盯盘 market-dashboard sidebar tab — three quote strips with hover intraday charts, watchlist with industry alpha, ledger-driven portfolio P&L, A-share boards & detail drawer, host-side Eastmoney relay + read-only agent tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tianyagk/dsh-tradewatcher",
+  "repositoryUrl": "https://github.com/tianyagk/dsh-tradewatcher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7312
+}
