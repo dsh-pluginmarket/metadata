@@ -1,0 +1,20 @@
+{
+  "id": "github:2026heshao/dsh-armory",
+  "kind": "plugin",
+  "name": "dsh-armory",
+  "description": "All-in-one board for DeepSeek Harness: MCP manager + Skills + WorkBuddy experts (attach/switch/detach any time) + tool-usage tailor + three direct markets (WorkBuddy connectors, SkillHub 190k+ skills) with one-click install · DSH 一体化看板：MCP/技能/专家随时挂换/工具账本/三大市场直连安装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2026heshao/dsh-armory",
+  "repositoryUrl": "https://github.com/2026heshao/dsh-armory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6971
+}
