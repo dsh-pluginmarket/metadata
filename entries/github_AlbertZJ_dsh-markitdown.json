@@ -1,0 +1,20 @@
+{
+  "id": "github:AlbertZJ/dsh-markitdown",
+  "kind": "plugin",
+  "name": "dsh-markitdown",
+  "description": "Related DeepSeek Harness project: AlbertZJ/dsh-markitdown",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AlbertZJ/dsh-markitdown",
+  "repositoryUrl": "https://github.com/AlbertZJ/dsh-markitdown",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6860
+}
