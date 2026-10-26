@@ -1,0 +1,20 @@
+{
+  "id": "github:FeatherHunter/dsh-im-companion",
+  "kind": "plugin",
+  "name": "dsh-im-companion",
+  "description": "🤖dsh-im-companion：以助理和家的概念增强 dsh-im——哪个工作区有助理在管、在不在线尽收眼底，搬家拖一下就行。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FeatherHunter/dsh-im-companion",
+  "repositoryUrl": "https://github.com/FeatherHunter/dsh-im-companion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7235
+}
