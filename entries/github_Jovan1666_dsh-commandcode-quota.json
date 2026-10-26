@@ -1,0 +1,20 @@
+{
+  "id": "github:Jovan1666/dsh-commandcode-quota",
+  "kind": "plugin",
+  "name": "dsh-commandcode-quota",
+  "description": "Command Code plan quota in your DeepSeek Harness (dsh) sidebar: 5-hour, weekly and monthly credit windows with reset countdowns. Works with Go, GOAT, Pro, Max and Provider plans.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jovan1666/dsh-commandcode-quota",
+  "repositoryUrl": "https://github.com/Jovan1666/dsh-commandcode-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7347
+}
