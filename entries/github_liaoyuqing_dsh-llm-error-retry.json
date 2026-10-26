@@ -1,0 +1,20 @@
+{
+  "id": "github:liaoyuqing/dsh-llm-error-retry",
+  "kind": "plugin",
+  "name": "dsh-llm-error-retry",
+  "description": "用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liaoyuqing/dsh-llm-error-retry",
+  "repositoryUrl": "https://github.com/liaoyuqing/dsh-llm-error-retry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7297
+}
