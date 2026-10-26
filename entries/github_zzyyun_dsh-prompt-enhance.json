@@ -1,0 +1,20 @@
+{
+  "id": "github:zzyyun/dsh-prompt-enhance",
+  "kind": "plugin",
+  "name": "dsh-prompt-enhance",
+  "description": "A DeepSeek Harness (DSH) plugin that enhances composer drafts with project code and conversation context.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zzyyun/dsh-prompt-enhance",
+  "repositoryUrl": "https://github.com/zzyyun/dsh-prompt-enhance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7011
+}
