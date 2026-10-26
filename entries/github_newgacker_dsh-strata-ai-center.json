@@ -1,0 +1,20 @@
+{
+  "id": "github:newgacker/dsh-strata-ai-center",
+  "kind": "plugin",
+  "name": "dsh-strata-ai-center",
+  "description": "AI管理中心 — DeepSeek Harness (DSH) 的本地 Strata 引擎管理插件：strata launch 启停、strata-<model>.json 参数编辑、组件升级回滚、真实监控数据",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "newgacker/dsh-strata-ai-center",
+  "repositoryUrl": "https://github.com/newgacker/dsh-strata-ai-center",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6966
+}
