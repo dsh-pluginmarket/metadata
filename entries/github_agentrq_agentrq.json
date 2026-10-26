@@ -1,0 +1,20 @@
+{
+  "id": "github:agentrq/agentrq",
+  "kind": "plugin",
+  "name": "agentrq",
+  "description": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "agentrq/agentrq",
+  "repositoryUrl": "https://github.com/agentrq/agentrq",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7099
+}
