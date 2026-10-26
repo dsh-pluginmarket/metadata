@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-agency-agents",
+  "kind": "plugin",
+  "name": "dsh-agency-agents",
+  "description": "DSH Agency Agents — 为 DeepSeek Harness 提供 321 名可召唤的专业智能体 · 321 summonable domain experts for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-agency-agents",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-agency-agents",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6867
+}
