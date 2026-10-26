@@ -1,0 +1,20 @@
+{
+  "id": "github:Windsander/Mebular",
+  "kind": "plugin",
+  "name": "Mebular",
+  "description": "One shared graph for every AI assistant and device — memory and tasks, local-first, signed, auditable, direct P2P sync. MCP tools; no hosted account.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Windsander/Mebular",
+  "repositoryUrl": "https://github.com/Windsander/Mebular",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7040
+}
