@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangjie-2007/dsh-voice",
+  "kind": "plugin",
+  "name": "dsh-voice",
+  "description": "DSH 插件：任务完成 / 需要你做选择 / 开始新对话时，用微软 Edge 神经语音播报（晓伊声线，本地缓存 mp3，零依赖，Windows）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangjie-2007/dsh-voice",
+  "repositoryUrl": "https://github.com/zhangjie-2007/dsh-voice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6887
+}
