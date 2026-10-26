@@ -1,0 +1,20 @@
+{
+  "id": "github:Francesco502/dsh-quota",
+  "kind": "plugin",
+  "name": "dsh-quota",
+  "description": "AI Quota and Token Usage Monitor for DeepSeek Harness (Codex, Cursor, Antigravity, OpenCode-Go)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Francesco502/dsh-quota",
+  "repositoryUrl": "https://github.com/Francesco502/dsh-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7180
+}
