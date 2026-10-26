@@ -1,0 +1,20 @@
+{
+  "id": "github:lhhzmz229/dsh-api-runner",
+  "kind": "plugin",
+  "name": "dsh-api-runner",
+  "description": "DSH 插件：按 YAML 配置调用后端接口、启停/接管本地 Java 服务、按字节偏移增量读日志并等待日志特征，让模型改完代码自己验证",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lhhzmz229/dsh-api-runner",
+  "repositoryUrl": "https://github.com/lhhzmz229/dsh-api-runner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7087
+}
