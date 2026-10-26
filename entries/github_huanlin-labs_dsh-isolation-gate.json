@@ -1,0 +1,20 @@
+{
+  "id": "github:huanlin-labs/dsh-isolation-gate",
+  "kind": "plugin",
+  "name": "dsh-isolation-gate",
+  "description": "门禁 · Access gate for DSH: per-directory deny/read/full, roster groups, per-session overrides, audit log. 默认禁，误触前就拦住。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huanlin-labs/dsh-isolation-gate",
+  "repositoryUrl": "https://github.com/huanlin-labs/dsh-isolation-gate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6838
+}
