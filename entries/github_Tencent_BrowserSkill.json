@@ -1,0 +1,20 @@
+{
+  "id": "github:Tencent/BrowserSkill",
+  "kind": "plugin",
+  "name": "BrowserSkill",
+  "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tencent/BrowserSkill",
+  "repositoryUrl": "https://github.com/Tencent/BrowserSkill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7158
+}
