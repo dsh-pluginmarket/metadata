@@ -1,0 +1,20 @@
+{
+  "id": "github:Anguis-L/dsh-plugin-adoption",
+  "kind": "plugin",
+  "name": "dsh-plugin-adoption",
+  "description": "DSH 插件：按真实 npm 月下载量给插件排名，而不是按 GitHub 星数；标出被星数低估的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Anguis-L/dsh-plugin-adoption",
+  "repositoryUrl": "https://github.com/Anguis-L/dsh-plugin-adoption",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7072
+}
