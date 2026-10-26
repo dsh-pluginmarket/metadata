@@ -1,0 +1,20 @@
+{
+  "id": "github:Ultmebius/universal-plugin-hub",
+  "kind": "plugin",
+  "name": "universal-plugin-hub",
+  "description": "DSH 插件市场：内置 Claude 官方插件目录，支持添加 Git 仓库作为插件源；一键安装，技能、子代理、MCP、LSP、hooks 装完自动接线 · Plugin marketplace for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ultmebius/universal-plugin-hub",
+  "repositoryUrl": "https://github.com/Ultmebius/universal-plugin-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7319
+}
