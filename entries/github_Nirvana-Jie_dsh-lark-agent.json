@@ -1,0 +1,20 @@
+{
+  "id": "github:Nirvana-Jie/dsh-lark-agent",
+  "kind": "plugin",
+  "name": "dsh-lark-agent",
+  "description": "Reach your DeepSeek Harness assistant from Feishu / Lark · 离开电脑，也能在飞书里找到你的 DeepSeek Harness 助手",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Nirvana-Jie/dsh-lark-agent",
+  "repositoryUrl": "https://github.com/Nirvana-Jie/dsh-lark-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6848
+}
