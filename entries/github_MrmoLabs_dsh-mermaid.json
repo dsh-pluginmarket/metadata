@@ -1,0 +1,20 @@
+{
+  "id": "github:MrmoLabs/dsh-mermaid",
+  "kind": "plugin",
+  "name": "dsh-mermaid",
+  "description": "Render Mermaid code blocks as SVG diagrams in DeepSeek Harness Web, with diagram/code switching, streaming support, dark mode, strict security, and npm/GitHub installation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MrmoLabs/dsh-mermaid",
+  "repositoryUrl": "https://github.com/MrmoLabs/dsh-mermaid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6880
+}
