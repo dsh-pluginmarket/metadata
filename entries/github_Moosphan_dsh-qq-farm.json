@@ -1,0 +1,20 @@
+{
+  "id": "github:Moosphan/dsh-qq-farm",
+  "kind": "plugin",
+  "name": "dsh-qq-farm",
+  "description": "DeepSeek Harness plugin: agent-driven QQ Farm automation (vision in the model, clicks in the plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Moosphan/dsh-qq-farm",
+  "repositoryUrl": "https://github.com/Moosphan/dsh-qq-farm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6834
+}
