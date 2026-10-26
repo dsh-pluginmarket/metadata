@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-subscriptions",
+  "kind": "plugin",
+  "name": "dsh-subscriptions",
+  "description": "OAuth subscription LLM providers for DeepSeek Harness: ChatGPT Codex, Claude, Grok, Antigravity, Kimi, GLM, Cursor, Kiro, Copilot, Qwen, ERNIE, Spark, JetBrains, Perplexity, Replit, Cody",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-subscriptions",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-subscriptions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7078
+}
