@@ -1,0 +1,20 @@
+{
+  "id": "github:liaoyuqing/model-failover-manager",
+  "kind": "plugin",
+  "name": "model-failover-manager",
+  "description": "Related DeepSeek Harness project: liaoyuqing/model-failover-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liaoyuqing/model-failover-manager",
+  "repositoryUrl": "https://github.com/liaoyuqing/model-failover-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7292
+}
