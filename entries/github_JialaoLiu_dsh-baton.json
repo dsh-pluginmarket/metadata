@@ -1,0 +1,20 @@
+{
+  "id": "github:JialaoLiu/dsh-baton",
+  "kind": "plugin",
+  "name": "dsh-baton",
+  "description": "Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JialaoLiu/dsh-baton",
+  "repositoryUrl": "https://github.com/JialaoLiu/dsh-baton",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7150
+}
