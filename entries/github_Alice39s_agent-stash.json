@@ -1,0 +1,20 @@
+{
+  "id": "github:Alice39s/agent-stash",
+  "kind": "plugin",
+  "name": "agent-stash",
+  "description": "Personal Agent Skills, Pi & DSH (DeepSeek Harness) plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Alice39s/agent-stash",
+  "repositoryUrl": "https://github.com/Alice39s/agent-stash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6923
+}
