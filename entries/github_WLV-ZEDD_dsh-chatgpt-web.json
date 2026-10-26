@@ -1,0 +1,20 @@
+{
+  "id": "github:WLV-ZEDD/dsh-chatgpt-web",
+  "kind": "plugin",
+  "name": "dsh-chatgpt-web",
+  "description": "DSH ChatGPT Free bridges standard ChatGPT Web directly into DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WLV-ZEDD/dsh-chatgpt-web",
+  "repositoryUrl": "https://github.com/WLV-ZEDD/dsh-chatgpt-web",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7031
+}
