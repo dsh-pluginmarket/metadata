@@ -1,0 +1,20 @@
+{
+  "id": "github:qq-24/dsh-context-window",
+  "kind": "plugin",
+  "name": "dsh-context-window",
+  "description": "给 DSH 每个对话一个独立的上下文窗口：不改 settings.yaml，覆盖值存在会话日志里，切换/重开都保留，并即时改变自动 compact 触发线与界面上下文环。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qq-24/dsh-context-window",
+  "repositoryUrl": "https://github.com/qq-24/dsh-context-window",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7239
+}
