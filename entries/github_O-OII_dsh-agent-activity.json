@@ -1,0 +1,20 @@
+{
+  "id": "github:O-OII/dsh-agent-activity",
+  "kind": "plugin",
+  "name": "dsh-agent-activity",
+  "description": "Compact DSH agent activity with actual models, current / previous turns, and an optional DS execution switch. English / Chinese.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "O-OII/dsh-agent-activity",
+  "repositoryUrl": "https://github.com/O-OII/dsh-agent-activity",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6876
+}
