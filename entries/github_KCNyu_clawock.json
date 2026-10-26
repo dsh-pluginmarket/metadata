@@ -1,0 +1,20 @@
+{
+  "id": "github:KCNyu/clawock",
+  "kind": "plugin",
+  "name": "clawock",
+  "description": "Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plugin) or your own script. Agents argue bull vs bear on HK and US stocks; Python reconciles the book, gates risk and scores each trading call against market prices. Pluggable quant strategies, live real-money track record.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KCNyu/clawock",
+  "repositoryUrl": "https://github.com/KCNyu/clawock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7068
+}
