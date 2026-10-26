@@ -1,0 +1,20 @@
+{
+  "id": "github:WSL043/dsh-codex-subscription",
+  "kind": "plugin",
+  "name": "dsh-codex-subscription",
+  "description": "Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WSL043/dsh-codex-subscription",
+  "repositoryUrl": "https://github.com/WSL043/dsh-codex-subscription",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6996
+}
