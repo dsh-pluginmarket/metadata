@@ -1,0 +1,20 @@
+{
+  "id": "github:bbqisbbq/dsh-tiddlywiki",
+  "kind": "plugin",
+  "name": "dsh-tiddlywiki",
+  "description": "Related DeepSeek Harness project: bbqisbbq/dsh-tiddlywiki",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bbqisbbq/dsh-tiddlywiki",
+  "repositoryUrl": "https://github.com/bbqisbbq/dsh-tiddlywiki",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6962
+}
