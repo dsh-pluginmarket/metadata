@@ -1,0 +1,20 @@
+{
+  "id": "github:JochenYang/dsh-app",
+  "kind": "plugin",
+  "name": "dsh-app",
+  "description": "A community-maintained branded desktop client for  DeepSeek Harness, Windows / macOS / Linux",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JochenYang/dsh-app",
+  "repositoryUrl": "https://github.com/JochenYang/dsh-app",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7196
+}
