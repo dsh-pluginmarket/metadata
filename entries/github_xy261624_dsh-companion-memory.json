@@ -1,0 +1,20 @@
+{
+  "id": "github:xy261624/dsh-companion-memory",
+  "kind": "plugin",
+  "name": "dsh-companion-memory",
+  "description": "DeepSeek Harness 的跨会话记忆与主动唤醒方案。面向角色扮演（RP）、长期陪伴、AI 恋人场景。记忆由角色自己第一人称整理，带对抗式审查和随机心跳。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xy261624/dsh-companion-memory",
+  "repositoryUrl": "https://github.com/xy261624/dsh-companion-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6948
+}
