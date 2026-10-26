@@ -1,0 +1,20 @@
+{
+  "id": "github:ZSeven-W/openpencil",
+  "kind": "plugin",
+  "name": "openpencil",
+  "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZSeven-W/openpencil",
+  "repositoryUrl": "https://github.com/ZSeven-W/openpencil",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7283
+}
