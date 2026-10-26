@@ -1,0 +1,20 @@
+{
+  "id": "github:changguo1998/dsh-toolset",
+  "kind": "plugin",
+  "name": "dsh-toolset",
+  "description": "My self-used deepseek harness plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "changguo1998/dsh-toolset",
+  "repositoryUrl": "https://github.com/changguo1998/dsh-toolset",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7277
+}
