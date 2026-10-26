@@ -1,0 +1,20 @@
+{
+  "id": "github:devockr/idsh",
+  "kind": "plugin",
+  "name": "idsh",
+  "description": "Make DSH greater.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "devockr/idsh",
+  "repositoryUrl": "https://github.com/devockr/idsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6925
+}
