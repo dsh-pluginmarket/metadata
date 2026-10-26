@@ -1,0 +1,20 @@
+{
+  "id": "github:AhaCrazy/dsh-action-hub",
+  "kind": "plugin",
+  "name": "dsh-action-hub",
+  "description": "DSH plugin: a user-invoked Action shelf for reusable prompts and flows - no context cost, no automatic triggering.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AhaCrazy/dsh-action-hub",
+  "repositoryUrl": "https://github.com/AhaCrazy/dsh-action-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7185
+}
