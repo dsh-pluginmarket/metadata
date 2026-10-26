@@ -1,0 +1,20 @@
+{
+  "id": "github:zhuzhaoyun/Molio",
+  "kind": "plugin",
+  "name": "Molio",
+  "description": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhuzhaoyun/Molio",
+  "repositoryUrl": "https://github.com/zhuzhaoyun/Molio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6855
+}
