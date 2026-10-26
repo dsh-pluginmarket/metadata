@@ -1,0 +1,20 @@
+{
+  "id": "github:elfmingh/dsh-prompt-manager",
+  "kind": "plugin",
+  "name": "dsh-prompt-manager",
+  "description": "Layered prompt manager for DeepSeek Harness: global / workspace / session prompt profiles, builtin-section overrides, subagent scope, and a full Web UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elfmingh/dsh-prompt-manager",
+  "repositoryUrl": "https://github.com/elfmingh/dsh-prompt-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6870
+}
