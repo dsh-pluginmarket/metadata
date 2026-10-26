@@ -1,0 +1,20 @@
+{
+  "id": "github:nrenvo/dsh-turn-trace",
+  "kind": "plugin",
+  "name": "dsh-turn-trace",
+  "description": "Per-step, per-turn cost ledger for DeepSeek Harness — a Turns tab that prices every step.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nrenvo/dsh-turn-trace",
+  "repositoryUrl": "https://github.com/nrenvo/dsh-turn-trace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7364
+}
