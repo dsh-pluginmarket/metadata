@@ -1,0 +1,20 @@
+{
+  "id": "github:EveGoodEvening/dsh-autoresearch",
+  "kind": "plugin",
+  "name": "dsh-autoresearch",
+  "description": "Related DeepSeek Harness project: EveGoodEvening/dsh-autoresearch",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EveGoodEvening/dsh-autoresearch",
+  "repositoryUrl": "https://github.com/EveGoodEvening/dsh-autoresearch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7330
+}
