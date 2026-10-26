@@ -1,0 +1,20 @@
+{
+  "id": "github:vibeinging/dsh-trace",
+  "kind": "plugin",
+  "name": "dsh-trace",
+  "description": "DeepSeek Harness telemetry backend that exports turns, model steps, and tool calls to yiTrace over HTTP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vibeinging/dsh-trace",
+  "repositoryUrl": "https://github.com/vibeinging/dsh-trace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7279
+}
