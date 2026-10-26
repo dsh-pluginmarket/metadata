@@ -1,0 +1,20 @@
+{
+  "id": "github:TwinsEarth/dsh-windows2macos",
+  "kind": "plugin",
+  "name": "dsh-windows2macos",
+  "description": "DSH: W2M — one DeepSeek account, one instruction, every online Windows/macOS machine runs the same project. Rabbit relay + per-machine Localside + eight DSH tools. Accounts are isolated per fleet, devices sign with Ed25519 keys, and /run works from a WeChat window.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TwinsEarth/dsh-windows2macos",
+  "repositoryUrl": "https://github.com/TwinsEarth/dsh-windows2macos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7096
+}
