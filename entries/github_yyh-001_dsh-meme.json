@@ -1,0 +1,20 @@
+{
+  "id": "github:yyh-001/dsh-meme",
+  "kind": "plugin",
+  "name": "dsh-meme",
+  "description": "DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yyh-001/dsh-meme",
+  "repositoryUrl": "https://github.com/yyh-001/dsh-meme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7377
+}
