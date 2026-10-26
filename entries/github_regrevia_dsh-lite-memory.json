@@ -1,0 +1,20 @@
+{
+  "id": "github:regrevia/dsh-lite-memory",
+  "kind": "plugin",
+  "name": "dsh-lite-memory",
+  "description": "Zero resident memory for the DeepSeek Harness: reads only on a hit, costs nothing when nothing matches.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "regrevia/dsh-lite-memory",
+  "repositoryUrl": "https://github.com/regrevia/dsh-lite-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6941
+}
