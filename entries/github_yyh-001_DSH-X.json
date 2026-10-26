@@ -1,0 +1,20 @@
+{
+  "id": "github:yyh-001/DSH-X",
+  "kind": "plugin",
+  "name": "DSH-X",
+  "description": "DeepSeek Harness 轻量桌面启动器：启动项与多实例，版本、插件、整合包、MCP 和技能管理。A lightweight desktop launcher for DeepSeek Harness: launch entries, multiple instances, versions, plugins, modpacks, MCP and skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yyh-001/DSH-X",
+  "repositoryUrl": "https://github.com/yyh-001/DSH-X",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7042
+}
