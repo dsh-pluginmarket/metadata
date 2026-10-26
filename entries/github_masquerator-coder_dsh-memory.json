@@ -1,0 +1,20 @@
+{
+  "id": "github:masquerator-coder/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "Layered long-term memory for coding agents: decaying episodic recall (L2), a provenance-tracking semantic graph (L3), and budgeted procedural skills (L4) in one embedded SQLite file. Deterministic retrieval, no model calls, no server. Ships a DeepSeek Harness plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "masquerator-coder/dsh-memory",
+  "repositoryUrl": "https://github.com/masquerator-coder/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6899
+}
