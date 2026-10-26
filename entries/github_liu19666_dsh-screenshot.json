@@ -1,0 +1,20 @@
+{
+  "id": "github:liu19666/dsh-screenshot",
+  "kind": "plugin",
+  "name": "dsh-screenshot",
+  "description": "DSH 截图插件：窗口/屏幕/任务栏自动识别 + 标注 + 马赛克，截图直接进会话输入区（Windows 原生 C# + Cordis 插件，v2.1.0）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liu19666/dsh-screenshot",
+  "repositoryUrl": "https://github.com/liu19666/dsh-screenshot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7056
+}
