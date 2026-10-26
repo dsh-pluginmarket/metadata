@@ -1,0 +1,20 @@
+{
+  "id": "github:EuphonXD/dsh-billing-chip",
+  "kind": "plugin",
+  "name": "dsh-billing-chip",
+  "description": "DSH 插件：右下角纯文字计费牌，特色是实时估算本轮花费（订阅输出流按字符折 token）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EuphonXD/dsh-billing-chip",
+  "repositoryUrl": "https://github.com/EuphonXD/dsh-billing-chip",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6994
+}
