@@ -1,0 +1,20 @@
+{
+  "id": "github:rayadesune/dsh-context-window-switch",
+  "kind": "plugin",
+  "name": "dsh-context-window-switch",
+  "description": "Session-scoped context window switcher for the DeepSeek Harness model picker — 在模型弹窗内按会话临时切换上下文窗口，新会话自动恢复默认（dsh-context-window-picker 的延续维护版）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rayadesune/dsh-context-window-switch",
+  "repositoryUrl": "https://github.com/rayadesune/dsh-context-window-switch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6983
+}
