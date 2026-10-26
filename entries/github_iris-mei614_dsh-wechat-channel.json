@@ -1,0 +1,20 @@
+{
+  "id": "github:iris-mei614/dsh-wechat-channel",
+  "kind": "plugin",
+  "name": "dsh-wechat-channel",
+  "description": "Bidirectional WeChat (iLink / ClawBot) channel plugin for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iris-mei614/dsh-wechat-channel",
+  "repositoryUrl": "https://github.com/iris-mei614/dsh-wechat-channel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7248
+}
