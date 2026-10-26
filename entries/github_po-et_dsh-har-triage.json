@@ -1,0 +1,20 @@
+{
+  "id": "github:po-et/dsh-har-triage",
+  "kind": "plugin",
+  "name": "dsh-har-triage",
+  "description": "Offline HAR diagnostics with minimal evidence for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "po-et/dsh-har-triage",
+  "repositoryUrl": "https://github.com/po-et/dsh-har-triage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7365
+}
