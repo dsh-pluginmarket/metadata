@@ -1,0 +1,20 @@
+{
+  "id": "github:MOS-ink/dsh-agent-rules",
+  "kind": "plugin",
+  "name": "dsh-agent-rules",
+  "description": "DeepSeek Harness plugin: a Rules & Memory settings page that keeps long-lived preset rules in ~/.dsh/AGENTS.md",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MOS-ink/dsh-agent-rules",
+  "repositoryUrl": "https://github.com/MOS-ink/dsh-agent-rules",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7149
+}
