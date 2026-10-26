@@ -1,0 +1,20 @@
+{
+  "id": "github:msciu/dsh-prompt-enricher",
+  "kind": "plugin",
+  "name": "dsh-prompt-enricher",
+  "description": "Prompt workbench for DeepSeek Harness: drafts, full-log sent history, and grill-based prompt elicitation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "msciu/dsh-prompt-enricher",
+  "repositoryUrl": "https://github.com/msciu/dsh-prompt-enricher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6993
+}
