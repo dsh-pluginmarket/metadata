@@ -1,0 +1,20 @@
+{
+  "id": "github:iasiv5/dsh-m",
+  "kind": "plugin",
+  "name": "dsh-m",
+  "description": "DSH 插件市场：Marketplace for DeepSeek Harness plugins · dsh-m",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iasiv5/dsh-m",
+  "repositoryUrl": "https://github.com/iasiv5/dsh-m",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6901
+}
