@@ -1,0 +1,20 @@
+{
+  "id": "github:LUgABeEEE/minas-webdav",
+  "kind": "plugin",
+  "name": "minas-webdav",
+  "description": "Xiaomi Smart Storage (MINAS) WebDAV control toolkit — CLI, probe, local proxy, agent skill & MCP server (Apache-2.0)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LUgABeEEE/minas-webdav",
+  "repositoryUrl": "https://github.com/LUgABeEEE/minas-webdav",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7140
+}
