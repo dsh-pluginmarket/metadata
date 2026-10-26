@@ -1,0 +1,20 @@
+{
+  "id": "github:q253595422/dsh-imagegen-video",
+  "kind": "plugin",
+  "name": "dsh-imagegen-video",
+  "description": "DeepSeek Harness plugin: image + video generation studio with an infinite canvas. Fork of dickpy/dsh-imagegen with a complete video pipeline and clip stitching.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "q253595422/dsh-imagegen-video",
+  "repositoryUrl": "https://github.com/q253595422/dsh-imagegen-video",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7118
+}
