@@ -1,0 +1,20 @@
+{
+  "id": "github:Evan1987/dsh-sector-07",
+  "kind": "plugin",
+  "name": "dsh-sector-07",
+  "description": "SECTOR 07 / 七号扇区 — three night-shift skins for the DeepSeek Harness web GUI: Aetherworks, Neon Drift, Sunset Coast.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Evan1987/dsh-sector-07",
+  "repositoryUrl": "https://github.com/Evan1987/dsh-sector-07",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7110
+}
