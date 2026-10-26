@@ -1,0 +1,20 @@
+{
+  "id": "github:iflytek/skillhub",
+  "kind": "plugin",
+  "name": "skillhub",
+  "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iflytek/skillhub",
+  "repositoryUrl": "https://github.com/iflytek/skillhub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6866
+}
