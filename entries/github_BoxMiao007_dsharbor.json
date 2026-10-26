@@ -1,0 +1,20 @@
+{
+  "id": "github:BoxMiao007/dsharbor",
+  "kind": "plugin",
+  "name": "dsharbor",
+  "description": "一个 DSH Web 的轻量启动器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BoxMiao007/dsharbor",
+  "repositoryUrl": "https://github.com/BoxMiao007/dsharbor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6921
+}
