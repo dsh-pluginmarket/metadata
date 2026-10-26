@@ -1,0 +1,20 @@
+{
+  "id": "github:KouzakiUmi/dsh-antigravity-acp",
+  "kind": "plugin",
+  "name": "dsh-antigravity-acp",
+  "description": "DeepSeek Harness host bundle: official Antigravity ACP (Gemini) as a primary model, DSH-owned tools",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KouzakiUmi/dsh-antigravity-acp",
+  "repositoryUrl": "https://github.com/KouzakiUmi/dsh-antigravity-acp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6840
+}
