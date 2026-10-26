@@ -1,0 +1,20 @@
+{
+  "id": "github:dyguests/dsh-compact-panel-nav",
+  "kind": "plugin",
+  "name": "dsh-compact-panel-nav",
+  "description": "Compact the DeepSeek Harness sidebar: Plugins / Automations / More become one row, and New Session becomes an icon in the brand row.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dyguests/dsh-compact-panel-nav",
+  "repositoryUrl": "https://github.com/dyguests/dsh-compact-panel-nav",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6926
+}
