@@ -1,0 +1,20 @@
+{
+  "id": "github:zhang-guangjie/dsh-video-bg",
+  "kind": "plugin",
+  "name": "dsh-video-bg",
+  "description": "DSH plugin: loop a local video behind the chat UI, with play/pause, opacity, scrim and fit controls. • DSH 插件：在对话背景循环播放本地视频，支持播放/暂停、不透明度、遮罩与填充。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhang-guangjie/dsh-video-bg",
+  "repositoryUrl": "https://github.com/zhang-guangjie/dsh-video-bg",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7290
+}
