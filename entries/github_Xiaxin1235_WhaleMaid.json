@@ -1,0 +1,20 @@
+{
+  "id": "github:Xiaxin1235/WhaleMaid",
+  "kind": "plugin",
+  "name": "WhaleMaid",
+  "description": "DeepSeek Harness 插件：Autopilot 自动推进与陪伴角色大肥鱼",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Xiaxin1235/WhaleMaid",
+  "repositoryUrl": "https://github.com/Xiaxin1235/WhaleMaid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6958
+}
