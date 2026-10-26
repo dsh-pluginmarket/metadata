@@ -1,0 +1,20 @@
+{
+  "id": "github:zhairy/dsh-agent-swarm",
+  "kind": "plugin",
+  "name": "dsh-agent-swarm",
+  "description": "DeepSeek Harness 中文多智能体插件「百工」：天枢统筹 12 位专家，证据门禁、多层模型路由与回退、内嵌 Jev 判断工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhairy/dsh-agent-swarm",
+  "repositoryUrl": "https://github.com/zhairy/dsh-agent-swarm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7300
+}
