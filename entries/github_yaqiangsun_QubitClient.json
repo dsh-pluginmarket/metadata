@@ -1,0 +1,20 @@
+{
+  "id": "github:yaqiangsun/QubitClient",
+  "kind": "plugin",
+  "name": "QubitClient",
+  "description": "AI Agent for Quantum Systems",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yaqiangsun/QubitClient",
+  "repositoryUrl": "https://github.com/yaqiangsun/QubitClient",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7264
+}
