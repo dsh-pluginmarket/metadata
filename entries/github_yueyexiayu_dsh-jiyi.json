@@ -1,0 +1,20 @@
+{
+  "id": "github:yueyexiayu/dsh-jiyi",
+  "kind": "plugin",
+  "name": "dsh-jiyi",
+  "description": "DSH desktop plugin: durable cross-session memory, scoped hybrid recall, grounded relevance checks and memory management.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yueyexiayu/dsh-jiyi",
+  "repositoryUrl": "https://github.com/yueyexiayu/dsh-jiyi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7014
+}
