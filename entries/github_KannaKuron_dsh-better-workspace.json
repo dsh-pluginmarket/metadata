@@ -1,0 +1,20 @@
+{
+  "id": "github:KannaKuron/dsh-better-workspace",
+  "kind": "plugin",
+  "name": "dsh-better-workspace",
+  "description": "DSH web plugin: a hierarchical workspace tree for the sidebar — titles containing / group into virtual folders; the add-workspace flow gains a parent-group popup",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KannaKuron/dsh-better-workspace",
+  "repositoryUrl": "https://github.com/KannaKuron/dsh-better-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7212
+}
