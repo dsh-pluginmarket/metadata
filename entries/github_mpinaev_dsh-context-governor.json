@@ -1,0 +1,20 @@
+{
+  "id": "github:mpinaev/dsh-context-governor",
+  "kind": "plugin",
+  "name": "dsh-context-governor",
+  "description": "Context chip for DeepSeek Harness: cost per step, cache-hit, bands, compaction threshold, balance, tariff. Never calls a model. | Индикатор контекста для DeepSeek Harness: цена шага, кэш-хит, полосы, порог компакции, баланс, тариф. Модель не вызывает и токены не тратит.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mpinaev/dsh-context-governor",
+  "repositoryUrl": "https://github.com/mpinaev/dsh-context-governor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7322
+}
