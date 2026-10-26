@@ -1,0 +1,20 @@
+{
+  "id": "github:O-OII/dsh-selection-comments",
+  "kind": "plugin",
+  "name": "dsh-selection-comments",
+  "description": "Anchored DSH conversation comments with compact references, tab-scoped recovery, and English / Simplified Chinese UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "O-OII/dsh-selection-comments",
+  "repositoryUrl": "https://github.com/O-OII/dsh-selection-comments",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6888
+}
