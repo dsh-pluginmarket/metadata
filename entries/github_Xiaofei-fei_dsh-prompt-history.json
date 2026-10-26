@@ -1,0 +1,20 @@
+{
+  "id": "github:Xiaofei-fei/dsh-prompt-history",
+  "kind": "plugin",
+  "name": "dsh-prompt-history",
+  "description": "DSH web plugin: terminal-style composer — shell history (↑/↓, prefix search, Ctrl+R), Codex-style completion and next-prompt prediction, selection toolbar (copy/quote/side chat), right-click paste, draggable chat TOC, and a parallel side-chat thread in the right sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Xiaofei-fei/dsh-prompt-history",
+  "repositoryUrl": "https://github.com/Xiaofei-fei/dsh-prompt-history",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7344
+}
