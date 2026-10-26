@@ -1,0 +1,20 @@
+{
+  "id": "github:anywhere-labs/Agents-Anywhere",
+  "kind": "plugin",
+  "name": "Agents-Anywhere",
+  "description": "跨设备的开源Agent工作台",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "anywhere-labs/Agents-Anywhere",
+  "repositoryUrl": "https://github.com/anywhere-labs/Agents-Anywhere",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7128
+}
