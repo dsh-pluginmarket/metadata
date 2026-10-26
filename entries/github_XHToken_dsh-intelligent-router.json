@@ -1,0 +1,20 @@
+{
+  "id": "github:XHToken/dsh-intelligent-router",
+  "kind": "plugin",
+  "name": "dsh-intelligent-router",
+  "description": "Intelligent LLM routing plugin for DeepSeek Harness: route groups, 4 routing strategies, intent rule engine, cache-affinity Stays mode, auto failover and sample settings UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "XHToken/dsh-intelligent-router",
+  "repositoryUrl": "https://github.com/XHToken/dsh-intelligent-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7136
+}
