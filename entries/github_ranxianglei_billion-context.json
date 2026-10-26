@@ -1,0 +1,20 @@
+{
+  "id": "github:ranxianglei/billion-context",
+  "kind": "plugin",
+  "name": "billion-context",
+  "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ranxianglei/billion-context",
+  "repositoryUrl": "https://github.com/ranxianglei/billion-context",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6831
+}
