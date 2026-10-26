@@ -1,0 +1,20 @@
+{
+  "id": "github:wingsky-1/dsh-plugin-hub",
+  "kind": "plugin",
+  "name": "dsh-plugin-hub",
+  "description": "DSH (DeepSeek Harness) web GUI plugin collection — task notifications, provider usage, LAN proxy, MCP manager, worktree sidebar, isolated browser verification. Targets dsh release candidates (rc only, no alpha); exact baseline in README. Install: dsh plugin --profile web add @wingsky-1/dsh-plugins-all",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wingsky-1/dsh-plugin-hub",
+  "repositoryUrl": "https://github.com/wingsky-1/dsh-plugin-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7331
+}
