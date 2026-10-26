@@ -1,0 +1,20 @@
+{
+  "id": "github:liujiesmart/dsh-kiro-proxy",
+  "kind": "plugin",
+  "name": "dsh-kiro-proxy",
+  "description": "Kiro (AWS CodeWhisperer/Amazon Q) provider route for DeepSeek Harness, plus an OpenAI/Anthropic reverse proxy. Reuses the existing Kiro IDE/CLI sign-in.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liujiesmart/dsh-kiro-proxy",
+  "repositoryUrl": "https://github.com/liujiesmart/dsh-kiro-proxy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6871
+}
