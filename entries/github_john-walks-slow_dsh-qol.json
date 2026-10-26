@@ -1,0 +1,20 @@
+{
+  "id": "github:john-walks-slow/dsh-qol",
+  "kind": "plugin",
+  "name": "dsh-qol",
+  "description": "Mobile-first QoL for the DeepSeek Harness web GUI: Chrome-style session tab bar, swipeable fullscreen sidebar, keyboard/IME/touch adaptations and a rewritten settings page — 13 toggles under Settings → QoL.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "john-walks-slow/dsh-qol",
+  "repositoryUrl": "https://github.com/john-walks-slow/dsh-qol",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7160
+}
