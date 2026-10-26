@@ -1,0 +1,20 @@
+{
+  "id": "github:dpkg-s/ai-memory-template",
+  "kind": "plugin",
+  "name": "ai-memory-template",
+  "description": "Cross-AI shared memory vault - MCP server for persistent memory across AI tools",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dpkg-s/ai-memory-template",
+  "repositoryUrl": "https://github.com/dpkg-s/ai-memory-template",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6853
+}
