@@ -1,0 +1,20 @@
+{
+  "id": "github:reviso-si/reviso-dsh",
+  "kind": "plugin",
+  "name": "reviso-dsh",
+  "description": "Reviso for DeepSeek Harness (DSH): publish agent output for human review and find it again from the session",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "reviso-si/reviso-dsh",
+  "repositoryUrl": "https://github.com/reviso-si/reviso-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7135
+}
