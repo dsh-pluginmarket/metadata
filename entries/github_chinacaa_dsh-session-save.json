@@ -1,0 +1,20 @@
+{
+  "id": "github:chinacaa/dsh-session-save",
+  "kind": "plugin",
+  "name": "dsh-session-save",
+  "description": "Save any DSH session to a single .dsproj file — Word-style save / save-as / autosave — and open it elsewhere to resume. 把会话存成单个工程文件，换机器打开就能接着聊。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chinacaa/dsh-session-save",
+  "repositoryUrl": "https://github.com/chinacaa/dsh-session-save",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7059
+}
