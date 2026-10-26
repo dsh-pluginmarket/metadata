@@ -1,0 +1,20 @@
+{
+  "id": "github:z7ping/narratica",
+  "kind": "plugin",
+  "name": "narratica",
+  "description": "AI 原生故事创作与媒体生产工作区｜AI-native storytelling workspace for novels, screenplays, and media production.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "z7ping/narratica",
+  "repositoryUrl": "https://github.com/z7ping/narratica",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6912
+}
