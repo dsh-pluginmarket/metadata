@@ -1,0 +1,20 @@
+{
+  "id": "github:Findly-qwb/dsh-model-picker",
+  "kind": "plugin",
+  "name": "dsh-model-picker",
+  "description": "A two-pane model picker for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Findly-qwb/dsh-model-picker",
+  "repositoryUrl": "https://github.com/Findly-qwb/dsh-model-picker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7193
+}
