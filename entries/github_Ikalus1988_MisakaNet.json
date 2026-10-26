@@ -1,0 +1,20 @@
+{
+  "id": "github:Ikalus1988/MisakaNet",
+  "kind": "plugin",
+  "name": "MisakaNet",
+  "description": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ikalus1988/MisakaNet",
+  "repositoryUrl": "https://github.com/Ikalus1988/MisakaNet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7049
+}
