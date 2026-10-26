@@ -1,0 +1,20 @@
+{
+  "id": "github:feely0208/dsh-memory-doctor",
+  "kind": "plugin",
+  "name": "dsh-memory-doctor",
+  "description": "深鲸记忆：跨会话热记忆 + 记忆体检/瘦身/记忆包。本地明文、零依赖、不上传数据。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "feely0208/dsh-memory-doctor",
+  "repositoryUrl": "https://github.com/feely0208/dsh-memory-doctor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7084
+}
