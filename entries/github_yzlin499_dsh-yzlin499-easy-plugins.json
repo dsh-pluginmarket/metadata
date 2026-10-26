@@ -1,0 +1,20 @@
+{
+  "id": "github:yzlin499/dsh-yzlin499-easy-plugins",
+  "kind": "plugin",
+  "name": "dsh-yzlin499-easy-plugins",
+  "description": "非常好的小工具，毛坯房DSH可以看看。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yzlin499/dsh-yzlin499-easy-plugins",
+  "repositoryUrl": "https://github.com/yzlin499/dsh-yzlin499-easy-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6850
+}
