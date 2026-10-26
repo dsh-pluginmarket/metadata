@@ -1,0 +1,20 @@
+{
+  "id": "github:ztc1522021381/dsh-context-mode",
+  "kind": "plugin",
+  "name": "dsh-context-mode",
+  "description": "context-mode adapter for DeepSeek Harness: two-tier routing — deny before execution, truncate after. MCP + native host seams.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ztc1522021381/dsh-context-mode",
+  "repositoryUrl": "https://github.com/ztc1522021381/dsh-context-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7242
+}
