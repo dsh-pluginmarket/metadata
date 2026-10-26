@@ -1,0 +1,20 @@
+{
+  "id": "github:chisato-lycoreco/dsh-serene",
+  "kind": "plugin",
+  "name": "dsh-serene",
+  "description": "Persona, emotion & memory for DeepSeek Harness. 人格是数据，情绪是状态，记忆是文件——把「一个会记得你的角色」接进 DSH。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chisato-lycoreco/dsh-serene",
+  "repositoryUrl": "https://github.com/chisato-lycoreco/dsh-serene",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7269
+}
