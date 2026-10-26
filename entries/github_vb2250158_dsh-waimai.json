@@ -1,0 +1,20 @@
+{
+  "id": "github:vb2250158/dsh-waimai",
+  "kind": "plugin",
+  "name": "dsh-waimai",
+  "description": "Browse Taobao Instant Commerce and Hema addresses, menus and orders, confirm cart quotes and open official payment pages.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vb2250158/dsh-waimai",
+  "repositoryUrl": "https://github.com/vb2250158/dsh-waimai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7249
+}
