@@ -1,0 +1,20 @@
+{
+  "id": "github:YunongDai2005/dsh-theone",
+  "kind": "plugin",
+  "name": "dsh-theone",
+  "description": "One chat for everything, no more hunting for old conversations. A DeepSeek Harness (DSH) plugin./不用再翻旧会话：所有事在一个对话框里聊，自动分到对应的那件事",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YunongDai2005/dsh-theone",
+  "repositoryUrl": "https://github.com/YunongDai2005/dsh-theone",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6927
+}
