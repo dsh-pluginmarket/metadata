@@ -1,0 +1,20 @@
+{
+  "id": "github:QwQBiG/dsh-re-lab",
+  "kind": "plugin",
+  "name": "dsh-re-lab",
+  "description": "Research-first model-behavior and reverse-engineering evaluation foundation with independent assessment and bilingual documentation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QwQBiG/dsh-re-lab",
+  "repositoryUrl": "https://github.com/QwQBiG/dsh-re-lab",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6825
+}
