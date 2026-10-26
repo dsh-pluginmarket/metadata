@@ -1,0 +1,20 @@
+{
+  "id": "github:furkancak1r/dsh-composer-plus",
+  "kind": "plugin",
+  "name": "dsh-composer-plus",
+  "description": "Composer Plus for DeepSeek Harness (dsh): git Changes panel, ↑/↓ input history, Shift+Tab /plan, one-click Continue, queue drag-and-drop, deeplinks, Auto Review allow-for-chat, notifications, 11 UI languages, auto-update",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "furkancak1r/dsh-composer-plus",
+  "repositoryUrl": "https://github.com/furkancak1r/dsh-composer-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7361
+}
