@@ -1,0 +1,20 @@
+{
+  "id": "github:po-et/dsh-sheet-diff",
+  "kind": "plugin",
+  "name": "dsh-sheet-diff",
+  "description": "Read-only CSV/XLSX change review for DeepSeek Harness: align business keys, inspect values and formulas, and export review comments.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "po-et/dsh-sheet-diff",
+  "repositoryUrl": "https://github.com/po-et/dsh-sheet-diff",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7358
+}
