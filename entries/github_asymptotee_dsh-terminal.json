@@ -1,0 +1,20 @@
+{
+  "id": "github:asymptotee/dsh-terminal",
+  "kind": "plugin",
+  "name": "dsh-terminal",
+  "description": "Claude Code-style terminal UI plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "asymptotee/dsh-terminal",
+  "repositoryUrl": "https://github.com/asymptotee/dsh-terminal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7255
+}
