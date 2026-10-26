@@ -1,0 +1,20 @@
+{
+  "id": "github:ch1bug/dsh-shell-host",
+  "kind": "plugin",
+  "name": "dsh-shell-host",
+  "description": "DSH bundle: native MSYS2 (UCRT64) bash for the DSH shell seam — fork of @deepseek-ai/dsh-bash-local with configurable bash path",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ch1bug/dsh-shell-host",
+  "repositoryUrl": "https://github.com/ch1bug/dsh-shell-host",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7003
+}
