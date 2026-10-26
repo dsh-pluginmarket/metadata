@@ -1,0 +1,20 @@
+{
+  "id": "github:Innocent-children/TaskBelay",
+  "kind": "plugin",
+  "name": "TaskBelay",
+  "description": "Task control for AI coding agents: explicit scope, bounded verification, durable state, safe recovery. Codex · Claude Code · DeepSeek · ZCode.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Innocent-children/TaskBelay",
+  "repositoryUrl": "https://github.com/Innocent-children/TaskBelay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7263
+}
