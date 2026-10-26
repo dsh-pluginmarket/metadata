@@ -1,0 +1,20 @@
+{
+  "id": "github:757400/dsh-workbuddy-checkin",
+  "kind": "plugin",
+  "name": "dsh-workbuddy-checkin",
+  "description": "结合work Buddy connect插件，自动进行workbuddy每日签到，不打开workbuddy也能拿积分。并提供可以自己打开（默认关闭）的自动程序反馈",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "757400/dsh-workbuddy-checkin",
+  "repositoryUrl": "https://github.com/757400/dsh-workbuddy-checkin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6818
+}
