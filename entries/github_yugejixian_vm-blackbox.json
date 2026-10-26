@@ -1,0 +1,20 @@
+{
+  "id": "github:yugejixian/vm-blackbox",
+  "kind": "plugin",
+  "name": "vm-blackbox",
+  "description": "Black-box GUI testing for DeepSeek Harness: an AI tester drives a real Windows VM with only screenshots and mouse/keyboard.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yugejixian/vm-blackbox",
+  "repositoryUrl": "https://github.com/yugejixian/vm-blackbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7225
+}
