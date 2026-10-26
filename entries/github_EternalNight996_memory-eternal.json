@@ -1,0 +1,20 @@
+{
+  "id": "github:EternalNight996/memory-eternal",
+  "kind": "plugin",
+  "name": "memory-eternal",
+  "description": "Your AI forgets every session. Give it a memory it can trust: local-first, review-gated agent memory — one SQLite vault for DSH, Claude Code, Codex, Cursor and any MCP client, with an immutable audit log and a token ledger. Open source, self-hosted, no cloud.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EternalNight996/memory-eternal",
+  "repositoryUrl": "https://github.com/EternalNight996/memory-eternal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6991
+}
