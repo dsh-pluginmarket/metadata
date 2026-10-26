@@ -1,0 +1,20 @@
+{
+  "id": "github:sunbigfly/dsh-multi-user-service",
+  "kind": "plugin",
+  "name": "dsh-multi-user-service",
+  "description": "DSH 多用户服务：在公司或团队服务器上共用一套 DSH，集中管理成员账号、权限、会话、文件与用量。模型、工具、终端、代码和沙箱均沿用 DSH 原生能力。已验证 DSH 0.2.1-rc.2。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sunbigfly/dsh-multi-user-service",
+  "repositoryUrl": "https://github.com/sunbigfly/dsh-multi-user-service",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7008
+}
