@@ -1,0 +1,20 @@
+{
+  "id": "github:yimengsuper2432/dsh-agent-personality",
+  "kind": "plugin",
+  "name": "dsh-agent-personality",
+  "description": "这是一个DeepseekHarness的情感人格插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yimengsuper2432/dsh-agent-personality",
+  "repositoryUrl": "https://github.com/yimengsuper2432/dsh-agent-personality",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6823
+}
