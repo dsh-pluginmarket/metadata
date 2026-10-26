@@ -1,0 +1,20 @@
+{
+  "id": "github:Yaemikoreal/dsh-plugin-obsidian",
+  "kind": "plugin",
+  "name": "dsh-plugin-obsidian",
+  "description": "Obsidian vault bridge for DeepSeek Harness: search, read, and write notes as agent tools, plus live Obsidian app integration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yaemikoreal/dsh-plugin-obsidian",
+  "repositoryUrl": "https://github.com/Yaemikoreal/dsh-plugin-obsidian",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7123
+}
