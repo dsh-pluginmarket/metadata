@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepJIT",
+  "kind": "plugin",
+  "name": "DeepJIT",
+  "description": "A lightweight library for xPU kernel JIT compilation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepJIT",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepJIT",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7400
+}
