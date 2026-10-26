@@ -1,0 +1,20 @@
+{
+  "id": "github:regrevia/dsh-unlag",
+  "kind": "plugin",
+  "name": "dsh-unlag",
+  "description": "Clear a sluggish DeepSeek Harness workbench without restarting: rebuild the interface and swap plugin code in place, keeping running turns, queued messages and unsent drafts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "regrevia/dsh-unlag",
+  "repositoryUrl": "https://github.com/regrevia/dsh-unlag",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6930
+}
