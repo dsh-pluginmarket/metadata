@@ -1,0 +1,20 @@
+{
+  "id": "github:KeepLost/harniverse",
+  "kind": "plugin",
+  "name": "harniverse",
+  "description": "This is the coding agent that it should be. No business promotion or advertisement from specific LLM vendor. It's as vast as the universe, composed by harness plugins as 'planets'. Universe of the harness -- that is Harniverse.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KeepLost/harniverse",
+  "repositoryUrl": "https://github.com/KeepLost/harniverse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7145
+}
