@@ -1,0 +1,20 @@
+{
+  "id": "github:Neptune810/dsh-model-router",
+  "kind": "plugin",
+  "name": "dsh-model-router",
+  "description": "Flash-only reasoning-effort routing for DeepSeek Harness, setting the DeepSeek flash model reasoning effort per step. The model never changes; effort max is opt-in.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Neptune810/dsh-model-router",
+  "repositoryUrl": "https://github.com/Neptune810/dsh-model-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6965
+}
