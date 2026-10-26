@@ -1,0 +1,20 @@
+{
+  "id": "github:Alice-Marx/dsh-model-router",
+  "kind": "plugin",
+  "name": "dsh-model-router",
+  "description": "Model Router and GALGame plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Alice-Marx/dsh-model-router",
+  "repositoryUrl": "https://github.com/Alice-Marx/dsh-model-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7367
+}
