@@ -1,0 +1,20 @@
+{
+  "id": "github:namlxuit056/social-forex",
+  "kind": "plugin",
+  "name": "social-forex",
+  "description": "Open-source forex tools, signals, MT5 copy-trading, trading journal and community — plus a public MCP server for AI assistants",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "namlxuit056/social-forex",
+  "repositoryUrl": "https://github.com/namlxuit056/social-forex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7044
+}
