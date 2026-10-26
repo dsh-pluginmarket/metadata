@@ -1,0 +1,20 @@
+{
+  "id": "github:patrykorwat/open-dream-rsi",
+  "kind": "plugin",
+  "name": "open-dream-rsi",
+  "description": "Recursive Self-Improvement through Evolving Worlds (Dream-RSI) for LLM agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "patrykorwat/open-dream-rsi",
+  "repositoryUrl": "https://github.com/patrykorwat/open-dream-rsi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7392
+}
