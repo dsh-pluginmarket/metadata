@@ -1,0 +1,20 @@
+{
+  "id": "github:liaoyuqing/dsh-shutdown-idle",
+  "kind": "plugin",
+  "name": "dsh-shutdown-idle",
+  "description": "DSH plugin: shut down / restart / lock once every session and background job has gone idle.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liaoyuqing/dsh-shutdown-idle",
+  "repositoryUrl": "https://github.com/liaoyuqing/dsh-shutdown-idle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7050
+}
