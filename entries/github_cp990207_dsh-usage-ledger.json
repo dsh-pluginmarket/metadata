@@ -1,0 +1,20 @@
+{
+  "id": "github:cp990207/dsh-usage-ledger",
+  "kind": "plugin",
+  "name": "dsh-usage-ledger",
+  "description": "DeepSeek Harness plugin: a local usage ledger for tokens, cache hit rate and estimated cost per day, per model and per workspace.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cp990207/dsh-usage-ledger",
+  "repositoryUrl": "https://github.com/cp990207/dsh-usage-ledger",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7294
+}
