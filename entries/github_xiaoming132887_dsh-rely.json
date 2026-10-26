@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoming132887/dsh-rely",
+  "kind": "plugin",
+  "name": "dsh-rely",
+  "description": "DeepSeek Harness 插件：输入框下方常驻显示 绿萝中转站 余额。支持阈值灯、可配置刷新间隔",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoming132887/dsh-rely",
+  "repositoryUrl": "https://github.com/xiaoming132887/dsh-rely",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6987
+}
