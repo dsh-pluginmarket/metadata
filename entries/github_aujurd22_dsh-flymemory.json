@@ -1,0 +1,20 @@
+{
+  "id": "github:aujurd22/dsh-flymemory",
+  "kind": "plugin",
+  "name": "dsh-flymemory",
+  "description": "Structural long-term memory for DeepSeek Harness: supersede/decay/entity-state store, 15 MCP memory tools, automatic recall, bounded context band",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aujurd22/dsh-flymemory",
+  "repositoryUrl": "https://github.com/aujurd22/dsh-flymemory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6944
+}
