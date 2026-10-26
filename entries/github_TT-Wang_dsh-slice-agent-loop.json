@@ -1,0 +1,20 @@
+{
+  "id": "github:TT-Wang/dsh-slice-agent-loop",
+  "kind": "plugin",
+  "name": "dsh-slice-agent-loop",
+  "description": "A drop-in DeepSeek Harness agent loop whose context engine is a bounded slice instead of a growing transcript",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TT-Wang/dsh-slice-agent-loop",
+  "repositoryUrl": "https://github.com/TT-Wang/dsh-slice-agent-loop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7348
+}
