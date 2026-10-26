@@ -1,0 +1,20 @@
+{
+  "id": "github:Mempemp/DSH-CodeEditor_BSL",
+  "kind": "plugin",
+  "name": "DSH-CodeEditor_BSL",
+  "description": "interactive CodeEditor for BSL",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Mempemp/DSH-CodeEditor_BSL",
+  "repositoryUrl": "https://github.com/Mempemp/DSH-CodeEditor_BSL",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6859
+}
