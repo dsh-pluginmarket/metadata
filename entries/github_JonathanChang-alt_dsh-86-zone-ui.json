@@ -1,0 +1,20 @@
+{
+  "id": "github:JonathanChang-alt/dsh-86-zone-ui",
+  "kind": "plugin",
+  "name": "dsh-86-zone-ui",
+  "description": "86 EIGHTY-SIX themed skin plugin for DeepSeek Harness — line-art HUD, tactical status rail with live metrics, hex rain, live event stream.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JonathanChang-alt/dsh-86-zone-ui",
+  "repositoryUrl": "https://github.com/JonathanChang-alt/dsh-86-zone-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6943
+}
