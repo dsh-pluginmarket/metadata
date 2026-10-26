@@ -1,0 +1,20 @@
+{
+  "id": "github:regrevia/dsh-inner-browser-use",
+  "kind": "plugin",
+  "name": "dsh-inner-browser-use",
+  "description": "Drive the DeepSeek Harness sidebar browser itself: a visible pointer, real clicks and typing, upload and download, site logins kept across sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "regrevia/dsh-inner-browser-use",
+  "repositoryUrl": "https://github.com/regrevia/dsh-inner-browser-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7177
+}
