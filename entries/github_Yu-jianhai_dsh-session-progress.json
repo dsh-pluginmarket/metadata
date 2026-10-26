@@ -1,0 +1,20 @@
+{
+  "id": "github:Yu-jianhai/dsh-session-progress",
+  "kind": "plugin",
+  "name": "dsh-session-progress",
+  "description": "大鲸鱼在线写插件 · 让鲸鱼去监督鲸鱼：在 DSH 侧栏每条会话行上铺一条半透明进度带，每 30 秒用一个轻量模型读上下文估进度；可选监督模型、可调思考强度、可改颜色与样式，左侧栏还能看到判断模型的每一次原始输出。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yu-jianhai/dsh-session-progress",
+  "repositoryUrl": "https://github.com/Yu-jianhai/dsh-session-progress",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7111
+}
