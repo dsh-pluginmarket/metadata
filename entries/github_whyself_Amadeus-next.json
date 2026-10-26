@@ -1,0 +1,20 @@
+{
+  "id": "github:whyself/Amadeus-next",
+  "kind": "plugin",
+  "name": "Amadeus-next",
+  "description": "Amadeus 的 DeepSeek Harness 插件包",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "whyself/Amadeus-next",
+  "repositoryUrl": "https://github.com/whyself/Amadeus-next",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7270
+}
