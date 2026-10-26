@@ -1,0 +1,20 @@
+{
+  "id": "github:Branwen050/dsh-pencil",
+  "kind": "plugin",
+  "name": "dsh-pencil",
+  "description": "消息编辑铅笔：编辑助手回复并从该回合分叉出新版本会话 / Edit assistant replies by forking a new session version",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Branwen050/dsh-pencil",
+  "repositoryUrl": "https://github.com/Branwen050/dsh-pencil",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6932
+}
