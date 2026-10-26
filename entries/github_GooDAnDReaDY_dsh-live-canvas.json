@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-live-canvas",
+  "kind": "plugin",
+  "name": "dsh-live-canvas",
+  "description": "Interactive Visual Frontend Studio, Retool-Style CRUD Engine, Time-Travel Debugger, 31 Agent Tools for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-live-canvas",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-live-canvas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6988
+}
