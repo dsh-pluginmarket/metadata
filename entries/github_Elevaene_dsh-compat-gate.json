@@ -1,0 +1,20 @@
+{
+  "id": "github:Elevaene/dsh-compat-gate",
+  "kind": "plugin",
+  "name": "dsh-compat-gate",
+  "description": "Check whether your installed dsh plugins still work before you install a dsh update.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Elevaene/dsh-compat-gate",
+  "repositoryUrl": "https://github.com/Elevaene/dsh-compat-gate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6969
+}
