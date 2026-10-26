@@ -1,0 +1,20 @@
+{
+  "id": "github:unStone/dsh-xray",
+  "kind": "plugin",
+  "name": "dsh-xray",
+  "description": "X-ray for DeepSeek Harness plugins: declared capabilities vs actual behavior. Registry + static scanner + badges.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "unStone/dsh-xray",
+  "repositoryUrl": "https://github.com/unStone/dsh-xray",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7070
+}
