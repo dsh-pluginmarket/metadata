@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-cron",
+  "kind": "plugin",
+  "name": "dsh-cron",
+  "description": "Scheduled cron tasks, background automation and agent execution for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-cron",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-cron",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7095
+}
