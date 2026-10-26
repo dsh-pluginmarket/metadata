@@ -1,0 +1,20 @@
+{
+  "id": "github:cslkkl/dsh-cpa-switch",
+  "kind": "plugin",
+  "name": "dsh-cpa-switch",
+  "description": "DeepSeek Harness 插件：在 DSH 里管理 CLIProxyAPI 的账号（余额 / 签到 / 切换账号），自动注册四个渠道的对话模型，CPA 随 DSH 启停 —— 装完即用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cslkkl/dsh-cpa-switch",
+  "repositoryUrl": "https://github.com/cslkkl/dsh-cpa-switch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6883
+}
