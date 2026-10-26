@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangj1164/dsh-mega-plugins",
+  "kind": "plugin",
+  "name": "dsh-mega-plugins",
+  "description": "DSH mega plugins monorepo — a collection of DeepSeek Harness plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangj1164/dsh-mega-plugins",
+  "repositoryUrl": "https://github.com/zhangj1164/dsh-mega-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7060
+}
