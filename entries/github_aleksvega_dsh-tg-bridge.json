@@ -1,0 +1,20 @@
+{
+  "id": "github:aleksvega/dsh-tg-bridge",
+  "kind": "plugin",
+  "name": "dsh-tg-bridge",
+  "description": "Telegram bridge for DeepSeek Harness: text, voice, photos and project-per-topic sessions without opening the desktop app",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aleksvega/dsh-tg-bridge",
+  "repositoryUrl": "https://github.com/aleksvega/dsh-tg-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7176
+}
