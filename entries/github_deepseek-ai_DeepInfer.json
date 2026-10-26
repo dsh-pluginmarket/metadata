@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepInfer",
+  "kind": "plugin",
+  "name": "DeepInfer",
+  "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepInfer",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepInfer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7396
+}
