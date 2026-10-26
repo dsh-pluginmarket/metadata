@@ -1,0 +1,20 @@
+{
+  "id": "github:dreamor/MemVault",
+  "kind": "plugin",
+  "name": "MemVault",
+  "description": "MemVault — The Shared Memory Layer for Every AI Agent You Run. Self-hosted, open-source MCP memory server with auto-injection, hybrid (BM25+vector) search, and zero-config sync — works with Codex, Claude Code, Cursor, dsh, and any Agent client.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dreamor/MemVault",
+  "repositoryUrl": "https://github.com/dreamor/MemVault",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7201
+}
