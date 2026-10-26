@@ -1,0 +1,20 @@
+{
+  "id": "github:gx18391303625-afk/dsh-douyin-ip-report",
+  "kind": "plugin",
+  "name": "dsh-douyin-ip-report",
+  "description": "抖音专利/商标侵权举报技能包：资料预检、专用浏览器执行、历史回执查询（DeepSeek Harness skill plugin）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gx18391303625-afk/dsh-douyin-ip-report",
+  "repositoryUrl": "https://github.com/gx18391303625-afk/dsh-douyin-ip-report",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7289
+}
