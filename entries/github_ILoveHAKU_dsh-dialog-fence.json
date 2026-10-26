@@ -1,0 +1,20 @@
+{
+  "id": "github:ILoveHAKU/dsh-dialog-fence",
+  "kind": "plugin",
+  "name": "dsh-dialog-fence",
+  "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breaking prompt cache",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ILoveHAKU/dsh-dialog-fence",
+  "repositoryUrl": "https://github.com/ILoveHAKU/dsh-dialog-fence",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7038
+}
