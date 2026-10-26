@@ -1,0 +1,20 @@
+{
+  "id": "github:weiweisudo/juzi-remote-shell",
+  "kind": "plugin",
+  "name": "juzi-remote-shell",
+  "description": "DSH 远程机器插件（P0）：被控端主动出站、非交互命令执行，后续加 PTY 与文件传输",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weiweisudo/juzi-remote-shell",
+  "repositoryUrl": "https://github.com/weiweisudo/juzi-remote-shell",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6815
+}
