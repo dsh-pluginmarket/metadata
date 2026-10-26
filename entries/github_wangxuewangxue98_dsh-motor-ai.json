@@ -1,0 +1,20 @@
+{
+  "id": "github:wangxuewangxue98/dsh-motor-ai",
+  "kind": "plugin",
+  "name": "dsh-motor-ai",
+  "description": "电机电磁设计 AI 插件完整版（L0 毫秒级广筛 → L1 RMxprt + L2 Motor-CAD 校核）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangxuewangxue98/dsh-motor-ai",
+  "repositoryUrl": "https://github.com/wangxuewangxue98/dsh-motor-ai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7100
+}
