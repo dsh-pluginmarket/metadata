@@ -1,0 +1,20 @@
+{
+  "id": "github:cuteG41cute/dsh-memory-db",
+  "kind": "plugin",
+  "name": "dsh-memory-db",
+  "description": "🧠 DeepSeek Harness 项目记忆库插件：自动沉淀问答记忆 + SQLite FTS5/BM25 精准检索 + 工况分类（闲聊陪伴/执行任务）+ 可视化面板与实时判定流",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cuteG41cute/dsh-memory-db",
+  "repositoryUrl": "https://github.com/cuteG41cute/dsh-memory-db",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7209
+}
