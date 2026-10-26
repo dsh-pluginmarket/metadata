@@ -1,0 +1,20 @@
+{
+  "id": "github:GaoHu1997/dsh-model-think-level",
+  "kind": "plugin",
+  "name": "dsh-model-think-level",
+  "description": "Related DeepSeek Harness project: GaoHu1997/dsh-model-think-level",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GaoHu1997/dsh-model-think-level",
+  "repositoryUrl": "https://github.com/GaoHu1997/dsh-model-think-level",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7337
+}
