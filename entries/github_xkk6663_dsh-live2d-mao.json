@@ -1,0 +1,20 @@
+{
+  "id": "github:xkk6663/dsh-live2d-mao",
+  "kind": "plugin",
+  "name": "dsh-live2d-mao",
+  "description": "把 DeepSeek Harness 的工作状态，变成一只住在你桌面上的 Live2D 看板娘",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xkk6663/dsh-live2d-mao",
+  "repositoryUrl": "https://github.com/xkk6663/dsh-live2d-mao",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6906
+}
