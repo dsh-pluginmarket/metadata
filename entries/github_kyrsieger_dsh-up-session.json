@@ -1,0 +1,20 @@
+{
+  "id": "github:kyrsieger/dsh-up-session",
+  "kind": "plugin",
+  "name": "dsh-up-session",
+  "description": "dsh 插件，在侧边栏添加一个置顶区，汇集不同项目中的置顶会话。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kyrsieger/dsh-up-session",
+  "repositoryUrl": "https://github.com/kyrsieger/dsh-up-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7030
+}
