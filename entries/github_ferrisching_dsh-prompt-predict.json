@@ -1,0 +1,20 @@
+{
+  "id": "github:ferrisching/dsh-prompt-predict",
+  "kind": "plugin",
+  "name": "dsh-prompt-predict",
+  "description": "输入框提示词联想插件：助手回复结束后预测你的下一句话，以灰色 ghost text 浮在输入框里，Tab 采纳、Esc 忽略 ｜ Codex-style composer prompt predictions for DeepSeek Harness: your next message ghosted into the composer, accepted with Tab.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ferrisching/dsh-prompt-predict",
+  "repositoryUrl": "https://github.com/ferrisching/dsh-prompt-predict",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6959
+}
