@@ -1,0 +1,20 @@
+{
+  "id": "github:was35/dsh-reclaim",
+  "kind": "plugin",
+  "name": "dsh-reclaim",
+  "description": "审计并安全回收 DSH 占用的空间：看清会话、附件与缓存各占多少、还被谁引用，清理一律进可恢复的隔离区（DeepSeek Harness 插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "was35/dsh-reclaim",
+  "repositoryUrl": "https://github.com/was35/dsh-reclaim",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7033
+}
