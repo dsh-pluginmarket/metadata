@@ -1,0 +1,20 @@
+{
+  "id": "github:HumXC/dsh-fold-context",
+  "kind": "plugin",
+  "name": "dsh-fold-context",
+  "description": "Recoverable context release, compression, and native tool cards for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HumXC/dsh-fold-context",
+  "repositoryUrl": "https://github.com/HumXC/dsh-fold-context",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7384
+}
