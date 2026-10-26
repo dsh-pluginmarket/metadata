@@ -1,0 +1,20 @@
+{
+  "id": "github:LiPu-jpg/Openwrite",
+  "kind": "plugin",
+  "name": "Openwrite",
+  "description": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LiPu-jpg/Openwrite",
+  "repositoryUrl": "https://github.com/LiPu-jpg/Openwrite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7109
+}
