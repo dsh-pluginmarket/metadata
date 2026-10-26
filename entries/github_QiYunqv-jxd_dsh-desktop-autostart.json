@@ -1,0 +1,20 @@
+{
+  "id": "github:QiYunqv-jxd/dsh-desktop-autostart",
+  "kind": "plugin",
+  "name": "dsh-desktop-autostart",
+  "description": "Logon autostart for the DeepSeek Harness desktop app (Windows)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QiYunqv-jxd/dsh-desktop-autostart",
+  "repositoryUrl": "https://github.com/QiYunqv-jxd/dsh-desktop-autostart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7309
+}
