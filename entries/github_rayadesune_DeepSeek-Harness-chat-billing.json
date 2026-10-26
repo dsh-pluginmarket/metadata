@@ -1,0 +1,20 @@
+{
+  "id": "github:rayadesune/DeepSeek-Harness-chat-billing",
+  "kind": "plugin",
+  "name": "DeepSeek-Harness-chat-billing",
+  "description": "类原生计费插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "rayadesune/DeepSeek-Harness-chat-billing",
+  "repositoryUrl": "https://github.com/rayadesune/DeepSeek-Harness-chat-billing",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6985
+}
