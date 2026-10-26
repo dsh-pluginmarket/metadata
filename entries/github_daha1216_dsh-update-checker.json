@@ -1,0 +1,20 @@
+{
+  "id": "github:daha1216/dsh-update-checker",
+  "kind": "plugin",
+  "name": "dsh-update-checker",
+  "description": "🔔 DeepSeek Harness 第三方插件更新巡检器：一键/后台定时巡检上游版本，Release 变更深度解析，侧边栏角标提醒与一键「让 AI 更新」 (Plugin Update Checker for DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daha1216/dsh-update-checker",
+  "repositoryUrl": "https://github.com/daha1216/dsh-update-checker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7231
+}
