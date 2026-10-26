@@ -1,0 +1,20 @@
+{
+  "id": "github:troodon/dsh-big-fat-fish-girl",
+  "kind": "plugin",
+  "name": "dsh-big-fat-fish-girl",
+  "description": "A desktop pet for DeepSeek Harness that follows activity across your chats, even when Harness is minimized.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "troodon/dsh-big-fat-fish-girl",
+  "repositoryUrl": "https://github.com/troodon/dsh-big-fat-fish-girl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7389
+}
