@@ -1,0 +1,20 @@
+{
+  "id": "github:kovey/dsh-nvim-tui",
+  "kind": "plugin",
+  "name": "dsh-nvim-tui",
+  "description": "Neovim-style TUI for DeepSeek Harness (dsh): nvim renders the terminal, a Node runner bridges DSH agent events over msgpack-RPC — sessions, tool cards, reasoning panel, approvals, markdown tables",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kovey/dsh-nvim-tui",
+  "repositoryUrl": "https://github.com/kovey/dsh-nvim-tui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6910
+}
