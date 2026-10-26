@@ -1,0 +1,20 @@
+{
+  "id": "github:z1223473749/dsh-QiuYaTools",
+  "kind": "plugin",
+  "name": "dsh-QiuYaTools",
+  "description": "QiuYa 增强工具箱：为 DeepSeek Harness 添加长文本附件、会话独立窗口、批量归档和计划批注。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "z1223473749/dsh-QiuYaTools",
+  "repositoryUrl": "https://github.com/z1223473749/dsh-QiuYaTools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7142
+}
