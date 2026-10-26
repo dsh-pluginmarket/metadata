@@ -1,0 +1,20 @@
+{
+  "id": "github:tianyao2003/dsh-find-ideas",
+  "kind": "plugin",
+  "name": "dsh-find-ideas",
+  "description": "Deepseek Harness 插件：输入一个开发想法， agent 检索 GitHub 项目，对其相关性打分；相关性分数和项目 star 数加权排序，输出硬约束的结构化卡片；选择卡片中的几个项目仓库，可继续读取项目源码、梳理架构。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tianyao2003/dsh-find-ideas",
+  "repositoryUrl": "https://github.com/tianyao2003/dsh-find-ideas",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6813
+}
