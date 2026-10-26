@@ -1,0 +1,20 @@
+{
+  "id": "github:pvlb-dev/dsh-resend-mcp",
+  "kind": "plugin",
+  "name": "dsh-resend-mcp",
+  "description": "resend.com mcp toolset",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pvlb-dev/dsh-resend-mcp",
+  "repositoryUrl": "https://github.com/pvlb-dev/dsh-resend-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7152
+}
