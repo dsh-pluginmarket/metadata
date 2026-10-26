@@ -1,0 +1,20 @@
+{
+  "id": "github:monkey-sking/dsh-im-global",
+  "kind": "plugin",
+  "name": "dsh-im-global",
+  "description": "Related DeepSeek Harness project: monkey-sking/dsh-im-global",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "monkey-sking/dsh-im-global",
+  "repositoryUrl": "https://github.com/monkey-sking/dsh-im-global",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7025
+}
