@@ -1,0 +1,20 @@
+{
+  "id": "github:Jokii-Joy/novel-writer",
+  "kind": "plugin",
+  "name": "novel-writer",
+  "description": "精神空间 — DeepSeek Harness 的沉浸式小说写作插件（GPL-3.0）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jokii-Joy/novel-writer",
+  "repositoryUrl": "https://github.com/Jokii-Joy/novel-writer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6897
+}
