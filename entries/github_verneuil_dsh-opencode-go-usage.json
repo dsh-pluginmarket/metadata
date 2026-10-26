@@ -1,0 +1,20 @@
+{
+  "id": "github:verneuil/dsh-opencode-go-usage",
+  "kind": "plugin",
+  "name": "dsh-opencode-go-usage",
+  "description": "DeepSeek Harness插件，一个极简的浮窗同时显示 DeepSeek 官方余额与 OpenCode Go 的 5h/w/m 用量",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "verneuil/dsh-opencode-go-usage",
+  "repositoryUrl": "https://github.com/verneuil/dsh-opencode-go-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7105
+}
