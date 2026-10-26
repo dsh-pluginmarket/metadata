@@ -1,0 +1,20 @@
+{
+  "id": "github:Red0tsnow/dsh-companion",
+  "kind": "plugin",
+  "name": "dsh-companion",
+  "description": "给她一个世界：让 DSH 里的角色住进 Minecraft，有自己的身体、日记和一天。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Red0tsnow/dsh-companion",
+  "repositoryUrl": "https://github.com/Red0tsnow/dsh-companion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7052
+}
