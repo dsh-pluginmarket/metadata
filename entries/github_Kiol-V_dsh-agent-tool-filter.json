@@ -1,0 +1,20 @@
+{
+  "id": "github:Kiol-V/dsh-agent-tool-filter",
+  "kind": "plugin",
+  "name": "dsh-agent-tool-filter",
+  "description": "Per-agent tool filter for the main agent (orchestrator) in DeepSeek Harness — minimal toolset for the orchestrator, full toolset for subagents, plus a user-approved elevated permissions bridge for subagents.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kiol-V/dsh-agent-tool-filter",
+  "repositoryUrl": "https://github.com/Kiol-V/dsh-agent-tool-filter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7369
+}
