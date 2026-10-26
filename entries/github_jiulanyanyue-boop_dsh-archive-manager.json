@@ -1,0 +1,20 @@
+{
+  "id": "github:jiulanyanyue-boop/dsh-archive-manager",
+  "kind": "plugin",
+  "name": "dsh-archive-manager",
+  "description": "DSH（DeepSeek Harness）归档会话管理插件：按工作区分组列出所有归档会话，显示归档时间、最后活动时间与占用体积；可一键恢复回原位置，或彻底删除本地存储（含会话历史、投影缓存、工作区记账与 live 会话），不留幽灵残留、无需刷新页面。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jiulanyanyue-boop/dsh-archive-manager",
+  "repositoryUrl": "https://github.com/jiulanyanyue-boop/dsh-archive-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7373
+}
