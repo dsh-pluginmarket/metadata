@@ -1,0 +1,20 @@
+{
+  "id": "github:Chuyuxuan0v0/deepseek-harness-theme-linen",
+  "kind": "plugin",
+  "name": "deepseek-harness-theme-linen",
+  "description": "Warm neutral theme for the DeepSeek Harness Web GUI — warmer surfaces, rounder corners, sharper default fonts, plus its own settings page. | DSH Web 界面的暖中性主题：表面更温暖、圆角更圆润、默认字体更锐利，并带独立设置页。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Chuyuxuan0v0/deepseek-harness-theme-linen",
+  "repositoryUrl": "https://github.com/Chuyuxuan0v0/deepseek-harness-theme-linen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7386
+}
