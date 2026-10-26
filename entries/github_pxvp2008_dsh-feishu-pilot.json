@@ -1,0 +1,20 @@
+{
+  "id": "github:pxvp2008/dsh-feishu-pilot",
+  "kind": "plugin",
+  "name": "dsh-feishu-pilot",
+  "description": "把飞书变成 DSH 的远程控制台：桌面 GUI 会话的任务、审批、提问都能在手机上继续；任务结束主动通知；GUI 与飞书双端同时受理。扫码即可接入，离开电脑也不停。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pxvp2008/dsh-feishu-pilot",
+  "repositoryUrl": "https://github.com/pxvp2008/dsh-feishu-pilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6874
+}
