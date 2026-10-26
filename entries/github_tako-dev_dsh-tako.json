@@ -1,0 +1,20 @@
+{
+  "id": "github:tako-dev/dsh-tako",
+  "kind": "plugin",
+  "name": "dsh-tako",
+  "description": "Tako models for the official DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tako-dev/dsh-tako",
+  "repositoryUrl": "https://github.com/tako-dev/dsh-tako",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7130
+}
