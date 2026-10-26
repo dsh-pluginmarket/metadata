@@ -1,0 +1,20 @@
+{
+  "id": "github:xi-zhao/OpenQuantum",
+  "kind": "plugin",
+  "name": "OpenQuantum",
+  "description": "Open-source quantum Agent workspace with a desktop client, Web UI, messaging, Qiskit/MCP tools, and scientific validation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xi-zhao/OpenQuantum",
+  "repositoryUrl": "https://github.com/xi-zhao/OpenQuantum",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7067
+}
