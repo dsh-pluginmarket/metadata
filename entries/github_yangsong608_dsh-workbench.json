@@ -1,0 +1,20 @@
+{
+  "id": "github:yangsong608/dsh-workbench",
+  "kind": "plugin",
+  "name": "dsh-workbench",
+  "description": "个人工作台插件：任务 / 计划 / 专注 / 记事本 / Bug / 产品设计 / 测试 / 新闻（SQLite 本地库）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yangsong608/dsh-workbench",
+  "repositoryUrl": "https://github.com/yangsong608/dsh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6908
+}
