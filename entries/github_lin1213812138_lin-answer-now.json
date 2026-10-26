@@ -1,0 +1,20 @@
+{
+  "id": "github:lin1213812138/lin-answer-now",
+  "kind": "plugin",
+  "name": "lin-answer-now",
+  "description": "DeepSeek Harness plugin: pushes the agent to deliver its answer as soon as it has one, with escalating reminders when tool calls pile up.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lin1213812138/lin-answer-now",
+  "repositoryUrl": "https://github.com/lin1213812138/lin-answer-now",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7106
+}
