@@ -1,0 +1,20 @@
+{
+  "id": "github:wafernm-crypto/dsh-memory-library",
+  "kind": "plugin",
+  "name": "dsh-memory-library",
+  "description": "Related DeepSeek Harness project: wafernm-crypto/dsh-memory-library",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wafernm-crypto/dsh-memory-library",
+  "repositoryUrl": "https://github.com/wafernm-crypto/dsh-memory-library",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6914
+}
