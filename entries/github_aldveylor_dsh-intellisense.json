@@ -1,0 +1,20 @@
+{
+  "id": "github:aldveylor/dsh-intellisense",
+  "kind": "plugin",
+  "name": "dsh-intellisense",
+  "description": "A plugin implemented for namespace-based tool calls for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aldveylor/dsh-intellisense",
+  "repositoryUrl": "https://github.com/aldveylor/dsh-intellisense",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7090
+}
