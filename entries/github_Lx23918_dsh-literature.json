@@ -1,0 +1,20 @@
+{
+  "id": "github:Lx23918/dsh-literature",
+  "kind": "plugin",
+  "name": "dsh-literature",
+  "description": "DeepSeek Harness 的原生文献管理功能：支持本地 PDF 文件、已验证的引用，以及 BibTeX/BibLaTeX 导出。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lx23918/dsh-literature",
+  "repositoryUrl": "https://github.com/Lx23918/dsh-literature",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7092
+}
