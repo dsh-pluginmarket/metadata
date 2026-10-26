@@ -1,0 +1,20 @@
+{
+  "id": "github:onesmash/dsh-reflex",
+  "kind": "plugin",
+  "name": "dsh-reflex",
+  "description": "Related DeepSeek Harness project: onesmash/dsh-reflex",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "onesmash/dsh-reflex",
+  "repositoryUrl": "https://github.com/onesmash/dsh-reflex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6974
+}
