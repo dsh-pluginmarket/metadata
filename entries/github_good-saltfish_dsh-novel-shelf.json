@@ -1,0 +1,20 @@
+{
+  "id": "github:good-saltfish/dsh-novel-shelf",
+  "kind": "plugin",
+  "name": "dsh-novel-shelf",
+  "description": "在 DSH（DeepSeek Harness）右侧栏里读本地 txt 小说，与 novel-reader 共用书架、批注与阅读进度。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "good-saltfish/dsh-novel-shelf",
+  "repositoryUrl": "https://github.com/good-saltfish/dsh-novel-shelf",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7325
+}
