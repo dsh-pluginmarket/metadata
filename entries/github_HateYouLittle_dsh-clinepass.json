@@ -1,0 +1,20 @@
+{
+  "id": "github:HateYouLittle/dsh-clinepass",
+  "kind": "plugin",
+  "name": "dsh-clinepass",
+  "description": "Related DeepSeek Harness project: HateYouLittle/dsh-clinepass",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HateYouLittle/dsh-clinepass",
+  "repositoryUrl": "https://github.com/HateYouLittle/dsh-clinepass",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6936
+}
