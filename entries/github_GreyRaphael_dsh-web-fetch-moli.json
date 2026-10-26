@@ -1,0 +1,20 @@
+{
+  "id": "github:GreyRaphael/dsh-web-fetch-moli",
+  "kind": "plugin",
+  "name": "dsh-web-fetch-moli",
+  "description": "Related DeepSeek Harness project: GreyRaphael/dsh-web-fetch-moli",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GreyRaphael/dsh-web-fetch-moli",
+  "repositoryUrl": "https://github.com/GreyRaphael/dsh-web-fetch-moli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6829
+}
