@@ -1,0 +1,20 @@
+{
+  "id": "github:dingchenhui0618-arch/dsh-tab-complete",
+  "kind": "plugin",
+  "name": "dsh-tab-complete",
+  "description": "Tab 补全：用模型预测你在 DeepSeek Harness 输入框里接下来要打的字，灰色幽灵文本 + Tab 一键填入（Codex Pro 那套输入预测的 DSH 版）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dingchenhui0618-arch/dsh-tab-complete",
+  "repositoryUrl": "https://github.com/dingchenhui0618-arch/dsh-tab-complete",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7116
+}
