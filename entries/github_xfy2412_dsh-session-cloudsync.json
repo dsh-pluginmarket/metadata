@@ -1,0 +1,20 @@
+{
+  "id": "github:xfy2412/dsh-session-cloudsync",
+  "kind": "plugin",
+  "name": "dsh-session-cloudsync",
+  "description": "适用于dsh的会话同步插件及配套可自部署服务器",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xfy2412/dsh-session-cloudsync",
+  "repositoryUrl": "https://github.com/xfy2412/dsh-session-cloudsync",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7047
+}
