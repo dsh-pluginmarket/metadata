@@ -1,0 +1,20 @@
+{
+  "id": "github:violin-i/dsh-plugin-cnki-assist",
+  "kind": "plugin",
+  "name": "dsh-plugin-cnki-assist",
+  "description": "知网(CNKI)文献工作流助手 for DeepSeek Harness：检索链接生成 + 题录导出解析",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "violin-i/dsh-plugin-cnki-assist",
+  "repositoryUrl": "https://github.com/violin-i/dsh-plugin-cnki-assist",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7394
+}
