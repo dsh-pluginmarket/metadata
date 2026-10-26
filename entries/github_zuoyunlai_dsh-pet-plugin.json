@@ -1,0 +1,20 @@
+{
+  "id": "github:zuoyunlai/dsh-pet-plugin",
+  "kind": "plugin",
+  "name": "dsh-pet-plugin",
+  "description": "Photo-real desk pet plugin for DeepSeek Harness: four personas, expressions + actions, proactive speech, neural TTS, tiny chat box that never touches your session.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuoyunlai/dsh-pet-plugin",
+  "repositoryUrl": "https://github.com/zuoyunlai/dsh-pet-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7028
+}
