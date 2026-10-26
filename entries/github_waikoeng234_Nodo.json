@@ -1,0 +1,20 @@
+{
+  "id": "github:waikoeng234/Nodo",
+  "kind": "plugin",
+  "name": "Nodo",
+  "description": "Combine multiple agents like Claude, Code, and Codex into a team and collaborate on a single workspace.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "waikoeng234/Nodo",
+  "repositoryUrl": "https://github.com/waikoeng234/Nodo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6977
+}
