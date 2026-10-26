@@ -1,0 +1,20 @@
+{
+  "id": "github:elegant01/dsh-memory-watchdog",
+  "kind": "plugin",
+  "name": "dsh-memory-watchdog",
+  "description": "Windows commit-memory watchdog for DSH Desktop: commit attribution, configurable thresholds, a fail-closed restart gate, read-only pagefile advice, a 7-day crash timeline, and opt-in automatic restart / crash-resume.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "elegant01/dsh-memory-watchdog",
+  "repositoryUrl": "https://github.com/elegant01/dsh-memory-watchdog",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6864
+}
