@@ -1,0 +1,20 @@
+{
+  "id": "github:xinxing1708/DSH-Codex-Style",
+  "kind": "plugin",
+  "name": "DSH-Codex-Style",
+  "description": "为Deepseek-Harness制作的Codex界面的UI插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xinxing1708/DSH-Codex-Style",
+  "repositoryUrl": "https://github.com/xinxing1708/DSH-Codex-Style",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7342
+}
