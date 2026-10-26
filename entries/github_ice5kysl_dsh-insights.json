@@ -1,0 +1,20 @@
+{
+  "id": "github:ice5kysl/dsh-insights",
+  "kind": "plugin",
+  "name": "dsh-insights",
+  "description": "DSH Insights — the DeepSeek Harness ecosystem observatory: full-corpus plugin discovery, manifest-gated authoritative set, objective health scores (S/A–D), official dynamics, author analytics, weekly ecosystem reports, open data + badges. Zero-dependency Node pipeline.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ice5kysl/dsh-insights",
+  "repositoryUrl": "https://github.com/ice5kysl/dsh-insights",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7053
+}
