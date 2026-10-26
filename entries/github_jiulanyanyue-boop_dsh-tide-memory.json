@@ -1,0 +1,20 @@
+{
+  "id": "github:jiulanyanyue-boop/dsh-tide-memory",
+  "kind": "plugin",
+  "name": "dsh-tide-memory",
+  "description": "Long-term memory for DeepSeek Harness that actually remembers you — and knows what to forget. Three-question gate, scoped recall, auto-expiry, bi-temporal SQLite. Zero npm/pip deps.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jiulanyanyue-boop/dsh-tide-memory",
+  "repositoryUrl": "https://github.com/jiulanyanyue-boop/dsh-tide-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7370
+}
