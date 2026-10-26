@@ -1,0 +1,20 @@
+{
+  "id": "github:O-OII/dsh-native-taskbar-badge",
+  "kind": "plugin",
+  "name": "dsh-native-taskbar-badge",
+  "description": "Windows-native taskbar number badges for DeepSeek Harness. No ASAR patch, toast, sound or focus stealing. English / Chinese.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "O-OII/dsh-native-taskbar-badge",
+  "repositoryUrl": "https://github.com/O-OII/dsh-native-taskbar-badge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6882
+}
