@@ -1,0 +1,20 @@
+{
+  "id": "github:fanrj3/dsh-presence",
+  "kind": "plugin",
+  "name": "dsh-presence",
+  "description": "Run coding agents on any SSH host as if it were local: one persistent connection, native file editing, search, exec, terminals and port forwards, with nothing installed remotely.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fanrj3/dsh-presence",
+  "repositoryUrl": "https://github.com/fanrj3/dsh-presence",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7286
+}
