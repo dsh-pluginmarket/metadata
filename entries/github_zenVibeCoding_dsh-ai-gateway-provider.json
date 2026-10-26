@@ -1,0 +1,20 @@
+{
+  "id": "github:zenVibeCoding/dsh-ai-gateway-provider",
+  "kind": "plugin",
+  "name": "dsh-ai-gateway-provider",
+  "description": "Any OpenAI-compatible gateway for DeepSeek Harness: probe, save, manage models; known backends report quota.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zenVibeCoding/dsh-ai-gateway-provider",
+  "repositoryUrl": "https://github.com/zenVibeCoding/dsh-ai-gateway-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7132
+}
