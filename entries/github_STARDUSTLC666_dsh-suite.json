@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-suite",
+  "kind": "plugin",
+  "name": "dsh-suite",
+  "description": "一次安装 18 个独立 DSH 插件，并统一组合它们的默认配置。 欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-suite",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7213
+}
