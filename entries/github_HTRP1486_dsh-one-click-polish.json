@@ -1,0 +1,20 @@
+{
+  "id": "github:HTRP1486/dsh-one-click-polish",
+  "kind": "plugin",
+  "name": "dsh-one-click-polish",
+  "description": "一键润色 / 扩写 / 自动驾驶 for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HTRP1486/dsh-one-click-polish",
+  "repositoryUrl": "https://github.com/HTRP1486/dsh-one-click-polish",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7155
+}
