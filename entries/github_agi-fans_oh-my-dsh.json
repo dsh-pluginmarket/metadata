@@ -1,0 +1,20 @@
+{
+  "id": "github:agi-fans/oh-my-dsh",
+  "kind": "plugin",
+  "name": "oh-my-dsh",
+  "description": "omdsh is the terminal client for DeepSeek Harness: a focused, keyboard-first DeepSeek coding agent built on its plugin architecture, with interaction quality inspired by oh-my-pi and the original Pi agent harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "agi-fans/oh-my-dsh",
+  "repositoryUrl": "https://github.com/agi-fans/oh-my-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7326
+}
