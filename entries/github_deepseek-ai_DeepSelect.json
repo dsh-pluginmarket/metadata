@@ -1,0 +1,20 @@
+{
+  "id": "github:deepseek-ai/DeepSelect",
+  "kind": "plugin",
+  "name": "DeepSelect",
+  "description": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "deepseek-ai/DeepSelect",
+  "repositoryUrl": "https://github.com/deepseek-ai/DeepSelect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7403
+}
