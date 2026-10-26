@@ -1,0 +1,20 @@
+{
+  "id": "github:amazing-fish/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "ARCHIVED 2026-10-26 — historical plugins + frozen patches snapshot. Live work: ~/.dsh/patches locally.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "amazing-fish/dsh-plugins",
+  "repositoryUrl": "https://github.com/amazing-fish/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7088
+}
