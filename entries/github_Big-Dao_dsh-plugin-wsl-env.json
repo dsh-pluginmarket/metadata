@@ -1,0 +1,20 @@
+{
+  "id": "github:Big-Dao/dsh-plugin-wsl-env",
+  "kind": "plugin",
+  "name": "dsh-plugin-wsl-env",
+  "description": "Run a DeepSeek Harness session against a WSL distro: ctx.shell, ctx.fs and the GUI terminal served from inside the distro, sandboxed with bubblewrap",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Big-Dao/dsh-plugin-wsl-env",
+  "repositoryUrl": "https://github.com/Big-Dao/dsh-plugin-wsl-env",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7166
+}
