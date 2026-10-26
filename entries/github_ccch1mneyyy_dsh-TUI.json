@@ -1,0 +1,20 @@
+{
+  "id": "github:ccch1mneyyy/dsh-TUI",
+  "kind": "plugin",
+  "name": "dsh-TUI",
+  "description": "DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccch1mneyyy/dsh-TUI",
+  "repositoryUrl": "https://github.com/ccch1mneyyy/dsh-TUI",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7120
+}
