@@ -1,0 +1,20 @@
+{
+  "id": "github:zzsszz1122/dsh-agnes-media",
+  "kind": "plugin",
+  "name": "dsh-agnes-media",
+  "description": "Agnes image and video models inside a DeepSeek Harness sidebar panel, with durable background tasks and history.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zzsszz1122/dsh-agnes-media",
+  "repositoryUrl": "https://github.com/zzsszz1122/dsh-agnes-media",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7173
+}
