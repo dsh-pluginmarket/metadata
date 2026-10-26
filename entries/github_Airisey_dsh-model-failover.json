@@ -1,0 +1,20 @@
+{
+  "id": "github:Airisey/dsh-model-failover",
+  "kind": "plugin",
+  "name": "dsh-model-failover",
+  "description": "模型接力 —— 用优先级队列接管 LLM 输出",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Airisey/dsh-model-failover",
+  "repositoryUrl": "https://github.com/Airisey/dsh-model-failover",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7207
+}
