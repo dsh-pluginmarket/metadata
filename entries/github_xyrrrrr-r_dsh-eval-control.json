@@ -1,0 +1,20 @@
+{
+  "id": "github:xyrrrrr-r/dsh-eval-control",
+  "kind": "plugin",
+  "name": "dsh-eval-control",
+  "description": "DSH 会话轨迹分析插件：上下文演化、团队协作图、工具错误证据链、智能告警、会话对比与导出，兼作 aeval 评测控制",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xyrrrrr-r/dsh-eval-control",
+  "repositoryUrl": "https://github.com/xyrrrrr-r/dsh-eval-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7016
+}
