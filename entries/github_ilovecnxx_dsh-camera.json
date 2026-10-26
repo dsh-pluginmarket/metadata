@@ -1,0 +1,20 @@
+{
+  "id": "github:ilovecnxx/dsh-camera",
+  "kind": "plugin",
+  "name": "dsh-camera",
+  "description": "DSH 插件：局域网手机扫码拍照/选图，手动确认后直接发进当前对话（多图一条消息，不自动发送）。LAN phone camera → DSH chat, manual review & send.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ilovecnxx/dsh-camera",
+  "repositoryUrl": "https://github.com/ilovecnxx/dsh-camera",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7204
+}
