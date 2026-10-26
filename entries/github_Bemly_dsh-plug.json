@@ -1,0 +1,20 @@
+{
+  "id": "github:Bemly/dsh-plug",
+  "kind": "plugin",
+  "name": "dsh-plug",
+  "description": "🫐Bemly_'s o-chinchin🐳",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Bemly/dsh-plug",
+  "repositoryUrl": "https://github.com/Bemly/dsh-plug",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7334
+}
