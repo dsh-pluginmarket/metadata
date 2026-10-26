@@ -1,0 +1,20 @@
+{
+  "id": "github:micellince/dsh-long-novel-workbench",
+  "kind": "plugin",
+  "name": "dsh-long-novel-workbench",
+  "description": "长篇中文小说工作台（DSH 插件）。围绕「读—批注—审—改」：正文页优先的连续阅读与页内编辑、读者批注、四路审阅（逻辑·注意力·AI 味·读者）、段落级提案、全文动作 run，配合注意力设计、账本与世界地图。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "micellince/dsh-long-novel-workbench",
+  "repositoryUrl": "https://github.com/micellince/dsh-long-novel-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7375
+}
