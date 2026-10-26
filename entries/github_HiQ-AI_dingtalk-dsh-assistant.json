@@ -1,0 +1,20 @@
+{
+  "id": "github:HiQ-AI/dingtalk-dsh-assistant",
+  "kind": "plugin",
+  "name": "dingtalk-dsh-assistant",
+  "description": "基于 DeepSeek Harness 的钉钉群聊常驻个人助理插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HiQ-AI/dingtalk-dsh-assistant",
+  "repositoryUrl": "https://github.com/HiQ-AI/dingtalk-dsh-assistant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 6980
+}
