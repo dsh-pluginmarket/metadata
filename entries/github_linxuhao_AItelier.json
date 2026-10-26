@@ -1,0 +1,20 @@
+{
+  "id": "github:linxuhao/AItelier",
+  "kind": "plugin",
+  "name": "AItelier",
+  "description": "AI-Atelier, the all in one personal \"atelier\" (means handcraft studio in french) that can adapt to your need.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "linxuhao/AItelier",
+  "repositoryUrl": "https://github.com/linxuhao/AItelier",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7162
+}
