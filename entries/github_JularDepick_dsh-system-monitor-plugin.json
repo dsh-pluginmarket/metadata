@@ -1,0 +1,20 @@
+{
+  "id": "github:JularDepick/dsh-system-monitor-plugin",
+  "kind": "plugin",
+  "name": "dsh-system-monitor-plugin",
+  "description": "A plugin for dsh: monitor the resource utilization of dsh system processes and report the results to the user in the form of charts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JularDepick/dsh-system-monitor-plugin",
+  "repositoryUrl": "https://github.com/JularDepick/dsh-system-monitor-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7356
+}
