@@ -1,0 +1,20 @@
+{
+  "id": "github:Boobaw/dsh-telegram-bot",
+  "kind": "plugin",
+  "name": "dsh-telegram-bot",
+  "description": "Telegram DM topics for DeepSeek Harness sessions: streaming, approvals, structured questions and session controls.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Boobaw/dsh-telegram-bot",
+  "repositoryUrl": "https://github.com/Boobaw/dsh-telegram-bot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7329
+}
