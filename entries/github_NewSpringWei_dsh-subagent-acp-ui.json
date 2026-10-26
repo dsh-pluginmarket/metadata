@@ -1,0 +1,20 @@
+{
+  "id": "github:NewSpringWei/dsh-subagent-acp-ui",
+  "kind": "plugin",
+  "name": "dsh-subagent-acp-ui",
+  "description": "基于官方 ACP provider 接入任意 ACP agent，提供配置页、握手测试与路由 skill。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NewSpringWei/dsh-subagent-acp-ui",
+  "repositoryUrl": "https://github.com/NewSpringWei/dsh-subagent-acp-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7314
+}
