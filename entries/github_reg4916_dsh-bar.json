@@ -1,0 +1,26 @@
+{
+  "id": "github:reg4916/dsh-bar",
+  "kind": "plugin",
+  "name": "dsh-bar",
+  "description": "Animated whale in the macOS menu bar for DeepSeek Harness: live session state, Approve/Deny for tool approvals, stop the current turn, open the exact session, launch at login.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "reg4916/dsh-bar",
+  "repositoryUrl": "https://github.com/reg4916/dsh-bar",
+  "npmPackage": "dsh-bar",
+  "tags": [
+    "macos",
+    "menu-bar",
+    "status",
+    "approvals",
+    "swift",
+    "desktop"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "reg4916",
+  "issueNumber": 7451
+}
