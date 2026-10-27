@@ -1,0 +1,27 @@
+{
+  "id": "github:reg4916/dsh-doc-reader",
+  "kind": "plugin",
+  "name": "dsh-doc-reader",
+  "description": "Read PDF, DOCX, XLSX, PPTX and text documents as agent tools, and OCR scanned PDFs or images locally with tesseract.js. Exposes doc_read, pdf_read, xlsx_read, doc_meta and doc_ocr.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "reg4916/dsh-doc-reader",
+  "repositoryUrl": "https://github.com/reg4916/dsh-doc-reader",
+  "npmPackage": "dsh-doc-reader",
+  "tags": [
+    "pdf",
+    "docx",
+    "xlsx",
+    "pptx",
+    "ocr",
+    "documents",
+    "tesseract"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "reg4916",
+  "issueNumber": 7449
+}
