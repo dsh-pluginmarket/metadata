@@ -1,0 +1,23 @@
+{
+  "id": "github:yinsang0910-star/dsh-feishu-plugin",
+  "kind": "plugin",
+  "name": "dsh-feishu-plugin",
+  "description": "飞书连接设置页（Web UI bundle）：四步向导 + 扫码创建飞书应用（RFC 8628 设备授权）+ 九项实时自检，自检失败直接给出该开通的 scope。配置完成后由同一上游仓库的 stdio MCP server 提供 36 个工具：把本地文件与图片真正发进会话、读取会话上下文、卡片原地刷新、停下来等人拍板。An in-app Feishu/Lark connection wizard for the DeepSeek Harness Web GUI: four-step setup, QR-based app creation via RFC 8628 device authorization, and a nine-item live self-test that names the exact scope to enable on failure. Its companion stdio MCP server exposes 36 tools for sending real files, reading chat context, updating cards in place, and pausing for human approval.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yinsang0910-star/dsh-feishu-plugin",
+  "repositoryUrl": "https://github.com/yinsang0910-star/dsh-feishu-plugin",
+  "tags": [
+    "feishu",
+    "lark",
+    "chat-integration",
+    "im",
+    "setup-wizard"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yinsang0910-star",
+  "issueNumber": 7453
+}
