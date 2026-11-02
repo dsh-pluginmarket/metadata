@@ -1,0 +1,20 @@
+{
+  "id": "github:JeremyWangCY/dsh-rea",
+  "kind": "plugin",
+  "name": "dsh-rea",
+  "description": "REA reverse-engineering tools for DeepSeek Harness, as a filtering MCP bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JeremyWangCY/dsh-rea",
+  "repositoryUrl": "https://github.com/JeremyWangCY/dsh-rea",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7728
+}
