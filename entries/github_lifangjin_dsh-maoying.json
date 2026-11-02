@@ -1,0 +1,20 @@
+{
+  "id": "github:lifangjin/dsh-maoying",
+  "kind": "plugin",
+  "name": "dsh-maoying",
+  "description": "毛颖——DeepSeek Harness 网文创作辅助插件：主编五帮手编排（大纲/正文/审校/设定/考据）、novel/ 文件化书稿、创作台面板、共创模式",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lifangjin/dsh-maoying",
+  "repositoryUrl": "https://github.com/lifangjin/dsh-maoying",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7676
+}
