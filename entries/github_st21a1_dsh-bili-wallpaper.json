@@ -1,0 +1,20 @@
+{
+  "id": "github:st21a1/dsh-bili-wallpaper",
+  "kind": "plugin",
+  "name": "dsh-bili-wallpaper",
+  "description": "Bilibili live-room & video wallpapers for the DeepSeek Harness Web GUI — scan-login, quality picker, blur/scrim controls. No extra runtime deps.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "st21a1/dsh-bili-wallpaper",
+  "repositoryUrl": "https://github.com/st21a1/dsh-bili-wallpaper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7584
+}
