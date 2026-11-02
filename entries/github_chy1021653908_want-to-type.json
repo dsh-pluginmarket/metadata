@@ -1,0 +1,20 @@
+{
+  "id": "github:chy1021653908/want-to-type",
+  "kind": "plugin",
+  "name": "want-to-type",
+  "description": "Theme-matched typing effects, companions, combos and sounds for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chy1021653908/want-to-type",
+  "repositoryUrl": "https://github.com/chy1021653908/want-to-type",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8005
+}
