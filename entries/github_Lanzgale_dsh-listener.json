@@ -1,0 +1,20 @@
+{
+  "id": "github:Lanzgale/dsh-listener",
+  "kind": "plugin",
+  "name": "dsh-listener",
+  "description": "安全版本地语音输入插件 for DeepSeek Harness:同源宿主代理 + 127.0.0.1 + token,SenseVoice-Small INT8 ONNX 本地转写,音频不出网。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lanzgale/dsh-listener",
+  "repositoryUrl": "https://github.com/Lanzgale/dsh-listener",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7621
+}
