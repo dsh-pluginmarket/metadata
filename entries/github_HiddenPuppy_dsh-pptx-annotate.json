@@ -1,0 +1,20 @@
+{
+  "id": "github:HiddenPuppy/dsh-pptx-annotate",
+  "kind": "plugin",
+  "name": "dsh-pptx-annotate",
+  "description": "DSH plugin — annotate PPTX element by element in the preview panel, then hand the whole review to the agent in one click",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HiddenPuppy/dsh-pptx-annotate",
+  "repositoryUrl": "https://github.com/HiddenPuppy/dsh-pptx-annotate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7964
+}
