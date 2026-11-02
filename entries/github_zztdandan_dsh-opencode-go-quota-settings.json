@@ -1,0 +1,20 @@
+{
+  "id": "github:zztdandan/dsh-opencode-go-quota-settings",
+  "kind": "plugin",
+  "name": "dsh-opencode-go-quota-settings",
+  "description": "DSH plugin: OpenCode GO plan quota in Settings (no sidebar widget), same-origin usage proxy, /opencode-go-quota command",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zztdandan/dsh-opencode-go-quota-settings",
+  "repositoryUrl": "https://github.com/zztdandan/dsh-opencode-go-quota-settings",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7607
+}
