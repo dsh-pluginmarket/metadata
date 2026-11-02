@@ -1,0 +1,20 @@
+{
+  "id": "github:snakejohn/dsh-hindsight-local",
+  "kind": "plugin",
+  "name": "dsh-hindsight-local",
+  "description": "Related DeepSeek Harness project: snakejohn/dsh-hindsight-local",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "snakejohn/dsh-hindsight-local",
+  "repositoryUrl": "https://github.com/snakejohn/dsh-hindsight-local",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7999
+}
