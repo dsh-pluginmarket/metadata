@@ -1,0 +1,20 @@
+{
+  "id": "github:wang1299/dsh-reforge",
+  "kind": "plugin",
+  "name": "dsh-reforge",
+  "description": "DSH-Reforge (dsh-reforge) — DeepSeek Harness plugin for traceable experience from test-verified Python bug fixes. 从有测试依据的 Python 修复中积累可追溯经验。Experimental alpha · DSH 0.2.0-rc.2.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wang1299/dsh-reforge",
+  "repositoryUrl": "https://github.com/wang1299/dsh-reforge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7919
+}
