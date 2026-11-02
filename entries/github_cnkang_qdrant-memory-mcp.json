@@ -1,0 +1,20 @@
+{
+  "id": "github:cnkang/qdrant-memory-mcp",
+  "kind": "plugin",
+  "name": "qdrant-memory-mcp",
+  "description": "Metadata-only PyPI and MCP Registry distribution for the Qdrant Memory Runtime",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cnkang/qdrant-memory-mcp",
+  "repositoryUrl": "https://github.com/cnkang/qdrant-memory-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7585
+}
