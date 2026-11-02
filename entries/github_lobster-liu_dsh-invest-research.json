@@ -1,0 +1,20 @@
+{
+  "id": "github:lobster-liu/dsh-invest-research",
+  "kind": "plugin",
+  "name": "dsh-invest-research",
+  "description": "Multi-agent A-share research pipeline skill for DeepSeek Harness (6 roles, dual-blind risk review, source-cited reports, PII gate)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lobster-liu/dsh-invest-research",
+  "repositoryUrl": "https://github.com/lobster-liu/dsh-invest-research",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7512
+}
