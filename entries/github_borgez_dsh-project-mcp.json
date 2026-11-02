@@ -1,0 +1,20 @@
+{
+  "id": "github:borgez/dsh-project-mcp",
+  "kind": "plugin",
+  "name": "dsh-project-mcp",
+  "description": "Per-project MCP servers for DeepSeek Harness — project-declared MCP mounts, scoped to sessions working in that project",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "borgez/dsh-project-mcp",
+  "repositoryUrl": "https://github.com/borgez/dsh-project-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7633
+}
