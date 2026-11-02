@@ -1,0 +1,20 @@
+{
+  "id": "github:liuhaolong16/dsh-paper-studio",
+  "kind": "plugin",
+  "name": "dsh-paper-studio",
+  "description": "论文方案（编排层）+ DSH 论文插件 V3：真源唯一 · 双模式（用户模式默认封闭）· 五种写作模式（行为差异化）· 确定性意图判据 · 可复跑自检（插件 20/20 · 出厂审查 6/6 · 编排层 53/53）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuhaolong16/dsh-paper-studio",
+  "repositoryUrl": "https://github.com/liuhaolong16/dsh-paper-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7469
+}
