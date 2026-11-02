@@ -1,0 +1,20 @@
+{
+  "id": "github:dshworks/plugins",
+  "kind": "plugin",
+  "name": "plugins",
+  "description": "The install decision for DeepSeek Harness plugins: the file that proves it installs, whether anyone still maintains it, and how crowded the shelf is. Not a twenty-fifth list.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dshworks/plugins",
+  "repositoryUrl": "https://github.com/dshworks/plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7988
+}
