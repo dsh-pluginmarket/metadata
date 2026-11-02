@@ -1,0 +1,20 @@
+{
+  "id": "github:jack-chai-work/dsh-work-window",
+  "kind": "plugin",
+  "name": "dsh-work-window",
+  "description": "DSH 工作时段插件：工作日 9:00-12:00 / 14:00-18:00 自动暂停 agent（零 token），暂停时段任务先提醒并确认；",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jack-chai-work/dsh-work-window",
+  "repositoryUrl": "https://github.com/jack-chai-work/dsh-work-window",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7722
+}
