@@ -1,0 +1,20 @@
+{
+  "id": "github:Biogod2020/dsh-article-review",
+  "kind": "plugin",
+  "name": "dsh-article-review",
+  "description": "DSH Markdown manuscript review plugin source: annotations, proposals, version comparison, figures and BibTeX",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Biogod2020/dsh-article-review",
+  "repositoryUrl": "https://github.com/Biogod2020/dsh-article-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7880
+}
