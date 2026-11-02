@@ -1,0 +1,20 @@
+{
+  "id": "github:aureth-labs/dsh-aurabot-qq",
+  "kind": "plugin",
+  "name": "dsh-aurabot-qq",
+  "description": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aureth-labs/dsh-aurabot-qq",
+  "repositoryUrl": "https://github.com/aureth-labs/dsh-aurabot-qq",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7575
+}
