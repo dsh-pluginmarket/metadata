@@ -1,0 +1,20 @@
+{
+  "id": "github:Lumos-789/delivery-video-plugin",
+  "kind": "plugin",
+  "name": "delivery-video-plugin",
+  "description": "Turn a feature that actually runs into a trustworthy delivery demo video: real recordings, edge-tts narration, word-synced subtitles, deterministic quality gate. ZCode plugin + DSH skill plugin, dual-form.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lumos-789/delivery-video-plugin",
+  "repositoryUrl": "https://github.com/Lumos-789/delivery-video-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7768
+}
