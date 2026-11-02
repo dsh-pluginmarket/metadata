@@ -1,0 +1,20 @@
+{
+  "id": "github:GIT121995/dsh-feiyu-wardrobe",
+  "kind": "plugin",
+  "name": "dsh-feiyu-wardrobe",
+  "description": "🐋 大肥鱼衣橱 — DSH 插件：token 花销变鱼粮 + 侧边栏换装小游戏（Q版/少女版双身形、整套穿着立绘、悬浮小鲸鱼，纯本地离线）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GIT121995/dsh-feiyu-wardrobe",
+  "repositoryUrl": "https://github.com/GIT121995/dsh-feiyu-wardrobe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7680
+}
