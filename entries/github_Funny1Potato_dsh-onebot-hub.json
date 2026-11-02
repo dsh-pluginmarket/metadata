@@ -1,0 +1,20 @@
+{
+  "id": "github:Funny1Potato/dsh-onebot-hub",
+  "kind": "plugin",
+  "name": "dsh-onebot-hub",
+  "description": "OneBot v11 hub for DeepSeek Harness: relays QQ events verbatim to downstream bots while giving the agent a full timeline, action ledger and 30 onebot_* tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Funny1Potato/dsh-onebot-hub",
+  "repositoryUrl": "https://github.com/Funny1Potato/dsh-onebot-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7989
+}
