@@ -1,0 +1,20 @@
+{
+  "id": "github:Beellix-dev/dsh-beellix-plugin",
+  "kind": "plugin",
+  "name": "dsh-beellix-plugin",
+  "description": "Beelli X 中台插件 社区版 · Harness-Based Agentic Data Engineering",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Beellix-dev/dsh-beellix-plugin",
+  "repositoryUrl": "https://github.com/Beellix-dev/dsh-beellix-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7544
+}
