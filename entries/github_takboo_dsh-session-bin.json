@@ -1,0 +1,20 @@
+{
+  "id": "github:takboo/dsh-session-bin",
+  "kind": "plugin",
+  "name": "dsh-session-bin",
+  "description": "Native archived-session management for DeepSeek Harness with guarded permanent deletion and fixed batches.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "takboo/dsh-session-bin",
+  "repositoryUrl": "https://github.com/takboo/dsh-session-bin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7725
+}
