@@ -1,0 +1,20 @@
+{
+  "id": "github:PPawnsir/dsh-notes-plugin",
+  "kind": "plugin",
+  "name": "dsh-notes-plugin",
+  "description": "Related DeepSeek Harness project: PPawnsir/dsh-notes-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PPawnsir/dsh-notes-plugin",
+  "repositoryUrl": "https://github.com/PPawnsir/dsh-notes-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8003
+}
