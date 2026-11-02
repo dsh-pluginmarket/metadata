@@ -1,0 +1,20 @@
+{
+  "id": "github:prophetcrab/dsh-qqbot",
+  "kind": "plugin",
+  "name": "dsh-qqbot",
+  "description": "QQ bot control center for DeepSeek Harness: one-click NapCat/Koishi setup, message monitor, permissions, and AI chat with personas/memory.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "prophetcrab/dsh-qqbot",
+  "repositoryUrl": "https://github.com/prophetcrab/dsh-qqbot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7786
+}
