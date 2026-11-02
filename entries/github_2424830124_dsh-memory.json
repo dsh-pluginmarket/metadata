@@ -1,0 +1,20 @@
+{
+  "id": "github:2424830124/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "dsh 可自定义结构的记忆插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2424830124/dsh-memory",
+  "repositoryUrl": "https://github.com/2424830124/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7705
+}
