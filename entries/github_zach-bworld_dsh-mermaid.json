@@ -1,0 +1,20 @@
+{
+  "id": "github:zach-bworld/dsh-mermaid",
+  "kind": "plugin",
+  "name": "dsh-mermaid",
+  "description": "DSH 插件：会话内 Mermaid 图表渲染",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zach-bworld/dsh-mermaid",
+  "repositoryUrl": "https://github.com/zach-bworld/dsh-mermaid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7472
+}
