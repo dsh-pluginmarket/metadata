@@ -1,0 +1,20 @@
+{
+  "id": "github:Bai-2008/dsh-mcp-center",
+  "kind": "plugin",
+  "name": "dsh-mcp-center",
+  "description": "中文优先的 MCP Server 市场：Git registry + Astro 静态站 + GitHub Pages",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Bai-2008/dsh-mcp-center",
+  "repositoryUrl": "https://github.com/Bai-2008/dsh-mcp-center",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7882
+}
