@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaobaga281/dsh-session-manager",
+  "kind": "plugin",
+  "name": "dsh-session-manager",
+  "description": "会话管理 · DSH 设置页插件：搜索已归档会话、查看占用体积，多选恢复或永久删除（含残留清理与延迟删除重试）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaobaga281/dsh-session-manager",
+  "repositoryUrl": "https://github.com/xiaobaga281/dsh-session-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7556
+}
