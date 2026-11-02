@@ -1,0 +1,20 @@
+{
+  "id": "github:jackxu925/dsh-pwa",
+  "kind": "plugin",
+  "name": "dsh-pwa",
+  "description": "Phone-first PWA for DeepSeek Harness — sessions, streaming chat, approvals on iOS and Android. No app install.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jackxu925/dsh-pwa",
+  "repositoryUrl": "https://github.com/jackxu925/dsh-pwa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7455
+}
