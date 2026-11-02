@@ -1,0 +1,20 @@
+{
+  "id": "github:zuojinxin/dsh-sidebar-manager",
+  "kind": "plugin",
+  "name": "dsh-sidebar-manager",
+  "description": "让 DSH 的扩展入口和视图标签支持折叠、排序、隐藏。Collapse, reorder and hide the DSH sidebar extensions and the conversation view tabs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuojinxin/dsh-sidebar-manager",
+  "repositoryUrl": "https://github.com/zuojinxin/dsh-sidebar-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7871
+}
