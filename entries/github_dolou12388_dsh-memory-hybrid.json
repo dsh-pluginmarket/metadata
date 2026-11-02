@@ -1,0 +1,20 @@
+{
+  "id": "github:dolou12388/dsh-memory-hybrid",
+  "kind": "plugin",
+  "name": "dsh-memory-hybrid",
+  "description": "给 DeepSeek Harness 的混合架构长期记忆插件：KV 权威层 + 向量派生索引 + 艾宾浩斯衰减 + 可选 Jev 判别",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dolou12388/dsh-memory-hybrid",
+  "repositoryUrl": "https://github.com/dolou12388/dsh-memory-hybrid",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8026
+}
