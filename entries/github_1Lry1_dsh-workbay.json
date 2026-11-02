@@ -1,0 +1,20 @@
+{
+  "id": "github:1Lry1/dsh-workbay",
+  "kind": "plugin",
+  "name": "dsh-workbay",
+  "description": "DSH workbench: a dock host, GitCraft and Downloader pages, a shared host kit, and a one-shot suite bundle.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1Lry1/dsh-workbay",
+  "repositoryUrl": "https://github.com/1Lry1/dsh-workbay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7604
+}
