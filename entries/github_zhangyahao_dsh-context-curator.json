@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangyahao/dsh-context-curator",
+  "kind": "plugin",
+  "name": "dsh-context-curator",
+  "description": "把 DeepSeek Harness 每轮模型请求里那些冗长但偶尔才用得上的提示词段，折叠成一行索引； 原文留在插件内存里，模型（或你）确实需要细节时再按名字取回。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangyahao/dsh-context-curator",
+  "repositoryUrl": "https://github.com/zhangyahao/dsh-context-curator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7783
+}
