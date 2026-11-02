@@ -1,0 +1,20 @@
+{
+  "id": "github:KissBlank/dsh-session-manager",
+  "kind": "plugin",
+  "name": "dsh-session-manager",
+  "description": "Purge DSH Sessions for good and manage them from one console: five-step deletion, bulk cleanup with force/interrupt guards. DSH 会话彻底删除 + 会话管理控制台。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KissBlank/dsh-session-manager",
+  "repositoryUrl": "https://github.com/KissBlank/dsh-session-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7848
+}
