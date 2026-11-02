@@ -1,0 +1,20 @@
+{
+  "id": "github:Tkingxiao/I-am-Yuike",
+  "kind": "plugin",
+  "name": "I-am-Yuike",
+  "description": "一个猫娘人格扮演插件（软破限），去除dsh强制加入的附加提示词，只附带工具链和猫娘基准人格的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tkingxiao/I-am-Yuike",
+  "repositoryUrl": "https://github.com/Tkingxiao/I-am-Yuike",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7689
+}
