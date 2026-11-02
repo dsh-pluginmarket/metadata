@@ -1,0 +1,20 @@
+{
+  "id": "github:nobodyhere34/dsh-session-subagent-models",
+  "kind": "plugin",
+  "name": "dsh-session-subagent-models",
+  "description": "Per-session editable subagent model allowlists for DSH — experimental, known design flaws, not maintained",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nobodyhere34/dsh-session-subagent-models",
+  "repositoryUrl": "https://github.com/nobodyhere34/dsh-session-subagent-models",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7858
+}
