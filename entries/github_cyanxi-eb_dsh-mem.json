@@ -1,0 +1,20 @@
+{
+  "id": "github:cyanxi-eb/dsh-mem",
+  "kind": "plugin",
+  "name": "dsh-mem",
+  "description": "为你的DSH部署一个零依赖本地记忆层，只回指针 + 原文切片，不摘要、不转述、不开端口、不常驻、不调 API。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cyanxi-eb/dsh-mem",
+  "repositoryUrl": "https://github.com/cyanxi-eb/dsh-mem",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7818
+}
