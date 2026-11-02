@@ -1,0 +1,20 @@
+{
+  "id": "github:mikuniemo/dsh-skill-router",
+  "kind": "plugin",
+  "name": "dsh-skill-router",
+  "description": "把 DeepSeek Harness 技能目录从 O(全部技能) 降到 ~600 token：常驻路由器 + 按需分类索引。零依赖，跨平台。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mikuniemo/dsh-skill-router",
+  "repositoryUrl": "https://github.com/mikuniemo/dsh-skill-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7971
+}
