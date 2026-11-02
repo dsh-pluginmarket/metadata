@@ -1,0 +1,20 @@
+{
+  "id": "github:ECNU/EduWork",
+  "kind": "plugin",
+  "name": "EduWork",
+  "description": "Related DeepSeek Harness project: ECNU/EduWork",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ECNU/EduWork",
+  "repositoryUrl": "https://github.com/ECNU/EduWork",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7953
+}
