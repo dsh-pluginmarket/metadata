@@ -1,0 +1,20 @@
+{
+  "id": "github:brickhu/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "deepseek harness plugins",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "brickhu/dsh-plugins",
+  "repositoryUrl": "https://github.com/brickhu/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7533
+}
