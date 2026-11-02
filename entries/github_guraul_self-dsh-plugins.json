@@ -1,0 +1,20 @@
+{
+  "id": "github:guraul/self-dsh-plugins",
+  "kind": "plugin",
+  "name": "self-dsh-plugins",
+  "description": "自研 DeepSeek Harness (dsh) 插件集合 — 目前收录 dsh-auto-upgrade：Web UI 自动检测升级 + 兼容性预检 + 一键备份/安装/校验/重启",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guraul/self-dsh-plugins",
+  "repositoryUrl": "https://github.com/guraul/self-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7457
+}
