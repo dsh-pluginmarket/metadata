@@ -1,0 +1,20 @@
+{
+  "id": "github:qwq1999/dsh-ide-database",
+  "kind": "plugin",
+  "name": "dsh-ide-database",
+  "description": "DeepSeek Harness（DSH）的 JetBrains Database 风格数据源插件：右侧边栏的数据库工具窗，以及一组供 Agent 查询/操作数据库的工具。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qwq1999/dsh-ide-database",
+  "repositoryUrl": "https://github.com/qwq1999/dsh-ide-database",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7997
+}
