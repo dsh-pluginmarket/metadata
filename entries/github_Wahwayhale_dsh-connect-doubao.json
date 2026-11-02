@@ -1,0 +1,20 @@
+{
+  "id": "github:Wahwayhale/dsh-connect-doubao",
+  "kind": "plugin",
+  "name": "dsh-connect-doubao",
+  "description": "Related DeepSeek Harness project: Wahwayhale/dsh-connect-doubao",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wahwayhale/dsh-connect-doubao",
+  "repositoryUrl": "https://github.com/Wahwayhale/dsh-connect-doubao",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7884
+}
