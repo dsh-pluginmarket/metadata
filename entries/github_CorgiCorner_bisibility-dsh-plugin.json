@@ -1,0 +1,20 @@
+{
+  "id": "github:CorgiCorner/bisibility-dsh-plugin",
+  "kind": "plugin",
+  "name": "bisibility-dsh-plugin",
+  "description": "Bisibility plugin for DeepSeek Harness - SEO rank tracking and AI visibility tools in the DSH sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CorgiCorner/bisibility-dsh-plugin",
+  "repositoryUrl": "https://github.com/CorgiCorner/bisibility-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7667
+}
