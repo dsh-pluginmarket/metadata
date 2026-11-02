@@ -1,0 +1,20 @@
+{
+  "id": "github:ForceMind/dsh-atelier",
+  "kind": "plugin",
+  "name": "dsh-atelier",
+  "description": "Local-first DeepSeek Harness workbench: compact usage and cost metrics, prompt library, activity text, and opt-in request auditing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ForceMind/dsh-atelier",
+  "repositoryUrl": "https://github.com/ForceMind/dsh-atelier",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7928
+}
