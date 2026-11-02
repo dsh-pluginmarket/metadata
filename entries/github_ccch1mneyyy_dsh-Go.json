@@ -1,0 +1,20 @@
+{
+  "id": "github:ccch1mneyyy/dsh-Go",
+  "kind": "plugin",
+  "name": "dsh-Go",
+  "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccch1mneyyy/dsh-Go",
+  "repositoryUrl": "https://github.com/ccch1mneyyy/dsh-Go",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7501
+}
