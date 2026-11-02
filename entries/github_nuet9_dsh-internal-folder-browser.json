@@ -1,0 +1,20 @@
+{
+  "id": "github:nuet9/dsh-internal-folder-browser",
+  "kind": "plugin",
+  "name": "dsh-internal-folder-browser",
+  "description": "Harness internal folder browser with native file icons, thumbnails, and eight view modes",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nuet9/dsh-internal-folder-browser",
+  "repositoryUrl": "https://github.com/nuet9/dsh-internal-folder-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7669
+}
