@@ -1,0 +1,20 @@
+{
+  "id": "github:yukimiracle/dsh-vision-capability",
+  "kind": "plugin",
+  "name": "dsh-vision-capability",
+  "description": "DSH plugin · prove which models really read images, then declare vision support per model (图片能力检测)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yukimiracle/dsh-vision-capability",
+  "repositoryUrl": "https://github.com/yukimiracle/dsh-vision-capability",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7694
+}
