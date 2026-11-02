@@ -1,0 +1,20 @@
+{
+  "id": "github:huaguoxingkong/dsh-prompt-rewriter",
+  "kind": "plugin",
+  "name": "dsh-prompt-rewriter",
+  "description": "One-click prompt enhancement beside the DeepSeek Harness composer: rewrites a draft in place without sending it.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huaguoxingkong/dsh-prompt-rewriter",
+  "repositoryUrl": "https://github.com/huaguoxingkong/dsh-prompt-rewriter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7521
+}
