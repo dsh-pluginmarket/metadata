@@ -1,0 +1,20 @@
+{
+  "id": "github:oceanbase/powercontext",
+  "kind": "plugin",
+  "name": "powercontext",
+  "description": "Agent memory: long-term memory & agent memory handoff. Claude Code & Codex.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oceanbase/powercontext",
+  "repositoryUrl": "https://github.com/oceanbase/powercontext",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7641
+}
