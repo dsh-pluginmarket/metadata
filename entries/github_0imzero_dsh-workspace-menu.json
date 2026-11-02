@@ -1,0 +1,20 @@
+{
+  "id": "github:0imzero/dsh-workspace-menu",
+  "kind": "plugin",
+  "name": "dsh-workspace-menu",
+  "description": "Context menus for DSH workspaces and chats: pin, rename, archive, fork, delete, and open in a new window.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "0imzero/dsh-workspace-menu",
+  "repositoryUrl": "https://github.com/0imzero/dsh-workspace-menu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7751
+}
