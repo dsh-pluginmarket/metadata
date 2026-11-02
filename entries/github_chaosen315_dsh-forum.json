@@ -1,0 +1,20 @@
+{
+  "id": "github:chaosen315/dsh-forum",
+  "kind": "plugin",
+  "name": "dsh-forum",
+  "description": "forum-kb: git-native forum-shaped task knowledge base for single user with multiple agents (experimental)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chaosen315/dsh-forum",
+  "repositoryUrl": "https://github.com/chaosen315/dsh-forum",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7740
+}
