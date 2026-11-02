@@ -1,0 +1,20 @@
+{
+  "id": "github:Tripo-Developer/Tripo3D-Plugin-dsh",
+  "kind": "plugin",
+  "name": "Tripo3D-Plugin-dsh",
+  "description": "Tripo 3D plugin for DeepSeek Harness (dsh): text/image → textured, rig-ready 3D assets via tripo-cli",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tripo-Developer/Tripo3D-Plugin-dsh",
+  "repositoryUrl": "https://github.com/Tripo-Developer/Tripo3D-Plugin-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7608
+}
