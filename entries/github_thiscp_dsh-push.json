@@ -1,0 +1,20 @@
+{
+  "id": "github:thiscp/dsh-push",
+  "kind": "plugin",
+  "name": "dsh-push",
+  "description": "Related DeepSeek Harness project: thiscp/dsh-push",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "thiscp/dsh-push",
+  "repositoryUrl": "https://github.com/thiscp/dsh-push",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7458
+}
