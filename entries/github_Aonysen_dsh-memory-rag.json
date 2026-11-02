@@ -1,0 +1,20 @@
+{
+  "id": "github:Aonysen/dsh-memory-rag",
+  "kind": "plugin",
+  "name": "dsh-memory-rag",
+  "description": "Long-term RAG memory for DeepSeek Harness: cloud, local Ollama, or offline BM25.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aonysen/dsh-memory-rag",
+  "repositoryUrl": "https://github.com/Aonysen/dsh-memory-rag",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7564
+}
