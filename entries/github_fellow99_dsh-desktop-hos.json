@@ -1,0 +1,20 @@
+{
+  "id": "github:fellow99/dsh-desktop-hos",
+  "kind": "plugin",
+  "name": "dsh-desktop-hos",
+  "description": "Electron 37 on HarmonyOS / OpenHarmony — run DeepSeek Harness (DSH) as a native 2in1 / tablet app. 鸿蒙上的 AI Agent 工作台",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fellow99/dsh-desktop-hos",
+  "repositoryUrl": "https://github.com/fellow99/dsh-desktop-hos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7653
+}
