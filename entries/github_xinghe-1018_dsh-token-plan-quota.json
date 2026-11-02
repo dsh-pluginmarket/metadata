@@ -1,0 +1,20 @@
+{
+  "id": "github:xinghe-1018/dsh-token-plan-quota",
+  "kind": "plugin",
+  "name": "dsh-token-plan-quota",
+  "description": "跟随当前模型供应商的额度徽标：DeepSeek、千问 Token Plan、阿里云费用中心取官方真值，Moonshot / OpenRouter 已接官方端点但字段未用真 Key 核对；其余只报本实例实测。不折算 Credits、不估算余量。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xinghe-1018/dsh-token-plan-quota",
+  "repositoryUrl": "https://github.com/xinghe-1018/dsh-token-plan-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7809
+}
