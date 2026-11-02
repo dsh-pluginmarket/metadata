@@ -1,0 +1,20 @@
+{
+  "id": "github:MYCF711/dsh-session-superagent",
+  "kind": "plugin",
+  "name": "dsh-session-superagent",
+  "description": "DSH 会话级 superagent：盯一个 GitHub 仓库，有变化就唤醒会话。凭证不进模型，返回统一脱敏。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MYCF711/dsh-session-superagent",
+  "repositoryUrl": "https://github.com/MYCF711/dsh-session-superagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7460
+}
