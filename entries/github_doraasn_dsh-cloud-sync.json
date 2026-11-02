@@ -1,0 +1,20 @@
+{
+  "id": "github:doraasn/dsh-cloud-sync",
+  "kind": "plugin",
+  "name": "dsh-cloud-sync",
+  "description": "DSH 插件：把技能 / 插件源码 / DSH 配置 / 全局指令 / 可选加密凭据备份到任意 WebDAV（坚果云、Nextcloud、群晖、ownCloud、AList）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "doraasn/dsh-cloud-sync",
+  "repositoryUrl": "https://github.com/doraasn/dsh-cloud-sync",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7896
+}
