@@ -1,0 +1,20 @@
+{
+  "id": "github:wzciczw/dsh-worktree-toggle",
+  "kind": "plugin",
+  "name": "dsh-worktree-toggle",
+  "description": "One-click git worktree launcher for DeepSeek Harness: start a session in a fresh worktree, with automatic cleanup of idle worktrees.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wzciczw/dsh-worktree-toggle",
+  "repositoryUrl": "https://github.com/wzciczw/dsh-worktree-toggle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8014
+}
