@@ -1,0 +1,20 @@
+{
+  "id": "github:ancircle0/dsh-skills-ext",
+  "kind": "plugin",
+  "name": "dsh-skills-ext",
+  "description": "Related DeepSeek Harness project: ancircle0/dsh-skills-ext",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ancircle0/dsh-skills-ext",
+  "repositoryUrl": "https://github.com/ancircle0/dsh-skills-ext",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7892
+}
