@@ -1,0 +1,20 @@
+{
+  "id": "github:chengzhi-c/dsh-wtq-pool",
+  "kind": "plugin",
+  "name": "dsh-wtq-pool",
+  "description": "把本机 WorkBuddy、Trae、Qoder 的桌面登录接入 DeepSeek Harness：每家一个 OpenAI 兼容的本地端点，账号池、自动换号与设置面板。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chengzhi-c/dsh-wtq-pool",
+  "repositoryUrl": "https://github.com/chengzhi-c/dsh-wtq-pool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7958
+}
