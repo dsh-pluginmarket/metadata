@@ -1,0 +1,20 @@
+{
+  "id": "github:ssy-in/dsh-my-phone",
+  "kind": "plugin",
+  "name": "dsh-my-phone",
+  "description": "手机远程连DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ssy-in/dsh-my-phone",
+  "repositoryUrl": "https://github.com/ssy-in/dsh-my-phone",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7912
+}
