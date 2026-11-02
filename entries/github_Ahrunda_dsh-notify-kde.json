@@ -1,0 +1,20 @@
+{
+  "id": "github:Ahrunda/dsh-notify-kde",
+  "kind": "plugin",
+  "name": "dsh-notify-kde",
+  "description": "KDE desktop notification + KDE Connect phone ping for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ahrunda/dsh-notify-kde",
+  "repositoryUrl": "https://github.com/Ahrunda/dsh-notify-kde",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7885
+}
