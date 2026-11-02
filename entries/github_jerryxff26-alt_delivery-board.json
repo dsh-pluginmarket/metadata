@@ -1,0 +1,20 @@
+{
+  "id": "github:jerryxff26-alt/delivery-board",
+  "kind": "plugin",
+  "name": "delivery-board",
+  "description": "Plan, owners, status & handoffs in one delivery.json next to your code. No SaaS. Diffable in PRs.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jerryxff26-alt/delivery-board",
+  "repositoryUrl": "https://github.com/jerryxff26-alt/delivery-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7620
+}
