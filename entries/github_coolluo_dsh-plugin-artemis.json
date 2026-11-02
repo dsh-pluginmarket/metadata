@@ -1,0 +1,20 @@
+{
+  "id": "github:coolluo/dsh-plugin-artemis",
+  "kind": "plugin",
+  "name": "dsh-plugin-artemis",
+  "description": "dsh-plugin-artemis",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "coolluo/dsh-plugin-artemis",
+  "repositoryUrl": "https://github.com/coolluo/dsh-plugin-artemis",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8013
+}
