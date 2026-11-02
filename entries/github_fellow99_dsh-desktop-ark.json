@@ -1,0 +1,20 @@
+{
+  "id": "github:fellow99/dsh-desktop-ark",
+  "kind": "plugin",
+  "name": "dsh-desktop-ark",
+  "description": "The official DeepSeek Harness (DSH) Web UI, unmodified, running on HarmonyOS 2in1 / tablet inside the system ArkWeb — with the dsh Host on a real Node.js runtime embedded in the same process. No Electron, no bundled Chromium, no ArkUI rewrite of the Web UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fellow99/dsh-desktop-ark",
+  "repositoryUrl": "https://github.com/fellow99/dsh-desktop-ark",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7549
+}
