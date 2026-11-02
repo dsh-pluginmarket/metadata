@@ -1,0 +1,20 @@
+{
+  "id": "github:dingchenhui0618-arch/dsh-in-hand",
+  "kind": "plugin",
+  "name": "dsh-in-hand",
+  "description": "掌上 DSH（dsh-in-hand）：DeepSeek Harness 的手机端，不用装 App——一份只读任务监控页长成的手机浏览器客户端（PWA）：会话、实时对话、交付文件、后台任务与待批准；也自带一个 GUI 侧边栏面板。 / DSH in hand: the phone client for DeepSeek Harness with no app to install, plus a GUI sidebar panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dingchenhui0618-arch/dsh-in-hand",
+  "repositoryUrl": "https://github.com/dingchenhui0618-arch/dsh-in-hand",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7702
+}
