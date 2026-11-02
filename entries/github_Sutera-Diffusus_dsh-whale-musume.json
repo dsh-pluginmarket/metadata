@@ -1,0 +1,20 @@
+{
+  "id": "github:Sutera-Diffusus/dsh-whale-musume",
+  "kind": "plugin",
+  "name": "dsh-whale-musume",
+  "description": "DeepSeek Harness 桌宠：元气鲸鱼娘，45 项成就、3 个小游戏、跨端存档迁移；按工具类型切换工作姿态，桌面端与旧版 Web 双端支持（desktop pet / mascot，local-first）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sutera-Diffusus/dsh-whale-musume",
+  "repositoryUrl": "https://github.com/Sutera-Diffusus/dsh-whale-musume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7456
+}
