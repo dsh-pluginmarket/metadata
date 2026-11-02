@@ -1,0 +1,20 @@
+{
+  "id": "github:kira905/dsh-task-board-local",
+  "kind": "plugin",
+  "name": "dsh-task-board-local",
+  "description": "插件：自维护任务看板 —— 一张卡 = 一次真实 DSH 会话，跑完由人验收才算完成 · DSH plugin: a self-maintained task board where a card is a real DSH session and a human confirms completion.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kira905/dsh-task-board-local",
+  "repositoryUrl": "https://github.com/kira905/dsh-task-board-local",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7866
+}
