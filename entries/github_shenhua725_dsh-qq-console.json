@@ -1,0 +1,20 @@
+{
+  "id": "github:shenhua725/dsh-qq-console",
+  "kind": "plugin",
+  "name": "dsh-qq-console",
+  "description": "Control DeepSeek Harness from QQ: sessions, tasks, progress, models and permissions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shenhua725/dsh-qq-console",
+  "repositoryUrl": "https://github.com/shenhua725/dsh-qq-console",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7509
+}
