@@ -1,0 +1,20 @@
+{
+  "id": "github:ownduck/dsh-custom-env",
+  "kind": "plugin",
+  "name": "dsh-custom-env",
+  "description": "Manage $DSH_HOME/.env from Settings; sync Host and Windows/macOS user env",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ownduck/dsh-custom-env",
+  "repositoryUrl": "https://github.com/ownduck/dsh-custom-env",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7500
+}
