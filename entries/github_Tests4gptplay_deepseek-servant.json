@@ -1,0 +1,20 @@
+{
+  "id": "github:Tests4gptplay/deepseek-servant",
+  "kind": "plugin",
+  "name": "deepseek-servant",
+  "description": "基于 DeepSeek Harness 的自主 AI 助理插件，支持目标规划、持续执行、多 Agent 协作、任务接续、故障恢复与技能学习。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tests4gptplay/deepseek-servant",
+  "repositoryUrl": "https://github.com/Tests4gptplay/deepseek-servant",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8027
+}
