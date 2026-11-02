@@ -1,0 +1,20 @@
+{
+  "id": "github:lubanaishuxue/dsh-private-background",
+  "kind": "plugin",
+  "name": "dsh-private-background",
+  "description": "Custom wallpaper for the DeepSeek Harness UI — local images, GIFs, videos, gradients or solid colors, with blur, dim, focus position, per-panel opacity and a liquid-glass material. Everything stays on your machine.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lubanaishuxue/dsh-private-background",
+  "repositoryUrl": "https://github.com/lubanaishuxue/dsh-private-background",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7642
+}
