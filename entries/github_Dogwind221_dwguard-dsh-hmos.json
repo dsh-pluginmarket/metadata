@@ -1,0 +1,20 @@
+{
+  "id": "github:Dogwind221/dwguard-dsh-hmos",
+  "kind": "plugin",
+  "name": "dwguard-dsh-hmos",
+  "description": "DSH 侧鸿蒙双 Agent 编排与外部审计插件：任务包冻结 / 对抗预审 / Goal 派发 / 四维取证审计 / 返工 / 校准账本",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dogwind221/dwguard-dsh-hmos",
+  "repositoryUrl": "https://github.com/Dogwind221/dwguard-dsh-hmos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7746
+}
