@@ -1,0 +1,20 @@
+{
+  "id": "github:kesha4/dsh-site-bridge",
+  "kind": "plugin",
+  "name": "dsh-site-bridge",
+  "description": "Hands and eyes for DeepSeek Harness in your own browser: page markup and BFF traffic capture, trusted input, virtual cursor. DSH plugin + MV3 extension.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kesha4/dsh-site-bridge",
+  "repositoryUrl": "https://github.com/kesha4/dsh-site-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7630
+}
