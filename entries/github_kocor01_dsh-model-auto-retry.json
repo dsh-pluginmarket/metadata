@@ -1,0 +1,20 @@
+{
+  "id": "github:kocor01/dsh-model-auto-retry",
+  "kind": "plugin",
+  "name": "dsh-model-auto-retry",
+  "description": "DSH host plugin: keep agents alive through model rate limits (HTTP 429) - in-loop retry, then an automatic 继续 follow-up.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kocor01/dsh-model-auto-retry",
+  "repositoryUrl": "https://github.com/kocor01/dsh-model-auto-retry",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7731
+}
