@@ -1,0 +1,20 @@
+{
+  "id": "github:xinstart-1/dsh-any-rollback",
+  "kind": "plugin",
+  "name": "dsh-any-rollback",
+  "description": "DSH 对话回退插件：回退到任意一条历史消息，并同时还原工作区文件，包括渲染、ffmpeg、构建脚本等命令产出的文件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xinstart-1/dsh-any-rollback",
+  "repositoryUrl": "https://github.com/xinstart-1/dsh-any-rollback",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7968
+}
