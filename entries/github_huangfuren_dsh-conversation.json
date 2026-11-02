@@ -1,0 +1,20 @@
+{
+  "id": "github:huangfuren/dsh-conversation",
+  "kind": "plugin",
+  "name": "dsh-conversation",
+  "description": "DSH web plugin: conversation outline panel - user questions (index, time, per-turn stats) as root nodes with the assistant reply's Markdown headings beneath; three width tiers, density rail, search scope, bookmarks, Markdown export, section jump, keyboard nav, reading-position memory. Read-only UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huangfuren/dsh-conversation",
+  "repositoryUrl": "https://github.com/huangfuren/dsh-conversation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7973
+}
