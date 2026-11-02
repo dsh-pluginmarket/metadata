@@ -1,0 +1,20 @@
+{
+  "id": "github:123caiji/awesome-agent-security",
+  "kind": "plugin",
+  "name": "awesome-agent-security",
+  "description": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "123caiji/awesome-agent-security",
+  "repositoryUrl": "https://github.com/123caiji/awesome-agent-security",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7813
+}
