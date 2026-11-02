@@ -1,0 +1,20 @@
+{
+  "id": "github:NEVSTOP-LAB/dsh-gfm-alerts",
+  "kind": "plugin",
+  "name": "dsh-gfm-alerts",
+  "description": "DSH GitHub 提示块插件：把回复里的 > [!NOTE] / [!TIP] / [!IMPORTANT] / [!WARNING] / [!CAUTION] 渲染成 GitHub 风格。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NEVSTOP-LAB/dsh-gfm-alerts",
+  "repositoryUrl": "https://github.com/NEVSTOP-LAB/dsh-gfm-alerts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7483
+}
