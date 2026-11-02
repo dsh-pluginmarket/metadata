@@ -1,0 +1,20 @@
+{
+  "id": "github:alibaba-damo-academy/yugoo-design",
+  "kind": "plugin",
+  "name": "yugoo-design",
+  "description": "Turn your AI agent app into an interactive ideation and design workbench. A general-purpose, open-source framework with editable panels and versioned projects across DSH, Codex, and other agent hosts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "alibaba-damo-academy/yugoo-design",
+  "repositoryUrl": "https://github.com/alibaba-damo-academy/yugoo-design",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7979
+}
