@@ -1,0 +1,20 @@
+{
+  "id": "github:hangdingding/breezetts-dsh",
+  "kind": "plugin",
+  "name": "breezetts-dsh",
+  "description": "Official BreezeTTS plugin for DeepSeek Harness — read replies aloud, powered by Breeze CLI with the Breeze API as fallback.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hangdingding/breezetts-dsh",
+  "repositoryUrl": "https://github.com/hangdingding/breezetts-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7495
+}
