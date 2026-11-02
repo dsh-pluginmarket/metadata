@@ -1,0 +1,20 @@
+{
+  "id": "github:xianmua/dsh-browser-relay",
+  "kind": "plugin",
+  "name": "dsh-browser-relay",
+  "description": "dsh通信桥",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xianmua/dsh-browser-relay",
+  "repositoryUrl": "https://github.com/xianmua/dsh-browser-relay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7887
+}
