@@ -1,0 +1,20 @@
+{
+  "id": "github:DevZjQx/dsh-bili-lite",
+  "kind": "plugin",
+  "name": "dsh-bili-lite",
+  "description": "给 DSH 装一个 B 站分身：自己排作息，刷视频 / 看懂 / 写日记 / 评论 / 点赞关注（Bun + TypeScript）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DevZjQx/dsh-bili-lite",
+  "repositoryUrl": "https://github.com/DevZjQx/dsh-bili-lite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7459
+}
