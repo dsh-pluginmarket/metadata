@@ -1,0 +1,20 @@
+{
+  "id": "github:2239058652/dsh-mcp-workbench",
+  "kind": "plugin",
+  "name": "dsh-mcp-workbench",
+  "description": "DSH 的 MCP 管理控制台：左侧栏面板管理 MCP 服务器、就地试用工具、重连与探测",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2239058652/dsh-mcp-workbench",
+  "repositoryUrl": "https://github.com/2239058652/dsh-mcp-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7898
+}
