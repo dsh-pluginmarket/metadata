@@ -1,0 +1,20 @@
+{
+  "id": "github:Tkingxiao/dsh-novel-solo",
+  "kind": "plugin",
+  "name": "dsh-novel-solo",
+  "description": "DeepSeek Harness 的「单核写作」插件：面向量化小模型做了充分的工具瘦身与输出加固，适合在本机用本地模型跑长篇小说流水线。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tkingxiao/dsh-novel-solo",
+  "repositoryUrl": "https://github.com/Tkingxiao/dsh-novel-solo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7688
+}
