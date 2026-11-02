@@ -1,0 +1,20 @@
+{
+  "id": "github:zhang-guo-wen/dsh-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-mcp-manager",
+  "description": "MCP server management for DeepSeek Harness: author composition rows, choose when an allowed server loads, and filter which of its tools a session may call",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhang-guo-wen/dsh-mcp-manager",
+  "repositoryUrl": "https://github.com/zhang-guo-wen/dsh-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7720
+}
