@@ -1,0 +1,20 @@
+{
+  "id": "github:end876/dsh-mcl",
+  "kind": "plugin",
+  "name": "dsh-mcl",
+  "description": "零依赖 Node 版 Minecraft 启动器：装原版 / Fabric / Forge / NeoForge / 模组 / 整合包，可被脚本和 AI 驱动的 CLI + HTTP 接口，附 DSH 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "end876/dsh-mcl",
+  "repositoryUrl": "https://github.com/end876/dsh-mcl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7478
+}
