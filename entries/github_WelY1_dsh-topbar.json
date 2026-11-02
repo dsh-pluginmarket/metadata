@@ -1,0 +1,20 @@
+{
+  "id": "github:WelY1/dsh-topbar",
+  "kind": "plugin",
+  "name": "dsh-topbar",
+  "description": "Per-session status chips in the GNOME top bar for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WelY1/dsh-topbar",
+  "repositoryUrl": "https://github.com/WelY1/dsh-topbar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7498
+}
