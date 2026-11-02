@@ -1,0 +1,20 @@
+{
+  "id": "github:youchen-yc/dsh-system-guard",
+  "kind": "plugin",
+  "name": "dsh-system-guard",
+  "description": "System guard plugin for DeepSeek Harness: classifies core system files and junk, keeps a hidden backup, patrols integrity, restores damaged files.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "youchen-yc/dsh-system-guard",
+  "repositoryUrl": "https://github.com/youchen-yc/dsh-system-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7828
+}
