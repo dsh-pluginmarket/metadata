@@ -1,0 +1,20 @@
+{
+  "id": "github:Zhuang-YiQing/dsh-search-outline",
+  "kind": "plugin",
+  "name": "dsh-search-outline",
+  "description": "基于dsh-better-sidebar，在文件预览时提供搜索功能和idea的structure列表。structure列表目前仅支持java、js、html、python。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zhuang-YiQing/dsh-search-outline",
+  "repositoryUrl": "https://github.com/Zhuang-YiQing/dsh-search-outline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7952
+}
