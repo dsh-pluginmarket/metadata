@@ -1,0 +1,20 @@
+{
+  "id": "github:s17765152890-gif/dsh-usage-quota",
+  "kind": "plugin",
+  "name": "dsh-usage-quota",
+  "description": "DeepSeek Harness plugin: Codex-style reasoning-effort control and provider-aware usage/quota in the composer dock.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "s17765152890-gif/dsh-usage-quota",
+  "repositoryUrl": "https://github.com/s17765152890-gif/dsh-usage-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7592
+}
