@@ -1,0 +1,20 @@
+{
+  "id": "github:zaowanshangxian/deepseek-harness-plugins",
+  "kind": "plugin",
+  "name": "deepseek-harness-plugins",
+  "description": "DeepSeek Harness 插件集：可独立安装的 DSH 插件，一个插件一个文件夹（含「更多表情和颜文字」）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zaowanshangxian/deepseek-harness-plugins",
+  "repositoryUrl": "https://github.com/zaowanshangxian/deepseek-harness-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7525
+}
