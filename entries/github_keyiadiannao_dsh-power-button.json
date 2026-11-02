@@ -1,0 +1,20 @@
+{
+  "id": "github:keyiadiannao/dsh-power-button",
+  "kind": "plugin",
+  "name": "dsh-power-button",
+  "description": "Self-contained power control for DeepSeek Harness: sidebar power button with upward restart/shutdown menu, Windows-shutdown-style overlay, own restart & shutdown engine (no dependency on other plugins).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "keyiadiannao/dsh-power-button",
+  "repositoryUrl": "https://github.com/keyiadiannao/dsh-power-button",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7925
+}
