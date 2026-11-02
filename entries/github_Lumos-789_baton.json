@@ -1,0 +1,20 @@
+{
+  "id": "github:Lumos-789/baton",
+  "kind": "plugin",
+  "name": "baton",
+  "description": "Ticket/DAG/session-subagent control plane over OpenSpec changes — deterministic MCP actions, one isolated git worktree per assignment, sealed receipts as the only success evidence",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lumos-789/baton",
+  "repositoryUrl": "https://github.com/Lumos-789/baton",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7975
+}
