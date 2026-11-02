@@ -1,0 +1,20 @@
+{
+  "id": "github:spartawhy117/dsh-token-dash",
+  "kind": "plugin",
+  "name": "dsh-token-dash",
+  "description": "DSH 底栏 Token 看板：月度预算、模型费用/用量、账户余额与官方 usage 入口",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "spartawhy117/dsh-token-dash",
+  "repositoryUrl": "https://github.com/spartawhy117/dsh-token-dash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7843
+}
