@@ -1,0 +1,20 @@
+{
+  "id": "github:KyoMio/dsh-zen-remote",
+  "kind": "plugin",
+  "name": "dsh-zen-remote",
+  "description": "Use DeepSeek Harness from your phone or another computer. Host: mobile UI, pairing-code gateway, PWA and Web Push, plus sharing chosen sessions. Client: those sessions appear in another DSH desktop's sidebar. 手机和另一台电脑都能安全远程使用 DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KyoMio/dsh-zen-remote",
+  "repositoryUrl": "https://github.com/KyoMio/dsh-zen-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7874
+}
