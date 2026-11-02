@@ -1,0 +1,20 @@
+{
+  "id": "github:Yidien/dsh-host-router",
+  "kind": "plugin",
+  "name": "dsh-host-router",
+  "description": "dsh 外挂式网络路由插件:按域名勾选走本地代理(Clash 等),其余直连;内置嗅探,设置页勾选即生效。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yidien/dsh-host-router",
+  "repositoryUrl": "https://github.com/Yidien/dsh-host-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7957
+}
