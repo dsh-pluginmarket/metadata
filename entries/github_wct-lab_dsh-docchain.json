@@ -1,0 +1,20 @@
+{
+  "id": "github:wct-lab/dsh-docchain",
+  "kind": "plugin",
+  "name": "dsh-docchain",
+  "description": "DeepSeek Harness Plugin of DocChain",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wct-lab/dsh-docchain",
+  "repositoryUrl": "https://github.com/wct-lab/dsh-docchain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7811
+}
