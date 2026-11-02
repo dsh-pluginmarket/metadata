@@ -1,0 +1,20 @@
+{
+  "id": "github:keyblues/dsh-fengniao-company-search",
+  "kind": "plugin",
+  "name": "dsh-fengniao-company-search",
+  "description": "DeepSeek Harness (DSH) 插件：风鸟（Riskbird）企业查询——工商/股东/高管/对外投资/变更/被执行/失信/限高/经营异常/严重违法/行政处罚，原生 Agent 工具，插件页内配置 API Key。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "keyblues/dsh-fengniao-company-search",
+  "repositoryUrl": "https://github.com/keyblues/dsh-fengniao-company-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7846
+}
