@@ -1,0 +1,20 @@
+{
+  "id": "github:Artenx/dsh-honeybee",
+  "kind": "plugin",
+  "name": "dsh-honeybee",
+  "description": "基于 deepseek-harness 的云端 Agent 工作台，随时随地开始实现你的想法",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Artenx/dsh-honeybee",
+  "repositoryUrl": "https://github.com/Artenx/dsh-honeybee",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7474
+}
