@@ -1,0 +1,20 @@
+{
+  "id": "github:JoeyZzZzZz/treasure-map",
+  "kind": "plugin",
+  "name": "treasure-map",
+  "description": "A firmware map for your AI agent, served over MCP: every dangerous call it recognizes, what it couldn’t determine, and the functions a patch changed between two versions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JoeyZzZzZz/treasure-map",
+  "repositoryUrl": "https://github.com/JoeyZzZzZz/treasure-map",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7872
+}
