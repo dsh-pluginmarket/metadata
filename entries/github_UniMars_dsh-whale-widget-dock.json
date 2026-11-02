@@ -1,0 +1,20 @@
+{
+  "id": "github:UniMars/dsh-whale-widget-dock",
+  "kind": "plugin",
+  "name": "dsh-whale-widget-dock",
+  "description": "Companion plugin for dsh-whale-widget: docks the desktop pet to the right sidebar edge.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "UniMars/dsh-whale-widget-dock",
+  "repositoryUrl": "https://github.com/UniMars/dsh-whale-widget-dock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7538
+}
