@@ -1,0 +1,20 @@
+{
+  "id": "github:Vladimir-Human/ru-marketplace-mcp",
+  "kind": "plugin",
+  "name": "ru-marketplace-mcp",
+  "description": "Одиннадцать маркетплейсов и недвижимость Циан как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мегамаркет, Lamoda, DNS, Ситилинк, Циан. Плюс сравнение цен по всем товарным источникам одним вызовом. Только чтение, ключи не нужны.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vladimir-Human/ru-marketplace-mcp",
+  "repositoryUrl": "https://github.com/Vladimir-Human/ru-marketplace-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7515
+}
