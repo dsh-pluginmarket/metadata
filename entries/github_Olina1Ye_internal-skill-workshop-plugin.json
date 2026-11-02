@@ -1,0 +1,20 @@
+{
+  "id": "github:Olina1Ye/internal-skill-workshop-plugin",
+  "kind": "plugin",
+  "name": "internal-skill-workshop-plugin",
+  "description": "A read-only DeepSeek Harness Web plugin for browsing a configured Skill Base catalog.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Olina1Ye/internal-skill-workshop-plugin",
+  "repositoryUrl": "https://github.com/Olina1Ye/internal-skill-workshop-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7749
+}
