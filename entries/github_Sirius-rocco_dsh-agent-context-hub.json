@@ -1,0 +1,20 @@
+{
+  "id": "github:Sirius-rocco/dsh-agent-context-hub",
+  "kind": "plugin",
+  "name": "dsh-agent-context-hub",
+  "description": "Related DeepSeek Harness project: Sirius-rocco/dsh-agent-context-hub",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sirius-rocco/dsh-agent-context-hub",
+  "repositoryUrl": "https://github.com/Sirius-rocco/dsh-agent-context-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7660
+}
