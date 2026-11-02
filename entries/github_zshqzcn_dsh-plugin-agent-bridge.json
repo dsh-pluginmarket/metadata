@@ -1,0 +1,23 @@
+{
+  "id": "github:zshqzcn/dsh-plugin-agent-bridge",
+  "kind": "plugin",
+  "name": "dsh-plugin-agent-bridge",
+  "description": "Two-way agent bridge between two DeepSeek Harness hosts: either side can ask the other agent questions and run bounded dialogues over a PSK-authenticated TCP link, with a chat page on both sides and a read-only tool posture for bridged children. The repo declares dsh.bundle and ships 217 tests.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zshqzcn/dsh-plugin-agent-bridge",
+  "repositoryUrl": "https://github.com/zshqzcn/dsh-plugin-agent-bridge",
+  "tags": [
+    "bridge",
+    "agent",
+    "p2p",
+    "remote",
+    "tailscale"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "zshqzcn",
+  "issueNumber": 8085
+}
