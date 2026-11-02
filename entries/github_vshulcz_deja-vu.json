@@ -1,0 +1,20 @@
+{
+  "id": "github:vshulcz/deja-vu",
+  "kind": "plugin",
+  "name": "deja-vu",
+  "description": "Agent memory & session history search for Claude Code, Codex & Cursor. Local coding agent memory MCP & hooks.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vshulcz/deja-vu",
+  "repositoryUrl": "https://github.com/vshulcz/deja-vu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7470
+}
