@@ -1,0 +1,20 @@
+{
+  "id": "github:EarzuChan/DshVibeLearning",
+  "kind": "plugin",
+  "name": "DshVibeLearning",
+  "description": "A Vibe Learning Plugin made for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EarzuChan/DshVibeLearning",
+  "repositoryUrl": "https://github.com/EarzuChan/DshVibeLearning",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7756
+}
