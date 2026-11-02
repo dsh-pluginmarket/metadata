@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaobaga281/dsh-token-spend",
+  "kind": "plugin",
+  "name": "dsh-token-spend",
+  "description": "花费 · DSH 设置页插件：按全部 token（输入 + 缓存读 + 缓存写 + 输出）统计用量，按消息 ID 去重，日账本保留已删除会话的花费",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaobaga281/dsh-token-spend",
+  "repositoryUrl": "https://github.com/xiaobaga281/dsh-token-spend",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7551
+}
