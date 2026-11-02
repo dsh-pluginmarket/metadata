@@ -1,0 +1,20 @@
+{
+  "id": "github:keyblues/dsh-plugin-everything",
+  "kind": "plugin",
+  "name": "dsh-plugin-everything",
+  "description": "DSH plugin: whole-disk file search through the official Everything SDK (Everything64.dll in-process via N-API FFI) — millisecond queries, no es.exe or HTTP server, Web UI tool cards. DSH 插件：经官方 Everything SDK 在进程内查询全盘索引，毫秒级返回，无需 es.exe 与 HTTP 服务。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "keyblues/dsh-plugin-everything",
+  "repositoryUrl": "https://github.com/keyblues/dsh-plugin-everything",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7908
+}
