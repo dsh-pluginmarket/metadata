@@ -1,0 +1,20 @@
+{
+  "id": "github:yulianjie/dsh-brain",
+  "kind": "plugin",
+  "name": "dsh-brain",
+  "description": "Local long-term memory and user-controlled communication style for DeepSeek Harness Desktop | 本地长期记忆与可控交流风格",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yulianjie/dsh-brain",
+  "repositoryUrl": "https://github.com/yulianjie/dsh-brain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7506
+}
