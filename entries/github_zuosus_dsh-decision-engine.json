@@ -1,0 +1,20 @@
+{
+  "id": "github:zuosus/dsh-decision-engine",
+  "kind": "plugin",
+  "name": "dsh-decision-engine",
+  "description": "Jev-like decision plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuosus/dsh-decision-engine",
+  "repositoryUrl": "https://github.com/zuosus/dsh-decision-engine",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7800
+}
