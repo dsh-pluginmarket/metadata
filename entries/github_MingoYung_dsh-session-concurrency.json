@@ -1,0 +1,20 @@
+{
+  "id": "github:MingoYung/dsh-session-concurrency",
+  "kind": "plugin",
+  "name": "dsh-session-concurrency",
+  "description": "Per-session Agent inference concurrency controls for DeepSeek Harness. A native composer slider with serial parent/child handoff.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MingoYung/dsh-session-concurrency",
+  "repositoryUrl": "https://github.com/MingoYung/dsh-session-concurrency",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7897
+}
