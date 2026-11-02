@@ -1,0 +1,20 @@
+{
+  "id": "github:ty2922059981-stack/fish-memory",
+  "kind": "plugin",
+  "name": "fish-memory",
+  "description": "给 AI 用的长期记忆服务 + DeepSeek Harness 插件：提炼 / 混合召回 / 生命周期 / 日记 / 成长档案 / 记忆星图，本地 SQLite，单机自用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ty2922059981-stack/fish-memory",
+  "repositoryUrl": "https://github.com/ty2922059981-stack/fish-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7869
+}
