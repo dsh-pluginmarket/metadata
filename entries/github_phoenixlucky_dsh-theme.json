@@ -1,0 +1,20 @@
+{
+  "id": "github:phoenixlucky/dsh-theme",
+  "kind": "plugin",
+  "name": "dsh-theme",
+  "description": "Optional DSH Web profile bundle with six selectable wallpaper themes, including VIP Golden Radiance styling, palettes, previews, gold accents, glass surfaces, and a licensed display font.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "phoenixlucky/dsh-theme",
+  "repositoryUrl": "https://github.com/phoenixlucky/dsh-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7918
+}
