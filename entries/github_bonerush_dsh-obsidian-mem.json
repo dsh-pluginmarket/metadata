@@ -1,0 +1,20 @@
+{
+  "id": "github:bonerush/dsh-obsidian-mem",
+  "kind": "plugin",
+  "name": "dsh-obsidian-mem",
+  "description": "DeepSeek Harness host plugin that keeps project documents and long-term memory as plain Markdown in a dedicated Obsidian vault.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bonerush/dsh-obsidian-mem",
+  "repositoryUrl": "https://github.com/bonerush/dsh-obsidian-mem",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7935
+}
