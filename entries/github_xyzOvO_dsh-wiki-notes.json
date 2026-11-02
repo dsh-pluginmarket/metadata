@@ -1,0 +1,20 @@
+{
+  "id": "github:xyzOvO/dsh-wiki-notes",
+  "kind": "plugin",
+  "name": "dsh-wiki-notes",
+  "description": "给 DeepSeek Harness 的本地 Markdown 知识库检索插件：一个 wiki_recall 工具，四种查询，返回命中小节正文与页级出处",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xyzOvO/dsh-wiki-notes",
+  "repositoryUrl": "https://github.com/xyzOvO/dsh-wiki-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7466
+}
