@@ -1,0 +1,20 @@
+{
+  "id": "github:Github-Anderson/dsh-shanghaitech-genai",
+  "kind": "plugin",
+  "name": "dsh-shanghaitech-genai",
+  "description": "ShanghaiTech GenAI model adapter, session options and Agent preset bundle for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Github-Anderson/dsh-shanghaitech-genai",
+  "repositoryUrl": "https://github.com/Github-Anderson/dsh-shanghaitech-genai",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7820
+}
