@@ -1,0 +1,20 @@
+{
+  "id": "github:MaximFedorovtoo/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Four DeepSeek Harness plugins: API spend per project, screenshots as input, Russian localization and Codex import.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MaximFedorovtoo/dsh-plugins",
+  "repositoryUrl": "https://github.com/MaximFedorovtoo/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7825
+}
