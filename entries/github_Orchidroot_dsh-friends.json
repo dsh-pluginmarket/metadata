@@ -1,0 +1,20 @@
+{
+  "id": "github:Orchidroot/dsh-friends",
+  "kind": "plugin",
+  "name": "dsh-friends",
+  "description": "DSH 好友浮窗与聊天插件，自带可自部署的 Node 好友服务",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Orchidroot/dsh-friends",
+  "repositoryUrl": "https://github.com/Orchidroot/dsh-friends",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7744
+}
