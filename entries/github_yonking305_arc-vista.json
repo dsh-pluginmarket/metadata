@@ -1,0 +1,20 @@
+{
+  "id": "github:yonking305/arc-vista",
+  "kind": "plugin",
+  "name": "arc-vista",
+  "description": "面向 Git 仓库的本地优先架构观测台——架构图、安全守护、业务知识图谱、复杂度与分支风险对比。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yonking305/arc-vista",
+  "repositoryUrl": "https://github.com/yonking305/arc-vista",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7987
+}
