@@ -1,0 +1,20 @@
+{
+  "id": "github:Jessicaisleep/dsh-genshin-pet",
+  "kind": "plugin",
+  "name": "dsh-genshin-pet",
+  "description": "两只原神同人桌宠（哥伦比娅 / 纳西妲）的 DeepSeek Harness 插件：代码派生自 dsh-pet（MIT），角色素材不在 MIT 范围内",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jessicaisleep/dsh-genshin-pet",
+  "repositoryUrl": "https://github.com/Jessicaisleep/dsh-genshin-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7581
+}
