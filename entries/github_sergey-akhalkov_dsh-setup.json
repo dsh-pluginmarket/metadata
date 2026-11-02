@@ -1,0 +1,20 @@
+{
+  "id": "github:sergey-akhalkov/dsh-setup",
+  "kind": "plugin",
+  "name": "dsh-setup",
+  "description": "A portable DeepSeek Harness setup: sixteen plugins that make an agent work in small verified steps (second-model review, loop recovery, lazy MCP, local memory), plus a one-command installer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sergey-akhalkov/dsh-setup",
+  "repositoryUrl": "https://github.com/sergey-akhalkov/dsh-setup",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7638
+}
