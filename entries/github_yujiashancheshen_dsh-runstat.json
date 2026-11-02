@@ -1,0 +1,20 @@
+{
+  "id": "github:yujiashancheshen/dsh-runstat",
+  "kind": "plugin",
+  "name": "dsh-runstat",
+  "description": "DeepSeek Harness 插件，显示当前的运行状态。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yujiashancheshen/dsh-runstat",
+  "repositoryUrl": "https://github.com/yujiashancheshen/dsh-runstat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7488
+}
