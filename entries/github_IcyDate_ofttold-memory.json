@@ -1,0 +1,20 @@
+{
+  "id": "github:IcyDate/ofttold-memory",
+  "kind": "plugin",
+  "name": "ofttold-memory",
+  "description": "让你的笔记在每个会话里都在场：指定一个笔记文件夹，插件读出其中几段，一开场就摆好。默认建好文件夹和起始文件，装完就能用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "IcyDate/ofttold-memory",
+  "repositoryUrl": "https://github.com/IcyDate/ofttold-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7816
+}
