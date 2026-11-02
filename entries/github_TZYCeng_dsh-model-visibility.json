@@ -1,0 +1,20 @@
+{
+  "id": "github:TZYCeng/dsh-model-visibility",
+  "kind": "plugin",
+  "name": "dsh-model-visibility",
+  "description": "DeepSeek Harness plugin: choose which models appear in the chat model menu, with per-model capability tags (reasoning, effort levels, context window, modalities, kind) merged from adapter, relay and catalog. / DSH 插件：管理模型菜单里显示哪些模型，并标注推理、思考强度、上下文窗口、模态与类型。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TZYCeng/dsh-model-visibility",
+  "repositoryUrl": "https://github.com/TZYCeng/dsh-model-visibility",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7750
+}
