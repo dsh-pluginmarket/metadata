@@ -1,0 +1,20 @@
+{
+  "id": "github:jwangkun/dsh-superagent",
+  "kind": "plugin",
+  "name": "dsh-superagent",
+  "description": "A proactive agent for one GitHub repository, as a DeepSeek Harness bundle (fork of deepseek-ai/dsh-superagent-prototype: single-account requests, host-safe setup).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jwangkun/dsh-superagent",
+  "repositoryUrl": "https://github.com/jwangkun/dsh-superagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7493
+}
