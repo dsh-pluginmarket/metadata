@@ -1,0 +1,20 @@
+{
+  "id": "github:dongsheng123132/awesome-dsh-plugins",
+  "kind": "plugin",
+  "name": "awesome-dsh-plugins",
+  "description": "Evidence-backed DeepSeek Harness plugin radar and 2Origin plugin lab",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dongsheng123132/awesome-dsh-plugins",
+  "repositoryUrl": "https://github.com/dongsheng123132/awesome-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7798
+}
