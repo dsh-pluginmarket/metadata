@@ -1,0 +1,20 @@
+{
+  "id": "github:weicy98/dsh-permission-remote",
+  "kind": "plugin",
+  "name": "dsh-permission-remote",
+  "description": "把一台 Linux 或 macOS 机器上的目录做成 DeepSeek Harness（DSH）工作区。标准会话里的 bash、read、write、edit、read_image、glob、grep 在那台机器上执行。只读、工作区可写、完全放开，以及一次放宽，仍用这个会话现有的 Permissions 和审批卡片。并支持普通会话中连接已添加的主机",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weicy98/dsh-permission-remote",
+  "repositoryUrl": "https://github.com/weicy98/dsh-permission-remote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8016
+}
