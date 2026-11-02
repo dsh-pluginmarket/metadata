@@ -1,0 +1,20 @@
+{
+  "id": "github:ForsakenDelusion/dsh-branchnest",
+  "kind": "plugin",
+  "name": "dsh-branchnest",
+  "description": "BranchNest for DSH — project canvas and non-linear session management for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ForsakenDelusion/dsh-branchnest",
+  "repositoryUrl": "https://github.com/ForsakenDelusion/dsh-branchnest",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7738
+}
