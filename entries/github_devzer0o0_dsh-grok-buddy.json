@@ -1,0 +1,20 @@
+{
+  "id": "github:devzer0o0/dsh-grok-buddy",
+  "kind": "plugin",
+  "name": "dsh-grok-buddy",
+  "description": "Grok Bot's own face in your DSH sidebar — the original GrokBot avatar expressions draw each session's status, no extra UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "devzer0o0/dsh-grok-buddy",
+  "repositoryUrl": "https://github.com/devzer0o0/dsh-grok-buddy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7941
+}
