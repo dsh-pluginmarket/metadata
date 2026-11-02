@@ -1,0 +1,20 @@
+{
+  "id": "github:ZelyStaric/dsh-council",
+  "kind": "plugin",
+  "name": "dsh-council",
+  "description": "把 DSH 会话变成群聊：指挥拆解、8 个岗位的成员各自跑在 codex/claude/deepseek/image 框架里并发干活，审校初审 + 指挥终审（会读图），过程实时可见。8 个岗位全部可改",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZelyStaric/dsh-council",
+  "repositoryUrl": "https://github.com/ZelyStaric/dsh-council",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7939
+}
