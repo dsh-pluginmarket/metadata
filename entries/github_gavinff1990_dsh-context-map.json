@@ -1,0 +1,20 @@
+{
+  "id": "github:gavinff1990/dsh-context-map",
+  "kind": "plugin",
+  "name": "dsh-context-map",
+  "description": "Turn a conversation's context into a layered architecture map - goals, decisions, risks - exported as SVG, interactive HTML and Mermaid.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gavinff1990/dsh-context-map",
+  "repositoryUrl": "https://github.com/gavinff1990/dsh-context-map",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7993
+}
