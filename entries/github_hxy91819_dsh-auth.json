@@ -1,0 +1,20 @@
+{
+  "id": "github:hxy91819/dsh-auth",
+  "kind": "plugin",
+  "name": "dsh-auth",
+  "description": "Caddy-fronted administrator authentication for DeepSeek Harness: Argon2id, revocable sessions, bilingual UI, zero upstream forks.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hxy91819/dsh-auth",
+  "repositoryUrl": "https://github.com/hxy91819/dsh-auth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7646
+}
