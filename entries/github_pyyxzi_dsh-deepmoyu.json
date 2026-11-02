@@ -1,0 +1,20 @@
+{
+  "id": "github:pyyxzi/dsh-deepmoyu",
+  "kind": "plugin",
+  "name": "dsh-deepmoyu",
+  "description": "DeepMoYu 鲸鱼摸鱼 — DSH 插件：让鲸鱼娘自主刷 B站，自己搜片、读字幕、发评论、发动态、回私信，还能写日报、做视频。Fork of c1overzz/dsh-bili-scroll",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pyyxzi/dsh-deepmoyu",
+  "repositoryUrl": "https://github.com/pyyxzi/dsh-deepmoyu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7909
+}
