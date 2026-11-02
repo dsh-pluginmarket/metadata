@@ -1,0 +1,20 @@
+{
+  "id": "github:re3uofall/dsh-persona-framework",
+  "kind": "plugin",
+  "name": "dsh-persona-framework",
+  "description": "DSH 人格框架插件：只给框架，不含人格。四层切分（劲→闸→标→嘴）、88 个模块各一份正文按编号随框架注入、10 个工具、31 个程序。外挂注入，不覆盖、不改写人格文件；发版前过体检闸。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "re3uofall/dsh-persona-framework",
+  "repositoryUrl": "https://github.com/re3uofall/dsh-persona-framework",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7527
+}
