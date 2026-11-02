@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaobaga281/dsh-native-uia",
+  "kind": "plugin",
+  "name": "dsh-native-uia",
+  "description": "御屏 · DSH 桌面操控插件：以 Windows UI Automation 控件树为主通道，纯文本模型即可操控桌面，后台投递动作、批量执行、逐步校验与配方回放",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaobaga281/dsh-native-uia",
+  "repositoryUrl": "https://github.com/xiaobaga281/dsh-native-uia",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7494
+}
