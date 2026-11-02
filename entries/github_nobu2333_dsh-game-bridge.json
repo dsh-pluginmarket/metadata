@@ -1,0 +1,20 @@
+{
+  "id": "github:nobu2333/dsh-game-bridge",
+  "kind": "plugin",
+  "name": "dsh-game-bridge",
+  "description": "Related DeepSeek Harness project: nobu2333/dsh-game-bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nobu2333/dsh-game-bridge",
+  "repositoryUrl": "https://github.com/nobu2333/dsh-game-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7673
+}
