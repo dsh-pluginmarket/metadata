@@ -1,0 +1,20 @@
+{
+  "id": "github:bgx666/dsh-memory-tree",
+  "kind": "plugin",
+  "name": "dsh-memory-tree",
+  "description": "Hierarchical memory-tree compaction provider for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bgx666/dsh-memory-tree",
+  "repositoryUrl": "https://github.com/bgx666/dsh-memory-tree",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7764
+}
