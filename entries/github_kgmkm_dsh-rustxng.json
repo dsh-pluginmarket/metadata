@@ -1,0 +1,20 @@
+{
+  "id": "github:kgmkm/dsh-rustxng",
+  "kind": "plugin",
+  "name": "dsh-rustxng",
+  "description": "DeepSeek Harness plugin: answer the built-in web_search with your own RustXNG metasearch instance (Windows / macOS / Linux)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kgmkm/dsh-rustxng",
+  "repositoryUrl": "https://github.com/kgmkm/dsh-rustxng",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7683
+}
