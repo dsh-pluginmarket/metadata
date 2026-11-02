@@ -1,0 +1,20 @@
+{
+  "id": "github:Ganglith/dsh-wayland-use",
+  "kind": "plugin",
+  "name": "dsh-wayland-use",
+  "description": "Wayland的控制电脑，screenshot、带坐标的 OCR、按文字点击、批量动作",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ganglith/dsh-wayland-use",
+  "repositoryUrl": "https://github.com/Ganglith/dsh-wayland-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7576
+}
