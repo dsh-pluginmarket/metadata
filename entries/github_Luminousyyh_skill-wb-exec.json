@@ -1,0 +1,20 @@
+{
+  "id": "github:Luminousyyh/skill-wb-exec",
+  "kind": "plugin",
+  "name": "skill-wb-exec",
+  "description": "skill:web exec",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Luminousyyh/skill-wb-exec",
+  "repositoryUrl": "https://github.com/Luminousyyh/skill-wb-exec",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7536
+}
