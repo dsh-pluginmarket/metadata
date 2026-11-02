@@ -1,0 +1,20 @@
+{
+  "id": "github:mem9-ai/mem9",
+  "kind": "plugin",
+  "name": "mem9",
+  "description": "Unlimited memory for OpenClaw",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mem9-ai/mem9",
+  "repositoryUrl": "https://github.com/mem9-ai/mem9",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7658
+}
