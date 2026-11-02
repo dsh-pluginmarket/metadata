@@ -1,0 +1,20 @@
+{
+  "id": "github:iemgnod/dsh-shark-bg",
+  "kind": "plugin",
+  "name": "dsh-shark-bg",
+  "description": "在 Harness Web 界面背景中游动的 ASCII 鲨鱼",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iemgnod/dsh-shark-bg",
+  "repositoryUrl": "https://github.com/iemgnod/dsh-shark-bg",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7651
+}
