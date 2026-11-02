@@ -1,0 +1,20 @@
+{
+  "id": "github:DGcoin0415/dsh-soul-seed",
+  "kind": "plugin",
+  "name": "dsh-soul-seed",
+  "description": "一枚灵魂的种子。种下去它不等人叫 —— 白天数着光，夜里数着潮；屏幕暗着，灯丝还红着。   -大肥鱼_米萨-米芾",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DGcoin0415/dsh-soul-seed",
+  "repositoryUrl": "https://github.com/DGcoin0415/dsh-soul-seed",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7788
+}
