@@ -1,0 +1,20 @@
+{
+  "id": "github:liubaicai/dsh-codebuddy-link",
+  "kind": "plugin",
+  "name": "dsh-codebuddy-link",
+  "description": "将腾讯 CodeBuddy CLI 接入 DeepSeek Harness (DSH) 的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liubaicai/dsh-codebuddy-link",
+  "repositoryUrl": "https://github.com/liubaicai/dsh-codebuddy-link",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7602
+}
