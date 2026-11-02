@@ -1,0 +1,20 @@
+{
+  "id": "github:huningsong/dsh-todos-diy",
+  "kind": "plugin",
+  "name": "dsh-todos-diy",
+  "description": "Work todo reminders for DeepSeek Harness: four stage views plus recurring/paused filters, derived priority, recurrence, one-off start/end alerts, weekly/monthly reports, and natural-language quick add.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huningsong/dsh-todos-diy",
+  "repositoryUrl": "https://github.com/huningsong/dsh-todos-diy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7937
+}
