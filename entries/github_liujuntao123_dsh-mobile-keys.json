@@ -1,0 +1,20 @@
+{
+  "id": "github:liujuntao123/dsh-mobile-keys",
+  "kind": "plugin",
+  "name": "dsh-mobile-keys",
+  "description": "DSH 移动端热键模式插件：自动检测移动端，Ctrl+Enter 发送 / Enter 换行；设置面板开关。Mobile hotkey mode plugin for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liujuntao123/dsh-mobile-keys",
+  "repositoryUrl": "https://github.com/liujuntao123/dsh-mobile-keys",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7692
+}
