@@ -1,0 +1,20 @@
+{
+  "id": "github:The-latest-one/dsh-branch-workspace-folders",
+  "kind": "plugin",
+  "name": "dsh-branch-workspace-folders",
+  "description": "DeepSeek Harness (DSH) sidebar plugin: stack-safe fork tree, two-track indentation, marquee title, leading/hover slots, and cascade purge.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "The-latest-one/dsh-branch-workspace-folders",
+  "repositoryUrl": "https://github.com/The-latest-one/dsh-branch-workspace-folders",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7558
+}
