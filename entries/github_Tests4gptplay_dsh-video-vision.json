@@ -1,0 +1,20 @@
+{
+  "id": "github:Tests4gptplay/dsh-video-vision",
+  "kind": "plugin",
+  "name": "dsh-video-vision",
+  "description": "让 DSH 中的 AI 直接看视频：支持 B 站、YouTube 等在线链接、时间戳画面、字幕、本地转写与原生缓存管理。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tests4gptplay/dsh-video-vision",
+  "repositoryUrl": "https://github.com/Tests4gptplay/dsh-video-vision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8021
+}
