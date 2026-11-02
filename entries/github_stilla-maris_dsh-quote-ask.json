@@ -1,0 +1,20 @@
+{
+  "id": "github:stilla-maris/dsh-quote-ask",
+  "kind": "plugin",
+  "name": "dsh-quote-ask",
+  "description": "Quote it, ask it — in your main chat or a clean side chat. For DeepSeek Harness Desktop.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stilla-maris/dsh-quote-ask",
+  "repositoryUrl": "https://github.com/stilla-maris/dsh-quote-ask",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7729
+}
