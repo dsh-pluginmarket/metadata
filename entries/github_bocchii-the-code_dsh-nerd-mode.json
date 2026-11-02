@@ -1,0 +1,20 @@
+{
+  "id": "github:bocchii-the-code/dsh-nerd-mode",
+  "kind": "plugin",
+  "name": "dsh-nerd-mode",
+  "description": "A study switch and study skills for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bocchii-the-code/dsh-nerd-mode",
+  "repositoryUrl": "https://github.com/bocchii-the-code/dsh-nerd-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7767
+}
