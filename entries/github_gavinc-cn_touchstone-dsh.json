@@ -1,0 +1,20 @@
+{
+  "id": "github:gavinc-cn/touchstone-dsh",
+  "kind": "plugin",
+  "name": "touchstone-dsh",
+  "description": "Automated testing platform for DeepSeek Harness (dsh): case library, bug reports, per-project serial queue, dev board, built-in load testing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gavinc-cn/touchstone-dsh",
+  "repositoryUrl": "https://github.com/gavinc-cn/touchstone-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7591
+}
