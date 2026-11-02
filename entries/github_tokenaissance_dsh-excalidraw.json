@@ -1,0 +1,20 @@
+{
+  "id": "github:tokenaissance/dsh-excalidraw",
+  "kind": "plugin",
+  "name": "dsh-excalidraw",
+  "description": "Live Excalidraw architecture scenes rendered in DSH (sidebar tab or native conversation view), refreshed from Excalidraw+ over MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tokenaissance/dsh-excalidraw",
+  "repositoryUrl": "https://github.com/tokenaissance/dsh-excalidraw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7574
+}
