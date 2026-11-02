@@ -1,0 +1,20 @@
+{
+  "id": "github:lucakaneshiro1/worldpulse",
+  "kind": "plugin",
+  "name": "worldpulse",
+  "description": "Live world news, situation analysis, and conflict-aware travel planning for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lucakaneshiro1/worldpulse",
+  "repositoryUrl": "https://github.com/lucakaneshiro1/worldpulse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7535
+}
