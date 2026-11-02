@@ -1,0 +1,20 @@
+{
+  "id": "github:oooplz/dsh-stitch-mcp",
+  "kind": "plugin",
+  "name": "dsh-stitch-mcp",
+  "description": "Integrate Google Stitch via MCP to enable the assistant to list, create, edit, and generate Stitch projects, interfaces, and design systems.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oooplz/dsh-stitch-mcp",
+  "repositoryUrl": "https://github.com/oooplz/dsh-stitch-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7853
+}
