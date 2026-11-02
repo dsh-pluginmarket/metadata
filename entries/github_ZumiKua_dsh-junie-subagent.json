@@ -1,0 +1,20 @@
+{
+  "id": "github:ZumiKua/dsh-junie-subagent",
+  "kind": "plugin",
+  "name": "dsh-junie-subagent",
+  "description": "Run the JetBrains Junie CLI as a one-shot DeepSeek Harness subagent over ACP, with a settings page for model and thinking depth.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZumiKua/dsh-junie-subagent",
+  "repositoryUrl": "https://github.com/ZumiKua/dsh-junie-subagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7982
+}
