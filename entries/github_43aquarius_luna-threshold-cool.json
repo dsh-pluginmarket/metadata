@@ -1,0 +1,20 @@
+{
+  "id": "github:43aquarius/luna-threshold-cool",
+  "kind": "plugin",
+  "name": "luna-threshold-cool",
+  "description": "高频筛选后刻意冷却阈值，复苏判断心态",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "43aquarius/luna-threshold-cool",
+  "repositoryUrl": "https://github.com/43aquarius/luna-threshold-cool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7635
+}
