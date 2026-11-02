@@ -1,0 +1,20 @@
+{
+  "id": "github:Limtide/dsh-agent-lab",
+  "kind": "plugin",
+  "name": "dsh-agent-lab",
+  "description": "Agent 行为回归实验台：把会话录成运行记录，并排对比两次运行的工具序列、参数、结果与用量",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Limtide/dsh-agent-lab",
+  "repositoryUrl": "https://github.com/Limtide/dsh-agent-lab",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7967
+}
