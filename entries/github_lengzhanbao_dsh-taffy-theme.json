@@ -1,0 +1,20 @@
+{
+  "id": "github:lengzhanbao/dsh-taffy-theme",
+  "kind": "plugin",
+  "name": "dsh-taffy-theme",
+  "description": "Taffy theme for DSH Desktop (DeepSeek Harness) — 塔菲星夜工房. Theme plugin for DSH Desktop 0.2.x: nine selectable art sets, adjustable sidebar watermark, three frame levels, custom chat bubble and composer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lengzhanbao/dsh-taffy-theme",
+  "repositoryUrl": "https://github.com/lengzhanbao/dsh-taffy-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7899
+}
