@@ -1,0 +1,20 @@
+{
+  "id": "github:Ianzhyh/qoder-to-dsh",
+  "kind": "plugin",
+  "name": "qoder-to-dsh",
+  "description": "把 Qoder 的模型额度原生接进 DeepSeek Harness 的纯 dsh 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ianzhyh/qoder-to-dsh",
+  "repositoryUrl": "https://github.com/Ianzhyh/qoder-to-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7595
+}
