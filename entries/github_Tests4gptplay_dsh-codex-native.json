@@ -1,0 +1,20 @@
+{
+  "id": "github:Tests4gptplay/dsh-codex-native",
+  "kind": "plugin",
+  "name": "dsh-codex-native",
+  "description": "Community DSH model adapter using official OpenAI Codex app-server and native ChatGPT login",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tests4gptplay/dsh-codex-native",
+  "repositoryUrl": "https://github.com/Tests4gptplay/dsh-codex-native",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8028
+}
