@@ -1,0 +1,20 @@
+{
+  "id": "github:EmberwingAviation/dsh-media-gen",
+  "kind": "plugin",
+  "name": "dsh-media-gen",
+  "description": "DeepSeek Harness 生图+生视频整合插件：统一供应商目录、三个工具、中转站实测的异步视频契约、 限流退避纪律、设置页+画廊+快车道 CLI。MIT，fork 合并自 dsh-image-generation 与 dsh-video-gen。| Unified image+video generation plugin for DeepSeek Harness (MIT, fork-merge of dsh-image-generation & dsh-video-gen)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EmberwingAviation/dsh-media-gen",
+  "repositoryUrl": "https://github.com/EmberwingAviation/dsh-media-gen",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7845
+}
