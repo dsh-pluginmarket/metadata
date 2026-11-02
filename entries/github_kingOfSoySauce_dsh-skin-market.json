@@ -1,0 +1,20 @@
+{
+  "id": "github:kingOfSoySauce/dsh-skin-market",
+  "kind": "plugin",
+  "name": "dsh-skin-market",
+  "description": "DSH皮肤市场Skin Market 已收录五百+皮肤、桌宠、开屏动画等；有便捷的社区收录入口，并且已有多位开发者提交皮肤；有在线页面方便在线浏；有方便安装管理本地皮肤的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kingOfSoySauce/dsh-skin-market",
+  "repositoryUrl": "https://github.com/kingOfSoySauce/dsh-skin-market",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7508
+}
