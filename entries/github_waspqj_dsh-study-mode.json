@@ -1,0 +1,20 @@
+{
+  "id": "github:waspqj/dsh-study-mode",
+  "kind": "plugin",
+  "name": "dsh-study-mode",
+  "description": "学习模式（study-mode）agent 预设：主题知识库 + 检索优先的回答（命中标出处、查不到标未验证），侧边栏带知识库面板。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "waspqj/dsh-study-mode",
+  "repositoryUrl": "https://github.com/waspqj/dsh-study-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8001
+}
