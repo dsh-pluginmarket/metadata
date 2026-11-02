@@ -1,0 +1,20 @@
+{
+  "id": "github:Yuuyuko-uu/dsh-fish-buddy",
+  "kind": "plugin",
+  "name": "dsh-fish-buddy",
+  "description": "鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yuuyuko-uu/dsh-fish-buddy",
+  "repositoryUrl": "https://github.com/Yuuyuko-uu/dsh-fish-buddy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7802
+}
