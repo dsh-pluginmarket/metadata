@@ -1,0 +1,20 @@
+{
+  "id": "github:chargeduck/xechat-dsh",
+  "kind": "plugin",
+  "name": "xechat-dsh",
+  "description": "DSH 侧边栏聊天插件：在 DeepSeek Harness 里常驻一条可停靠的 XEChat 鱼塘会话——Markdown 图文与表情、#showServer/#login 切服、在线成员、全屏遮盖，单条 WebSocket 保活。Dockable XEChat chat sidebar for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chargeduck/xechat-dsh",
+  "repositoryUrl": "https://github.com/chargeduck/xechat-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7956
+}
