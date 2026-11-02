@@ -1,0 +1,20 @@
+{
+  "id": "github:Wldpm/dsh-fileguard",
+  "kind": "plugin",
+  "name": "dsh-fileguard",
+  "description": "Deepseek Harness的一个插件，它能通过拦截大部分危险命令避免全权情况下大删库的情况：这是一个全权模式下仍能保护大多数文件的软约束插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Wldpm/dsh-fileguard",
+  "repositoryUrl": "https://github.com/Wldpm/dsh-fileguard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7599
+}
