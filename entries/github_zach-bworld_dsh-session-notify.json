@@ -1,0 +1,20 @@
+{
+  "id": "github:zach-bworld/dsh-session-notify",
+  "kind": "plugin",
+  "name": "dsh-session-notify",
+  "description": "DSH client plugin: sidebar badge + system notification when a background session finishes (multi-project workflow)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zach-bworld/dsh-session-notify",
+  "repositoryUrl": "https://github.com/zach-bworld/dsh-session-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7479
+}
