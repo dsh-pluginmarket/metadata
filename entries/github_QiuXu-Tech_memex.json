@@ -1,0 +1,20 @@
+{
+  "id": "github:QiuXu-Tech/memex",
+  "kind": "plugin",
+  "name": "memex",
+  "description": "Lossless long-horizon memory for DeepSeek Harness: sticky L2/L3 extra-context, hybrid recall, cold-tier compression, Web panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QiuXu-Tech/memex",
+  "repositoryUrl": "https://github.com/QiuXu-Tech/memex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7566
+}
