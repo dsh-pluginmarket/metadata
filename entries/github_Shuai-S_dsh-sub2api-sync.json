@@ -1,0 +1,20 @@
+{
+  "id": "github:Shuai-S/dsh-sub2api-sync",
+  "kind": "plugin",
+  "name": "dsh-sub2api-sync",
+  "description": "DeepSeek Harness (DSH) plugin: sync one sub2api instance's groups, keys, and models into dsh-llm-pi-ai provider routes — one relay key, one provider.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Shuai-S/dsh-sub2api-sync",
+  "repositoryUrl": "https://github.com/Shuai-S/dsh-sub2api-sync",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7640
+}
