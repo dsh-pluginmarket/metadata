@@ -1,0 +1,20 @@
+{
+  "id": "github:zhuchongba-01/dsh-breach",
+  "kind": "plugin",
+  "name": "dsh-breach",
+  "description": "DSH 插件：由 dsh-purge 剥离出的破甲单件 —— 提示词注入 + 可回滚宿主补丁引擎（本机结算 72 项）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhuchongba-01/dsh-breach",
+  "repositoryUrl": "https://github.com/zhuchongba-01/dsh-breach",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7822
+}
