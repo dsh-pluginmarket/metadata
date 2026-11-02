@@ -1,0 +1,20 @@
+{
+  "id": "github:Devin-AXIS/deepseek-design",
+  "kind": "plugin",
+  "name": "deepseek-design",
+  "description": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Devin-AXIS/deepseek-design",
+  "repositoryUrl": "https://github.com/Devin-AXIS/deepseek-design",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7682
+}
