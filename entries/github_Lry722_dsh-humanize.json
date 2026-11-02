@@ -1,0 +1,20 @@
+{
+  "id": "github:Lry722/dsh-humanize",
+  "kind": "plugin",
+  "name": "dsh-humanize",
+  "description": "Related DeepSeek Harness project: Lry722/dsh-humanize",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lry722/dsh-humanize",
+  "repositoryUrl": "https://github.com/Lry722/dsh-humanize",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7805
+}
