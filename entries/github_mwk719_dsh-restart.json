@@ -1,0 +1,20 @@
+{
+  "id": "github:mwk719/dsh-restart",
+  "kind": "plugin",
+  "name": "dsh-restart",
+  "description": "给 DeepSeek Harness Desktop（Windows）的标题栏加一个「重启」按钮。点一下弹出确认框，确认后应用关闭并重新打开。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mwk719/dsh-restart",
+  "repositoryUrl": "https://github.com/mwk719/dsh-restart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7922
+}
