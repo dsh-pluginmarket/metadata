@@ -1,0 +1,20 @@
+{
+  "id": "github:dongfangxy/dsh-archive-cleaner",
+  "kind": "plugin",
+  "name": "dsh-archive-cleaner",
+  "description": "DeepSeek Harness (DSH) 插件：清理已归档的对话/会话，移到隔离区或直接删除，释放磁盘空间。Clean up archived DSH sessions and reclaim disk space.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dongfangxy/dsh-archive-cleaner",
+  "repositoryUrl": "https://github.com/dongfangxy/dsh-archive-cleaner",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8007
+}
