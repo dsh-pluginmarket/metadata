@@ -1,0 +1,20 @@
+{
+  "id": "github:huajikano/bibao",
+  "kind": "plugin",
+  "name": "bibao",
+  "description": "比宝 · 拟人认知内核（DSH 插件）：四条神经科学定律 + snowluma QQ 感官",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huajikano/bibao",
+  "repositoryUrl": "https://github.com/huajikano/bibao",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 7491
+}
