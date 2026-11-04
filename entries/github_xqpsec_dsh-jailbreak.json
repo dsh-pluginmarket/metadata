@@ -1,0 +1,27 @@
+{
+  "id": "github:xqpsec/dsh-jailbreak",
+  "kind": "plugin",
+  "name": "dsh-jailbreak",
+  "description": "dsh jailbreak - DeepSeek Assistant 破甲插件（DSH 破甲 / 越狱）：在请求边界重写出站 /chat/completions，不改宿主一行代码。20 类拒答场景合并 ASR 45.0%（n=60，三臂可复现 0.0%/19.6%/45.0%），observed 目标覆盖 19/20，良性能力 Δ=0.0pt（24/24 客观判分）。默认关闭、off 逐字透传、SCOPE 试运行阀门、每次改写落 manifest 与 promptSha256 可审计，不打包第三方越狱语料。旧名 dsh-jalibreak。",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "xqpsec/dsh-jailbreak",
+  "repositoryUrl": "https://github.com/xqpsec/dsh-jailbreak",
+  "npmPackage": "@xqpsec/dsh-jailbreak",
+  "tags": [
+    "jailbreak",
+    "llm-security",
+    "prompt-injection",
+    "red-team",
+    "dsh-plugin",
+    "security",
+    "ai-security"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "xqpsec",
+  "issueNumber": 8087
+}
