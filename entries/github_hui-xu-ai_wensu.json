@@ -1,0 +1,20 @@
+{
+  "id": "github:hui-xu-ai/wensu",
+  "kind": "plugin",
+  "name": "wensu",
+  "description": "文溯 · wensu   为Codex、DeepSeek Harness等提供文献自动检索 MCP 服务：微内核 + 渠道插件（支持知网/Web of Science文献检索），不下载全文、不做第三方入库。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hui-xu-ai/wensu",
+  "repositoryUrl": "https://github.com/hui-xu-ai/wensu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8106
+}
