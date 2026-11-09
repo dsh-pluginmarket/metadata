@@ -1,0 +1,20 @@
+{
+  "id": "github:f-e-n-g-0531/dsh-execution-bus",
+  "kind": "plugin",
+  "name": "dsh-execution-bus",
+  "description": "Related DeepSeek Harness project: f-e-n-g-0531/dsh-execution-bus",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "f-e-n-g-0531/dsh-execution-bus",
+  "repositoryUrl": "https://github.com/f-e-n-g-0531/dsh-execution-bus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8348
+}
