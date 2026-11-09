@@ -1,0 +1,20 @@
+{
+  "id": "github:runzhliu/welink",
+  "kind": "plugin",
+  "name": "welink",
+  "description": "🔍微信聊天数据分析的本地化AI-agent(Docker/Windows/MacOS) · AI分身 / 大模型分析 / 好友排行 / 词云 / 情感趋势 / 群聊画像",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "runzhliu/welink",
+  "repositoryUrl": "https://github.com/runzhliu/welink",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8409
+}
