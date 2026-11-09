@@ -1,0 +1,20 @@
+{
+  "id": "github:hql6662/dsh-local-kb",
+  "kind": "plugin",
+  "name": "dsh-local-kb",
+  "description": "Local full-disk knowledge base plugin for DSH: C:/ + E:/ documents indexed into SQLite FTS5 trigram, with a searchable sidebar panel and a token-efficient kb agent tool.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hql6662/dsh-local-kb",
+  "repositoryUrl": "https://github.com/hql6662/dsh-local-kb",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8614
+}
