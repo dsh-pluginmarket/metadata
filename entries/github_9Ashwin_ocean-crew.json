@@ -1,0 +1,20 @@
+{
+  "id": "github:9Ashwin/ocean-crew",
+  "kind": "plugin",
+  "name": "ocean-crew",
+  "description": "海底小队（Ocean Crew）—— 把 DSH Desktop 变成一支由长期存活的海洋伙伴 Bot 组成的团队：私聊、群聊、互相交付工作。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "9Ashwin/ocean-crew",
+  "repositoryUrl": "https://github.com/9Ashwin/ocean-crew",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8229
+}
