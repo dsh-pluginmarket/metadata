@@ -1,0 +1,20 @@
+{
+  "id": "github:Yuuyuko-uu/dsh-fish-memory",
+  "kind": "plugin",
+  "name": "dsh-fish-memory",
+  "description": "🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yuuyuko-uu/dsh-fish-memory",
+  "repositoryUrl": "https://github.com/Yuuyuko-uu/dsh-fish-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8602
+}
