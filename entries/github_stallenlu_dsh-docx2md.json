@@ -1,0 +1,20 @@
+{
+  "id": "github:stallenlu/dsh-docx2md",
+  "kind": "plugin",
+  "name": "dsh-docx2md",
+  "description": "把含公式的 Word 文档转成带 LaTeX 的 Markdown —— OLE、Word 原生 OMML、图片公式三种载体都处理，跨平台，保留公式编号与结构。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stallenlu/dsh-docx2md",
+  "repositoryUrl": "https://github.com/stallenlu/dsh-docx2md",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8633
+}
