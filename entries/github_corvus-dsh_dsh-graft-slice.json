@@ -1,0 +1,20 @@
+{
+  "id": "github:corvus-dsh/dsh-graft-slice",
+  "kind": "plugin",
+  "name": "dsh-graft-slice",
+  "description": "DSH open-source ecosystem plugin (topic: dsh-plugin): physical handoff for long sessions — slice a closed log at its last turn/end into a zero-inheritance, cold-resumable session. No fork, no lossy compaction, crash-safe transaction journal. — DSH open-source ecosystem (topic: dsh-plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "corvus-dsh/dsh-graft-slice",
+  "repositoryUrl": "https://github.com/corvus-dsh/dsh-graft-slice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8178
+}
