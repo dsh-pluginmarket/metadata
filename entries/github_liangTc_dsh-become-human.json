@@ -1,0 +1,20 @@
+{
+  "id": "github:liangTc/dsh-become-human",
+  "kind": "plugin",
+  "name": "dsh-become-human",
+  "description": "面向 DSH Web 的单会话自主 Agent：人格、分层记忆、自主学习、任务看板、目标推进与主动交流；Web 与 IM 共享会话。Apache-2.0，测试版本，尚未开发完成。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liangTc/dsh-become-human",
+  "repositoryUrl": "https://github.com/liangTc/dsh-become-human",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8121
+}
