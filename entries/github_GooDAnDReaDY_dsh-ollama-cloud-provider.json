@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-ollama-cloud-provider",
+  "kind": "plugin",
+  "name": "dsh-ollama-cloud-provider",
+  "description": "Ollama Cloud LLM provider plugin for DeepSeek Harness (dsh).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-ollama-cloud-provider",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-ollama-cloud-provider",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8588
+}
