@@ -1,0 +1,20 @@
+{
+  "id": "github:wdxtub/dsh-wdx-git",
+  "kind": "plugin",
+  "name": "dsh-wdx-git",
+  "description": "Git inside your AI session: one sync button that fetches, pulls, or pushes; a default commit tab; AI-written commit messages for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wdxtub/dsh-wdx-git",
+  "repositoryUrl": "https://github.com/wdxtub/dsh-wdx-git",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8402
+}
