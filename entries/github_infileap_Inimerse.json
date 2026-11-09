@@ -1,0 +1,20 @@
+{
+  "id": "github:infileap/Inimerse",
+  "kind": "plugin",
+  "name": "Inimerse",
+  "description": "Inimerse,a new coding language",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "infileap/Inimerse",
+  "repositoryUrl": "https://github.com/infileap/Inimerse",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8118
+}
