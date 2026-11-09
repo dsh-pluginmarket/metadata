@@ -1,0 +1,20 @@
+{
+  "id": "github:Horizonepn/dsh-energy-patent",
+  "kind": "plugin",
+  "name": "dsh-energy-patent",
+  "description": "Energy-storage patent workbench for DeepSeek Harness: drafting, figures, docket, office actions, mailbox replies",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Horizonepn/dsh-energy-patent",
+  "repositoryUrl": "https://github.com/Horizonepn/dsh-energy-patent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8496
+}
