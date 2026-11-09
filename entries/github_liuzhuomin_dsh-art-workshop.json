@@ -1,0 +1,20 @@
+{
+  "id": "github:liuzhuomin/dsh-art-workshop",
+  "kind": "plugin",
+  "name": "dsh-art-workshop",
+  "description": "DeepSeek Harness ????????:??????????(??????)???????????????????",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuzhuomin/dsh-art-workshop",
+  "repositoryUrl": "https://github.com/liuzhuomin/dsh-art-workshop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8622
+}
