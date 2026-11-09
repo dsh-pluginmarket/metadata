@@ -1,0 +1,20 @@
+{
+  "id": "github:oxmumu3/dsh-project-companion",
+  "kind": "plugin",
+  "name": "dsh-project-companion",
+  "description": "DeepSeek Dot：长在微信里的 DeepSeek Harness 项目助理，项目记忆、只读跟进与明确交办。Community preview, MIT.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oxmumu3/dsh-project-companion",
+  "repositoryUrl": "https://github.com/oxmumu3/dsh-project-companion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8139
+}
