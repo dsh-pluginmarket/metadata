@@ -1,0 +1,20 @@
+{
+  "id": "github:ye001991g/dsh-chat-find",
+  "kind": "plugin",
+  "name": "dsh-chat-find",
+  "description": "Chinese-safe literal find for the DeepSeek Harness chat transcript - pixel-accurate scroll-to-match across nested scrollports.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ye001991g/dsh-chat-find",
+  "repositoryUrl": "https://github.com/ye001991g/dsh-chat-find",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8649
+}
