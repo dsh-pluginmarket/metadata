@@ -1,0 +1,20 @@
+{
+  "id": "github:jiahui-huang1/dsh-linked-workspace",
+  "kind": "plugin",
+  "name": "dsh-linked-workspace",
+  "description": "SSH-backed remote directories and editable local-to-remote linked workspaces for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jiahui-huang1/dsh-linked-workspace",
+  "repositoryUrl": "https://github.com/jiahui-huang1/dsh-linked-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8205
+}
