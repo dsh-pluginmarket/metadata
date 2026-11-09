@@ -1,0 +1,20 @@
+{
+  "id": "github:full-aigc-plugins/gridcraft-plugin",
+  "kind": "plugin",
+  "name": "gridcraft-plugin",
+  "description": "Build and audit editable spreadsheets with live formulas, tables, and charts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "full-aigc-plugins/gridcraft-plugin",
+  "repositoryUrl": "https://github.com/full-aigc-plugins/gridcraft-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8355
+}
