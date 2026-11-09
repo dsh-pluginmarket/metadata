@@ -1,0 +1,20 @@
+{
+  "id": "github:ryukeilee/dsh-evolution",
+  "kind": "plugin",
+  "name": "dsh-evolution",
+  "description": "DeepSeek DSH 的独立 Evolution bundle 预发布；promotion 的 host 代码不是安全沙箱。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ryukeilee/dsh-evolution",
+  "repositoryUrl": "https://github.com/ryukeilee/dsh-evolution",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8386
+}
