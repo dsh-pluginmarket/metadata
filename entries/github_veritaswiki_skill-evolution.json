@@ -1,0 +1,20 @@
+{
+  "id": "github:veritaswiki/skill-evolution",
+  "kind": "plugin",
+  "name": "skill-evolution",
+  "description": "Closed-loop skill self-evolution engine for AI coding agents: post-turn review, Chinese briefing & mandatory directive fusion, 4-gate safety validation, SHA-256 ledger rollback, and umbrella consolidation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "veritaswiki/skill-evolution",
+  "repositoryUrl": "https://github.com/veritaswiki/skill-evolution",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8483
+}
