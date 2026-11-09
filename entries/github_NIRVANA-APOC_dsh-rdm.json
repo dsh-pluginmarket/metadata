@@ -1,0 +1,20 @@
+{
+  "id": "github:NIRVANA-APOC/dsh-rdm",
+  "kind": "plugin",
+  "name": "dsh-rdm",
+  "description": "Resident multi-connection download engine for DeepSeek Harness: rdm_* agent tools, a sidebar download panel, resumable and verifiable transfers.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NIRVANA-APOC/dsh-rdm",
+  "repositoryUrl": "https://github.com/NIRVANA-APOC/dsh-rdm",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8299
+}
