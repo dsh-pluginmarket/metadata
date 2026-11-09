@@ -1,0 +1,20 @@
+{
+  "id": "github:yu-bobo/dsh-commit-journal",
+  "kind": "plugin",
+  "name": "dsh-commit-journal",
+  "description": "DeepSeek Harness plugin: sync commits (Codeup/GitLab/GitHub), reports, activity heatmap",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yu-bobo/dsh-commit-journal",
+  "repositoryUrl": "https://github.com/yu-bobo/dsh-commit-journal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8471
+}
