@@ -1,0 +1,20 @@
+{
+  "id": "github:heisedexiaoniukou-max/dsh-todo-progress-hud",
+  "kind": "plugin",
+  "name": "dsh-todo-progress-hud",
+  "description": "让 agent 的每一步都看得见 · 把 DeepSeek Harness 会话的任务清单变成输入框上方一条常驻进度条",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "heisedexiaoniukou-max/dsh-todo-progress-hud",
+  "repositoryUrl": "https://github.com/heisedexiaoniukou-max/dsh-todo-progress-hud",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8203
+}
