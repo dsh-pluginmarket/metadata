@@ -1,0 +1,20 @@
+{
+  "id": "github:weixiurui/dsh-firefly-forest",
+  "kind": "plugin",
+  "name": "dsh-firefly-forest",
+  "description": "dsh主题插件， 萤火森林",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "weixiurui/dsh-firefly-forest",
+  "repositoryUrl": "https://github.com/weixiurui/dsh-firefly-forest",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8543
+}
