@@ -1,0 +1,20 @@
+{
+  "id": "github:5aaee9/pi-agent-extensions",
+  "kind": "plugin",
+  "name": "pi-agent-extensions",
+  "description": "Related DeepSeek Harness project: 5aaee9/pi-agent-extensions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "5aaee9/pi-agent-extensions",
+  "repositoryUrl": "https://github.com/5aaee9/pi-agent-extensions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8534
+}
