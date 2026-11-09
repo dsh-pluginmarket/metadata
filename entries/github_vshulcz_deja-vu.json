@@ -1,0 +1,20 @@
+{
+  "id": "github:vshulcz/deja-vu",
+  "kind": "plugin",
+  "name": "deja-vu",
+  "description": "Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 43 agents. AI coding memory, Claude Code history, Cursor history, local coding agent memory, MCP memory server & Claude compaction.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vshulcz/deja-vu",
+  "repositoryUrl": "https://github.com/vshulcz/deja-vu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8234
+}
