@@ -1,0 +1,20 @@
+{
+  "id": "github:bvbhu/dsh-as-one",
+  "kind": "plugin",
+  "name": "dsh-as-one",
+  "description": "As One 的 DSH 插件：把 As One 网关的调度/路由/面板挂进 DeepSeek Harness，提供 OpenAI 兼容的 /v1/models 与 /v1/chat/completions，面板页面直接内嵌",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bvbhu/dsh-as-one",
+  "repositoryUrl": "https://github.com/bvbhu/dsh-as-one",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8210
+}
