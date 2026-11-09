@@ -1,0 +1,20 @@
+{
+  "id": "github:EquentR/dsh_plugins",
+  "kind": "plugin",
+  "name": "dsh_plugins",
+  "description": "Third-party plugin collection for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EquentR/dsh_plugins",
+  "repositoryUrl": "https://github.com/EquentR/dsh_plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8532
+}
