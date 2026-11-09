@@ -1,0 +1,20 @@
+{
+  "id": "github:jiezhengj/DSH-Subagent-OAR-AGY",
+  "kind": "plugin",
+  "name": "DSH-Subagent-OAR-AGY",
+  "description": "Unofficial DSH plugin: delegate independent tasks to the local Antigravity CLI (agy) via the official OAR tool shape; non-ACP runtime, eight-language UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jiezhengj/DSH-Subagent-OAR-AGY",
+  "repositoryUrl": "https://github.com/jiezhengj/DSH-Subagent-OAR-AGY",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8144
+}
