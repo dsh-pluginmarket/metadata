@@ -1,0 +1,20 @@
+{
+  "id": "github:geml-spec/geml",
+  "kind": "plugin",
+  "name": "geml",
+  "description": "GEML is a lightweight markup language with uniform, addressable blocks and standard verbs. Easy for humans to read, safe for agents to mutate.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "geml-spec/geml",
+  "repositoryUrl": "https://github.com/geml-spec/geml",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8129
+}
