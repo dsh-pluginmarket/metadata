@@ -1,0 +1,20 @@
+{
+  "id": "github:zhouatie/dsh-device-deck",
+  "kind": "plugin",
+  "name": "dsh-device-deck",
+  "description": "Device mirror, emulator manager, and agent tools for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhouatie/dsh-device-deck",
+  "repositoryUrl": "https://github.com/zhouatie/dsh-device-deck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8340
+}
