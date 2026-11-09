@@ -1,0 +1,20 @@
+{
+  "id": "github:mingzeng21/dsh-notion",
+  "kind": "plugin",
+  "name": "dsh-notion",
+  "description": "Connect DeepSeek Harness (dsh) to Notion via the official Notion MCP — OAuth 2.0 + PKCE, one-time login, silent token refresh.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mingzeng21/dsh-notion",
+  "repositoryUrl": "https://github.com/mingzeng21/dsh-notion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8598
+}
