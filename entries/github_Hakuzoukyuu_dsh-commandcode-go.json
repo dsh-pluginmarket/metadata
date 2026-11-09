@@ -1,0 +1,20 @@
+{
+  "id": "github:Hakuzoukyuu/dsh-commandcode-go",
+  "kind": "plugin",
+  "name": "dsh-commandcode-go",
+  "description": "Command Code Go provider + draggable usage window for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Hakuzoukyuu/dsh-commandcode-go",
+  "repositoryUrl": "https://github.com/Hakuzoukyuu/dsh-commandcode-go",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8336
+}
