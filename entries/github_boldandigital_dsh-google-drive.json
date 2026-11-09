@@ -1,0 +1,20 @@
+{
+  "id": "github:boldandigital/dsh-google-drive",
+  "kind": "plugin",
+  "name": "dsh-google-drive",
+  "description": "Add Google Drive accounts to the DeepSeek Harness — sign in with Google or connect a service account in one click — then browse their files in the right sidebar and drag a file straight into the conversation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "boldandigital/dsh-google-drive",
+  "repositoryUrl": "https://github.com/boldandigital/dsh-google-drive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8232
+}
