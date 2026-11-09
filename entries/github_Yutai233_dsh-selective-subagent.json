@@ -1,0 +1,20 @@
+{
+  "id": "github:Yutai233/dsh-selective-subagent",
+  "kind": "plugin",
+  "name": "dsh-selective-subagent",
+  "description": "给 DeepSeek Harness (DSH) 的子代理加一层\"人来选模型\"的环节：AI 拆分任务、准备派子代理时，先弹窗让你为该任务指定 provider / 模型；60 秒无操作则保持 DSH 原本的子代理路由继续。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yutai233/dsh-selective-subagent",
+  "repositoryUrl": "https://github.com/Yutai233/dsh-selective-subagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8388
+}
