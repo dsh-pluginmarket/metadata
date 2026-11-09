@@ -1,0 +1,20 @@
+{
+  "id": "github:jkrhug/dsh-easyrestart",
+  "kind": "plugin",
+  "name": "dsh-easyrestart",
+  "description": "给deepseek harness添加更方便快捷的重启方式 Add a more convenient and efficient restart method to the deepseek harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jkrhug/dsh-easyrestart",
+  "repositoryUrl": "https://github.com/jkrhug/dsh-easyrestart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8397
+}
