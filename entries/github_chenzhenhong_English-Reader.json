@@ -1,0 +1,20 @@
+{
+  "id": "github:chenzhenhong/English-Reader",
+  "kind": "plugin",
+  "name": "English-Reader",
+  "description": "english reader for deepseek harness plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chenzhenhong/English-Reader",
+  "repositoryUrl": "https://github.com/chenzhenhong/English-Reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8148
+}
