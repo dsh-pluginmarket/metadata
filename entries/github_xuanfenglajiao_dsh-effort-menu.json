@@ -1,0 +1,20 @@
+{
+  "id": "github:xuanfenglajiao/dsh-effort-menu",
+  "kind": "plugin",
+  "name": "dsh-effort-menu",
+  "description": "Replaces the composer model menu with a recent-models list, an all-providers flyout, and a draggable reasoning-effort slider.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xuanfenglajiao/dsh-effort-menu",
+  "repositoryUrl": "https://github.com/xuanfenglajiao/dsh-effort-menu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8221
+}
