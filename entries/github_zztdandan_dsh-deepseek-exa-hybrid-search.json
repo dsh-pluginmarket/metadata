@@ -1,0 +1,20 @@
+{
+  "id": "github:zztdandan/dsh-deepseek-exa-hybrid-search",
+  "kind": "plugin",
+  "name": "dsh-deepseek-exa-hybrid-search",
+  "description": "DSH web_search provider: DeepSeek Search API + Exa merged into one de-duplicated, cross-source-first result list. 把 DeepSeek 与 Exa 搜索合并成单份结果的 DSH 插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zztdandan/dsh-deepseek-exa-hybrid-search",
+  "repositoryUrl": "https://github.com/zztdandan/dsh-deepseek-exa-hybrid-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8556
+}
