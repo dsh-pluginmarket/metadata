@@ -1,0 +1,20 @@
+{
+  "id": "github:lengfengng-tech/dsh-workspace-memories",
+  "kind": "plugin",
+  "name": "dsh-workspace-memories",
+  "description": "Per-workspace persistent memory plugin for DeepSeek Harness (DSH): sidebar panel, automatic system-prompt injection, and an agent tool to save memories",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lengfengng-tech/dsh-workspace-memories",
+  "repositoryUrl": "https://github.com/lengfengng-tech/dsh-workspace-memories",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8259
+}
