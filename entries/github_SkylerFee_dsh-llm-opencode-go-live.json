@@ -1,0 +1,20 @@
+{
+  "id": "github:SkylerFee/dsh-llm-opencode-go-live",
+  "kind": "plugin",
+  "name": "dsh-llm-opencode-go-live",
+  "description": "DeepSeek Harness 的 OpenCode Go 动态模型目录插件。它从 Models.dev 更新 `opencode-go` 模型列表，注册独立的 `opencode-go-live` 路由。An OpenCode Go live model catalog plugin for DeepSeek Harness. It reads the `opencode-go` catalog from Models.dev, registers the separate `opencode-go-live` route.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SkylerFee/dsh-llm-opencode-go-live",
+  "repositoryUrl": "https://github.com/SkylerFee/dsh-llm-opencode-go-live",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8607
+}
