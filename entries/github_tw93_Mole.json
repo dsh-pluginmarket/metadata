@@ -1,0 +1,20 @@
+{
+  "id": "github:tw93/Mole",
+  "kind": "plugin",
+  "name": "Mole",
+  "description": "🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tw93/Mole",
+  "repositoryUrl": "https://github.com/tw93/Mole",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8195
+}
