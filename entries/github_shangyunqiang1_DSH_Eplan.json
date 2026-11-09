@@ -1,0 +1,20 @@
+{
+  "id": "github:shangyunqiang1/DSH_Eplan",
+  "kind": "plugin",
+  "name": "DSH_Eplan",
+  "description": "DeepSeek Harness bundle for EPLAN Electric P8: a bundled eplan-mcp server that drives the running EPLAN instance, offline SQLite documentation indexes, a settings page, and five agent skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shangyunqiang1/DSH_Eplan",
+  "repositoryUrl": "https://github.com/shangyunqiang1/DSH_Eplan",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8657
+}
