@@ -1,0 +1,20 @@
+{
+  "id": "github:HAppy-2436/dsh-status",
+  "kind": "plugin",
+  "name": "dsh-status",
+  "description": "Native macOS menu bar companion for DeepSeek Harness (DSH): session status, alerts and one-click jump.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HAppy-2436/dsh-status",
+  "repositoryUrl": "https://github.com/HAppy-2436/dsh-status",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8575
+}
