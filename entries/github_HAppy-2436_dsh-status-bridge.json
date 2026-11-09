@@ -1,0 +1,20 @@
+{
+  "id": "github:HAppy-2436/dsh-status-bridge",
+  "kind": "plugin",
+  "name": "dsh-status-bridge",
+  "description": "DSH plugin: bridges DeepSeek Harness session status to the DSH Status macOS menu bar app.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HAppy-2436/dsh-status-bridge",
+  "repositoryUrl": "https://github.com/HAppy-2436/dsh-status-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8248
+}
