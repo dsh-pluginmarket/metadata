@@ -1,0 +1,20 @@
+{
+  "id": "github:ddtcorex/maestro-memory",
+  "kind": "plugin",
+  "name": "maestro-memory",
+  "description": "DSH plugin for durable cross-session memory and todos: five tracks (global, user, project, key, daily), confirmation-gated writes, in-place adoption of existing memories and optional per-project Git sync",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ddtcorex/maestro-memory",
+  "repositoryUrl": "https://github.com/ddtcorex/maestro-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8289
+}
