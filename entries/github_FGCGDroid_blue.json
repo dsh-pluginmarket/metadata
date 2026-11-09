@@ -1,0 +1,20 @@
+{
+  "id": "github:FGCGDroid/blue",
+  "kind": "plugin",
+  "name": "blue",
+  "description": "CTF网络攻防蓝队防御插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FGCGDroid/blue",
+  "repositoryUrl": "https://github.com/FGCGDroid/blue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8513
+}
