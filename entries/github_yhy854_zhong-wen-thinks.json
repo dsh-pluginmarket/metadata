@@ -1,0 +1,20 @@
+{
+  "id": "github:yhy854/zhong-wen-thinks",
+  "kind": "plugin",
+  "name": "zhong-wen-thinks",
+  "description": "Force the DeepSeek Harness agent chain-of-thought to stay in Simplified Chinese.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yhy854/zhong-wen-thinks",
+  "repositoryUrl": "https://github.com/yhy854/zhong-wen-thinks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8393
+}
