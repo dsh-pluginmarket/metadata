@@ -1,0 +1,20 @@
+{
+  "id": "github:EastMG/dsh-gacha-calendar",
+  "kind": "plugin",
+  "name": "dsh-gacha-calendar",
+  "description": "DeepSeek Harness 二游卡池/活动日历速查插件：侧边栏按钮 内置 20+ 款主流二游 可添加自定义游戏",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EastMG/dsh-gacha-calendar",
+  "repositoryUrl": "https://github.com/EastMG/dsh-gacha-calendar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8486
+}
