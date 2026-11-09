@@ -1,0 +1,20 @@
+{
+  "id": "github:stallenlu/dsh-sticky-notes",
+  "kind": "plugin",
+  "name": "dsh-sticky-notes",
+  "description": "Sticky notes plugin for DeepSeek Harness (DSH): draggable floating panel, full sidebar page, Markdown preview, paste images, settings.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stallenlu/dsh-sticky-notes",
+  "repositoryUrl": "https://github.com/stallenlu/dsh-sticky-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8464
+}
