@@ -1,0 +1,20 @@
+{
+  "id": "github:dichi123456/dsh-molingTex",
+  "kind": "plugin",
+  "name": "dsh-molingTex",
+  "description": "?? LaTeX ? DSH ??:??? LaTeX ???(??? / ?? / ?? / PDF)+ 5 ? Agent ??",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dichi123456/dsh-molingTex",
+  "repositoryUrl": "https://github.com/dichi123456/dsh-molingTex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8646
+}
