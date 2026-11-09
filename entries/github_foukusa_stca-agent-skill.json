@@ -1,0 +1,20 @@
+{
+  "id": "github:foukusa/stca-agent-skill",
+  "kind": "plugin",
+  "name": "stca-agent-skill",
+  "description": "Agent skill for original STCA polymer screening, rule extraction and rule-guided candidate design.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "foukusa/stca-agent-skill",
+  "repositoryUrl": "https://github.com/foukusa/stca-agent-skill",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8374
+}
