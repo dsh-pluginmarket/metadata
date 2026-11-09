@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-session-control",
+  "kind": "plugin",
+  "name": "dsh-session-control",
+  "description": "Session management for the DeepSeek Harness sidebar: pin conversations, search their contents, read archived transcripts and hide the noise",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-session-control",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-session-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8547
+}
