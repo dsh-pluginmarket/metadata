@@ -1,0 +1,20 @@
+{
+  "id": "github:angelky7/dsh-origin-bridge",
+  "kind": "plugin",
+  "name": "dsh-origin-bridge",
+  "description": "在对话里驱动本机 Origin/OriginPro：导入 .dat/.csv/.txt 与工作站 .bin，绘图、拟合、改样式、导出图片并保存可编辑的 .opju。dsh 插件，27 个 MCP 工具。第三方工具，与 OriginLab 无关联。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "angelky7/dsh-origin-bridge",
+  "repositoryUrl": "https://github.com/angelky7/dsh-origin-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8238
+}
