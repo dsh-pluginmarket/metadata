@@ -1,0 +1,20 @@
+{
+  "id": "github:MonSp/dsh-onto",
+  "kind": "plugin",
+  "name": "dsh-onto",
+  "description": "Business ontology modeling + AI-assisted decision platform for DeepSeek Harness — judgment in the rule engine, determination by humans",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MonSp/dsh-onto",
+  "repositoryUrl": "https://github.com/MonSp/dsh-onto",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8314
+}
