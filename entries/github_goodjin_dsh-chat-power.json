@@ -1,0 +1,20 @@
+{
+  "id": "github:goodjin/dsh-chat-power",
+  "kind": "plugin",
+  "name": "dsh-chat-power",
+  "description": "DSH 插件：聊天区增强——回答卡片、可编辑文件卡片、Mermaid 渲染与会话工具，另含文件/浏览器/终端工具区",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "goodjin/dsh-chat-power",
+  "repositoryUrl": "https://github.com/goodjin/dsh-chat-power",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8638
+}
