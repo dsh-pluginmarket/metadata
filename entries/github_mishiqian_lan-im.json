@@ -1,0 +1,20 @@
+{
+  "id": "github:mishiqian/lan-im",
+  "kind": "plugin",
+  "name": "lan-im",
+  "description": "让局域网内所有安装本插件的 DeepSeek Harness 实例以账号身份互相发现、可靠地互发消息聊天。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mishiqian/lan-im",
+  "repositoryUrl": "https://github.com/mishiqian/lan-im",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8458
+}
