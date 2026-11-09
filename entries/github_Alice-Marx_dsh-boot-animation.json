@@ -1,0 +1,20 @@
+{
+  "id": "github:Alice-Marx/dsh-boot-animation",
+  "kind": "plugin",
+  "name": "dsh-boot-animation",
+  "description": "DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Alice-Marx/dsh-boot-animation",
+  "repositoryUrl": "https://github.com/Alice-Marx/dsh-boot-animation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8442
+}
