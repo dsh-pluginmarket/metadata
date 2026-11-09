@@ -1,0 +1,20 @@
+{
+  "id": "github:Lumid0uce/dsh-acp-window-guard",
+  "kind": "plugin",
+  "name": "dsh-acp-window-guard",
+  "description": "DSH plugin: stop billion-context (ACP) from sizing anonymous/unattributed requests against a 200k default, and keep the oversize safety patch in place across upgrades.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lumid0uce/dsh-acp-window-guard",
+  "repositoryUrl": "https://github.com/Lumid0uce/dsh-acp-window-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8275
+}
