@@ -1,0 +1,20 @@
+{
+  "id": "github:massif-01/dsh-auracap",
+  "kind": "plugin",
+  "name": "dsh-auracap",
+  "description": "把散落的片刻轻轻拾起：装在 DeepSeek Harness 里的截图与文件记忆插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "massif-01/dsh-auracap",
+  "repositoryUrl": "https://github.com/massif-01/dsh-auracap",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8390
+}
