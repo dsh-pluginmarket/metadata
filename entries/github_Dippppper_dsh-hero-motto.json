@@ -1,0 +1,20 @@
+{
+  "id": "github:Dippppper/dsh-hero-motto",
+  "kind": "plugin",
+  "name": "dsh-hero-motto",
+  "description": "Related DeepSeek Harness project: Dippppper/dsh-hero-motto",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Dippppper/dsh-hero-motto",
+  "repositoryUrl": "https://github.com/Dippppper/dsh-hero-motto",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8272
+}
