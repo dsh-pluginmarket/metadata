@@ -1,0 +1,20 @@
+{
+  "id": "github:ai-v5/LLMDSHPlugin_token-usage",
+  "kind": "plugin",
+  "name": "LLMDSHPlugin_token-usage",
+  "description": "仅本地、只读、不上传的 DSH Token 面板；按 provider 实际 usage 统计，所有后端统一汇总，含历史总量、365 天热力图、输入+输出/缓存明细、轮次/步骤、tok/s，归档不丢。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ai-v5/LLMDSHPlugin_token-usage",
+  "repositoryUrl": "https://github.com/ai-v5/LLMDSHPlugin_token-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8583
+}
