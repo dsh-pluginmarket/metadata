@@ -1,0 +1,20 @@
+{
+  "id": "github:Erfan817/dsh-prompt-enhancer-plus",
+  "kind": "plugin",
+  "name": "dsh-prompt-enhancer-plus",
+  "description": "A DSH composer plugin that expands short drafts into clear, detailed prompts while preserving the input language.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Erfan817/dsh-prompt-enhancer-plus",
+  "repositoryUrl": "https://github.com/Erfan817/dsh-prompt-enhancer-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8200
+}
