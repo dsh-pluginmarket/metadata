@@ -1,0 +1,20 @@
+{
+  "id": "github:xbzbing/dsh-hub-desktop",
+  "kind": "plugin",
+  "name": "dsh-hub-desktop",
+  "description": "DSH multi-instance manager — unified control of local, SSH-tunnel and remote HTTP dsh instances, with dsh-auth-gateway login (password + TOTP) | DSH 多实例管理工具 — 本地 / SSH 隧道 / 远程 HTTP 三种 dsh 实例统一管理，对接 dsh-auth-gateway 认证（密码 + TOTP）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xbzbing/dsh-hub-desktop",
+  "repositoryUrl": "https://github.com/xbzbing/dsh-hub-desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8306
+}
