@@ -1,0 +1,20 @@
+{
+  "id": "github:partme-ai/full-aigc-plugins",
+  "kind": "plugin",
+  "name": "full-aigc-plugins",
+  "description": "面向 Codex、ZCode 与 Kimi Code 的 AIGC 插件市场，覆盖图像、视频、音频、音乐、3D 与多模态创作，让灵感一路走到交付。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "partme-ai/full-aigc-plugins",
+  "repositoryUrl": "https://github.com/partme-ai/full-aigc-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8266
+}
