@@ -1,0 +1,20 @@
+{
+  "id": "github:Windsander/Mebular",
+  "kind": "plugin",
+  "name": "Mebular",
+  "description": "🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents and devices: automatic or on-demand, secure, controllable, and decentralized!",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Windsander/Mebular",
+  "repositoryUrl": "https://github.com/Windsander/Mebular",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8674
+}
