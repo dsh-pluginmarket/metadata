@@ -1,0 +1,20 @@
+{
+  "id": "github:loyalchiiina/dsh-lit-fetch",
+  "kind": "plugin",
+  "name": "dsh-lit-fetch",
+  "description": "DSH literature fetcher: search academic papers, download PDFs via Sci-Hub/Open Access, generate batch manifests",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "loyalchiiina/dsh-lit-fetch",
+  "repositoryUrl": "https://github.com/loyalchiiina/dsh-lit-fetch",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8296
+}
