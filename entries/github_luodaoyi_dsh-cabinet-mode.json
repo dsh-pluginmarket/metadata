@@ -1,0 +1,20 @@
+{
+  "id": "github:luodaoyi/dsh-cabinet-mode",
+  "kind": "plugin",
+  "name": "dsh-cabinet-mode",
+  "description": "Related DeepSeek Harness project: luodaoyi/dsh-cabinet-mode",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luodaoyi/dsh-cabinet-mode",
+  "repositoryUrl": "https://github.com/luodaoyi/dsh-cabinet-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8373
+}
