@@ -1,0 +1,20 @@
+{
+  "id": "github:LUMIAO9527/DSH-Connect",
+  "kind": "plugin",
+  "name": "DSH-Connect",
+  "description": "DSH Connect：通过鸿蒙应用或浏览器连接电脑上的完整 DeepSeek Harness。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LUMIAO9527/DSH-Connect",
+  "repositoryUrl": "https://github.com/LUMIAO9527/DSH-Connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8635
+}
