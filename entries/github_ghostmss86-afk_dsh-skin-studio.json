@@ -1,0 +1,20 @@
+{
+  "id": "github:ghostmss86-afk/dsh-skin-studio",
+  "kind": "plugin",
+  "name": "dsh-skin-studio",
+  "description": "DeepSeek Harness 皮肤与壁纸插件：预设/自定义配色、图片与视频聊天壁纸、收藏与实时预览。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ghostmss86-afk/dsh-skin-studio",
+  "repositoryUrl": "https://github.com/ghostmss86-afk/dsh-skin-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8126
+}
