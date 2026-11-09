@@ -1,0 +1,20 @@
+{
+  "id": "github:Lencen/dsh-agent-lines",
+  "kind": "plugin",
+  "name": "dsh-agent-lines",
+  "description": "DSH Agent 的会话团队，super agent平替。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lencen/dsh-agent-lines",
+  "repositoryUrl": "https://github.com/Lencen/dsh-agent-lines",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8146
+}
