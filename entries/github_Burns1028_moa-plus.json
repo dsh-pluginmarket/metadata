@@ -1,0 +1,20 @@
+{
+  "id": "github:Burns1028/moa-plus",
+  "kind": "plugin",
+  "name": "moa-plus",
+  "description": "A powerful Mixture of Agents architecture for DeepSeek Harness: persistent agents, direct communication, shared knowledge, and independent verification.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Burns1028/moa-plus",
+  "repositoryUrl": "https://github.com/Burns1028/moa-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8281
+}
