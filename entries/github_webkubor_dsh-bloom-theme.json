@@ -1,0 +1,20 @@
+{
+  "id": "github:webkubor/dsh-bloom-theme",
+  "kind": "plugin",
+  "name": "dsh-bloom-theme",
+  "description": "DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "webkubor/dsh-bloom-theme",
+  "repositoryUrl": "https://github.com/webkubor/dsh-bloom-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8522
+}
