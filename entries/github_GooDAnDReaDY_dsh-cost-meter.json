@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-cost-meter",
+  "kind": "plugin",
+  "name": "dsh-cost-meter",
+  "description": "DeepSeek Harness plugin: a session cost chip in the conversation header - live token usage by bucket, peak/off-peak tariff, and a countdown to the next tariff switch.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-cost-meter",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-cost-meter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8523
+}
