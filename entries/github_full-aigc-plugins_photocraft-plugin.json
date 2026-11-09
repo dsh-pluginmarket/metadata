@@ -1,0 +1,20 @@
+{
+  "id": "github:full-aigc-plugins/photocraft-plugin",
+  "kind": "plugin",
+  "name": "photocraft-plugin",
+  "description": "Build editable layered posters and composites, then export PSD or flat images.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "full-aigc-plugins/photocraft-plugin",
+  "repositoryUrl": "https://github.com/full-aigc-plugins/photocraft-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8371
+}
