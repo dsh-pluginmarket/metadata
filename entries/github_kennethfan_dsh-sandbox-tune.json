@@ -1,0 +1,20 @@
+{
+  "id": "github:kennethfan/dsh-sandbox-tune",
+  "kind": "plugin",
+  "name": "dsh-sandbox-tune",
+  "description": "DSH 沙箱调优插件：让 go build / npm install 等开发命令在沙箱内跑通，减少重复的提权审批弹窗",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kennethfan/dsh-sandbox-tune",
+  "repositoryUrl": "https://github.com/kennethfan/dsh-sandbox-tune",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8509
+}
