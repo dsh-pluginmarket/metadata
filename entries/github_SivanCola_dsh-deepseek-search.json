@@ -1,0 +1,20 @@
+{
+  "id": "github:SivanCola/dsh-deepseek-search",
+  "kind": "plugin",
+  "name": "dsh-deepseek-search",
+  "description": "DeepSeek Harness plugin: standalone-key DeepSeek web search — a left-sidebar search panel plus a deepseek_search tool for every model (独立 DeepSeek API Key)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SivanCola/dsh-deepseek-search",
+  "repositoryUrl": "https://github.com/SivanCola/dsh-deepseek-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8538
+}
