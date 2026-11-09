@@ -1,0 +1,20 @@
+{
+  "id": "github:exile412/dsh-startup-screen-exile",
+  "kind": "plugin",
+  "name": "dsh-startup-screen-exile",
+  "description": "DSH 启动动画 · EXILE 二创版（基于 6shenhonghong9/dsh-startup-screen，MIT）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "exile412/dsh-startup-screen-exile",
+  "repositoryUrl": "https://github.com/exile412/dsh-startup-screen-exile",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8171
+}
