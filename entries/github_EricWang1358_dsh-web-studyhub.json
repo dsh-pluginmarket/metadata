@@ -1,0 +1,20 @@
+{
+  "id": "github:EricWang1358/dsh-web-studyhub",
+  "kind": "plugin",
+  "name": "dsh-web-studyhub",
+  "description": "StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EricWang1358/dsh-web-studyhub",
+  "repositoryUrl": "https://github.com/EricWang1358/dsh-web-studyhub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8537
+}
