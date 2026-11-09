@@ -1,0 +1,20 @@
+{
+  "id": "github:kangyishuai/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Unofficial DeepSeek Harness (DSH) plugins: in-place conversation rewind with file restore, and real session deletion with trash + audit log.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kangyishuai/dsh-plugins",
+  "repositoryUrl": "https://github.com/kangyishuai/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8194
+}
