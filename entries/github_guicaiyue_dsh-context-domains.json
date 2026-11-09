@@ -1,0 +1,20 @@
+{
+  "id": "github:guicaiyue/dsh-context-domains",
+  "kind": "plugin",
+  "name": "dsh-context-domains",
+  "description": "DSH 上下文领域：把一个领域内的 skill / tool 归成一块，在会话顶部一键整块开关",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guicaiyue/dsh-context-domains",
+  "repositoryUrl": "https://github.com/guicaiyue/dsh-context-domains",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8134
+}
