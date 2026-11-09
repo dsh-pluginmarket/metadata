@@ -1,0 +1,20 @@
+{
+  "id": "github:wakeupnotfound/dsh-rsi",
+  "kind": "plugin",
+  "name": "dsh-rsi",
+  "description": "Recursive Self-Improvement (RSI) Engine and Official Standard Plugin for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wakeupnotfound/dsh-rsi",
+  "repositoryUrl": "https://github.com/wakeupnotfound/dsh-rsi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8601
+}
