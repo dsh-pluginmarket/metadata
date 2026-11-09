@@ -1,0 +1,20 @@
+{
+  "id": "github:kazari-qwp/dsh-tiered-plugin-menu",
+  "kind": "plugin",
+  "name": "dsh-tiered-plugin-menu",
+  "description": "DSH plugin menu with client, workspace and session scopes | 分级插件菜单",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kazari-qwp/dsh-tiered-plugin-menu",
+  "repositoryUrl": "https://github.com/kazari-qwp/dsh-tiered-plugin-menu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8551
+}
