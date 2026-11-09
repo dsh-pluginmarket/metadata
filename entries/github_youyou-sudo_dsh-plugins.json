@@ -1,0 +1,20 @@
+{
+  "id": "github:youyou-sudo/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "youyou-sudo's personal DSH plugin market: small, dependency-free DeepSeek Harness bundles installable straight from Git, with a generated format-1 market index on GitHub Pages.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "youyou-sudo/dsh-plugins",
+  "repositoryUrl": "https://github.com/youyou-sudo/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8411
+}
