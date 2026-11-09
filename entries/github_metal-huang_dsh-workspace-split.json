@@ -1,0 +1,20 @@
+{
+  "id": "github:metal-huang/dsh-workspace-split",
+  "kind": "plugin",
+  "name": "dsh-workspace-split",
+  "description": "DSH (DeepSeek Harness) plugin: a split grid of live sessions, each cell typable - watch several projects at once",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "metal-huang/dsh-workspace-split",
+  "repositoryUrl": "https://github.com/metal-huang/dsh-workspace-split",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8503
+}
