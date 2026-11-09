@@ -1,0 +1,20 @@
+{
+  "id": "github:lizhanzhan89/dsh-todo",
+  "kind": "plugin",
+  "name": "dsh-todo",
+  "description": "Harness 侧边栏里的待办 + 笔记面板",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lizhanzhan89/dsh-todo",
+  "repositoryUrl": "https://github.com/lizhanzhan89/dsh-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8311
+}
