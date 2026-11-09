@@ -1,0 +1,20 @@
+{
+  "id": "github:ris-cloud/dsh-ris-ide",
+  "kind": "plugin",
+  "name": "dsh-ris-ide",
+  "description": "dsh ris ide for spring projects",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ris-cloud/dsh-ris-ide",
+  "repositoryUrl": "https://github.com/ris-cloud/dsh-ris-ide",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8279
+}
