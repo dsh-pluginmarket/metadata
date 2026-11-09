@@ -1,0 +1,20 @@
+{
+  "id": "github:iJetLi/dsh-providers-hub",
+  "kind": "plugin",
+  "name": "dsh-providers-hub",
+  "description": "deepseek-harness plugin: sign in and manage accounts across multiple AI coding providers, with multi-account pools and silent credential refresh",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iJetLi/dsh-providers-hub",
+  "repositoryUrl": "https://github.com/iJetLi/dsh-providers-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8305
+}
