@@ -1,0 +1,20 @@
+{
+  "id": "github:cq-guojia/dsh-task-ledger",
+  "kind": "plugin",
+  "name": "dsh-task-ledger",
+  "description": "Related DeepSeek Harness project: cq-guojia/dsh-task-ledger",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cq-guojia/dsh-task-ledger",
+  "repositoryUrl": "https://github.com/cq-guojia/dsh-task-ledger",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8112
+}
