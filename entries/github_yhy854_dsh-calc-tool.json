@@ -1,0 +1,20 @@
+{
+  "id": "github:yhy854/dsh-calc-tool",
+  "kind": "plugin",
+  "name": "dsh-calc-tool",
+  "description": "Deterministic calculator tool for DeepSeek Harness: the model stops guessing arithmetic.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yhy854/dsh-calc-tool",
+  "repositoryUrl": "https://github.com/yhy854/dsh-calc-tool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8307
+}
