@@ -1,0 +1,20 @@
+{
+  "id": "github:MichengAI/dsh-code-review",
+  "kind": "plugin",
+  "name": "dsh-code-review",
+  "description": "DSH Code Review — 为 DeepSeek Harness 提供 Codex 风格代码审查、原生独立子 Agent、灵活范围选择和中英文报告 · Codex-style code review with native independent agents, flexible scope selection, and bilingual reports for DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MichengAI/dsh-code-review",
+  "repositoryUrl": "https://github.com/MichengAI/dsh-code-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8477
+}
