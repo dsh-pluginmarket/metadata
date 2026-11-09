@@ -1,0 +1,20 @@
+{
+  "id": "github:huajikano/dsh-gatekeeper",
+  "kind": "plugin",
+  "name": "dsh-gatekeeper",
+  "description": "Gatekeeper (zhazong) - a DeepSeek Harness plugin that blocks model refusal replies before they reach the session context",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huajikano/dsh-gatekeeper",
+  "repositoryUrl": "https://github.com/huajikano/dsh-gatekeeper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8452
+}
