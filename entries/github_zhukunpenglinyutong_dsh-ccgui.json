@@ -1,0 +1,20 @@
+{
+  "id": "github:zhukunpenglinyutong/dsh-ccgui",
+  "kind": "plugin",
+  "name": "dsh-ccgui",
+  "description": "在 DeepSeek Harness 里直接使用 Claude Code、Codex、PI、OMP 等 Agent CLI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhukunpenglinyutong/dsh-ccgui",
+  "repositoryUrl": "https://github.com/zhukunpenglinyutong/dsh-ccgui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8382
+}
