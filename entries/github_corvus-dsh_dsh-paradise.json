@@ -1,0 +1,20 @@
+{
+  "id": "github:corvus-dsh/dsh-paradise",
+  "kind": "plugin",
+  "name": "dsh-paradise",
+  "description": "Related DeepSeek Harness project: corvus-dsh/dsh-paradise",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "corvus-dsh/dsh-paradise",
+  "repositoryUrl": "https://github.com/corvus-dsh/dsh-paradise",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8427
+}
