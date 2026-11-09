@@ -1,0 +1,20 @@
+{
+  "id": "github:liuzhuomin/dsh-wechat-relations",
+  "kind": "plugin",
+  "name": "dsh-wechat-relations",
+  "description": "Relationship analytics plugin for DeepSeek Harness: person cards, decision timeline, health scores, persona extraction and AI decision advice. Ships with synthetic demo data only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuzhuomin/dsh-wechat-relations",
+  "repositoryUrl": "https://github.com/liuzhuomin/dsh-wechat-relations",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8618
+}
