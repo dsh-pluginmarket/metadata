@@ -1,0 +1,20 @@
+{
+  "id": "github:janehk416-alt/dsh-FocusCapture",
+  "kind": "plugin",
+  "name": "dsh-FocusCapture",
+  "description": "DeepSeek Harness 截图插件：双 Ctrl / 聊天按钮快速截图，支持标注、马赛克、置顶贴图、复制/保存 PNG，并添加到当前聊天草稿。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "janehk416-alt/dsh-FocusCapture",
+  "repositoryUrl": "https://github.com/janehk416-alt/dsh-FocusCapture",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8612
+}
