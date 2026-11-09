@@ -1,0 +1,20 @@
+{
+  "id": "github:wld007/dsh-medical-anonymizer",
+  "kind": "plugin",
+  "name": "dsh-medical-anonymizer",
+  "description": "DeepSeek Harness 医疗数据批量匿名化插件：规则识别 + 可选本地/内网模型复核，稳定假名替换，输出审计报告。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wld007/dsh-medical-anonymizer",
+  "repositoryUrl": "https://github.com/wld007/dsh-medical-anonymizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8664
+}
