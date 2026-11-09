@@ -1,0 +1,20 @@
+{
+  "id": "github:KeS1Ke/reminder-dsh",
+  "kind": "plugin",
+  "name": "reminder-dsh",
+  "description": "DSH reminder plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KeS1Ke/reminder-dsh",
+  "repositoryUrl": "https://github.com/KeS1Ke/reminder-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8628
+}
