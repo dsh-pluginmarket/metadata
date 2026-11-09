@@ -1,0 +1,20 @@
+{
+  "id": "github:cccc11f3/dsh-install-radar",
+  "kind": "plugin",
+  "name": "dsh-install-radar",
+  "description": "Session install radar for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cccc11f3/dsh-install-radar",
+  "repositoryUrl": "https://github.com/cccc11f3/dsh-install-radar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8425
+}
