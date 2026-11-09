@@ -1,0 +1,20 @@
+{
+  "id": "github:60studay/dsh-serial-whalesong",
+  "kind": "plugin",
+  "name": "dsh-serial-whalesong",
+  "description": "DSH ????(serial/UART/COM):9 ??? + ???,AI ???????????????????/????????????????????????? CH340 / HC-05?",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "60studay/dsh-serial-whalesong",
+  "repositoryUrl": "https://github.com/60studay/dsh-serial-whalesong",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8207
+}
