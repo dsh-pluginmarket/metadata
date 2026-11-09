@@ -1,0 +1,20 @@
+{
+  "id": "github:oTAKUBANG1/bili-follow-doctor",
+  "kind": "plugin",
+  "name": "bili-follow-doctor",
+  "description": "B站关注体检：找出已注销和长期没更新的僵尸UP。油猴脚本 / DSH插件 / 命令行三种形态，纯本地运行。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oTAKUBANG1/bili-follow-doctor",
+  "repositoryUrl": "https://github.com/oTAKUBANG1/bili-follow-doctor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8176
+}
