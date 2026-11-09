@@ -1,0 +1,20 @@
+{
+  "id": "github:milestone-17/dsh-bao",
+  "kind": "plugin",
+  "name": "dsh-bao",
+  "description": "DSH 宝 — TRAE-宝-style personal assistant for DeepSeek Harness: cross-session long-term memory, a dedicated assistant agent preset, daily digest, desktop notifications, and a live overview panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "milestone-17/dsh-bao",
+  "repositoryUrl": "https://github.com/milestone-17/dsh-bao",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8223
+}
