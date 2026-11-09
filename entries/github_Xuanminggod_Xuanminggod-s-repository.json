@@ -1,0 +1,20 @@
+{
+  "id": "github:Xuanminggod/Xuanminggod-s-repository",
+  "kind": "plugin",
+  "name": "Xuanminggod-s-repository",
+  "description": "Related DeepSeek Harness project: Xuanminggod/Xuanminggod-s-repository",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Xuanminggod/Xuanminggod-s-repository",
+  "repositoryUrl": "https://github.com/Xuanminggod/Xuanminggod-s-repository",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8510
+}
