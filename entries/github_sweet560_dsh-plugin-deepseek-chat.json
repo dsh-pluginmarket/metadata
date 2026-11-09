@@ -1,0 +1,20 @@
+{
+  "id": "github:sweet560/dsh-plugin-deepseek-chat",
+  "kind": "plugin",
+  "name": "dsh-plugin-deepseek-chat",
+  "description": "DeepSeek Chat (chat.deepseek.com) as a DSH sidebar panel: full main-area chat, last-conversation memory, crash containment.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sweet560/dsh-plugin-deepseek-chat",
+  "repositoryUrl": "https://github.com/sweet560/dsh-plugin-deepseek-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8165
+}
