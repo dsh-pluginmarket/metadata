@@ -1,0 +1,20 @@
+{
+  "id": "github:GuoruiC/dsh-quota-bar",
+  "kind": "plugin",
+  "name": "dsh-quota-bar",
+  "description": "DSH 底部常驻额度条：Codex / Gemini 额度与 DeepSeek 钱包余额，来源可选、关掉即零请求。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GuoruiC/dsh-quota-bar",
+  "repositoryUrl": "https://github.com/GuoruiC/dsh-quota-bar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8101
+}
