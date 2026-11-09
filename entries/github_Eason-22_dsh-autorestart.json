@@ -1,0 +1,20 @@
+{
+  "id": "github:Eason-22/dsh-autorestart",
+  "kind": "plugin",
+  "name": "dsh-autorestart",
+  "description": "DSH 插件：重启不打断工作——等所有对话空闲后优雅重启，重启后自动接着干。AI 生成、未人工审核，谨慎使用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Eason-22/dsh-autorestart",
+  "repositoryUrl": "https://github.com/Eason-22/dsh-autorestart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8570
+}
