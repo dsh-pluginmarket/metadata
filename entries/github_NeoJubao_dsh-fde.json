@@ -1,0 +1,20 @@
+{
+  "id": "github:NeoJubao/dsh-fde",
+  "kind": "plugin",
+  "name": "dsh-fde",
+  "description": "FDE Workstation — customer lifecycle, kanban, 8 stage gates and a method library as a DeepSeek Harness (DSH) plugin. 中文界面 / 零运行时依赖。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NeoJubao/dsh-fde",
+  "repositoryUrl": "https://github.com/NeoJubao/dsh-fde",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8394
+}
