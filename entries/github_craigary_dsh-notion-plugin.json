@@ -1,0 +1,20 @@
+{
+  "id": "github:craigary/dsh-notion-plugin",
+  "kind": "plugin",
+  "name": "dsh-notion-plugin",
+  "description": "Notion for DeepSeek Harness: MCP OAuth connection, 12 Notion skills, multi-workspace settings UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "craigary/dsh-notion-plugin",
+  "repositoryUrl": "https://github.com/craigary/dsh-notion-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8574
+}
