@@ -1,0 +1,20 @@
+{
+  "id": "github:SilasSolivagus/dsh-repotruth",
+  "kind": "plugin",
+  "name": "dsh-repotruth",
+  "description": "把代码仓库变成产品经理能读的系统现状：每句话都能追溯到代码，读不到就说读不到。| Turn code repositories into system status a PM can read — every sentence traceable to code.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SilasSolivagus/dsh-repotruth",
+  "repositoryUrl": "https://github.com/SilasSolivagus/dsh-repotruth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8617
+}
