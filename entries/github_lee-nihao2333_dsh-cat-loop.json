@@ -1,0 +1,20 @@
+{
+  "id": "github:lee-nihao2333/dsh-cat-loop",
+  "kind": "plugin",
+  "name": "dsh-cat-loop",
+  "description": "cat-loop for the DeepSeek Harness (dsh): three independent Agent Teams (Plan, Build, Review) in one conversation, with enforced permission boundaries.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lee-nihao2333/dsh-cat-loop",
+  "repositoryUrl": "https://github.com/lee-nihao2333/dsh-cat-loop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8587
+}
