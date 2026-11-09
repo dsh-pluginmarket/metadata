@@ -1,0 +1,20 @@
+{
+  "id": "github:shixiaoyu-funny/multiPlatform-desktopPet",
+  "kind": "plugin",
+  "name": "multiPlatform-desktopPet",
+  "description": "Raven & Suki 双角色 Windows 透明桌宠，一个 Tauri 应用内切换；包含 DSH 插件版本。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shixiaoyu-funny/multiPlatform-desktopPet",
+  "repositoryUrl": "https://github.com/shixiaoyu-funny/multiPlatform-desktopPet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8413
+}
