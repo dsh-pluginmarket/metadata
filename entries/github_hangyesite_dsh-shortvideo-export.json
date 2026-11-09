@@ -1,0 +1,20 @@
+{
+  "id": "github:hangyesite/dsh-shortvideo-export",
+  "kind": "plugin",
+  "name": "dsh-shortvideo-export",
+  "description": "DSH plugin: download watermark-free Douyin videos, transcribe with local or cloud ASR, proofread, and export Markdown/SRT/VTT/JSON/HTML/DOCX.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hangyesite/dsh-shortvideo-export",
+  "repositoryUrl": "https://github.com/hangyesite/dsh-shortvideo-export",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8107
+}
