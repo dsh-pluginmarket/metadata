@@ -1,0 +1,20 @@
+{
+  "id": "github:cq-guojia/dsh-task-dispatch-table",
+  "kind": "plugin",
+  "name": "dsh-task-dispatch-table",
+  "description": "一个 dsh host 层插件：用一张任务定义表驱动周期性任务，按时间窗与依赖把任务派发成独立会话执行（调度层零大模型介入）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cq-guojia/dsh-task-dispatch-table",
+  "repositoryUrl": "https://github.com/cq-guojia/dsh-task-dispatch-table",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8378
+}
