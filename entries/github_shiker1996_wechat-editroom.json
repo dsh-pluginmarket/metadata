@@ -1,0 +1,20 @@
+{
+  "id": "github:shiker1996/wechat-editroom",
+  "kind": "plugin",
+  "name": "wechat-editroom",
+  "description": "见字 · 公众号编辑工作台：本地优先的中文内容编辑与图文生产工作台",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shiker1996/wechat-editroom",
+  "repositoryUrl": "https://github.com/shiker1996/wechat-editroom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8554
+}
