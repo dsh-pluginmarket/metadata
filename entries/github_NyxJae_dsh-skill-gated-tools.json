@@ -1,0 +1,20 @@
+{
+  "id": "github:NyxJae/dsh-skill-gated-tools",
+  "kind": "plugin",
+  "name": "dsh-skill-gated-tools",
+  "description": "Skill-gated tool discovery for DeepSeek Harness. Load skills to reveal tools on demand.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NyxJae/dsh-skill-gated-tools",
+  "repositoryUrl": "https://github.com/NyxJae/dsh-skill-gated-tools",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8342
+}
