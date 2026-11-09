@@ -1,0 +1,20 @@
+{
+  "id": "github:angelky7/dsh-browser-control",
+  "kind": "plugin",
+  "name": "dsh-browser-control",
+  "description": "Chrome 浏览器扩展 + DeepSeek Harness 插件，让 AI Agent 直接操控你的真实浏览器。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "angelky7/dsh-browser-control",
+  "repositoryUrl": "https://github.com/angelky7/dsh-browser-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8173
+}
