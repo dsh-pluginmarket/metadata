@@ -1,0 +1,20 @@
+{
+  "id": "github:UncertaintyDeterminesYou4ndMe/dsh-immersive-reader",
+  "kind": "plugin",
+  "name": "dsh-immersive-reader",
+  "description": "阅读室：在 DeepSeek Harness (dsh) 里用母语读原版书。导入 EPUB/TXT/Markdown/网页，按章节由模型精译，点一下看原文；选中即可追问。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "UncertaintyDeterminesYou4ndMe/dsh-immersive-reader",
+  "repositoryUrl": "https://github.com/UncertaintyDeterminesYou4ndMe/dsh-immersive-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8329
+}
