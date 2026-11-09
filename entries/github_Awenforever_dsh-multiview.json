@@ -1,0 +1,20 @@
+{
+  "id": "github:Awenforever/dsh-multiview",
+  "kind": "plugin",
+  "name": "dsh-multiview",
+  "description": "Multi-view for DeepSeek Harness: 2-4 live conversations side by side, each pane the real Chat.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Awenforever/dsh-multiview",
+  "repositoryUrl": "https://github.com/Awenforever/dsh-multiview",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8472
+}
