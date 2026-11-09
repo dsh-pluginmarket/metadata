@@ -1,0 +1,20 @@
+{
+  "id": "github:Coffeiz/dsh-yutang",
+  "kind": "plugin",
+  "name": "dsh-yutang",
+  "description": "大肥鱼养殖基地",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Coffeiz/dsh-yutang",
+  "repositoryUrl": "https://github.com/Coffeiz/dsh-yutang",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8441
+}
