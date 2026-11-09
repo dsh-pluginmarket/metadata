@@ -1,0 +1,20 @@
+{
+  "id": "github:ZIye1208/dsh-clean-chat",
+  "kind": "plugin",
+  "name": "dsh-clean-chat",
+  "description": "DSH 插件：侧栏「闲聊」面板 —— 直连模型、零工具、一句话系统提示，像网页版那样干净。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZIye1208/dsh-clean-chat",
+  "repositoryUrl": "https://github.com/ZIye1208/dsh-clean-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8545
+}
