@@ -1,0 +1,20 @@
+{
+  "id": "github:iasiv5/dsh-skins",
+  "kind": "plugin",
+  "name": "dsh-skins",
+  "description": "DSH 插件：DeepSeek Harness 界面主题与皮肤管理组件，可自由切换多款界面视觉风格。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iasiv5/dsh-skins",
+  "repositoryUrl": "https://github.com/iasiv5/dsh-skins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8270
+}
