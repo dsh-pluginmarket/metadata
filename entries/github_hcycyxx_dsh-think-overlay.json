@@ -1,0 +1,20 @@
+{
+  "id": "github:hcycyxx/dsh-think-overlay",
+  "kind": "plugin",
+  "name": "dsh-think-overlay",
+  "description": "DSH 实时思考悬浮窗插件：逐字流式输出、绿灯跟速、自动英译中与独立小窗。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hcycyxx/dsh-think-overlay",
+  "repositoryUrl": "https://github.com/hcycyxx/dsh-think-overlay",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8140
+}
