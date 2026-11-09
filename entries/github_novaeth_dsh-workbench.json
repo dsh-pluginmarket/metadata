@@ -1,0 +1,20 @@
+{
+  "id": "github:novaeth/dsh-workbench",
+  "kind": "plugin",
+  "name": "dsh-workbench",
+  "description": "An agent workbench for DeepSeek Harness — you shape the board, the agent does the work.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "novaeth/dsh-workbench",
+  "repositoryUrl": "https://github.com/novaeth/dsh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8527
+}
