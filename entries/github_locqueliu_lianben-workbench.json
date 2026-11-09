@@ -1,0 +1,20 @@
+{
+  "id": "github:locqueliu/lianben-workbench",
+  "kind": "plugin",
+  "name": "lianben-workbench",
+  "description": "DSH 炼本工作台：1.0/2.0 双模式剧本前置、炼本与配乐插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "locqueliu/lianben-workbench",
+  "repositoryUrl": "https://github.com/locqueliu/lianben-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8330
+}
