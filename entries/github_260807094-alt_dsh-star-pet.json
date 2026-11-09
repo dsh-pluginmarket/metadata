@@ -1,0 +1,20 @@
+{
+  "id": "github:260807094-alt/dsh-star-pet",
+  "kind": "plugin",
+  "name": "dsh-star-pet",
+  "description": "self code and software",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "260807094-alt/dsh-star-pet",
+  "repositoryUrl": "https://github.com/260807094-alt/dsh-star-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8265
+}
