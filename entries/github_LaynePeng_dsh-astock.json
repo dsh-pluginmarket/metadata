@@ -1,0 +1,20 @@
+{
+  "id": "github:LaynePeng/dsh-astock",
+  "kind": "plugin",
+  "name": "dsh-astock",
+  "description": "让 DeepSeek Harness 真的懂你的账户：盯盘、记账、算股数、查舆情、跑回测——你在券商 App 下单，插件负责把每一笔算清楚。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LaynePeng/dsh-astock",
+  "repositoryUrl": "https://github.com/LaynePeng/dsh-astock",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8214
+}
