@@ -1,0 +1,20 @@
+{
+  "id": "github:jark006/RemoteOps",
+  "kind": "plugin",
+  "name": "RemoteOps",
+  "description": "RemoteOps 是一个面向远程系统维护和嵌入式 Linux 开发的 MCP 工具。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jark006/RemoteOps",
+  "repositoryUrl": "https://github.com/jark006/RemoteOps",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8647
+}
