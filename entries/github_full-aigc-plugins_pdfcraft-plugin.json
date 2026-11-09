@@ -1,0 +1,20 @@
+{
+  "id": "github:full-aigc-plugins/pdfcraft-plugin",
+  "kind": "plugin",
+  "name": "pdfcraft-plugin",
+  "description": "Inspect, edit, and OCR PDFs with pinned native tooling and review gates.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "full-aigc-plugins/pdfcraft-plugin",
+  "repositoryUrl": "https://github.com/full-aigc-plugins/pdfcraft-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8366
+}
