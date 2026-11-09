@@ -1,0 +1,20 @@
+{
+  "id": "github:jingyi0605/Codingns4DSH",
+  "kind": "plugin",
+  "name": "Codingns4DSH",
+  "description": "把外部 Agent CLI、持久终端、工作区调试和远程访问，装进 DSH 原生界面。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jingyi0605/Codingns4DSH",
+  "repositoryUrl": "https://github.com/jingyi0605/Codingns4DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8321
+}
