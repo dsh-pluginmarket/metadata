@@ -1,0 +1,20 @@
+{
+  "id": "github:xuedipiaofei/dsh-drawio-chat",
+  "kind": "plugin",
+  "name": "dsh-drawio-chat",
+  "description": "DSH drawio ai plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xuedipiaofei/dsh-drawio-chat",
+  "repositoryUrl": "https://github.com/xuedipiaofei/dsh-drawio-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8316
+}
