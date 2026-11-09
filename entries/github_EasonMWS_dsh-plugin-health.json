@@ -1,0 +1,20 @@
+{
+  "id": "github:EasonMWS/dsh-plugin-health",
+  "kind": "plugin",
+  "name": "dsh-plugin-health",
+  "description": "Finds the plugins a DSH upgrade left behind and repairs them: rehearse in a throwaway home, then write a reversible exemption. Recovers DSH when a plugin stops it booting.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EasonMWS/dsh-plugin-health",
+  "repositoryUrl": "https://github.com/EasonMWS/dsh-plugin-health",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8181
+}
