@@ -1,0 +1,20 @@
+{
+  "id": "github:y0u41/dsh-research-studio",
+  "kind": "plugin",
+  "name": "dsh-research-studio",
+  "description": "Two installable DSH sidebar panels for PPT Master decks and Academic Research Skills pipelines, with prompt builders, skill guides, and integrity gates.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "y0u41/dsh-research-studio",
+  "repositoryUrl": "https://github.com/y0u41/dsh-research-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8303
+}
