@@ -1,0 +1,20 @@
+{
+  "id": "github:agoudbg/agou-dsh-plugins",
+  "kind": "plugin",
+  "name": "agou-dsh-plugins",
+  "description": "DSH (DeepSeek Harness) plugins by agoudbg.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "agoudbg/agou-dsh-plugins",
+  "repositoryUrl": "https://github.com/agoudbg/agou-dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8334
+}
