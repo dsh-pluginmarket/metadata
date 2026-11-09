@@ -1,0 +1,20 @@
+{
+  "id": "github:hyzmm/dsh-notch-pet",
+  "kind": "plugin",
+  "name": "dsh-notch-pet",
+  "description": "An animated companion that shows live DSH agent progress in the macOS notch.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hyzmm/dsh-notch-pet",
+  "repositoryUrl": "https://github.com/hyzmm/dsh-notch-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8421
+}
