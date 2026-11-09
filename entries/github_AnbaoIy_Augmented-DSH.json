@@ -1,0 +1,20 @@
+{
+  "id": "github:AnbaoIy/Augmented-DSH",
+  "kind": "plugin",
+  "name": "Augmented-DSH",
+  "description": "DSH-Enhance — DSH 插件：对话删除、工作区迁移、搜索/抓取多平台优先-候补替换",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AnbaoIy/Augmented-DSH",
+  "repositoryUrl": "https://github.com/AnbaoIy/Augmented-DSH",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8300
+}
