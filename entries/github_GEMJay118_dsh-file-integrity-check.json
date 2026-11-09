@@ -1,0 +1,20 @@
+{
+  "id": "github:GEMJay118/dsh-file-integrity-check",
+  "kind": "plugin",
+  "name": "dsh-file-integrity-check",
+  "description": "DSH 右侧栏插件：检查并清除工作区残留的 Low 完整性标签（Windows）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GEMJay118/dsh-file-integrity-check",
+  "repositoryUrl": "https://github.com/GEMJay118/dsh-file-integrity-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8325
+}
