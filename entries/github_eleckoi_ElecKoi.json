@@ -1,0 +1,20 @@
+{
+  "id": "github:eleckoi/ElecKoi",
+  "kind": "plugin",
+  "name": "ElecKoi",
+  "description": "电子爱pc和安卓双端，由DSH驱动的Agent角色扮演！",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "eleckoi/ElecKoi",
+  "repositoryUrl": "https://github.com/eleckoi/ElecKoi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8166
+}
