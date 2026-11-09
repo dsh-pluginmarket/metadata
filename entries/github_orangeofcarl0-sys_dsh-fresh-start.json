@@ -1,0 +1,20 @@
+{
+  "id": "github:orangeofcarl0-sys/dsh-fresh-start",
+  "kind": "plugin",
+  "name": "dsh-fresh-start",
+  "description": "DSH /fresh command: summarize conversation, start new session, archive old one",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "orangeofcarl0-sys/dsh-fresh-start",
+  "repositoryUrl": "https://github.com/orangeofcarl0-sys/dsh-fresh-start",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8293
+}
