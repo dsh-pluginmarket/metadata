@@ -1,0 +1,20 @@
+{
+  "id": "github:Duoasa/DSH-to-Figma",
+  "kind": "plugin",
+  "name": "DSH-to-Figma",
+  "description": "让 DeepSeek Harness 用自然语言读取、创建和编辑 Figma 设计，支持组件与变量、原生动效、截图与素材导出，并提供能力检测、文件重连和内置指南。本地模式不消耗官方 Figma MCP 调用额度。Native Figma design & motion tools for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Duoasa/DSH-to-Figma",
+  "repositoryUrl": "https://github.com/Duoasa/DSH-to-Figma",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8519
+}
