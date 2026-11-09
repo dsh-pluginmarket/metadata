@@ -1,0 +1,20 @@
+{
+  "id": "github:Zai-G/dsh-preset-workshop",
+  "kind": "plugin",
+  "name": "dsh-preset-workshop",
+  "description": "预设工坊 · Preset Workshop：为 DeepSeek Harness 管理人设、系统提示词、工具、MCP与技能，并预览请求组成。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zai-G/dsh-preset-workshop",
+  "repositoryUrl": "https://github.com/Zai-G/dsh-preset-workshop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8432
+}
