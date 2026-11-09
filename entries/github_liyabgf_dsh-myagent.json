@@ -1,0 +1,20 @@
+{
+  "id": "github:liyabgf/dsh-myagent",
+  "kind": "plugin",
+  "name": "dsh-myagent",
+  "description": "Related DeepSeek Harness project: liyabgf/dsh-myagent",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liyabgf/dsh-myagent",
+  "repositoryUrl": "https://github.com/liyabgf/dsh-myagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8376
+}
