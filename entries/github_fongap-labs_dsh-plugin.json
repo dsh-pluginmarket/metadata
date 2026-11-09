@@ -1,0 +1,20 @@
+{
+  "id": "github:fongap-labs/dsh-plugin",
+  "kind": "plugin",
+  "name": "dsh-plugin",
+  "description": "Related DeepSeek Harness project: fongap-labs/dsh-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fongap-labs/dsh-plugin",
+  "repositoryUrl": "https://github.com/fongap-labs/dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8489
+}
