@@ -1,0 +1,20 @@
+{
+  "id": "github:beings-labs/dsh-domain-manager",
+  "kind": "plugin",
+  "name": "dsh-domain-manager",
+  "description": "Related DeepSeek Harness project: beings-labs/dsh-domain-manager",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "beings-labs/dsh-domain-manager",
+  "repositoryUrl": "https://github.com/beings-labs/dsh-domain-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8629
+}
