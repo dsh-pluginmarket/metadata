@@ -1,0 +1,20 @@
+{
+  "id": "github:zizon/gitfeed-native",
+  "kind": "plugin",
+  "name": "gitfeed-native",
+  "description": "Native DeepSeek Harness bundle for gitfeed: RSS reader page, refresh schedule, git sync, agent tool. Code only; data lives in a separate repository.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zizon/gitfeed-native",
+  "repositoryUrl": "https://github.com/zizon/gitfeed-native",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8346
+}
