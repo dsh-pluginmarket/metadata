@@ -1,0 +1,20 @@
+{
+  "id": "github:DDDMUC/dsh-session-relocate",
+  "kind": "plugin",
+  "name": "dsh-session-relocate",
+  "description": "跨工作区搬 DSH 对话：侧边栏把会话拖到任意工作区就能搬走，正在回答的会话也能就地接管、不中断（move DSH sessions between workspaces, even live ones）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DDDMUC/dsh-session-relocate",
+  "repositoryUrl": "https://github.com/DDDMUC/dsh-session-relocate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8089
+}
