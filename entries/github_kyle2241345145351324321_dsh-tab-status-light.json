@@ -1,0 +1,20 @@
+{
+  "id": "github:kyle2241345145351324321/dsh-tab-status-light",
+  "kind": "plugin",
+  "name": "dsh-tab-status-light",
+  "description": "DeepSeek Harness plugin: paints the AI session state onto the browser tab icon (blinking gray working, green done, yellow waiting, red interrupted).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kyle2241345145351324321/dsh-tab-status-light",
+  "repositoryUrl": "https://github.com/kyle2241345145351324321/dsh-tab-status-light",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8487
+}
