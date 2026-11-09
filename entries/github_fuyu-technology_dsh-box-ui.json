@@ -1,0 +1,20 @@
+{
+  "id": "github:fuyu-technology/dsh-box-ui",
+  "kind": "plugin",
+  "name": "dsh-box-ui",
+  "description": "DeepSeek Harness 插件：设置页里的留言箱——查看条目、改回执、回复、删除与新建。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fuyu-technology/dsh-box-ui",
+  "repositoryUrl": "https://github.com/fuyu-technology/dsh-box-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8549
+}
