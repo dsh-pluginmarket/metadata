@@ -1,0 +1,20 @@
+{
+  "id": "github:shengsheng778/dsh-ark-lore",
+  "kind": "plugin",
+  "name": "dsh-ark-lore",
+  "description": "Arknights lore memory for DeepSeek Harness: faction files, alias routing, in-world timeline, full story archive, PRTS live lookup and dynamic updates.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shengsheng778/dsh-ark-lore",
+  "repositoryUrl": "https://github.com/shengsheng778/dsh-ark-lore",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8506
+}
