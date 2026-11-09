@@ -1,0 +1,20 @@
+{
+  "id": "github:Fireawa/dsh-tool-round-limited-target",
+  "kind": "plugin",
+  "name": "dsh-tool-round-limited-target",
+  "description": "给 DSH 的 /goal 加轮数：/goal 3 整理文档 表示最多自动跑 3 轮，用完自动标为 blocked（round-limit），不会多跑一轮。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fireawa/dsh-tool-round-limited-target",
+  "repositoryUrl": "https://github.com/Fireawa/dsh-tool-round-limited-target",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8136
+}
