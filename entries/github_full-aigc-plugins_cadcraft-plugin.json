@@ -1,0 +1,20 @@
+{
+  "id": "github:full-aigc-plugins/cadcraft-plugin",
+  "kind": "plugin",
+  "name": "cadcraft-plugin",
+  "description": "Draw, inspect, and export 2D CAD drawings, with a reopened DXF check before delivery.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "full-aigc-plugins/cadcraft-plugin",
+  "repositoryUrl": "https://github.com/full-aigc-plugins/cadcraft-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8090
+}
