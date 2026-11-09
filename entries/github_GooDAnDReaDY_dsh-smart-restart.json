@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-smart-restart",
+  "kind": "plugin",
+  "name": "dsh-smart-restart",
+  "description": "Verified restart for DeepSeek Harness with recovery confirmation and session handoff",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-smart-restart",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-smart-restart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8552
+}
