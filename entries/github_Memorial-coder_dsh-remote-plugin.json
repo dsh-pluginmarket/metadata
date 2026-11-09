@@ -1,0 +1,20 @@
+{
+  "id": "github:Memorial-coder/dsh-remote-plugin",
+  "kind": "plugin",
+  "name": "dsh-remote-plugin",
+  "description": "DSH 远程助手(DshRemote)插件：把 DeepSeek 助手 Web 面板安全穿透到手机与外网，侧边栏一键开启。DSH persistent plugin bundle (host + client).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Memorial-coder/dsh-remote-plugin",
+  "repositoryUrl": "https://github.com/Memorial-coder/dsh-remote-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8241
+}
