@@ -1,0 +1,20 @@
+{
+  "id": "github:onehumanbeing/esp32-iphone-agent",
+  "kind": "plugin",
+  "name": "esp32-iphone-agent",
+  "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "onehumanbeing/esp32-iphone-agent",
+  "repositoryUrl": "https://github.com/onehumanbeing/esp32-iphone-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8609
+}
