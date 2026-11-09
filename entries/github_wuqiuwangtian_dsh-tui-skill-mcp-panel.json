@@ -1,0 +1,20 @@
+{
+  "id": "github:wuqiuwangtian/dsh-tui-skill-mcp-panel",
+  "kind": "plugin",
+  "name": "dsh-tui-skill-mcp-panel",
+  "description": "Visual skill & MCP manager for dsh-TUI: full-screen scene behind /skill-mcp (M0 probe / M1 skeleton)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wuqiuwangtian/dsh-tui-skill-mcp-panel",
+  "repositoryUrl": "https://github.com/wuqiuwangtian/dsh-tui-skill-mcp-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8580
+}
