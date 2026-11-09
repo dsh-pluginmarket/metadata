@@ -1,0 +1,20 @@
+{
+  "id": "github:NIRVANA-APOC/dsh-litnotes",
+  "kind": "plugin",
+  "name": "dsh-litnotes",
+  "description": "Local-first AI literature desk for DeepSeek Harness: parsing, bilingual reading, in-page AI answers, knowledge graphs, and agent library tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NIRVANA-APOC/dsh-litnotes",
+  "repositoryUrl": "https://github.com/NIRVANA-APOC/dsh-litnotes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8364
+}
