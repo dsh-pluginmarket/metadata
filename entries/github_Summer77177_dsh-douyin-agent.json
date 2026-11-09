@@ -1,0 +1,20 @@
+{
+  "id": "github:Summer77177/dsh-douyin-agent",
+  "kind": "plugin",
+  "name": "dsh-douyin-agent",
+  "description": "抖音自动刷视频 + 评论回复 + 语音转写的 DSH 插件二次开发分支",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Summer77177/dsh-douyin-agent",
+  "repositoryUrl": "https://github.com/Summer77177/dsh-douyin-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8504
+}
