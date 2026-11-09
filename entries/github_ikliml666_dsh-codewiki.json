@@ -1,0 +1,20 @@
+{
+  "id": "github:ikliml666/dsh-codewiki",
+  "kind": "plugin",
+  "name": "dsh-codewiki",
+  "description": "CodeWiki for DeepSeek Harness: persistent, incrementally-updated code wiki with an honest four-state outcome",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ikliml666/dsh-codewiki",
+  "repositoryUrl": "https://github.com/ikliml666/dsh-codewiki",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8596
+}
