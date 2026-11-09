@@ -1,0 +1,20 @@
+{
+  "id": "github:Lain-in-coding/dsh-grok-search",
+  "kind": "plugin",
+  "name": "dsh-grok-search",
+  "description": "为 DeepSeek Harness 接入可视化 Grok 主搜索与 Tavily、Exa、TinyFish、Firecrawl 自动回退，复用 grok-search-rs。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lain-in-coding/dsh-grok-search",
+  "repositoryUrl": "https://github.com/Lain-in-coding/dsh-grok-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8332
+}
