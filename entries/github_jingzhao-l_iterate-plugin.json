@@ -1,0 +1,20 @@
+{
+  "id": "github:jingzhao-l/iterate-plugin",
+  "kind": "plugin",
+  "name": "iterate-plugin",
+  "description": "A quality command center for the DeepSeek Harness (dsh) desktop client: run the iterate review/fix loop natively, follow its convergence dashboard and triage panel live, enforce quality gates, and carry forward what earlier iterations learned.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jingzhao-l/iterate-plugin",
+  "repositoryUrl": "https://github.com/jingzhao-l/iterate-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8474
+}
