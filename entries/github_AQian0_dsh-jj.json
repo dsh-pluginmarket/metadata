@@ -1,0 +1,20 @@
+{
+  "id": "github:AQian0/dsh-jj",
+  "kind": "plugin",
+  "name": "dsh-jj",
+  "description": "为 DeepSeek Harness 提供 Jujutsu (jj) 一等支持",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AQian0/dsh-jj",
+  "repositoryUrl": "https://github.com/AQian0/dsh-jj",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8150
+}
