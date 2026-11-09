@@ -1,0 +1,20 @@
+{
+  "id": "github:Meatware-Engineering/DSH-AnnotateAnything",
+  "kind": "plugin",
+  "name": "DSH-AnnotateAnything",
+  "description": "Annotate interface elements and send screenshots to conversations in DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Meatware-Engineering/DSH-AnnotateAnything",
+  "repositoryUrl": "https://github.com/Meatware-Engineering/DSH-AnnotateAnything",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8592
+}
