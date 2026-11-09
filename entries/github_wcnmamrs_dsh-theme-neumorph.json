@@ -1,0 +1,20 @@
+{
+  "id": "github:wcnmamrs/dsh-theme-neumorph",
+  "kind": "plugin",
+  "name": "dsh-theme-neumorph",
+  "description": "DSH 新拟态主题插件：冷灰表面、钢蓝强调、柔和阴影。Neumorphism theme for the DeepSeek Harness web UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wcnmamrs/dsh-theme-neumorph",
+  "repositoryUrl": "https://github.com/wcnmamrs/dsh-theme-neumorph",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8204
+}
