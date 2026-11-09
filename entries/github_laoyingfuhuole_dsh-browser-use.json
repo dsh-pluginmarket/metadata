@@ -1,0 +1,20 @@
+{
+  "id": "github:laoyingfuhuole/dsh-browser-use",
+  "kind": "plugin",
+  "name": "dsh-browser-use",
+  "description": "面向 DeepSeek Harness 的后台浏览器自动化插件：按对话分配独立 Electron 窗口，共享登录状态，支持 CDP 输入和快照 ref，不抢焦点。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "laoyingfuhuole/dsh-browser-use",
+  "repositoryUrl": "https://github.com/laoyingfuhuole/dsh-browser-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8189
+}
