@@ -1,0 +1,20 @@
+{
+  "id": "github:regrevia/Envoy",
+  "kind": "plugin",
+  "name": "Envoy",
+  "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "regrevia/Envoy",
+  "repositoryUrl": "https://github.com/regrevia/Envoy",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8610
+}
