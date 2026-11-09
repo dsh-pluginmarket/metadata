@@ -1,0 +1,20 @@
+{
+  "id": "github:hyun20202023-ui/dsh-qfish",
+  "kind": "plugin",
+  "name": "dsh-qfish",
+  "description": "DSH-QQ bot 插件（OneBot v11 / NapCat）for DeepSeek Harness：人设、记忆、心情、学习表、联网、看b站，自带网页控制台。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hyun20202023-ui/dsh-qfish",
+  "repositoryUrl": "https://github.com/hyun20202023-ui/dsh-qfish",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8092
+}
