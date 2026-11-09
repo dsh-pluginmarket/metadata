@@ -1,0 +1,20 @@
+{
+  "id": "github:xia-sc/dsh-cc-studio",
+  "kind": "plugin",
+  "name": "dsh-cc-studio",
+  "description": "dsh-cc-studio · CCv3 角色卡工坊 从一句话点子到可导入 SillyTavern / Risu 的 chara_card_v3。专治「只有点子，世界观薄弱」。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xia-sc/dsh-cc-studio",
+  "repositoryUrl": "https://github.com/xia-sc/dsh-cc-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8094
+}
