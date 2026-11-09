@@ -1,0 +1,20 @@
+{
+  "id": "github:almazom/dsh-needs-attention-sidebar",
+  "kind": "plugin",
+  "name": "dsh-needs-attention-sidebar",
+  "description": "Needs-attention sidebar block for DeepSeek Harness: live Working/Attention/Finished session triage (red=fatal, amber=rate-limit). Zero core edits.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "almazom/dsh-needs-attention-sidebar",
+  "repositoryUrl": "https://github.com/almazom/dsh-needs-attention-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8591
+}
