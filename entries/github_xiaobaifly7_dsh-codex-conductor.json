@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaobaifly7/dsh-codex-conductor",
+  "kind": "plugin",
+  "name": "dsh-codex-conductor",
+  "description": "DeepSeek Harness plugin: hand coding tasks to Codex CLI in WSL with acceptance criteria and per-criterion reports; keep the agent to planning and read-only verification.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaobaifly7/dsh-codex-conductor",
+  "repositoryUrl": "https://github.com/xiaobaifly7/dsh-codex-conductor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8584
+}
