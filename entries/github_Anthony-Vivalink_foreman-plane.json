@@ -1,0 +1,20 @@
+{
+  "id": "github:Anthony-Vivalink/foreman-plane",
+  "kind": "plugin",
+  "name": "foreman-plane",
+  "description": "A task governance plane that sits outside agent harnesses: dispatch with dependency gates, artifact-based acceptance, and an append-only audit ledger.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Anthony-Vivalink/foreman-plane",
+  "repositoryUrl": "https://github.com/Anthony-Vivalink/foreman-plane",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8468
+}
