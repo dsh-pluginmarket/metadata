@@ -1,0 +1,20 @@
+{
+  "id": "github:mewcoder/power-dsh",
+  "kind": "plugin",
+  "name": "power-dsh",
+  "description": "DSH 增强插件。优雅克制，专注实效。让你的 DSH 更顺手、更高效。 A DeepSeek Harness (DSH) enhancement plugin. Minimal, elegant, yet deeply powerful. Making your DSH effortless and efficient.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mewcoder/power-dsh",
+  "repositoryUrl": "https://github.com/mewcoder/power-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8093
+}
