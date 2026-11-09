@@ -1,0 +1,20 @@
+{
+  "id": "github:full-aigc-plugins/effectcraft-plugin",
+  "kind": "plugin",
+  "name": "effectcraft-plugin",
+  "description": "Build editable motion-graphics compositions with layers, keyframes, and alpha renders.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "full-aigc-plugins/effectcraft-plugin",
+  "repositoryUrl": "https://github.com/full-aigc-plugins/effectcraft-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8124
+}
