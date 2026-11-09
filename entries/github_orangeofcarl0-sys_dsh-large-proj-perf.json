@@ -1,0 +1,20 @@
+{
+  "id": "github:orangeofcarl0-sys/dsh-large-proj-perf",
+  "kind": "plugin",
+  "name": "dsh-large-proj-perf",
+  "description": "DSH large-session performance plugin: zero-copy fork + projection warmup + chunked materialize",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "orangeofcarl0-sys/dsh-large-proj-perf",
+  "repositoryUrl": "https://github.com/orangeofcarl0-sys/dsh-large-proj-perf",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8250
+}
