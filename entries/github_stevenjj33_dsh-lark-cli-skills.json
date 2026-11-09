@@ -1,0 +1,20 @@
+{
+  "id": "github:stevenjj33/dsh-lark-cli-skills",
+  "kind": "plugin",
+  "name": "dsh-lark-cli-skills",
+  "description": "Agent skills for the Lark/Feishu CLI (lark-cli), packaged as a DeepSeek Harness plugin bundle. Excludes lark-im to complement an IM bridge plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stevenjj33/dsh-lark-cli-skills",
+  "repositoryUrl": "https://github.com/stevenjj33/dsh-lark-cli-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8462
+}
