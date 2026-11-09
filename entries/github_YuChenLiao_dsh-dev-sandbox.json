@@ -1,0 +1,20 @@
+{
+  "id": "github:YuChenLiao/dsh-dev-sandbox",
+  "kind": "plugin",
+  "name": "dsh-dev-sandbox",
+  "description": "一个轻量级的dsh测试沙箱插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YuChenLiao/dsh-dev-sandbox",
+  "repositoryUrl": "https://github.com/YuChenLiao/dsh-dev-sandbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8578
+}
