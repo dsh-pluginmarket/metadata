@@ -1,0 +1,20 @@
+{
+  "id": "github:M0Yun/dsh-speak-plus",
+  "kind": "plugin",
+  "name": "dsh-speak-plus",
+  "description": "DSH 语音播报（TTS 文字转语音）：把回答念出来——中间过程合并朗读、审批/提问优先播报、新内容自动换手、Alt+S 停止，支持 Edge 神经音色（dsh-speak 增强分支）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "M0Yun/dsh-speak-plus",
+  "repositoryUrl": "https://github.com/M0Yun/dsh-speak-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8338
+}
