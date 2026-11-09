@@ -1,0 +1,20 @@
+{
+  "id": "github:qualixar/dsh-superlocalmemory",
+  "kind": "plugin",
+  "name": "dsh-superlocalmemory",
+  "description": "DeepSeek Harness bundle that connects SuperLocalMemory over stdio MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qualixar/dsh-superlocalmemory",
+  "repositoryUrl": "https://github.com/qualixar/dsh-superlocalmemory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8285
+}
