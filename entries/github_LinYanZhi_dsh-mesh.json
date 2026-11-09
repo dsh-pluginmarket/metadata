@@ -1,0 +1,20 @@
+{
+  "id": "github:LinYanZhi/dsh-mesh",
+  "kind": "plugin",
+  "name": "dsh-mesh",
+  "description": "Multi-node AI network for DeepSeek Harness: PC + phone mesh, cross-device delegation, and direct desktop control.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LinYanZhi/dsh-mesh",
+  "repositoryUrl": "https://github.com/LinYanZhi/dsh-mesh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8385
+}
