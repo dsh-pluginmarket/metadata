@@ -1,0 +1,20 @@
+{
+  "id": "github:Artenx/dsh-monkeyai-sessions",
+  "kind": "plugin",
+  "name": "dsh-monkeyai-sessions",
+  "description": "Read and continue your MonkeyAI conversations inside DeepSeek Harness: browse session history and send new instructions to pick up where you left off in the MonkeyAI client",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Artenx/dsh-monkeyai-sessions",
+  "repositoryUrl": "https://github.com/Artenx/dsh-monkeyai-sessions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8327
+}
