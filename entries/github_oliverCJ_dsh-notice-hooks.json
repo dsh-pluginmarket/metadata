@@ -1,0 +1,20 @@
+{
+  "id": "github:oliverCJ/dsh-notice-hooks",
+  "kind": "plugin",
+  "name": "dsh-notice-hooks",
+  "description": "Lifecycle command Hooks for DeepSeek Harness with user/project scopes and explicit authorization.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oliverCJ/dsh-notice-hooks",
+  "repositoryUrl": "https://github.com/oliverCJ/dsh-notice-hooks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8415
+}
