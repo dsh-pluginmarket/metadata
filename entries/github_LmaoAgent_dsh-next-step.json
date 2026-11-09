@@ -1,0 +1,20 @@
+{
+  "id": "github:LmaoAgent/dsh-next-step",
+  "kind": "plugin",
+  "name": "dsh-next-step",
+  "description": "Related DeepSeek Harness project: LmaoAgent/dsh-next-step",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LmaoAgent/dsh-next-step",
+  "repositoryUrl": "https://github.com/LmaoAgent/dsh-next-step",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8573
+}
