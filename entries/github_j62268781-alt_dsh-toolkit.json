@@ -1,0 +1,20 @@
+{
+  "id": "github:j62268781-alt/dsh-toolkit",
+  "kind": "plugin",
+  "name": "dsh-toolkit",
+  "description": "Related DeepSeek Harness project: j62268781-alt/dsh-toolkit",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "j62268781-alt/dsh-toolkit",
+  "repositoryUrl": "https://github.com/j62268781-alt/dsh-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8636
+}
