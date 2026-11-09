@@ -1,0 +1,20 @@
+{
+  "id": "github:brungcm/dsh-server-resources",
+  "kind": "plugin",
+  "name": "dsh-server-resources",
+  "description": "Server resources panel for DeepSeek Harness: live CPU, RAM, swap and disk, with rankings of top processes, folders and files.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "brungcm/dsh-server-resources",
+  "repositoryUrl": "https://github.com/brungcm/dsh-server-resources",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8308
+}
