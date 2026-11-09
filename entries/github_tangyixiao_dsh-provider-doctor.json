@@ -1,0 +1,20 @@
+{
+  "id": "github:tangyixiao/dsh-provider-doctor",
+  "kind": "plugin",
+  "name": "dsh-provider-doctor",
+  "description": "Read-only model connection diagnostics for DeepSeek Harness: host, plugin, registration, credential and catalog evidence in one report.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tangyixiao/dsh-provider-doctor",
+  "repositoryUrl": "https://github.com/tangyixiao/dsh-provider-doctor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8202
+}
