@@ -1,0 +1,24 @@
+{
+  "id": "github:yinsang0910-star/dsh-feishu",
+  "kind": "plugin",
+  "name": "dsh-feishu",
+  "description": "飞书/Lark 接入 DeepSeek Harness 的完整实现：仓库内含 DSH 设置页插件（packages/dsh-plugin）、36 个工具的 stdio MCP server 与长连接机器人。设置页是四步向导（建应用 / 填凭据 / 选会话 / 九项实时自检），支持扫码走 RFC 8628 设备授权直接创建飞书应用；MCP server 能把本地文件与图片发进会话、读会话上下文、引用消息回溯、撤回/转发/置顶消息、管理群与成员。\n\n安装设置页（仓库根是 pnpm workspace，必须带 #path）：\n\n```\ndsh plugin --profile web add \"github:yinsang0910-star/dsh-feishu#path:packages/dsh-plugin\"\n```\n\n该包声明了 `dsh.bundle.patch: ./cordis.patch.yml` 与 `dsh.client.platform: web`，`dist/` 已随仓库提交，装完不需要构建。MCP server 单独安装（`npx github:yinsang0910-star/dsh-feishu-mcp` 或 Release 单文件）。\n\nAn all-in-one Feishu/Lark integration for DeepSeek Harness: an in-app connection wizard (four-step setup, QR-based app creation via RFC 8628 device authorization, nine-item live self-test), a 36-tool stdio MCP server, and a long-connection bot. The wizard package lives at `packages/dsh-plugin` and declares `dsh.bundle.patch` plus `dsh.client.platform: web` with a committed `dist/`; install it with `dsh plugin --profile web add \"github:yinsang0910-star/dsh-feishu#path:packages/dsh-plugin\"`. The MCP server installs separately.\n\nReplaces issue #7453, which pointed at the now-archived mirror repository `yinsang0910-star/dsh-feishu-plugin`.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yinsang0910-star/dsh-feishu",
+  "repositoryUrl": "https://github.com/yinsang0910-star/dsh-feishu",
+  "tags": [
+    "feishu",
+    "lark",
+    "chat-integration",
+    "im",
+    "setup-wizard",
+    "mcp"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yinsang0910-star",
+  "issueNumber": 8729
+}
