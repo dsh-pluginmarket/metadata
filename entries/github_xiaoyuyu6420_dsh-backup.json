@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaoyuyu6420/dsh-backup",
+  "kind": "plugin",
+  "name": "dsh-backup",
+  "description": "Backup DeepSeek Harness user data with one command: /backup, scheduled auto-backup, sha256 checksums and rotation. 一键备份 DSH 数据，支持定时自动备份。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaoyuyu6420/dsh-backup",
+  "repositoryUrl": "https://github.com/xiaoyuyu6420/dsh-backup",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 90
+}
