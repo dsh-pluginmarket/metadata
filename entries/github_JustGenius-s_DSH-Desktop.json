@@ -1,0 +1,20 @@
+{
+  "id": "github:JustGenius-s/DSH-Desktop",
+  "kind": "plugin",
+  "name": "DSH-Desktop",
+  "description": "DSH-Desktop",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JustGenius-s/DSH-Desktop",
+  "repositoryUrl": "https://github.com/JustGenius-s/DSH-Desktop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 99
+}
