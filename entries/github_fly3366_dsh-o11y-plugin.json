@@ -1,0 +1,20 @@
+{
+  "id": "github:fly3366/dsh-o11y-plugin",
+  "kind": "plugin",
+  "name": "dsh-o11y-plugin",
+  "description": "Unified plugin-dimension observability (trace/log/metric) for deepseek-harness: registers global OTel providers + OTLP export, bridges dsh session telemetry, GenAI semconv ready",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fly3366/dsh-o11y-plugin",
+  "repositoryUrl": "https://github.com/fly3366/dsh-o11y-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 98
+}
