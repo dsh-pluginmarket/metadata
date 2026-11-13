@@ -1,0 +1,20 @@
+{
+  "id": "github:Andy294753951/dsh-plugin-qwen-web-bridge",
+  "kind": "plugin",
+  "name": "dsh-plugin-qwen-web-bridge",
+  "description": "DeepSeek Harness plugin: drive a logged-in Qwen web session (Qwen3.8 on qianwen.com / qwen.ai) through a local browser bridge",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Andy294753951/dsh-plugin-qwen-web-bridge",
+  "repositoryUrl": "https://github.com/Andy294753951/dsh-plugin-qwen-web-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 96
+}
