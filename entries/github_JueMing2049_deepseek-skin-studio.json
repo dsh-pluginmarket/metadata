@@ -1,0 +1,20 @@
+{
+  "id": "github:JueMing2049/deepseek-skin-studio",
+  "kind": "plugin",
+  "name": "deepseek-skin-studio",
+  "description": "DeepSeek Harness 换肤工作室：一张图一套皮肤。三通道注入（书签/CDP/原生插件）+ 可视化工坊 + 13 套内置主题 + DSH-SKIN-SPEC 导出。非官方社区项目。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JueMing2049/deepseek-skin-studio",
+  "repositoryUrl": "https://github.com/JueMing2049/deepseek-skin-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 104
+}
