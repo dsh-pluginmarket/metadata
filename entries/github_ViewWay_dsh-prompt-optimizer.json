@@ -1,0 +1,23 @@
+{
+  "id": "github:ViewWay/dsh-prompt-optimizer",
+  "kind": "plugin",
+  "name": "dsh-prompt-optimizer",
+  "description": "Prompt optimizer for the DSH composer: one click runs rewrite-then-self-review rounds over the draft with per-round diff preview and five fixed re-run directions; ships a 164-role library, folds matched installed skills into the meta-prompt under exact-name constraints, and saves results to a prompt library. Output language follows the agent UI language.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "ViewWay/dsh-prompt-optimizer",
+  "repositoryUrl": "https://github.com/ViewWay/dsh-prompt-optimizer",
+  "npmPackage": "@yimiliya/dsh-prompt-optimizer-bundle",
+  "tags": [
+    "prompt",
+    "ui",
+    "composer"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "ViewWay",
+  "issueNumber": 8731
+}
