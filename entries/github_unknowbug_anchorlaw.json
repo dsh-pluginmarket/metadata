@@ -1,0 +1,20 @@
+{
+  "id": "github:unknowbug/anchorlaw",
+  "kind": "plugin",
+  "name": "anchorlaw",
+  "description": "Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "unknowbug/anchorlaw",
+  "repositoryUrl": "https://github.com/unknowbug/anchorlaw",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "yeying-xingchen",
+  "issueNumber": 100
+}
