@@ -1,0 +1,20 @@
+{
+  "id": "github:CarbeneLee/dsh-mac-notify",
+  "kind": "plugin",
+  "name": "dsh-mac-notify",
+  "description": "Related DeepSeek Harness project: CarbeneLee/dsh-mac-notify",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CarbeneLee/dsh-mac-notify",
+  "repositoryUrl": "https://github.com/CarbeneLee/dsh-mac-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8961
+}
