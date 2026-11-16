@@ -1,0 +1,20 @@
+{
+  "id": "github:Poy-Coder/dsh-channel-feishu",
+  "kind": "plugin",
+  "name": "dsh-channel-feishu",
+  "description": "Feishu channel for DeepSeek Harness: one chat bound to one DSH session, verbatim inbound, streaming cards, attachments.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Poy-Coder/dsh-channel-feishu",
+  "repositoryUrl": "https://github.com/Poy-Coder/dsh-channel-feishu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9247
+}
