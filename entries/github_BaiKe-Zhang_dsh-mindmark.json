@@ -1,0 +1,20 @@
+{
+  "id": "github:BaiKe-Zhang/dsh-mindmark",
+  "kind": "plugin",
+  "name": "dsh-mindmark",
+  "description": "Show the model your mind: mark up an answer like in Word (highlight / underline / strike / comment / rewrite) and DeepSeek Harness feeds your markup back to the model on the next turn.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BaiKe-Zhang/dsh-mindmark",
+  "repositoryUrl": "https://github.com/BaiKe-Zhang/dsh-mindmark",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9089
+}
