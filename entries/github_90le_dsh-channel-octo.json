@@ -1,0 +1,20 @@
+{
+  "id": "github:90le/dsh-channel-octo",
+  "kind": "plugin",
+  "name": "dsh-channel-octo",
+  "description": "Connect Octo direct messages, groups, topics, and bot assistants to DeepSeek Harness Web",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "90le/dsh-channel-octo",
+  "repositoryUrl": "https://github.com/90le/dsh-channel-octo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9226
+}
