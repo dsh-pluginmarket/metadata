@@ -1,0 +1,20 @@
+{
+  "id": "github:shallinta/dsh-agentic-notes",
+  "kind": "plugin",
+  "name": "dsh-agentic-notes",
+  "description": "DSH 的本地笔记插件：随手记录、AI 自动归档、日记、待办与便笺，支持 MCP 让 AI 会话直接读写本地 Markdown。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shallinta/dsh-agentic-notes",
+  "repositoryUrl": "https://github.com/shallinta/dsh-agentic-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8777
+}
