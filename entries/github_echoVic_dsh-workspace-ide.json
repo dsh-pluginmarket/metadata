@@ -1,0 +1,20 @@
+{
+  "id": "github:echoVic/dsh-workspace-ide",
+  "kind": "plugin",
+  "name": "dsh-workspace-ide",
+  "description": "VS Code-like workspace IDE panel for DeepSeek Harness: file tree + syntax-highlighted editor, full-text search, git status/diff/history, VSCode themes",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "echoVic/dsh-workspace-ide",
+  "repositoryUrl": "https://github.com/echoVic/dsh-workspace-ide",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9229
+}
