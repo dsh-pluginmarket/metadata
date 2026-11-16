@@ -1,0 +1,20 @@
+{
+  "id": "github:hrygo/heluo-forge",
+  "kind": "plugin",
+  "name": "heluo-forge",
+  "description": "河洛 (Heluo Forge)：基于 DeepSeek Harness，融合企业级智能研发平台与智能个人助理的方案与扩展工程。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hrygo/heluo-forge",
+  "repositoryUrl": "https://github.com/hrygo/heluo-forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9005
+}
