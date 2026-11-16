@@ -1,0 +1,20 @@
+{
+  "id": "github:ptrel1/dsh-interrupted-resume",
+  "kind": "plugin",
+  "name": "dsh-interrupted-resume",
+  "description": "DSH plugin: after a restart, detect sessions whose last turn was force-interrupted and re-inject a safe continue prompt (with state-verification instructions).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ptrel1/dsh-interrupted-resume",
+  "repositoryUrl": "https://github.com/ptrel1/dsh-interrupted-resume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9267
+}
