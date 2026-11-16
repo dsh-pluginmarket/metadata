@@ -1,0 +1,20 @@
+{
+  "id": "github:jerryjiao/dsh-ai-study-kit",
+  "kind": "plugin",
+  "name": "dsh-ai-study-kit",
+  "description": "AI 学习教练 for DeepSeek Harness：五个学习教练 skill + 内嵌答题学习台（首页/答题/闪卡/全景），直读学习项目 examples/ 源 JSON、原子写回 progress.json，无需单独起服务。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jerryjiao/dsh-ai-study-kit",
+  "repositoryUrl": "https://github.com/jerryjiao/dsh-ai-study-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8773
+}
