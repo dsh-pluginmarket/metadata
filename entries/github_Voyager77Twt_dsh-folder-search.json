@@ -1,0 +1,20 @@
+{
+  "id": "github:Voyager77Twt/dsh-folder-search",
+  "kind": "plugin",
+  "name": "dsh-folder-search",
+  "description": "Search local Word/PDF/PPT/Excel folders for exam questions and export paper drafts，Extensive use of AI assisted programming",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Voyager77Twt/dsh-folder-search",
+  "repositoryUrl": "https://github.com/Voyager77Twt/dsh-folder-search",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8900
+}
