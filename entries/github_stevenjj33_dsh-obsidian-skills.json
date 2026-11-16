@@ -1,0 +1,20 @@
+{
+  "id": "github:stevenjj33/dsh-obsidian-skills",
+  "kind": "plugin",
+  "name": "dsh-obsidian-skills",
+  "description": "Agent skills for Obsidian, packaged as a DeepSeek Harness plugin bundle. Vendored from https://github.com/kepano/obsidian-skills (MIT).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "stevenjj33/dsh-obsidian-skills",
+  "repositoryUrl": "https://github.com/stevenjj33/dsh-obsidian-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8854
+}
