@@ -1,0 +1,20 @@
+{
+  "id": "github:LuckYur/completion-traffic-light",
+  "kind": "plugin",
+  "name": "completion-traffic-light",
+  "description": "Related DeepSeek Harness project: LuckYur/completion-traffic-light",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LuckYur/completion-traffic-light",
+  "repositoryUrl": "https://github.com/LuckYur/completion-traffic-light",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9309
+}
