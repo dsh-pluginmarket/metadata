@@ -1,0 +1,20 @@
+{
+  "id": "github:dream-num/univer-workspace",
+  "kind": "plugin",
+  "name": "univer-workspace",
+  "description": "Manage the Office content your agents create. An open-source, self-hosted workspace where people and AI agents edit, collaborate, and review changes. Built with Univer Office SDK.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dream-num/univer-workspace",
+  "repositoryUrl": "https://github.com/dream-num/univer-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9295
+}
