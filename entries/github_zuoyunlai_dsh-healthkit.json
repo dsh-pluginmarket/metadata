@@ -1,0 +1,20 @@
+{
+  "id": "github:zuoyunlai/dsh-healthkit",
+  "kind": "plugin",
+  "name": "dsh-healthkit",
+  "description": "DSH 体检：只读体检评分 / 可还原清理 / 分数趋势（DeepSeek Harness 插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zuoyunlai/dsh-healthkit",
+  "repositoryUrl": "https://github.com/zuoyunlai/dsh-healthkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8801
+}
