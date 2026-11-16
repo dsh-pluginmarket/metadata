@@ -1,0 +1,20 @@
+{
+  "id": "github:yikart/AiToEarn",
+  "kind": "plugin",
+  "name": "AiToEarn",
+  "description": "Let's use AI to Earn!",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yikart/AiToEarn",
+  "repositoryUrl": "https://github.com/yikart/AiToEarn",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8881
+}
