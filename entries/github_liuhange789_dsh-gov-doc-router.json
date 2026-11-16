@@ -1,0 +1,20 @@
+{
+  "id": "github:liuhange789/dsh-gov-doc-router",
+  "kind": "plugin",
+  "name": "dsh-gov-doc-router",
+  "description": "DSH plugin: GB/T 9704 government document format check and auto-fix, exports compliant .docx",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuhange789/dsh-gov-doc-router",
+  "repositoryUrl": "https://github.com/liuhange789/dsh-gov-doc-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9158
+}
