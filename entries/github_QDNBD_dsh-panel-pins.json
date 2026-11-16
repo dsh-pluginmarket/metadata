@@ -1,0 +1,20 @@
+{
+  "id": "github:QDNBD/dsh-panel-pins",
+  "kind": "plugin",
+  "name": "dsh-panel-pins",
+  "description": "Keyboard-first sidebar panel launcher for DeepSeek Harness: grouped searchable Panels menu, Ctrl+K command palette, Alt+1..9 direct jumps, MRU, named layout presets, pin/hide/rename rows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QDNBD/dsh-panel-pins",
+  "repositoryUrl": "https://github.com/QDNBD/dsh-panel-pins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8872
+}
