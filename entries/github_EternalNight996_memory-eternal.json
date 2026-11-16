@@ -1,0 +1,20 @@
+{
+  "id": "github:EternalNight996/memory-eternal",
+  "kind": "plugin",
+  "name": "memory-eternal",
+  "description": "🧠 给 AI 一个可信的第二大脑：本地 SQLite · 先审核再入库 · 不可篡改审计 · 记忆账本。🕷 蜘蛛侠皮肤 · 🔍 自建集 R@5 99.1% / LongMemEval-S 97.2% · 🧩 一个库接入 DSH / Claude Code / Codex / Cursor / 任意 MCP · ⭐ MIT 开源 · 🚀 零依赖开箱即用",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EternalNight996/memory-eternal",
+  "repositoryUrl": "https://github.com/EternalNight996/memory-eternal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9093
+}
