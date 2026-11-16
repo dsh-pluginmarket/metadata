@@ -1,0 +1,20 @@
+{
+  "id": "github:baitouwuya/dsh-super-cards",
+  "kind": "plugin",
+  "name": "dsh-super-cards",
+  "description": "DeepSeek Harness Web plugin: native UI cards instead of Markdown — metrics, tables, charts, timelines and clickable next steps.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "baitouwuya/dsh-super-cards",
+  "repositoryUrl": "https://github.com/baitouwuya/dsh-super-cards",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9069
+}
