@@ -1,0 +1,20 @@
+{
+  "id": "github:TideDra/dsh-codex-mode",
+  "kind": "plugin",
+  "name": "dsh-codex-mode",
+  "description": "1:1 OpenAI Codex CLI agent preset for DeepSeek Harness — GPT-6 CodeMode, Direct tools, V4A fuzzy patch editing, unified PTY execution, and Multi-Agent V2 with an Ultra toggle.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TideDra/dsh-codex-mode",
+  "repositoryUrl": "https://github.com/TideDra/dsh-codex-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9044
+}
