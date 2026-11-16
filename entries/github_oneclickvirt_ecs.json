@@ -1,0 +1,20 @@
+{
+  "id": "github:oneclickvirt/ecs",
+  "kind": "plugin",
+  "name": "ecs",
+  "description": "VPS Fusion Monster — Server Benchmark (Go Edition) Aims to be the most comprehensive and fastest server benchmarking project, built in Go with zero external dependencies.  VPS 融合怪服务器测评项目 · Go 版本 致力于成为最全面和最快速的服务器测评项目，使用 Go 语言实现，零环境依赖零广告",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oneclickvirt/ecs",
+  "repositoryUrl": "https://github.com/oneclickvirt/ecs",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8876
+}
