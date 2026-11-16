@@ -1,0 +1,20 @@
+{
+  "id": "github:pcysanji/dsh-sidebar-density",
+  "kind": "plugin",
+  "name": "dsh-sidebar-density",
+  "description": "Sidebar density controls for DeepSeek Harness: row height, spacing, font size, logo size, new-session height, double-column plugins, plus patch-gated caption height/font and unlocked sidebar width.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pcysanji/dsh-sidebar-density",
+  "repositoryUrl": "https://github.com/pcysanji/dsh-sidebar-density",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8957
+}
