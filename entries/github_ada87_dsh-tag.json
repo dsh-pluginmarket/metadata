@@ -1,0 +1,20 @@
+{
+  "id": "github:ada87/dsh-tag",
+  "kind": "plugin",
+  "name": "dsh-tag",
+  "description": "Color tags for DSH sessions and workspaces: context-menu tags, colored titles, a sidebar filter bar, and 8 UI languages.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ada87/dsh-tag",
+  "repositoryUrl": "https://github.com/ada87/dsh-tag",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8943
+}
