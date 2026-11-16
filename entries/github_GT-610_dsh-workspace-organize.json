@@ -1,0 +1,20 @@
+{
+  "id": "github:GT-610/dsh-workspace-organize",
+  "kind": "plugin",
+  "name": "dsh-workspace-organize",
+  "description": "Group DSH workspaces into named groups and browse group > workspace > session in the sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GT-610/dsh-workspace-organize",
+  "repositoryUrl": "https://github.com/GT-610/dsh-workspace-organize",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9265
+}
