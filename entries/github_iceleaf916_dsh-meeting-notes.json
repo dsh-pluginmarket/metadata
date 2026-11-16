@@ -1,0 +1,20 @@
+{
+  "id": "github:iceleaf916/dsh-meeting-notes",
+  "kind": "plugin",
+  "name": "dsh-meeting-notes",
+  "description": "DeepSeek Harness 会议记录插件：系统声音 + 麦克风混音录音、本地离线转写、一键生成会议纪要（不联网、不上传音频）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iceleaf916/dsh-meeting-notes",
+  "repositoryUrl": "https://github.com/iceleaf916/dsh-meeting-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8735
+}
