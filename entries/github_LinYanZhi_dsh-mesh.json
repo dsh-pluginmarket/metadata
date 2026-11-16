@@ -1,0 +1,20 @@
+{
+  "id": "github:LinYanZhi/dsh-mesh",
+  "kind": "plugin",
+  "name": "dsh-mesh",
+  "description": "dsh-mesh：把你自己多台电脑/手机上的 DSH 连成一个 AI 网络——局域网优先、跨机文件传输、AI 互相委托（Windows 优先，Early 0.x）。 | LAN-first multi-node AI network for DeepSeek Harness: cross-machine file transfer and agent-to-agent delegation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LinYanZhi/dsh-mesh",
+  "repositoryUrl": "https://github.com/LinYanZhi/dsh-mesh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8928
+}
