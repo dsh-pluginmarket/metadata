@@ -1,0 +1,20 @@
+{
+  "id": "github:DMu03/DSH-Chime",
+  "kind": "plugin",
+  "name": "DSH-Chime",
+  "description": "A plugin adds completion and inquiry sound to DSH. 为DSH添加完成提示音和问询提示音的插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DMu03/DSH-Chime",
+  "repositoryUrl": "https://github.com/DMu03/DSH-Chime",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8965
+}
