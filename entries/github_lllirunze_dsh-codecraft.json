@@ -1,0 +1,20 @@
+{
+  "id": "github:lllirunze/dsh-codecraft",
+  "kind": "plugin",
+  "name": "dsh-codecraft",
+  "description": "An elegant, extensible code editor for DSH, featuring intelligent coding assistance.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lllirunze/dsh-codecraft",
+  "repositoryUrl": "https://github.com/lllirunze/dsh-codecraft",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8989
+}
