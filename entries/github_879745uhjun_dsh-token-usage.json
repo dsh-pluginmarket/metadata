@@ -1,0 +1,20 @@
+{
+  "id": "github:879745uhjun/dsh-token-usage",
+  "kind": "plugin",
+  "name": "dsh-token-usage",
+  "description": "Live and historical token usage for every DeepSeek Harness session: totals, cache traffic, a daily history strip, and a sortable table.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "879745uhjun/dsh-token-usage",
+  "repositoryUrl": "https://github.com/879745uhjun/dsh-token-usage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9143
+}
