@@ -1,0 +1,20 @@
+{
+  "id": "github:qiqll/dsh-task-suite",
+  "kind": "plugin",
+  "name": "dsh-task-suite",
+  "description": "Related DeepSeek Harness project: qiqll/dsh-task-suite",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qiqll/dsh-task-suite",
+  "repositoryUrl": "https://github.com/qiqll/dsh-task-suite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8781
+}
