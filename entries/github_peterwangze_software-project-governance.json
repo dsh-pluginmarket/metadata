@@ -1,0 +1,20 @@
+{
+  "id": "github:peterwangze/software-project-governance",
+  "kind": "plugin",
+  "name": "software-project-governance",
+  "description": "AI coding delivery trust layer for evidence-backed planning, review, risk, quality, and release control.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "peterwangze/software-project-governance",
+  "repositoryUrl": "https://github.com/peterwangze/software-project-governance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9124
+}
