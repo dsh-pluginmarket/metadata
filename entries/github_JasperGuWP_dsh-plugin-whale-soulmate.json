@@ -1,0 +1,20 @@
+{
+  "id": "github:JasperGuWP/dsh-plugin-whale-soulmate",
+  "kind": "plugin",
+  "name": "dsh-plugin-whale-soulmate",
+  "description": "Modular AI companion + transparent-video desktop pet for DeepSeek Harness (dsh): persona engine, LLM wiki memory, privacy firewall, IM avatars. 模块化 AI 伴侣与透明视频桌宠插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JasperGuWP/dsh-plugin-whale-soulmate",
+  "repositoryUrl": "https://github.com/JasperGuWP/dsh-plugin-whale-soulmate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9049
+}
