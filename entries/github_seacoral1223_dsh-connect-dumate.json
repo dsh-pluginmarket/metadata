@@ -1,0 +1,20 @@
+{
+  "id": "github:seacoral1223/dsh-connect-dumate",
+  "kind": "plugin",
+  "name": "dsh-connect-dumate",
+  "description": "把百度搭子（DuMate）的模型与积分接入 DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "seacoral1223/dsh-connect-dumate",
+  "repositoryUrl": "https://github.com/seacoral1223/dsh-connect-dumate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8787
+}
