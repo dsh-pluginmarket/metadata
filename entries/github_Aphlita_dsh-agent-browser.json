@@ -1,0 +1,20 @@
+{
+  "id": "github:Aphlita/dsh-agent-browser",
+  "kind": "plugin",
+  "name": "dsh-agent-browser",
+  "description": "Agent 与用户共用的浏览器会话：右栏实时画面 + 结构化快照 + 单写者租约（DSH 插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aphlita/dsh-agent-browser",
+  "repositoryUrl": "https://github.com/Aphlita/dsh-agent-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8739
+}
