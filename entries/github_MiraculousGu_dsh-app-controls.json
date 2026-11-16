@@ -1,0 +1,20 @@
+{
+  "id": "github:MiraculousGu/dsh-app-controls",
+  "kind": "plugin",
+  "name": "dsh-app-controls",
+  "description": "DeepSeek Harness Web GUI toolbar + KDE tray + plugin settings: tray toggle, per-feature visibility, remembered default window size, check/update DSH, quit/restart.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MiraculousGu/dsh-app-controls",
+  "repositoryUrl": "https://github.com/MiraculousGu/dsh-app-controls",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8892
+}
