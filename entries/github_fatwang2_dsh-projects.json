@@ -1,0 +1,20 @@
+{
+  "id": "github:fatwang2/dsh-projects",
+  "kind": "plugin",
+  "name": "dsh-projects",
+  "description": "Project board for DeepSeek Harness — one goal, shared memory, parallel worker agents.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fatwang2/dsh-projects",
+  "repositoryUrl": "https://github.com/fatwang2/dsh-projects",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8770
+}
