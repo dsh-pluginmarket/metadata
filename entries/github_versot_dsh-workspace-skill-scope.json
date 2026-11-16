@@ -1,0 +1,20 @@
+{
+  "id": "github:versot/dsh-workspace-skill-scope",
+  "kind": "plugin",
+  "name": "dsh-workspace-skill-scope",
+  "description": "Per-workspace skill visibility for DeepSeek Harness: one .dsh/skill-scope.yml plus a checklist panel, enforced for every preset (and for sessions that already exist).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "versot/dsh-workspace-skill-scope",
+  "repositoryUrl": "https://github.com/versot/dsh-workspace-skill-scope",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9077
+}
