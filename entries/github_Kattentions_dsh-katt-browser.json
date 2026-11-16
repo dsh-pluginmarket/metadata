@@ -1,0 +1,20 @@
+{
+  "id": "github:Kattentions/dsh-katt-browser",
+  "kind": "plugin",
+  "name": "dsh-katt-browser",
+  "description": "DeepSeek Harness sidebar browser plugin: structure-first page reading (AX/DOM/worker/network) with multi-account cookie snapshots, over CDP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kattentions/dsh-katt-browser",
+  "repositoryUrl": "https://github.com/Kattentions/dsh-katt-browser",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9210
+}
