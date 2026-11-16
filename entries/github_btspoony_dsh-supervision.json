@@ -1,0 +1,20 @@
+{
+  "id": "github:btspoony/dsh-supervision",
+  "kind": "plugin",
+  "name": "dsh-supervision",
+  "description": "Bridge a running DSH session into any terminal supervisor — it sees the state, and it can steer.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "btspoony/dsh-supervision",
+  "repositoryUrl": "https://github.com/btspoony/dsh-supervision",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9223
+}
