@@ -1,0 +1,20 @@
+{
+  "id": "github:MMDAI666/dsh-token-attribution",
+  "kind": "plugin",
+  "name": "dsh-token-attribution",
+  "description": "dsh-token-attribution",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MMDAI666/dsh-token-attribution",
+  "repositoryUrl": "https://github.com/MMDAI666/dsh-token-attribution",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8902
+}
