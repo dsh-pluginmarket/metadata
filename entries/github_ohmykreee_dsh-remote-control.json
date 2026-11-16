@@ -1,0 +1,20 @@
+{
+  "id": "github:ohmykreee/dsh-remote-control",
+  "kind": "plugin",
+  "name": "dsh-remote-control",
+  "description": "A touch-first LAN remote control for DeepSeek Harness Desktop with clock, weather, notifications, sessions, balance, and media control; Windows-first with macOS and Linux adapters.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ohmykreee/dsh-remote-control",
+  "repositoryUrl": "https://github.com/ohmykreee/dsh-remote-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8733
+}
