@@ -1,0 +1,20 @@
+{
+  "id": "github:topmindspace/dsh-super-mind",
+  "kind": "plugin",
+  "name": "dsh-super-mind",
+  "description": "Personal local-first content studio plugin for DeepSeek Harness — manage Obsidian/Markdown drafts, approved reserves, media assets, multi-style AI rewriting, and X thread splitting.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "topmindspace/dsh-super-mind",
+  "repositoryUrl": "https://github.com/topmindspace/dsh-super-mind",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8971
+}
