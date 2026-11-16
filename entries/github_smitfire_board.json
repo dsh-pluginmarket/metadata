@@ -1,0 +1,20 @@
+{
+  "id": "github:smitfire/board",
+  "kind": "plugin",
+  "name": "board",
+  "description": "DSH native WebUI Kanban & DAG coordination board plugin + MCP server",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smitfire/board",
+  "repositoryUrl": "https://github.com/smitfire/board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8978
+}
