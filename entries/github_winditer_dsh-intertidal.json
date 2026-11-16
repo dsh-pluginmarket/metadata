@@ -1,0 +1,20 @@
+{
+  "id": "github:winditer/dsh-intertidal",
+  "kind": "plugin",
+  "name": "dsh-intertidal",
+  "description": "Related DeepSeek Harness project: winditer/dsh-intertidal",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "winditer/dsh-intertidal",
+  "repositoryUrl": "https://github.com/winditer/dsh-intertidal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9156
+}
