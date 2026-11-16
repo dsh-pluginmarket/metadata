@@ -1,0 +1,20 @@
+{
+  "id": "github:luffysolution-svg/sanmu-skills",
+  "kind": "plugin",
+  "name": "sanmu-skills",
+  "description": "Sanmu's Agent Skills collection. Academic PDFs, textbooks and slides to Markdown with LaTeX validation, high-resolution figures and Zotero workflows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luffysolution-svg/sanmu-skills",
+  "repositoryUrl": "https://github.com/luffysolution-svg/sanmu-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9165
+}
