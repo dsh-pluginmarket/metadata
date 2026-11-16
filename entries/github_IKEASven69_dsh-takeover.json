@@ -1,0 +1,20 @@
+{
+  "id": "github:IKEASven69/dsh-takeover",
+  "kind": "plugin",
+  "name": "dsh-takeover",
+  "description": "会话接管插件：拉取九家外部 agent 会话（/resume-*）、把当前会话按 handoff: 1 开放协议寄存进 ~/.handoff/pending/、开局取件接着干",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "IKEASven69/dsh-takeover",
+  "repositoryUrl": "https://github.com/IKEASven69/dsh-takeover",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9024
+}
