@@ -1,0 +1,20 @@
+{
+  "id": "github:chyxhtc/dsh-ws-recency",
+  "kind": "plugin",
+  "name": "dsh-ws-recency",
+  "description": "Related DeepSeek Harness project: chyxhtc/dsh-ws-recency",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chyxhtc/dsh-ws-recency",
+  "repositoryUrl": "https://github.com/chyxhtc/dsh-ws-recency",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9059
+}
