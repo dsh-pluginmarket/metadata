@@ -1,0 +1,20 @@
+{
+  "id": "github:morehao/trendradar",
+  "kind": "plugin",
+  "name": "trendradar",
+  "description": "Self-hosted trending radar for open-source repositories: daily crawl, Chinese summaries, archive to your own repo. CLI + Docker + web, with a DSH entry.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "morehao/trendradar",
+  "repositoryUrl": "https://github.com/morehao/trendradar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9261
+}
