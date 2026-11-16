@@ -1,0 +1,20 @@
+{
+  "id": "github:879745uhjun/dsh-session-boxes",
+  "kind": "plugin",
+  "name": "dsh-session-boxes",
+  "description": "Custom session boxes (groups) inside the DeepSeek Harness workspace sidebar, with multi-box membership, collapse, colors, and drag ordering.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "879745uhjun/dsh-session-boxes",
+  "repositoryUrl": "https://github.com/879745uhjun/dsh-session-boxes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8911
+}
