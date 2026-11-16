@@ -1,0 +1,20 @@
+{
+  "id": "github:polza-ai/dsh-plugin-polza",
+  "kind": "plugin",
+  "name": "dsh-plugin-polza",
+  "description": "Polza.ai для DeepSeek Harness: 290+ моделей с оплатой в рублях, вход через аккаунт Пользы, баланс и выбор моделей",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "polza-ai/dsh-plugin-polza",
+  "repositoryUrl": "https://github.com/polza-ai/dsh-plugin-polza",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8951
+}
