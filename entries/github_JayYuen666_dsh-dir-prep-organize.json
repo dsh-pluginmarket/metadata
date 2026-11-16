@@ -1,0 +1,20 @@
+{
+  "id": "github:JayYuen666/dsh-dir-prep-organize",
+  "kind": "plugin",
+  "name": "dsh-dir-prep-organize",
+  "description": "Related DeepSeek Harness project: JayYuen666/dsh-dir-prep-organize",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayYuen666/dsh-dir-prep-organize",
+  "repositoryUrl": "https://github.com/JayYuen666/dsh-dir-prep-organize",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9253
+}
