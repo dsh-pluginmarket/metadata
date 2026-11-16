@@ -1,0 +1,20 @@
+{
+  "id": "github:ZenithJoyH/dsh-quote",
+  "kind": "plugin",
+  "name": "dsh-quote",
+  "description": "DSH Web 插件：多段引用卡片 + 引用回复，让引用不再是一坨 > 文本 | DSH web plugin: multi-quote cards for quoting and replying",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZenithJoyH/dsh-quote",
+  "repositoryUrl": "https://github.com/ZenithJoyH/dsh-quote",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8915
+}
