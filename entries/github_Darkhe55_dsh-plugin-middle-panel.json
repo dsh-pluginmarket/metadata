@@ -1,0 +1,20 @@
+{
+  "id": "github:Darkhe55/dsh-plugin-middle-panel",
+  "kind": "plugin",
+  "name": "dsh-plugin-middle-panel",
+  "description": "为模型展示交付成果和下达精细微调指示的dsh desktop面板",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Darkhe55/dsh-plugin-middle-panel",
+  "repositoryUrl": "https://github.com/Darkhe55/dsh-plugin-middle-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9196
+}
