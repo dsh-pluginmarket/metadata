@@ -1,0 +1,20 @@
+{
+  "id": "github:EddyLee1010/wage-calculator",
+  "kind": "plugin",
+  "name": "wage-calculator",
+  "description": "DeepSeek harness插件。用于显示打工人工资的小工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "EddyLee1010/wage-calculator",
+  "repositoryUrl": "https://github.com/EddyLee1010/wage-calculator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9016
+}
