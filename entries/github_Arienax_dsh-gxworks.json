@@ -1,0 +1,20 @@
+{
+  "id": "github:Arienax/dsh-gxworks",
+  "kind": "plugin",
+  "name": "dsh-gxworks",
+  "description": "DeepSeek Harness bundle: connects the GXWorks Agent MCP server and ships its PLC task-routing skill.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Arienax/dsh-gxworks",
+  "repositoryUrl": "https://github.com/Arienax/dsh-gxworks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8813
+}
