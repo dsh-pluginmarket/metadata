@@ -1,0 +1,20 @@
+{
+  "id": "github:smitfire/team",
+  "kind": "plugin",
+  "name": "team",
+  "description": "DSH team orchestrator, isolated worktree workers, visible advisor, and OCR/cross-family review gate",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smitfire/team",
+  "repositoryUrl": "https://github.com/smitfire/team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8975
+}
