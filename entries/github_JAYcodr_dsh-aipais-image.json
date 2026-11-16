@@ -1,0 +1,20 @@
+{
+  "id": "github:JAYcodr/dsh-aipais-image",
+  "kind": "plugin",
+  "name": "dsh-aipais-image",
+  "description": "DSH 生图插件：一次工具调用完成 gpt-image-2.6 出图 + 落盘 + 会话内联图片卡",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JAYcodr/dsh-aipais-image",
+  "repositoryUrl": "https://github.com/JAYcodr/dsh-aipais-image",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9237
+}
