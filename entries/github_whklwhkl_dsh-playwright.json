@@ -1,0 +1,20 @@
+{
+  "id": "github:whklwhkl/dsh-playwright",
+  "kind": "plugin",
+  "name": "dsh-playwright",
+  "description": "A plugin for the DeepSeek Harness, enabling browser-use via playwright",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "whklwhkl/dsh-playwright",
+  "repositoryUrl": "https://github.com/whklwhkl/dsh-playwright",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9039
+}
