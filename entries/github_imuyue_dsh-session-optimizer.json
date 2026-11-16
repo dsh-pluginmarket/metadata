@@ -1,0 +1,20 @@
+{
+  "id": "github:imuyue/dsh-session-optimizer",
+  "kind": "plugin",
+  "name": "dsh-session-optimizer",
+  "description": "Related DeepSeek Harness project: imuyue/dsh-session-optimizer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "imuyue/dsh-session-optimizer",
+  "repositoryUrl": "https://github.com/imuyue/dsh-session-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9269
+}
