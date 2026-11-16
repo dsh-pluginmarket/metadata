@@ -1,0 +1,20 @@
+{
+  "id": "github:yuanstarstar/dsh-fish-friends",
+  "kind": "plugin",
+  "name": "dsh-fish-friends",
+  "description": "DSH 鱼友簿插件：跨会话鱼友关系管理（多总台接入 / 桥接收发 / 作息分析 / 主动闲聊 / 每日交友目标）+ 全局面板",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yuanstarstar/dsh-fish-friends",
+  "repositoryUrl": "https://github.com/yuanstarstar/dsh-fish-friends",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8827
+}
