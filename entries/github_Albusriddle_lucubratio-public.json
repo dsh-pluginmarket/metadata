@@ -1,0 +1,20 @@
+{
+  "id": "github:Albusriddle/lucubratio-public",
+  "kind": "plugin",
+  "name": "lucubratio-public",
+  "description": "Lucubratio 流水线 + 查看器：把任意课程内容编译成可离线学习的内容包，不含任何课程素材。名字取自拉丁语「夜间工作、挑灯夜读」——正是「自习」的本义。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Albusriddle/lucubratio-public",
+  "repositoryUrl": "https://github.com/Albusriddle/lucubratio-public",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9019
+}
