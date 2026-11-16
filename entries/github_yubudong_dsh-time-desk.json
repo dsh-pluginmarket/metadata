@@ -1,0 +1,20 @@
+{
+  "id": "github:yubudong/dsh-time-desk",
+  "kind": "plugin",
+  "name": "dsh-time-desk",
+  "description": "DSH 原生时间工作台：项目、习惯、农历日程、番茄钟与 AI 时间精灵。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yubudong/dsh-time-desk",
+  "repositoryUrl": "https://github.com/yubudong/dsh-time-desk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9034
+}
