@@ -1,0 +1,20 @@
+{
+  "id": "github:myhylijp/my-dsh-connector-hub",
+  "kind": "plugin",
+  "name": "my-dsh-connector-hub",
+  "description": "卡片式展示服务名、传输方式与地址，并可对每个连接器做一次初始化探测",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "myhylijp/my-dsh-connector-hub",
+  "repositoryUrl": "https://github.com/myhylijp/my-dsh-connector-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8864
+}
