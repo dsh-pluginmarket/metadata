@@ -1,0 +1,20 @@
+{
+  "id": "github:Vladimir-Human/ru-marketplace-mcp",
+  "kind": "plugin",
+  "name": "ru-marketplace-mcp",
+  "description": "MCP-серверы и agent skills для 12 площадок РФ и Китая: WB, Ozon, Яндекс Маркет, Авито. Сравнение цен.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vladimir-Human/ru-marketplace-mcp",
+  "repositoryUrl": "https://github.com/Vladimir-Human/ru-marketplace-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9099
+}
