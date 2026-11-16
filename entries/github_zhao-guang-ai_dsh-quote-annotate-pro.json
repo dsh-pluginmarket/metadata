@@ -1,0 +1,20 @@
+{
+  "id": "github:zhao-guang-ai/dsh-quote-annotate-pro",
+  "kind": "plugin",
+  "name": "dsh-quote-annotate-pro",
+  "description": "Selection quoting and anchored annotations for DSH: the composer and the transcript render a compact quote block you can click to jump back to the source and highlight it, while the model still receives the exact turn, role and text. · 划词批注与引用锚点：输入框与消息里只显示紧凑引用块，点一下跳回原文并高亮；发给模型的引用仍标明轮次与角色。（纯客户端，不访问外部服务）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhao-guang-ai/dsh-quote-annotate-pro",
+  "repositoryUrl": "https://github.com/zhao-guang-ai/dsh-quote-annotate-pro",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8998
+}
