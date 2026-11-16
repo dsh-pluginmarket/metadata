@@ -1,0 +1,20 @@
+{
+  "id": "github:Timur-Ziyangareev/find-in-chat",
+  "kind": "plugin",
+  "name": "find-in-chat",
+  "description": "Find in Chat (DeepSeek Harness plugin) - search the open conversation and jump through matches newest first.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Timur-Ziyangareev/find-in-chat",
+  "repositoryUrl": "https://github.com/Timur-Ziyangareev/find-in-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8766
+}
