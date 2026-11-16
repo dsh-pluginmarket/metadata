@@ -1,0 +1,20 @@
+{
+  "id": "github:yanmoren/dsh-whale-letter",
+  "kind": "plugin",
+  "name": "dsh-whale-letter",
+  "description": "鲸鲸信箱 — DeepSeek Harness 插件：本地离线 AI 手写信件，蓝发鲸鱼娘人设，随机延迟回信，牛皮信纸与拆信封仪式",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yanmoren/dsh-whale-letter",
+  "repositoryUrl": "https://github.com/yanmoren/dsh-whale-letter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8737
+}
