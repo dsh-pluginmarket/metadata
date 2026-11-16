@@ -1,0 +1,20 @@
+{
+  "id": "github:ugolnikov/dsh-gothic-theme",
+  "kind": "plugin",
+  "name": "dsh-gothic-theme",
+  "description": "Gothic theme for the DeepSeek Harness Web UI: black, grey and burgundy palette with a cathedral-window brand mark",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ugolnikov/dsh-gothic-theme",
+  "repositoryUrl": "https://github.com/ugolnikov/dsh-gothic-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9285
+}
