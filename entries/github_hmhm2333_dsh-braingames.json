@@ -1,0 +1,20 @@
+{
+  "id": "github:hmhm2333/dsh-braingames",
+  "kind": "plugin",
+  "name": "dsh-braingames",
+  "description": "等 Agent 执行任务时，玩几分钟像素风认知训练小游戏。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hmhm2333/dsh-braingames",
+  "repositoryUrl": "https://github.com/hmhm2333/dsh-braingames",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8797
+}
