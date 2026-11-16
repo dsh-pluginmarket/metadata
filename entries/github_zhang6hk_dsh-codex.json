@@ -1,0 +1,20 @@
+{
+  "id": "github:zhang6hk/dsh-codex",
+  "kind": "plugin",
+  "name": "dsh-codex",
+  "description": "Codex CLI reviews and rescue tasks for DeepSeek Harness (DSH).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhang6hk/dsh-codex",
+  "repositoryUrl": "https://github.com/zhang6hk/dsh-codex",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9272
+}
