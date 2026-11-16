@@ -1,0 +1,20 @@
+{
+  "id": "github:loftspire/dsh-shot",
+  "kind": "plugin",
+  "name": "dsh-shot",
+  "description": "给 DeepSeek Harness 输入框加一个截图按钮：整屏冻结压暗、悬停即选整窗、八手柄缩放、箭头/画笔标注，确认后图片直接进草稿附件。Windows only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "loftspire/dsh-shot",
+  "repositoryUrl": "https://github.com/loftspire/dsh-shot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8829
+}
