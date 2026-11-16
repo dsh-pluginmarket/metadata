@@ -1,0 +1,20 @@
+{
+  "id": "github:yangaiwu/vod-devkit",
+  "kind": "plugin",
+  "name": "vod-devkit",
+  "description": "VOD 用户声音采集插件——MCP server+技能+声明式护栏，把 agent 产品的用户反馈安全送进 VOD",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yangaiwu/vod-devkit",
+  "repositoryUrl": "https://github.com/yangaiwu/vod-devkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9056
+}
