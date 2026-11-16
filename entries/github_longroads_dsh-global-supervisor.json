@@ -1,0 +1,20 @@
+{
+  "id": "github:longroads/dsh-global-supervisor",
+  "kind": "plugin",
+  "name": "dsh-global-supervisor",
+  "description": "DSH 全局监督插件：一个 Router 会话统一管理多个项目 Workspace——项目管理、任务分派、状态监控、定时巡检与事件响应。SQLite 持久化，Worker 结构化汇报，25 个工具。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "longroads/dsh-global-supervisor",
+  "repositoryUrl": "https://github.com/longroads/dsh-global-supervisor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9236
+}
