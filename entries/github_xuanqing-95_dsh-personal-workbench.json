@@ -1,0 +1,20 @@
+{
+  "id": "github:xuanqing-95/dsh-personal-workbench",
+  "kind": "plugin",
+  "name": "dsh-personal-workbench",
+  "description": "个人主控台：DeepSeek Harness 的计划、AI 日报、助手与项目总览，由玄清设计。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xuanqing-95/dsh-personal-workbench",
+  "repositoryUrl": "https://github.com/xuanqing-95/dsh-personal-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9283
+}
