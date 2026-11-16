@@ -1,0 +1,20 @@
+{
+  "id": "github:dsh-agent-roster/dsh-agent-roster",
+  "kind": "plugin",
+  "name": "dsh-agent-roster",
+  "description": "A verifiable roster layer for DeepSeek Harness Agent Teams — review personas, models and tool boundaries before you build, verify after, write drift back. 建团队前可 review、建完能核、跑偏能回写。 Operated by AI: issues, PRs and releases are handled by an agent. 日常运维（issue / PR / 发版）由 AI 自主完成。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dsh-agent-roster/dsh-agent-roster",
+  "repositoryUrl": "https://github.com/dsh-agent-roster/dsh-agent-roster",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9234
+}
