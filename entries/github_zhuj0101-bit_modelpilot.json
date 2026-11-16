@@ -1,0 +1,20 @@
+{
+  "id": "github:zhuj0101-bit/modelpilot",
+  "kind": "plugin",
+  "name": "modelpilot",
+  "description": "ModelPilot —— 独立的 DSH 插件：在设置里提供模型配置工作台，字段级投影写入 DSH 设置、带版本围栏、写入前展示完整操作清单。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhuj0101-bit/modelpilot",
+  "repositoryUrl": "https://github.com/zhuj0101-bit/modelpilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8862
+}
