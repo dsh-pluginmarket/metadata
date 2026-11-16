@@ -1,0 +1,20 @@
+{
+  "id": "github:Baimacao/dsh-pipem",
+  "kind": "plugin",
+  "name": "dsh-pipem",
+  "description": "哌甲酯 (dsh-pipem) — DSH 插件：把犯过的错记成可检索的 guard，动手前查、报完成前绑证据；出错自动提醒；内置一颗心。可替代 dsh-ops + dsh-heart。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Baimacao/dsh-pipem",
+  "repositoryUrl": "https://github.com/Baimacao/dsh-pipem",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9192
+}
