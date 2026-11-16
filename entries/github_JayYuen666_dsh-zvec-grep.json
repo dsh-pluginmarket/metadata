@@ -1,0 +1,20 @@
+{
+  "id": "github:JayYuen666/dsh-zvec-grep",
+  "kind": "plugin",
+  "name": "dsh-zvec-grep",
+  "description": "Related DeepSeek Harness project: JayYuen666/dsh-zvec-grep",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayYuen666/dsh-zvec-grep",
+  "repositoryUrl": "https://github.com/JayYuen666/dsh-zvec-grep",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8982
+}
