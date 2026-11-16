@@ -1,0 +1,20 @@
+{
+  "id": "github:daedalforge/missions",
+  "kind": "plugin",
+  "name": "missions",
+  "description": "Plugin DeepSeek Harness pour piloter des missions Jira et GitHub",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daedalforge/missions",
+  "repositoryUrl": "https://github.com/daedalforge/missions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8945
+}
