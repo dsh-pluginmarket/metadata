@@ -1,0 +1,20 @@
+{
+  "id": "github:SunspotAlgo/dsh-archive-pro",
+  "kind": "plugin",
+  "name": "dsh-archive-pro",
+  "description": "Archive manager pro for DeepSeek Harness: search, filter, sort, multi-select, unarchive, and permanently delete archived sessions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SunspotAlgo/dsh-archive-pro",
+  "repositoryUrl": "https://github.com/SunspotAlgo/dsh-archive-pro",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9289
+}
