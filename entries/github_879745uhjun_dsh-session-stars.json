@@ -1,0 +1,20 @@
+{
+  "id": "github:879745uhjun/dsh-session-stars",
+  "kind": "plugin",
+  "name": "dsh-session-stars",
+  "description": "DeepSeek Harness 插件：给工作区会话加 1-5 星收藏，并区分重要程度 | Star-rating favorites with five importance levels for sessions in the DeepSeek Harness Web UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "879745uhjun/dsh-session-stars",
+  "repositoryUrl": "https://github.com/879745uhjun/dsh-session-stars",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8748
+}
