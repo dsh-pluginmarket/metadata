@@ -1,0 +1,20 @@
+{
+  "id": "github:lakeofsky347/yingliu-video-studio",
+  "kind": "plugin",
+  "name": "yingliu-video-studio",
+  "description": "DSH 视频工作台：图文分镜、前端代码生成与编辑、本地 MP4 导出",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lakeofsky347/yingliu-video-studio",
+  "repositoryUrl": "https://github.com/lakeofsky347/yingliu-video-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8922
+}
