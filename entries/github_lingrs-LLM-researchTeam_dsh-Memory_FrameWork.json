@@ -1,0 +1,20 @@
+{
+  "id": "github:lingrs-LLM-researchTeam/dsh-Memory_FrameWork",
+  "kind": "plugin",
+  "name": "dsh-Memory_FrameWork",
+  "description": "专为DeepSeek Harness打造的长程任务维持、跨对话记忆留存以及跨对话任务保持插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lingrs-LLM-researchTeam/dsh-Memory_FrameWork",
+  "repositoryUrl": "https://github.com/lingrs-LLM-researchTeam/dsh-Memory_FrameWork",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8736
+}
