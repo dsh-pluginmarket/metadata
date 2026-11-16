@@ -1,0 +1,20 @@
+{
+  "id": "github:hexiaowu/dsh-mcp-config",
+  "kind": "plugin",
+  "name": "dsh-mcp-config",
+  "description": "MCP Config for DeepSeek Harness: manage DSH MCP connections and import MCP servers configured in other agents and IDEs, including ZCode",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hexiaowu/dsh-mcp-config",
+  "repositoryUrl": "https://github.com/hexiaowu/dsh-mcp-config",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8968
+}
