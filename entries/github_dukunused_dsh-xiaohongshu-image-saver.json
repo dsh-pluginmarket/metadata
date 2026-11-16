@@ -1,0 +1,20 @@
+{
+  "id": "github:dukunused/dsh-xiaohongshu-image-saver",
+  "kind": "plugin",
+  "name": "dsh-xiaohongshu-image-saver",
+  "description": "DSH (DeepSeek Harness) plugin: bulk-save every image from a Xiaohongshu (小红书/RED) user profile to a local folder as originals, named by post date, resumable, QR login via dedicated Chrome profile.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dukunused/dsh-xiaohongshu-image-saver",
+  "repositoryUrl": "https://github.com/dukunused/dsh-xiaohongshu-image-saver",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9198
+}
