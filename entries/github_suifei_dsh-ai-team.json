@@ -1,0 +1,20 @@
+{
+  "id": "github:suifei/dsh-ai-team",
+  "kind": "plugin",
+  "name": "dsh-ai-team",
+  "description": "文渊阁 — 把工作交给一支 AI 团队：有 owner 的 Task、独立验收、append-only 账本，与 DSH 原生模型目录联动。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "suifei/dsh-ai-team",
+  "repositoryUrl": "https://github.com/suifei/dsh-ai-team",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8933
+}
