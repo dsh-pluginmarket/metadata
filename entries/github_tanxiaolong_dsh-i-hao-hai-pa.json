@@ -1,0 +1,20 @@
+{
+  "id": "github:tanxiaolong/dsh-i-hao-hai-pa",
+  "kind": "plugin",
+  "name": "dsh-i-hao-hai-pa",
+  "description": "Related DeepSeek Harness project: tanxiaolong/dsh-i-hao-hai-pa",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tanxiaolong/dsh-i-hao-hai-pa",
+  "repositoryUrl": "https://github.com/tanxiaolong/dsh-i-hao-hai-pa",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8834
+}
