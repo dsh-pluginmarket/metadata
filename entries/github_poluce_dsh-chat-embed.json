@@ -1,0 +1,20 @@
+{
+  "id": "github:poluce/dsh-chat-embed",
+  "kind": "plugin",
+  "name": "dsh-chat-embed",
+  "description": "Multi-tab AI chat panel for the DeepSeek Harness desktop app: DeepSeek, 豆包, ChatGPT, MiniMax, Kimi, Gemini and Grok, each in its own webview and login partition",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "poluce/dsh-chat-embed",
+  "repositoryUrl": "https://github.com/poluce/dsh-chat-embed",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8964
+}
