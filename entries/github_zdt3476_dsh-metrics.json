@@ -1,0 +1,20 @@
+{
+  "id": "github:zdt3476/dsh-metrics",
+  "kind": "plugin",
+  "name": "dsh-metrics",
+  "description": "DeepSeek Harness 的 Token 用量与成本看板：按模型/供应商/项目/会话统计调用与缓存命中，接入 OpenRouter 单价估算成本",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zdt3476/dsh-metrics",
+  "repositoryUrl": "https://github.com/zdt3476/dsh-metrics",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9297
+}
