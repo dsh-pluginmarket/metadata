@@ -1,0 +1,20 @@
+{
+  "id": "github:porphyra9423-wq/dsh-agents-keeper",
+  "kind": "plugin",
+  "name": "dsh-agents-keeper",
+  "description": "Keep a workspace AGENTS.md in sync with the project: detect real changes, draft updates or a compacted version in a subagent, preview the diff, back up, then write.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "porphyra9423-wq/dsh-agents-keeper",
+  "repositoryUrl": "https://github.com/porphyra9423-wq/dsh-agents-keeper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9133
+}
