@@ -1,0 +1,20 @@
+{
+  "id": "github:duhongming1990/multi-model-chat",
+  "kind": "plugin",
+  "name": "multi-model-chat",
+  "description": "一次提问，并发调用多个 OpenAI 兼容模型；每一组问答自动保存到本地；每条模型的回答都可以点赞，并提供模型点赞分析统计",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duhongming1990/multi-model-chat",
+  "repositoryUrl": "https://github.com/duhongming1990/multi-model-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9184
+}
