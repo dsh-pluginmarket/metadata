@@ -1,0 +1,20 @@
+{
+  "id": "github:sezhiyanhua/dsh-dual-mode",
+  "kind": "plugin",
+  "name": "dsh-dual-mode",
+  "description": "DeepSeek Dual Mode: Harness/Chat switcher for DeepSeek Harness, real chat.deepseek.com web session, one-click task handoff to Harness and results back.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sezhiyanhua/dsh-dual-mode",
+  "repositoryUrl": "https://github.com/sezhiyanhua/dsh-dual-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9225
+}
