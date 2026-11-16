@@ -1,0 +1,20 @@
+{
+  "id": "github:duo121/dsh-session-hub",
+  "kind": "plugin",
+  "name": "dsh-session-hub",
+  "description": "🐳 DSH Session hub plugin (会话中心插件)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "duo121/dsh-session-hub",
+  "repositoryUrl": "https://github.com/duo121/dsh-session-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9167
+}
