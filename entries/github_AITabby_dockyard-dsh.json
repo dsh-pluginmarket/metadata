@@ -1,0 +1,20 @@
+{
+  "id": "github:AITabby/dockyard-dsh",
+  "kind": "plugin",
+  "name": "dockyard-dsh",
+  "description": "A native account-pool and provider plugin for DeepSeek Harness — Codex, Antigravity, Grok, Claude, Cursor, WorkBuddy, Command Code, Hermes and OpenRouter Free, on macOS and Windows.dsh-plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AITabby/dockyard-dsh",
+  "repositoryUrl": "https://github.com/AITabby/dockyard-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8871
+}
