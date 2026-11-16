@@ -1,0 +1,20 @@
+{
+  "id": "github:hyhmrright/brooks-lint",
+  "kind": "plugin",
+  "name": "brooks-lint",
+  "description": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hyhmrright/brooks-lint",
+  "repositoryUrl": "https://github.com/hyhmrright/brooks-lint",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8848
+}
