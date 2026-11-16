@@ -1,0 +1,20 @@
+{
+  "id": "github:Novajin0826/dsh-xiaochajian-shizhong",
+  "kind": "plugin",
+  "name": "dsh-xiaochajian-shizhong",
+  "description": "Related DeepSeek Harness project: Novajin0826/dsh-xiaochajian-shizhong",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Novajin0826/dsh-xiaochajian-shizhong",
+  "repositoryUrl": "https://github.com/Novajin0826/dsh-xiaochajian-shizhong",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8994
+}
