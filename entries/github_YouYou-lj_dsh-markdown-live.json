@@ -1,0 +1,20 @@
+{
+  "id": "github:YouYou-lj/dsh-markdown-live",
+  "kind": "plugin",
+  "name": "dsh-markdown-live",
+  "description": "Markdown rendering inside the DeepSeek Harness composer: finished lines render in place, code gets token colours, lists continue and renumber, pasted blocks render — the composer itself stays untouched.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "YouYou-lj/dsh-markdown-live",
+  "repositoryUrl": "https://github.com/YouYou-lj/dsh-markdown-live",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9074
+}
