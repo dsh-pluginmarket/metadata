@@ -1,0 +1,20 @@
+{
+  "id": "github:csukingzq/dsh-pdf-translator",
+  "kind": "plugin",
+  "name": "dsh-pdf-translator",
+  "description": "AI vision PDF translation and LaTeX reconstruction for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "csukingzq/dsh-pdf-translator",
+  "repositoryUrl": "https://github.com/csukingzq/dsh-pdf-translator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8926
+}
