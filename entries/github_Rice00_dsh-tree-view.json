@@ -1,0 +1,20 @@
+{
+  "id": "github:Rice00/dsh-tree-view",
+  "kind": "plugin",
+  "name": "dsh-tree-view",
+  "description": "Tree-view conversation branching for DeepSeek Harness: one sidebar entry, branch and switch versions inside a tree, promote a branch to a formal session, rename branches. A fork of dsh-plugin-message-edit (MIT).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Rice00/dsh-tree-view",
+  "repositoryUrl": "https://github.com/Rice00/dsh-tree-view",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9175
+}
