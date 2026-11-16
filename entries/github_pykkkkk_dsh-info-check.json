@@ -1,0 +1,20 @@
+{
+  "id": "github:pykkkkk/dsh-info-check",
+  "kind": "plugin",
+  "name": "dsh-info-check",
+  "description": "A DSH bundle that puts confirmation gates around agent work: clarify intent first, confirm the plan once, accept every milestone, and sign off before the final result.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pykkkkk/dsh-info-check",
+  "repositoryUrl": "https://github.com/pykkkkk/dsh-info-check",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8869
+}
