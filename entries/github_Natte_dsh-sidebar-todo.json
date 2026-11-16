@@ -1,0 +1,20 @@
+{
+  "id": "github:Natte/dsh-sidebar-todo",
+  "kind": "plugin",
+  "name": "dsh-sidebar-todo",
+  "description": "给 DeepSeek Harness 加一个侧栏待办：随手记任务、循环任务、月视图日历和便利贴，重要的事还能自动设成到点提醒；数据只保存在你自己的电脑上。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Natte/dsh-sidebar-todo",
+  "repositoryUrl": "https://github.com/Natte/dsh-sidebar-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8802
+}
