@@ -1,0 +1,20 @@
+{
+  "id": "github:abbaababa/dsh-workplan",
+  "kind": "plugin",
+  "name": "dsh-workplan",
+  "description": "给 AI 助手装上「先出计划、再派活、随时看进度」的能力，安全证据对齐 ISO/IEC 15408:2026 结构，一条命令安装 / Plan-first multi-agent orchestration for AI assistants, security evidence aligned with ISO/IEC 15408:2026 structure, one-command install",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "abbaababa/dsh-workplan",
+  "repositoryUrl": "https://github.com/abbaababa/dsh-workplan",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8734
+}
