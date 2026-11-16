@@ -1,0 +1,20 @@
+{
+  "id": "github:Awenforever/dsh-ustc-quota",
+  "kind": "plugin",
+  "name": "dsh-ustc-quota",
+  "description": "Live 3h/12h/24h USTC token quota card for DeepSeek Harness and USTC TokenWorks",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Awenforever/dsh-ustc-quota",
+  "repositoryUrl": "https://github.com/Awenforever/dsh-ustc-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8810
+}
