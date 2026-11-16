@@ -1,0 +1,20 @@
+{
+  "id": "github:chdepanghu/dsh-worker-plug",
+  "kind": "plugin",
+  "name": "dsh-worker-plug",
+  "description": "AI Native 工作台：飞书需求/任务表 → 汇总清单/看板/进度 + 专家团 AI 全流程（需求分析→开发→评审→QA），一条记录直接生成 AI 开发指令。DSH 插件市场分发仓库。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chdepanghu/dsh-worker-plug",
+  "repositoryUrl": "https://github.com/chdepanghu/dsh-worker-plug",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9255
+}
