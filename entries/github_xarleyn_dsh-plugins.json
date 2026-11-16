@@ -1,0 +1,20 @@
+{
+  "id": "github:xarleyn/dsh-plugins",
+  "kind": "plugin",
+  "name": "dsh-plugins",
+  "description": "Community plugins, developer tooling, and shared utilities for extending DeepSeek Harness — built as an Nx + pnpm monorepo.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xarleyn/dsh-plugins",
+  "repositoryUrl": "https://github.com/xarleyn/dsh-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8752
+}
