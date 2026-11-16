@@ -1,0 +1,20 @@
+{
+  "id": "github:wychmod/dsh-mini-superagent",
+  "kind": "plugin",
+  "name": "dsh-mini-superagent",
+  "description": "主会话把任务派给独立的后台子会话执行，子会话完成后把报告投递回主会话；纯 ESM、零运行时依赖的 DSH 插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wychmod/dsh-mini-superagent",
+  "repositoryUrl": "https://github.com/wychmod/dsh-mini-superagent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8886
+}
