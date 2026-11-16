@@ -1,0 +1,20 @@
+{
+  "id": "github:ccll/dsh-export-pdf",
+  "kind": "plugin",
+  "name": "dsh-export-pdf",
+  "description": "PDF view page for DeepSeek Harness (DSH) web — export a session transcript to PDF with in-page preview and download / DSH 会话 PDF 导出插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ccll/dsh-export-pdf",
+  "repositoryUrl": "https://github.com/ccll/dsh-export-pdf",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9104
+}
