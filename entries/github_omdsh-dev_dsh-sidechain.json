@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-sidechain",
+  "kind": "plugin",
+  "name": "dsh-sidechain",
+  "description": "DSH 侧会话插件：/btw 后台侧问，/side 独立追问；继承已完成上下文，使用 DSH 原生侧栏标签，主会话保持可用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-sidechain",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-sidechain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9293
+}
