@@ -1,0 +1,20 @@
+{
+  "id": "github:unera/dsh-speech-gate",
+  "kind": "plugin",
+  "name": "dsh-speech-gate",
+  "description": "Configurable speech-to-text provider for DeepSeek Harness (OpenAI-compatible API or a local command)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "unera/dsh-speech-gate",
+  "repositoryUrl": "https://github.com/unera/dsh-speech-gate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8949
+}
