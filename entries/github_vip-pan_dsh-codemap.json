@@ -1,0 +1,20 @@
+{
+  "id": "github:vip-pan/dsh-codemap",
+  "kind": "plugin",
+  "name": "dsh-codemap",
+  "description": "Project-scoped code graph tools for DeepSeek Harness, backed by the codemap CLI over MCP.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vip-pan/dsh-codemap",
+  "repositoryUrl": "https://github.com/vip-pan/dsh-codemap",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8867
+}
