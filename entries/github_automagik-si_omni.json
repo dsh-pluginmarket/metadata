@@ -1,0 +1,20 @@
+{
+  "id": "github:automagik-si/omni",
+  "kind": "plugin",
+  "name": "omni",
+  "description": "Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "automagik-si/omni",
+  "repositoryUrl": "https://github.com/automagik-si/omni",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8898
+}
