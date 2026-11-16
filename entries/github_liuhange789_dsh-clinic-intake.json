@@ -1,0 +1,20 @@
+{
+  "id": "github:liuhange789/dsh-clinic-intake",
+  "kind": "plugin",
+  "name": "dsh-clinic-intake",
+  "description": "Pre-visit intake structuring for clinics (DSH plugin): six patient questions → structured intake summary ≤300 字, rule-based, local-only, no diagnosis.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuhange789/dsh-clinic-intake",
+  "repositoryUrl": "https://github.com/liuhange789/dsh-clinic-intake",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8805
+}
