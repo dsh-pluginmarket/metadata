@@ -1,0 +1,20 @@
+{
+  "id": "github:byteuser1977/ColaMD-themes",
+  "kind": "plugin",
+  "name": "ColaMD-themes",
+  "description": "Theme development tool for ColaMD - extract formatting from URLs, DOCX, PDF and convert to CSS theme files",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "byteuser1977/ColaMD-themes",
+  "repositoryUrl": "https://github.com/byteuser1977/ColaMD-themes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8790
+}
