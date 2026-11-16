@@ -1,0 +1,20 @@
+{
+  "id": "github:Sen70s/dsh-workspace-plus",
+  "kind": "plugin",
+  "name": "dsh-workspace-plus",
+  "description": "增强deepseek harness的工作区的多级目录功能",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Sen70s/dsh-workspace-plus",
+  "repositoryUrl": "https://github.com/Sen70s/dsh-workspace-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9098
+}
