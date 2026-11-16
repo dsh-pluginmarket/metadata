@@ -1,0 +1,20 @@
+{
+  "id": "github:fotor-ai/fotor-agent-plugins",
+  "kind": "plugin",
+  "name": "fotor-agent-plugins",
+  "description": "Fotor Plugin for Agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fotor-ai/fotor-agent-plugins",
+  "repositoryUrl": "https://github.com/fotor-ai/fotor-agent-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9305
+}
