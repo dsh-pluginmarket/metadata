@@ -1,0 +1,20 @@
+{
+  "id": "github:huaweicloud/huaweicloud-devkit",
+  "kind": "plugin",
+  "name": "huaweicloud-devkit",
+  "description": "Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "huaweicloud/huaweicloud-devkit",
+  "repositoryUrl": "https://github.com/huaweicloud/huaweicloud-devkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8754
+}
