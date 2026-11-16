@@ -1,0 +1,20 @@
+{
+  "id": "github:WNLUO/dsh-mobile-plugin",
+  "kind": "plugin",
+  "name": "dsh-mobile-plugin",
+  "description": "DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WNLUO/dsh-mobile-plugin",
+  "repositoryUrl": "https://github.com/WNLUO/dsh-mobile-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9276
+}
