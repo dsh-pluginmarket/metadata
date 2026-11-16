@@ -1,0 +1,20 @@
+{
+  "id": "github:guiheng123/dsh-rollback",
+  "kind": "plugin",
+  "name": "dsh-rollback",
+  "description": "Related DeepSeek Harness project: guiheng123/dsh-rollback",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "guiheng123/dsh-rollback",
+  "repositoryUrl": "https://github.com/guiheng123/dsh-rollback",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8939
+}
