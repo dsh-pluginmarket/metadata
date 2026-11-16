@@ -1,0 +1,20 @@
+{
+  "id": "github:tongqing1130-png/dsh-skill-zh",
+  "kind": "plugin",
+  "name": "dsh-skill-zh",
+  "description": "DSH 插件：把技能菜单里的英文说明翻成简体中文并压成一句话，新装技能自动翻译。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tongqing1130-png/dsh-skill-zh",
+  "repositoryUrl": "https://github.com/tongqing1130-png/dsh-skill-zh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8916
+}
