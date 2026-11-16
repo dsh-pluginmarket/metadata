@@ -1,0 +1,20 @@
+{
+  "id": "github:liliumneko/dsh-plugin-auv",
+  "kind": "plugin",
+  "name": "dsh-plugin-auv",
+  "description": "AUV Plugin for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liliumneko/dsh-plugin-auv",
+  "repositoryUrl": "https://github.com/liliumneko/dsh-plugin-auv",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8809
+}
