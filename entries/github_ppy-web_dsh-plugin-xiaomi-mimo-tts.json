@@ -1,0 +1,20 @@
+{
+  "id": "github:ppy-web/dsh-plugin-xiaomi-mimo-tts",
+  "kind": "plugin",
+  "name": "dsh-plugin-xiaomi-mimo-tts",
+  "description": "为 DSH 添加 Xiaomi MiMo TTS、豆包 Seed TTS，浏览器语音；音频下载、 UI 音效、桌宠联动、QQBot 语音；",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ppy-web/dsh-plugin-xiaomi-mimo-tts",
+  "repositoryUrl": "https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8816
+}
