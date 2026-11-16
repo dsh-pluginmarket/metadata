@@ -1,0 +1,20 @@
+{
+  "id": "github:andrewngg/dsh-superagent-battlestar",
+  "kind": "plugin",
+  "name": "dsh-superagent-battlestar",
+  "description": "多设备 AI 管家：母机统一管理设备能力申报、在线检测与任务路由；支持 CLI、ComfyUI、Mika 手机工作机；附 Android APK 与 DeepSeek Harness 插件。Multi-device AI butler for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "andrewngg/dsh-superagent-battlestar",
+  "repositoryUrl": "https://github.com/andrewngg/dsh-superagent-battlestar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8942
+}
