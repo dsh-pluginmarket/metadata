@@ -1,0 +1,20 @@
+{
+  "id": "github:fengshenx/dsh-leader-agent",
+  "kind": "plugin",
+  "name": "dsh-leader-agent",
+  "description": "DSH leader/worker orchestration bundle: project tree, delivery board, worker sessions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fengshenx/dsh-leader-agent",
+  "repositoryUrl": "https://github.com/fengshenx/dsh-leader-agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8955
+}
