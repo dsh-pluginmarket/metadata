@@ -1,0 +1,20 @@
+{
+  "id": "github:Devin-AXIS/iPolloWork",
+  "kind": "plugin",
+  "name": "iPolloWork",
+  "description": "An enterprise collaboration platform for people and multi-agent teams, built on the open-source DeepSeek Harness. Shared projects, plugins and Skills, integrated messaging, and editable code, documents, presentations, design, websites and video.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Devin-AXIS/iPolloWork",
+  "repositoryUrl": "https://github.com/Devin-AXIS/iPolloWork",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8903
+}
