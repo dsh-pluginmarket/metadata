@@ -1,0 +1,20 @@
+{
+  "id": "github:ugvhfhgg/break-studio-dsh",
+  "kind": "plugin",
+  "name": "break-studio-dsh",
+  "description": "DeepSeek Harness 电脑端插件：把执行契约注入系统提示，用 /break 切换强度、人格、领域与结构。19 片段 × 4 档强度 × 4 套预设，纯本地、不联网。 / DSH plugin: inject a prompt contract into the system prompt, switch it with /break. Local only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ugvhfhgg/break-studio-dsh",
+  "repositoryUrl": "https://github.com/ugvhfhgg/break-studio-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8761
+}
