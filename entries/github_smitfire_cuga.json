@@ -1,0 +1,20 @@
+{
+  "id": "github:smitfire/cuga",
+  "kind": "plugin",
+  "name": "cuga",
+  "description": "DSH plugin & MCP server for IBM CUGA-inspired policy guards, adaptive reasoning, and trajectory reuse",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smitfire/cuga",
+  "repositoryUrl": "https://github.com/smitfire/cuga",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8980
+}
