@@ -1,0 +1,20 @@
+{
+  "id": "github:MjxUpUp/Forge",
+  "kind": "plugin",
+  "name": "Forge",
+  "description": "AI development gate engine — structured quality gates for AI-generated code",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MjxUpUp/Forge",
+  "repositoryUrl": "https://github.com/MjxUpUp/Forge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9148
+}
