@@ -1,0 +1,20 @@
+{
+  "id": "github:jaychang1989/dsh-webchat",
+  "kind": "plugin",
+  "name": "dsh-webchat",
+  "description": "Opens the official chat.deepseek.com web app inside DeepSeek Harness: one sidebar entry renders the real page in the center column through the desktop shell's native browser guest, and keeps you signed in across restarts. No chat UI, no agent tools, no runtime dependencies.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jaychang1989/dsh-webchat",
+  "repositoryUrl": "https://github.com/jaychang1989/dsh-webchat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9067
+}
