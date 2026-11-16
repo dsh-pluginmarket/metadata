@@ -1,0 +1,20 @@
+{
+  "id": "github:zhangfac-888/personal-memory",
+  "kind": "plugin",
+  "name": "personal-memory",
+  "description": "Local Personal Memory — sanitized Windows x64 sharing preview",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhangfac-888/personal-memory",
+  "repositoryUrl": "https://github.com/zhangfac-888/personal-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8792
+}
