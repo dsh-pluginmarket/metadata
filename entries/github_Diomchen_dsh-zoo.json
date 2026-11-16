@@ -1,0 +1,20 @@
+{
+  "id": "github:Diomchen/dsh-zoo",
+  "kind": "plugin",
+  "name": "dsh-zoo",
+  "description": "LAN pets for DeepSeek Harness: neighbors' pets visit your desktop, and yours can visit theirs. · 局域网 DSH 宠物互相串门。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Diomchen/dsh-zoo",
+  "repositoryUrl": "https://github.com/Diomchen/dsh-zoo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9186
+}
