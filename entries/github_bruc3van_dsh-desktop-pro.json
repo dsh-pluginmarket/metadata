@@ -1,0 +1,20 @@
+{
+  "id": "github:bruc3van/dsh-desktop-pro",
+  "kind": "plugin",
+  "name": "dsh-desktop-pro",
+  "description": "DeepSeek Harness 专业版桌面客户端，主打企业级配置：模型、插件、Skill 和工具权限统一下发，自带管理控制台、模型网关和防篡改审计；个人也能直接用。安全、协作、便捷。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bruc3van/dsh-desktop-pro",
+  "repositoryUrl": "https://github.com/bruc3van/dsh-desktop-pro",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9113
+}
