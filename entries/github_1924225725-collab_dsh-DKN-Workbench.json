@@ -1,0 +1,20 @@
+{
+  "id": "github:1924225725-collab/dsh-DKN-Workbench",
+  "kind": "plugin",
+  "name": "dsh-DKN-Workbench",
+  "description": "DSH 集成工作台：CodeBuddy、Codex CLI、Qoder ACP、ZCode 模型接入，原生 Codex 项目、账号额度、每日奖励与项目协作。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "1924225725-collab/dsh-DKN-Workbench",
+  "repositoryUrl": "https://github.com/1924225725-collab/dsh-DKN-Workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8846
+}
