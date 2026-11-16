@@ -1,0 +1,20 @@
+{
+  "id": "github:qxcool/dsh-usage-plus",
+  "kind": "plugin",
+  "name": "dsh-usage-plus",
+  "description": "DSH Desktop plugin: usage stats, plan quotas, custom HTTPS balance, 26-week heatmap",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qxcool/dsh-usage-plus",
+  "repositoryUrl": "https://github.com/qxcool/dsh-usage-plus",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8746
+}
