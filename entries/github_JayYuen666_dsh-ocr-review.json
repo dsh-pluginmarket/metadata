@@ -1,0 +1,20 @@
+{
+  "id": "github:JayYuen666/dsh-ocr-review",
+  "kind": "plugin",
+  "name": "dsh-ocr-review",
+  "description": "Related DeepSeek Harness project: JayYuen666/dsh-ocr-review",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayYuen666/dsh-ocr-review",
+  "repositoryUrl": "https://github.com/JayYuen666/dsh-ocr-review",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9021
+}
