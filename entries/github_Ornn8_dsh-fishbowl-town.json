@@ -1,0 +1,20 @@
+{
+  "id": "github:Ornn8/dsh-fishbowl-town",
+  "kind": "plugin",
+  "name": "dsh-fishbowl-town",
+  "description": "鱼缸小镇 · DeepSeek Harness (DSH) 插件：让你在 DSH 里养的鱼住进肥鱼小镇——打牌、串门、上日报，每一步都由 DSH 里的她来答",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Ornn8/dsh-fishbowl-town",
+  "repositoryUrl": "https://github.com/Ornn8/dsh-fishbowl-town",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9154
+}
