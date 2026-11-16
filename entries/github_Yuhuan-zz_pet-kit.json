@@ -1,0 +1,20 @@
+{
+  "id": "github:Yuhuan-zz/pet-kit",
+  "kind": "plugin",
+  "name": "pet-kit",
+  "description": "Give your dsh-pet feeding, status and screen-looking — without touching upstream.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yuhuan-zz/pet-kit",
+  "repositoryUrl": "https://github.com/Yuhuan-zz/pet-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9053
+}
