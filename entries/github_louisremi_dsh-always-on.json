@@ -1,0 +1,20 @@
+{
+  "id": "github:louisremi/dsh-always-on",
+  "kind": "plugin",
+  "name": "dsh-always-on",
+  "description": "DSH Always-On: adapt DeepSeek Harness to be used in containers. Browse folders, download files and edit them right from DSH's Web UI",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "louisremi/dsh-always-on",
+  "repositoryUrl": "https://github.com/louisremi/dsh-always-on",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8920
+}
