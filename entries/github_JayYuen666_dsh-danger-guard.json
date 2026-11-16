@@ -1,0 +1,20 @@
+{
+  "id": "github:JayYuen666/dsh-danger-guard",
+  "kind": "plugin",
+  "name": "dsh-danger-guard",
+  "description": "Related DeepSeek Harness project: JayYuen666/dsh-danger-guard",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayYuen666/dsh-danger-guard",
+  "repositoryUrl": "https://github.com/JayYuen666/dsh-danger-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9286
+}
