@@ -1,0 +1,20 @@
+{
+  "id": "github:tsd619124/dsh-connect-comate",
+  "kind": "plugin",
+  "name": "dsh-connect-comate",
+  "description": "把本机已登录的文心快码（Comate / Zulu）接入 DeepSeek Harness 的插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tsd619124/dsh-connect-comate",
+  "repositoryUrl": "https://github.com/tsd619124/dsh-connect-comate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8793
+}
