@@ -1,0 +1,20 @@
+{
+  "id": "github:cyjyyd/dsh-llm-xai-oauth",
+  "kind": "plugin",
+  "name": "dsh-llm-xai-oauth",
+  "description": "Native SuperGrok / X Premium OAuth provider for DeepSeek Harness. Reuses local grok-bridge tokens; no xAI API key.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cyjyyd/dsh-llm-xai-oauth",
+  "repositoryUrl": "https://github.com/cyjyyd/dsh-llm-xai-oauth",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9173
+}
