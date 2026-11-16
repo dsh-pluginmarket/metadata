@@ -1,0 +1,20 @@
+{
+  "id": "github:cilis/dsh-whale-tts",
+  "kind": "plugin",
+  "name": "dsh-whale-tts",
+  "description": "DeepSeek Harness 聚合语音朗读插件,让小鲸鱼拥有自己的声音",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cilis/dsh-whale-tts",
+  "repositoryUrl": "https://github.com/cilis/dsh-whale-tts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9203
+}
