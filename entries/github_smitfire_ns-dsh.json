@@ -1,0 +1,20 @@
+{
+  "id": "github:smitfire/ns-dsh",
+  "kind": "plugin",
+  "name": "ns-dsh",
+  "description": "Personal plugin distribution, micro-telemetry harness, and upstream canary for DeepSeek Harness (dsh)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smitfire/ns-dsh",
+  "repositoryUrl": "https://github.com/smitfire/ns-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8987
+}
