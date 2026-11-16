@@ -1,0 +1,20 @@
+{
+  "id": "github:IWHBIWHB/dsh-injection-manager",
+  "kind": "plugin",
+  "name": "dsh-injection-manager",
+  "description": "Manage and switch everything a new DeepSeek Harness session injects before its first request — prompt sections, runtime contexts, skills, tool schemas and workspace rules — clustered into suites, with presets and a token budget.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "IWHBIWHB/dsh-injection-manager",
+  "repositoryUrl": "https://github.com/IWHBIWHB/dsh-injection-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8956
+}
