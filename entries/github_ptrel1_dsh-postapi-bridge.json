@@ -1,0 +1,20 @@
+{
+  "id": "github:ptrel1/dsh-postapi-bridge",
+  "kind": "plugin",
+  "name": "dsh-postapi-bridge",
+  "description": "DeepSeek Harness (DSH) 官方标准双半侧扩展插件：为外部机器人（MaiBot / 飞书 / 微信）及 CI/CD 系统提供开箱即用的轻量 HTTP POST / RESTful 任务调度、会话管理与 MCP 工具调用网关。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ptrel1/dsh-postapi-bridge",
+  "repositoryUrl": "https://github.com/ptrel1/dsh-postapi-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8817
+}
