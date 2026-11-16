@@ -1,0 +1,20 @@
+{
+  "id": "github:cheshireez/dsh-skill-hub",
+  "kind": "plugin",
+  "name": "dsh-skill-hub",
+  "description": "dsh Web GUI 技能中枢：浏览/搜索全部本地技能、按技能或分组启停；安装前审计拦截隐藏字符与管道执行、一键修 frontmatter；内置 GitHub 市场（commit 钉住来源）、本地改动检测、跨 agent 导入、可恢复回收站。 dsh web GUI skill hub: browse/search all local skills, per-skill/group toggles, install-time audit (hidden chars, pipe-to-shell), GitHub market with commit pins, local-edit detection, cross-agent import, restorable trash.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cheshireez/dsh-skill-hub",
+  "repositoryUrl": "https://github.com/cheshireez/dsh-skill-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9051
+}
