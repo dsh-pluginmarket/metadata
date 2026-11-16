@@ -1,0 +1,20 @@
+{
+  "id": "github:Biggy1606/dsh-balance-whale-intl",
+  "kind": "plugin",
+  "name": "dsh-balance-whale-intl",
+  "description": "English-first Balance Whale widget for DSH Web - live wallet, real token usage, turn costs, sounds, and EN/简体中文 UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Biggy1606/dsh-balance-whale-intl",
+  "repositoryUrl": "https://github.com/Biggy1606/dsh-balance-whale-intl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8893
+}
