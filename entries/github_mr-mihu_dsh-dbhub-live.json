@@ -1,0 +1,20 @@
+{
+  "id": "github:mr-mihu/dsh-dbhub-live",
+  "kind": "plugin",
+  "name": "dsh-dbhub-live",
+  "description": "DSH 数据库 MCP 插件：把 DBHub 接入 DeepSeek Harness，让 AI 在对话里直接查询 MySQL / PostgreSQL / MariaDB / SQLite / SQL Server。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mr-mihu/dsh-dbhub-live",
+  "repositoryUrl": "https://github.com/mr-mihu/dsh-dbhub-live",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9023
+}
