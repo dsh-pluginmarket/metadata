@@ -1,0 +1,20 @@
+{
+  "id": "github:Vhow123/dsh-model-probe",
+  "kind": "plugin",
+  "name": "dsh-model-probe",
+  "description": "DSH 模型连接与延迟测试插件：批量测速、首 Token 耗时、错误详情与并发控制",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vhow123/dsh-model-probe",
+  "repositoryUrl": "https://github.com/Vhow123/dsh-model-probe",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9242
+}
