@@ -1,0 +1,20 @@
+{
+  "id": "github:JayYuen666/dsh-session-rescue",
+  "kind": "plugin",
+  "name": "dsh-session-rescue",
+  "description": "Related DeepSeek Harness project: JayYuen666/dsh-session-rescue",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayYuen666/dsh-session-rescue",
+  "repositoryUrl": "https://github.com/JayYuen666/dsh-session-rescue",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9003
+}
