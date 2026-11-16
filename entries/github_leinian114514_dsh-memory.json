@@ -1,0 +1,20 @@
+{
+  "id": "github:leinian114514/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "DSH 自托管记忆插件：七层 SQLite + BM25（含拼音/首字母容错）+ 三条注入路径 + 10 个工具。零运行时依赖",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "leinian114514/dsh-memory",
+  "repositoryUrl": "https://github.com/leinian114514/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8852
+}
