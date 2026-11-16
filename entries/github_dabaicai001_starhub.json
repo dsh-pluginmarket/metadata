@@ -1,0 +1,20 @@
+{
+  "id": "github:dabaicai001/starhub",
+  "kind": "plugin",
+  "name": "starhub",
+  "description": "StarHub — All-in-One DevOps Desktop Command Center。把开发运维每天要用到的工具收进同一个窗口:数据库客户端 · SSH 终端 · SFTP · Docker · Android 真机 · AI 助手。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dabaicai001/starhub",
+  "repositoryUrl": "https://github.com/dabaicai001/starhub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8948
+}
