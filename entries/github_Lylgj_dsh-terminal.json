@@ -1,0 +1,20 @@
+{
+  "id": "github:Lylgj/dsh-terminal",
+  "kind": "plugin",
+  "name": "dsh-terminal",
+  "description": "DeepSeek Harness 右侧栏常驻终端插件：每个工作区一个常驻 PTY，自动识别 cmd / PowerShell / WSL / SSH，明暗主题，无 CDN。第三方插件，非官方出品。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lylgj/dsh-terminal",
+  "repositoryUrl": "https://github.com/Lylgj/dsh-terminal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9111
+}
