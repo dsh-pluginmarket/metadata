@@ -1,0 +1,20 @@
+{
+  "id": "github:wangkant/reelsmith",
+  "kind": "plugin",
+  "name": "reelsmith",
+  "description": "A video editor your coding agent can drive: a real timeline, frames it can look at, delivery checks, and a window where you watch and talk to it.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangkant/reelsmith",
+  "repositoryUrl": "https://github.com/wangkant/reelsmith",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9083
+}
