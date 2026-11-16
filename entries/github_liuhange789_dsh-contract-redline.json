@@ -1,0 +1,20 @@
+{
+  "id": "github:liuhange789/dsh-contract-redline",
+  "kind": "plugin",
+  "name": "dsh-contract-redline",
+  "description": "Contract risk quick-scan (DSH plugin): paste a procurement / lease / service contract and get high-risk clauses, one-sided obligations and missing key clauses. Rule-based, local-only, no legal advice.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuhange789/dsh-contract-redline",
+  "repositoryUrl": "https://github.com/liuhange789/dsh-contract-redline",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8759
+}
