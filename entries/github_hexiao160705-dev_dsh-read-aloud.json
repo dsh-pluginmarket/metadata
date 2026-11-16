@@ -1,0 +1,20 @@
+{
+  "id": "github:hexiao160705-dev/dsh-read-aloud",
+  "kind": "plugin",
+  "name": "dsh-read-aloud",
+  "description": "Related DeepSeek Harness project: hexiao160705-dev/dsh-read-aloud",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hexiao160705-dev/dsh-read-aloud",
+  "repositoryUrl": "https://github.com/hexiao160705-dev/dsh-read-aloud",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9102
+}
