@@ -1,0 +1,20 @@
+{
+  "id": "github:Kevinwu901113/dsh-dot",
+  "kind": "plugin",
+  "name": "dsh-dot",
+  "description": "住在自己手机上的角色，DeepSeek Harness (dsh) 插件：自带 Android 手机、她自己的 QQ、来自真实事件的记忆与日记、两次对话之间的生活（幕间）、可选 VM 电脑。A character who lives on her own phone, for DSH.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kevinwu901113/dsh-dot",
+  "repositoryUrl": "https://github.com/Kevinwu901113/dsh-dot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9015
+}
