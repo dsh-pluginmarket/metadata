@@ -1,0 +1,20 @@
+{
+  "id": "github:chunbo824-tech/dsh-rp-card",
+  "kind": "plugin",
+  "name": "dsh-rp-card",
+  "description": "基于dsh的rp卡自动编写插件，当前支持风月（fengyue.ai）平台",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chunbo824-tech/dsh-rp-card",
+  "repositoryUrl": "https://github.com/chunbo824-tech/dsh-rp-card",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9279
+}
