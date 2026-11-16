@@ -1,0 +1,20 @@
+{
+  "id": "github:oh-dsh-plugins/dsh-agentdeck",
+  "kind": "plugin",
+  "name": "dsh-agentdeck",
+  "description": "Native scene agents and bilingual management for DeepSeek Harness, with explicit model policy and scoped tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oh-dsh-plugins/dsh-agentdeck",
+  "repositoryUrl": "https://github.com/oh-dsh-plugins/dsh-agentdeck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9183
+}
