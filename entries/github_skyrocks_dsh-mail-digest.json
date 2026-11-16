@@ -1,0 +1,20 @@
+{
+  "id": "github:skyrocks/dsh-mail-digest",
+  "kind": "plugin",
+  "name": "dsh-mail-digest",
+  "description": "DeepSeek Harness 插件：自动整理邮箱，每轮留一份能看的报告（重点 / 需要处理 / 线程进展）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "skyrocks/dsh-mail-digest",
+  "repositoryUrl": "https://github.com/skyrocks/dsh-mail-digest",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9043
+}
