@@ -1,0 +1,20 @@
+{
+  "id": "github:NoCandles/dsh-stock-bar",
+  "kind": "plugin",
+  "name": "dsh-stock-bar",
+  "description": "DeepSeek Harness 插件：窗口顶部常驻股票行情条——自选与持仓盈亏、K线/分时、五档盘口、成交流水、价格预警、AI 复盘（可追问/定时跟踪），装了 dsh-better-sidebar 时还可作为右侧栏「股票」页打开。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NoCandles/dsh-stock-bar",
+  "repositoryUrl": "https://github.com/NoCandles/dsh-stock-bar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9057
+}
