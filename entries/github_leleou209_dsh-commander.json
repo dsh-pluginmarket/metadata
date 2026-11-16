@@ -1,0 +1,20 @@
+{
+  "id": "github:leleou209/dsh-commander",
+  "kind": "plugin",
+  "name": "dsh-commander",
+  "description": "给 AI 请一位常驻指挥员：它并不担负工作而是替你做一般决策，你可以通过分级处理来尝试多重托管方式。DeepSeek Harness 的决策托管插件——可实现全自动ai代理决断托管。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "leleou209/dsh-commander",
+  "repositoryUrl": "https://github.com/leleou209/dsh-commander",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8799
+}
