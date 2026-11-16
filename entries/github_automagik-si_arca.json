@@ -1,0 +1,20 @@
+{
+  "id": "github:automagik-si/arca",
+  "kind": "plugin",
+  "name": "arca",
+  "description": "Be your own cloud. Self-hosted infrastructure for AI agents on machines you own, with MCP and passkey approval.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "automagik-si/arca",
+  "repositoryUrl": "https://github.com/automagik-si/arca",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9012
+}
