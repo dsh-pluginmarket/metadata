@@ -1,0 +1,20 @@
+{
+  "id": "github:Alpha961/gd-product-kit",
+  "kind": "plugin",
+  "name": "gd-product-kit",
+  "description": "搞定产品设计包 · VibeCoding 项目工作台（DSH 插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Alpha961/gd-product-kit",
+  "repositoryUrl": "https://github.com/Alpha961/gd-product-kit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9160
+}
