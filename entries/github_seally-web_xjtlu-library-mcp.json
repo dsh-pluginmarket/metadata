@@ -1,0 +1,20 @@
+{
+  "id": "github:seally-web/xjtlu-library-mcp",
+  "kind": "plugin",
+  "name": "xjtlu-library-mcp",
+  "description": "Related DeepSeek Harness project: seally-web/xjtlu-library-mcp",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "seally-web/xjtlu-library-mcp",
+  "repositoryUrl": "https://github.com/seally-web/xjtlu-library-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8822
+}
