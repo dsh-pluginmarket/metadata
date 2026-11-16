@@ -1,0 +1,20 @@
+{
+  "id": "github:SouthM/dsh-nanshan-publish-manager",
+  "kind": "plugin",
+  "name": "dsh-nanshan-publish-manager",
+  "description": "【南山】DSH发布管理：以 npm 包（dsh.bundle + dsh.client）的官方形式，管理本机 DSH 组件的发布设置、发布预检查、npm 发布与发布记录。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SouthM/dsh-nanshan-publish-manager",
+  "repositoryUrl": "https://github.com/SouthM/dsh-nanshan-publish-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9116
+}
