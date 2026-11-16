@@ -1,0 +1,20 @@
+{
+  "id": "github:sweet560/dsh-plugin-wechat-session",
+  "kind": "plugin",
+  "name": "dsh-plugin-wechat-session",
+  "description": "微信会话互通聚合包：桌面弹窗 / 系统通知 + 提示音，30/60 秒超时后经 dsh-im 微信机器人把带问题原文与编号选项的清单发到微信，可直接在微信里回复选择。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sweet560/dsh-plugin-wechat-session",
+  "repositoryUrl": "https://github.com/sweet560/dsh-plugin-wechat-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8887
+}
