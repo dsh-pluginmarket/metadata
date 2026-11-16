@@ -1,0 +1,20 @@
+{
+  "id": "github:shamanjin/dsh-image-studio",
+  "kind": "plugin",
+  "name": "dsh-image-studio",
+  "description": "DSH 插件：多套 OpenAI 兼容生图配置，支持文生图与图生图",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shamanjin/dsh-image-studio",
+  "repositoryUrl": "https://github.com/shamanjin/dsh-image-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9189
+}
