@@ -1,0 +1,20 @@
+{
+  "id": "github:bearman141/dsh-kernel-restart",
+  "kind": "plugin",
+  "name": "dsh-kernel-restart",
+  "description": "Restart the running DSH profile in place from a floating button, without closing the desktop window.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bearman141/dsh-kernel-restart",
+  "repositoryUrl": "https://github.com/bearman141/dsh-kernel-restart",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8930
+}
