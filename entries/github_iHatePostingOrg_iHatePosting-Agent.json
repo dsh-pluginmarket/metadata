@@ -1,0 +1,20 @@
+{
+  "id": "github:iHatePostingOrg/iHatePosting-Agent",
+  "kind": "plugin",
+  "name": "iHatePosting-Agent",
+  "description": "iHatePosting for AI agents a CLI, skill, and plugins that connect Claude, Cursor, Gemini, Grok and more to your social accounts on autopilot. Draft, schedule, and publish posts, upload media, and read analytics across 15 platforms, straight from your agent or the command line.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "iHatePostingOrg/iHatePosting-Agent",
+  "repositoryUrl": "https://github.com/iHatePostingOrg/iHatePosting-Agent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8879
+}
