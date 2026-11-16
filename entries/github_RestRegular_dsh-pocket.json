@@ -1,0 +1,20 @@
+{
+  "id": "github:RestRegular/dsh-pocket",
+  "kind": "plugin",
+  "name": "dsh-pocket",
+  "description": "Pocket for DeepSeek Harness: mobile web access to sessions, live output, tool calls, questions and approvals.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RestRegular/dsh-pocket",
+  "repositoryUrl": "https://github.com/RestRegular/dsh-pocket",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9123
+}
