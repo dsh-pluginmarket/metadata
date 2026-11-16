@@ -1,0 +1,20 @@
+{
+  "id": "github:tttnny/my-dsh",
+  "kind": "plugin",
+  "name": "my-dsh",
+  "description": "DeepSeek Harness 插件/补丁/preset 合集 | DSH plugins, patches & presets",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tttnny/my-dsh",
+  "repositoryUrl": "https://github.com/tttnny/my-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8757
+}
