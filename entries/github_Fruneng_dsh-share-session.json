@@ -1,0 +1,20 @@
+{
+  "id": "github:Fruneng/dsh-share-session",
+  "kind": "plugin",
+  "name": "dsh-share-session",
+  "description": "把一个会话里选中的对话内容生成一张可分享的长图",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Fruneng/dsh-share-session",
+  "repositoryUrl": "https://github.com/Fruneng/dsh-share-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9030
+}
