@@ -1,0 +1,20 @@
+{
+  "id": "github:879745uhjun/dsh-session-transfer",
+  "kind": "plugin",
+  "name": "dsh-session-transfer",
+  "description": "Pack any DSH session, its subagent sessions and attachments into a portable .dshpack, and import it into another DSH installation.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "879745uhjun/dsh-session-transfer",
+  "repositoryUrl": "https://github.com/879745uhjun/dsh-session-transfer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9142
+}
