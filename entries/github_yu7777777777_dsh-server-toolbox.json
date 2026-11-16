@@ -1,0 +1,20 @@
+{
+  "id": "github:yu7777777777/dsh-server-toolbox",
+  "kind": "plugin",
+  "name": "dsh-server-toolbox",
+  "description": "Related DeepSeek Harness project: yu7777777777/dsh-server-toolbox",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yu7777777777/dsh-server-toolbox",
+  "repositoryUrl": "https://github.com/yu7777777777/dsh-server-toolbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8807
+}
