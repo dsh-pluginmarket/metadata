@@ -1,0 +1,20 @@
+{
+  "id": "github:ChisaAlter/WhaleIsle",
+  "kind": "plugin",
+  "name": "WhaleIsle",
+  "description": "鲸屿 Whale Isle · DeepSeek Harness 开源社区桌面版：AI 对话、终端与 Git、鲸桥 API/订阅接入、主题壁纸、鲸鱼娘桌宠、用量统计与手机远程连接。Community-enhanced DeepSeek Harness desktop client.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ChisaAlter/WhaleIsle",
+  "repositoryUrl": "https://github.com/ChisaAlter/WhaleIsle",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8914
+}
