@@ -1,0 +1,20 @@
+{
+  "id": "github:matrix1001/dsh-application-harness",
+  "kind": "plugin",
+  "name": "dsh-application-harness",
+  "description": "NEXT GEN application platform based on Deepseek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "matrix1001/dsh-application-harness",
+  "repositoryUrl": "https://github.com/matrix1001/dsh-application-harness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9301
+}
