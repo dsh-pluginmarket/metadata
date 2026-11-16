@@ -1,0 +1,20 @@
+{
+  "id": "github:zccokie/dsh-future-command-deck",
+  "kind": "plugin",
+  "name": "dsh-future-command-deck",
+  "description": "A sci-fi command-deck skin for the DeepSeek Harness web shell: a workspace (sector) picker above the composer, a live-ops panel listing only the sessions still running, a per-session compass that turns each tool call into a bearing, focus mode, and a glass token layer over the light and dark palettes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zccokie/dsh-future-command-deck",
+  "repositoryUrl": "https://github.com/zccokie/dsh-future-command-deck",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8820
+}
