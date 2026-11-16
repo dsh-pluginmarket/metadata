@@ -1,0 +1,20 @@
+{
+  "id": "github:ugvhfhgg/local-break-studio",
+  "kind": "plugin",
+  "name": "local-break-studio",
+  "description": "DeepSeek harness 破甲插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ugvhfhgg/local-break-studio",
+  "repositoryUrl": "https://github.com/ugvhfhgg/local-break-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8785
+}
