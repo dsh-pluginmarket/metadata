@@ -1,0 +1,20 @@
+{
+  "id": "github:smitfire/codemode",
+  "kind": "plugin",
+  "name": "codemode",
+  "description": "DSH plugin & MCP server for Code Mode (PTC) with FTS5 output slicing, stateful variables, and tool shortlisting",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "smitfire/codemode",
+  "repositoryUrl": "https://github.com/smitfire/codemode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8983
+}
