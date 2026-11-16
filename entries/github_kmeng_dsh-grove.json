@@ -1,0 +1,20 @@
+{
+  "id": "github:kmeng/dsh-grove",
+  "kind": "plugin",
+  "name": "dsh-grove",
+  "description": "Grove（知林）连接 DeepSeek Harness 与 Obsidian。与 AI 自由探索，按需做有据可查的研究，积累可回看、可修正的知识。判断、保存和分享由你决定。 Explore with AI, revisit and revise your knowledge, and make your own judgments.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kmeng/dsh-grove",
+  "repositoryUrl": "https://github.com/kmeng/dsh-grove",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9152
+}
