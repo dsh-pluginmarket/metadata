@@ -1,0 +1,20 @@
+{
+  "id": "github:JayYuen666/dsh-quality-gate",
+  "kind": "plugin",
+  "name": "dsh-quality-gate",
+  "description": "Related DeepSeek Harness project: JayYuen666/dsh-quality-gate",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JayYuen666/dsh-quality-gate",
+  "repositoryUrl": "https://github.com/JayYuen666/dsh-quality-gate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9009
+}
