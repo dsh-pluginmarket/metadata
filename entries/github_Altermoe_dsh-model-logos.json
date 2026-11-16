@@ -1,0 +1,20 @@
+{
+  "id": "github:Altermoe/dsh-model-logos",
+  "kind": "plugin",
+  "name": "dsh-model-logos",
+  "description": "Brand marks for models and vendors in the DeepSeek Harness (DSH) Web GUI: composer model selector, model picker, and Settings -> Models, with a per-model icon picker.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Altermoe/dsh-model-logos",
+  "repositoryUrl": "https://github.com/Altermoe/dsh-model-logos",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8778
+}
