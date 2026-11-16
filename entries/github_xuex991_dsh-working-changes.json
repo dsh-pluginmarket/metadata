@@ -1,0 +1,20 @@
+{
+  "id": "github:xuex991/dsh-working-changes",
+  "kind": "plugin",
+  "name": "dsh-working-changes",
+  "description": "See files changed from HEAD in the current DSH workspace and inspect each diff in the native right sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xuex991/dsh-working-changes",
+  "repositoryUrl": "https://github.com/xuex991/dsh-working-changes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9028
+}
