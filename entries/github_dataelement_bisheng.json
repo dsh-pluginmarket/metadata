@@ -1,0 +1,20 @@
+{
+  "id": "github:dataelement/bisheng",
+  "kind": "plugin",
+  "name": "bisheng",
+  "description": "BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dataelement/bisheng",
+  "repositoryUrl": "https://github.com/dataelement/bisheng",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8860
+}
