@@ -1,0 +1,20 @@
+{
+  "id": "github:wangyanan520/dsh-skill-workbench",
+  "kind": "plugin",
+  "name": "dsh-skill-workbench",
+  "description": "DSH 技能中文显示中间层：给技能加中文名/简介/分类，菜单按中文分组，调用仍用英文 /name。Chinese display layer for DSH skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wangyanan520/dsh-skill-workbench",
+  "repositoryUrl": "https://github.com/wangyanan520/dsh-skill-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8904
+}
