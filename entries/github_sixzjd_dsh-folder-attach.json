@@ -1,0 +1,20 @@
+{
+  "id": "github:sixzjd/dsh-folder-attach",
+  "kind": "plugin",
+  "name": "dsh-folder-attach",
+  "description": "Add folder references to the DeepSeek Harness web composer: host folder dialog, /folder command, and folder drag/paste resolved into @path mentions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sixzjd/dsh-folder-attach",
+  "repositoryUrl": "https://github.com/sixzjd/dsh-folder-attach",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 8880
+}
