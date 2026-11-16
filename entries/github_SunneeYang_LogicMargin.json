@@ -1,0 +1,20 @@
+{
+  "id": "github:SunneeYang/LogicMargin",
+  "kind": "plugin",
+  "name": "LogicMargin",
+  "description": "Review source-backed logic diagrams with human annotations, agent replies, and resumable review rounds.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SunneeYang/LogicMargin",
+  "repositoryUrl": "https://github.com/SunneeYang/LogicMargin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9140
+}
