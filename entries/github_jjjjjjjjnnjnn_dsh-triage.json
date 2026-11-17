@@ -1,0 +1,22 @@
+{
+  "id": "github:jjjjjjjjnnjnn/dsh-triage",
+  "kind": "plugin",
+  "name": "dsh-triage",
+  "description": "Judges one DSH profile: why a plugin was refused or silently disappeared, what an upgrade would break, and a candidate measured in a throwaway DSH_HOME. Read-only by default; --apply backs up first and --undo restores the bytes.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "jjjjjjjjnnjnn/dsh-triage",
+  "repositoryUrl": "https://github.com/jjjjjjjjnnjnn/dsh-triage",
+  "npmPackage": "dsh-triage",
+  "tags": [
+    "tooling",
+    "diagnostics"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "jjjjjjjjnnjnn",
+  "issueNumber": 9367
+}
