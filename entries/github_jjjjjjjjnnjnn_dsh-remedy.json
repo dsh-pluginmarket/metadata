@@ -1,0 +1,23 @@
+{
+  "id": "github:jjjjjjjjnnjnn/dsh-remedy",
+  "kind": "plugin",
+  "name": "dsh-remedy",
+  "description": "Resident repair layer for DeepSeek Harness llm/stream seam: splits fused tool-call arguments only when every fragment parses at a top-level JSON boundary; otherwise rethrows the provider failure. Ships offline scan and explain with a bounded cache. Does not patch app.asar.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "jjjjjjjjnnjnn/dsh-remedy",
+  "repositoryUrl": "https://github.com/jjjjjjjjnnjnn/dsh-remedy",
+  "npmPackage": "dsh-remedy",
+  "tags": [
+    "debugging",
+    "tool-calls",
+    "repair"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "jjjjjjjjnnjnn",
+  "issueNumber": 9372
+}
