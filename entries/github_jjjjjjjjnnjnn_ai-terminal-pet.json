@@ -1,0 +1,23 @@
+{
+  "id": "github:jjjjjjjjnnjnn/ai-terminal-pet",
+  "kind": "plugin",
+  "name": "ai-terminal-pet",
+  "description": "Always-on 56px desktop strip showing which OpenCode, Claude Code or Antigravity session needs attention. One static Go binary per platform, local named-pipe or Unix-socket reporter, no HTTP client in the binary. The macOS overlay has never been driven on real Apple hardware and the Windows build is unsigned.",
+  "source": "github",
+  "sources": [
+    "github",
+    "npm"
+  ],
+  "githubRepo": "jjjjjjjjnnjnn/ai-terminal-pet",
+  "repositoryUrl": "https://github.com/jjjjjjjjnnjnn/ai-terminal-pet",
+  "npmPackage": "dsh-ai-terminal-pet",
+  "tags": [
+    "desktop",
+    "status",
+    "go"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "jjjjjjjjnnjnn",
+  "issueNumber": 9370
+}
