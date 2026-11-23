@@ -1,0 +1,20 @@
+{
+  "id": "github:lesliejackson/dsh-terminal-keepalive",
+  "kind": "plugin",
+  "name": "dsh-terminal-keepalive",
+  "description": "DeepSeek Harness plugin: keeps the right-sidebar terminal mounted across tab and session switches, so returning no longer rebuilds xterm or replays the screen snapshot.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lesliejackson/dsh-terminal-keepalive",
+  "repositoryUrl": "https://github.com/lesliejackson/dsh-terminal-keepalive",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9608
+}
