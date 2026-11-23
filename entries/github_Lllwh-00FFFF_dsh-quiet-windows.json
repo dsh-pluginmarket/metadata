@@ -1,0 +1,20 @@
+{
+  "id": "github:Lllwh-00FFFF/dsh-quiet-windows",
+  "kind": "plugin",
+  "name": "dsh-quiet-windows",
+  "description": "Drive Windows GUI apps entirely off-screen: launch outside every monitor, read and click through UI Automation, capture with PrintWind",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lllwh-00FFFF/dsh-quiet-windows",
+  "repositoryUrl": "https://github.com/Lllwh-00FFFF/dsh-quiet-windows",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9917
+}
