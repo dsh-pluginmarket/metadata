@@ -1,0 +1,20 @@
+{
+  "id": "github:PerryLink/perrylink",
+  "kind": "plugin",
+  "name": "perrylink",
+  "description": "Independent third-party plugin family for DeepSeek Harness - not affiliated with DeepSeek",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "PerryLink/perrylink",
+  "repositoryUrl": "https://github.com/PerryLink/perrylink",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9478
+}
