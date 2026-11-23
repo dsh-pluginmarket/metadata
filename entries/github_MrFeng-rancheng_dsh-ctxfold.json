@@ -1,0 +1,20 @@
+{
+  "id": "github:MrFeng-rancheng/dsh-ctxfold",
+  "kind": "plugin",
+  "name": "dsh-ctxfold",
+  "description": "Guarded context assembly for long coding sessions: doctor / ask / status tools that cut input tokens, with the CLI bundled.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MrFeng-rancheng/dsh-ctxfold",
+  "repositoryUrl": "https://github.com/MrFeng-rancheng/dsh-ctxfold",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9812
+}
