@@ -1,0 +1,20 @@
+{
+  "id": "github:Gaaaamu/dsh-interpreter",
+  "kind": "plugin",
+  "name": "dsh-interpreter",
+  "description": "A DSH plugin that adds a shorter, easier-to-read version under every finished answer - side-channel rewrite, no prompt changes, no context pollution.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Gaaaamu/dsh-interpreter",
+  "repositoryUrl": "https://github.com/Gaaaamu/dsh-interpreter",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9884
+}
