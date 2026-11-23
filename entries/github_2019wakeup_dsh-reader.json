@@ -1,0 +1,20 @@
+{
+  "id": "github:2019wakeup/dsh-reader",
+  "kind": "plugin",
+  "name": "dsh-reader",
+  "description": "DSH 阅读工作台：PDF/EPUB/Markdown 标注、概念解释、分层导读与双语翻译（DeepSeek Harness 插件）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2019wakeup/dsh-reader",
+  "repositoryUrl": "https://github.com/2019wakeup/dsh-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9653
+}
