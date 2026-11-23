@@ -1,0 +1,20 @@
+{
+  "id": "github:daijiaoshou-ds/Accounting-Entry-Test",
+  "kind": "plugin",
+  "name": "Accounting-Entry-Test",
+  "description": "审计工作台（源码）：序时账清洗 / 现金流量表编写 / 对方科目分析 / 会计分录测试 —— DSH 插件 + Python 引擎",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daijiaoshou-ds/Accounting-Entry-Test",
+  "repositoryUrl": "https://github.com/daijiaoshou-ds/Accounting-Entry-Test",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9445
+}
