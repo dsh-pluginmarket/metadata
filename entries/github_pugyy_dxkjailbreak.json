@@ -1,0 +1,20 @@
+{
+  "id": "github:pugyy/dxkjailbreak",
+  "kind": "plugin",
+  "name": "dxkjailbreak",
+  "description": "Multi-domain security workflow presets for DeepSeek Harness - host adapter layer, 24-tab console, 17 sub-plugins. MIT, by dxk.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pugyy/dxkjailbreak",
+  "repositoryUrl": "https://github.com/pugyy/dxkjailbreak",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9377
+}
