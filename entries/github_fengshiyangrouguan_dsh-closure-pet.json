@@ -1,0 +1,20 @@
+{
+  "id": "github:fengshiyangrouguan/dsh-closure-pet",
+  "kind": "plugin",
+  "name": "dsh-closure-pet",
+  "description": "《明日方舟》可露希尔卫戍协议皮肤的 DeepSeek Harness 桌宠插件：动画交互、像素气泡、余额与花费提示",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "fengshiyangrouguan/dsh-closure-pet",
+  "repositoryUrl": "https://github.com/fengshiyangrouguan/dsh-closure-pet",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9512
+}
