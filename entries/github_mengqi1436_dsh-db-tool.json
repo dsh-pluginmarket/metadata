@@ -1,0 +1,20 @@
+{
+  "id": "github:mengqi1436/dsh-db-tool",
+  "kind": "plugin",
+  "name": "dsh-db-tool",
+  "description": "DSH plugin: chat-driven database admin tool (8 databases, per-project grants, danger confirmation, sidebar console)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mengqi1436/dsh-db-tool",
+  "repositoryUrl": "https://github.com/mengqi1436/dsh-db-tool",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9818
+}
