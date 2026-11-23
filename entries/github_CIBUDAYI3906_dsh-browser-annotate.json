@@ -1,0 +1,20 @@
+{
+  "id": "github:CIBUDAYI3906/dsh-browser-annotate",
+  "kind": "plugin",
+  "name": "dsh-browser-annotate",
+  "description": "圈选 DSH 右侧浏览器里的页面元素，把定位信息和修改意见发给 AI（Desktop）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "CIBUDAYI3906/dsh-browser-annotate",
+  "repositoryUrl": "https://github.com/CIBUDAYI3906/dsh-browser-annotate",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9449
+}
