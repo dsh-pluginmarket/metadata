@@ -1,0 +1,20 @@
+{
+  "id": "github:SevenHe/dsh-remote-host",
+  "kind": "plugin",
+  "name": "dsh-remote-host",
+  "description": "Mount a remote DeepSeek Harness host into the app native UI: sessions, workspaces, super agent, streams — over HTTP or an SSH tunnel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SevenHe/dsh-remote-host",
+  "repositoryUrl": "https://github.com/SevenHe/dsh-remote-host",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9544
+}
