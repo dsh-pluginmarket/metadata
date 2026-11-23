@@ -1,0 +1,20 @@
+{
+  "id": "github:light-cheng/DSH-Mem0",
+  "kind": "plugin",
+  "name": "DSH-Mem0",
+  "description": "Mem0 long-term memory for DeepSeek Harness: Platform, self-hosted server or local OSS, automatic recall/capture, compact profile, token budgets, weekly hygiene and a visual settings page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "light-cheng/DSH-Mem0",
+  "repositoryUrl": "https://github.com/light-cheng/DSH-Mem0",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9695
+}
