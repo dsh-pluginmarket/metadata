@@ -1,0 +1,20 @@
+{
+  "id": "github:peng456/dsh-plugin-mesh",
+  "kind": "plugin",
+  "name": "dsh-plugin-mesh",
+  "description": "DSH 局域网 Mesh 插件：自动发现同网段的其他 DSH 实例，提供对端操作页面，支持跨机双向派发任务。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "peng456/dsh-plugin-mesh",
+  "repositoryUrl": "https://github.com/peng456/dsh-plugin-mesh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9835
+}
