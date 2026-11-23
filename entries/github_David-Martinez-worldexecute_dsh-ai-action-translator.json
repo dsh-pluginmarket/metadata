@@ -1,0 +1,20 @@
+{
+  "id": "github:David-Martinez-worldexecute/dsh-ai-action-translator",
+  "kind": "plugin",
+  "name": "dsh-ai-action-translator",
+  "description": "A DSH plugin that turns agent tool calls into beginner-friendly explanations, so learners can follow what the AI is doing and why.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "David-Martinez-worldexecute/dsh-ai-action-translator",
+  "repositoryUrl": "https://github.com/David-Martinez-worldexecute/dsh-ai-action-translator",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9889
+}
