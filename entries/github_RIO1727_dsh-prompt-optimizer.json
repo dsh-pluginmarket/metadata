@@ -1,0 +1,20 @@
+{
+  "id": "github:RIO1727/dsh-prompt-optimizer",
+  "kind": "plugin",
+  "name": "dsh-prompt-optimizer",
+  "description": "AI prompt optimization for the DeepSeek Harness composer: a sparkle button just left of Send rewrites the draft with the conversation's own model.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "RIO1727/dsh-prompt-optimizer",
+  "repositoryUrl": "https://github.com/RIO1727/dsh-prompt-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9867
+}
