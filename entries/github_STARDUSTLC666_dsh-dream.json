@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-dream",
+  "kind": "plugin",
+  "name": "dsh-dream",
+  "description": "DeepSeek Harness 原生任务经验记忆工作台：默认「叠卡」触感分拣台（左右拖拽 + Space 3D 翻面核验原文，1 键切列表），支持复盘候选整理、脱敏审阅采纳、AGENTS.md 预览写入与回滚、自动召回及 13 套风格 / 8 套字体。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-dream",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-dream",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9797
+}
