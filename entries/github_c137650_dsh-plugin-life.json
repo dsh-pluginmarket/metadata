@@ -1,0 +1,20 @@
+{
+  "id": "github:c137650/dsh-plugin-life",
+  "kind": "plugin",
+  "name": "dsh-plugin-life",
+  "description": "DeepSeek Harness plugin for agent to simulate a real life",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "c137650/dsh-plugin-life",
+  "repositoryUrl": "https://github.com/c137650/dsh-plugin-life",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9874
+}
