@@ -1,0 +1,20 @@
+{
+  "id": "github:MaxonT/top-deepseek-harness-plugins",
+  "kind": "plugin",
+  "name": "top-deepseek-harness-plugins",
+  "description": "Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards, memory, desktop, web and terminal clients, model routing and plugin markets, ranked by GitHub stars",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MaxonT/top-deepseek-harness-plugins",
+  "repositoryUrl": "https://github.com/MaxonT/top-deepseek-harness-plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9804
+}
