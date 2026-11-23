@@ -1,0 +1,20 @@
+{
+  "id": "github:LeifDai/MACKORN-hydraulic-cone-crusher",
+  "kind": "plugin",
+  "name": "MACKORN-hydraulic-cone-crusher",
+  "description": "Mining industry cone crusher selection & plant design for AI — 29 MCP tools, NH/NS hydraulic cone crushers, aggregate & metal-mine crushing circuits, 12 languages, MIT. 液压圆锥破碎机选型 · 衬板消耗量 · 处理量计算 · 台时产量计算",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "LeifDai/MACKORN-hydraulic-cone-crusher",
+  "repositoryUrl": "https://github.com/LeifDai/MACKORN-hydraulic-cone-crusher",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9912
+}
