@@ -1,0 +1,20 @@
+{
+  "id": "github:surfishs/dsh-prompt-enhance",
+  "kind": "plugin",
+  "name": "dsh-prompt-enhance",
+  "description": "DSH Web GUI 的提示词增强插件：一键把草稿改写为结构化提示词，支持结果卡、回填、复制、重新生成、撤销与右键快捷设置。 | Prompt enhancement plugin for the DSH web GUI: one-click structured rewrite with a result card, apply, copy, regenerate, undo and a right-click settings card.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "surfishs/dsh-prompt-enhance",
+  "repositoryUrl": "https://github.com/surfishs/dsh-prompt-enhance",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9848
+}
