@@ -1,0 +1,20 @@
+{
+  "id": "github:Yamashigure/dsh-black-curtain",
+  "kind": "plugin",
+  "name": "dsh-black-curtain",
+  "description": "Moegirl-style black curtains for chat replies in the DeepSeek Harness Web UI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yamashigure/dsh-black-curtain",
+  "repositoryUrl": "https://github.com/Yamashigure/dsh-black-curtain",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9856
+}
