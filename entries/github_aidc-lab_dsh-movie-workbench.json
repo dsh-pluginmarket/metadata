@@ -1,0 +1,20 @@
+{
+  "id": "github:aidc-lab/dsh-movie-workbench",
+  "kind": "plugin",
+  "name": "dsh-movie-workbench",
+  "description": "DSH Movies workbench : Search for movies and TV series from TMDB, IMDb and Douban on one page and automatically discover BT resources.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aidc-lab/dsh-movie-workbench",
+  "repositoryUrl": "https://github.com/aidc-lab/dsh-movie-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9665
+}
