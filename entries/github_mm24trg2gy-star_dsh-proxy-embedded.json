@@ -1,0 +1,20 @@
+{
+  "id": "github:mm24trg2gy-star/dsh-proxy-embedded",
+  "kind": "plugin",
+  "name": "dsh-proxy-embedded",
+  "description": "DSH plugin with an embedded mihomo core: paste a subscription link, the plugin starts the proxy and routes DSH outbound traffic through it.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mm24trg2gy-star/dsh-proxy-embedded",
+  "repositoryUrl": "https://github.com/mm24trg2gy-star/dsh-proxy-embedded",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9503
+}
