@@ -1,0 +1,20 @@
+{
+  "id": "github:ymf2317-tech/dsh-my-computer",
+  "kind": "plugin",
+  "name": "dsh-my-computer",
+  "description": "DSH Web 右栏「我的电脑」：远程浏览与操作整台 Windows 磁盘（跨盘符、不受会话工作区限制）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ymf2317-tech/dsh-my-computer",
+  "repositoryUrl": "https://github.com/ymf2317-tech/dsh-my-computer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9404
+}
