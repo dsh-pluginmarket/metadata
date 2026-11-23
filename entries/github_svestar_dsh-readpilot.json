@@ -1,0 +1,20 @@
+{
+  "id": "github:svestar/dsh-readpilot",
+  "kind": "plugin",
+  "name": "dsh-readpilot",
+  "description": "智读 ReadPilot — AI-assisted reading for DeepSeek Harness: TXT, Markdown, EPUB and PDF.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "svestar/dsh-readpilot",
+  "repositoryUrl": "https://github.com/svestar/dsh-readpilot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9742
+}
