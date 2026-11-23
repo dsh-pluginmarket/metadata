@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-voice",
+  "kind": "plugin",
+  "name": "dsh-voice",
+  "description": "DeepSeek Harness 许愿式语音插件 + 5 主题 Voice Studio：6 大场景预设、自然语言模糊选声、目标时长校准、HTML5 交互播放器、零密钥 Edge TTS / 声音克隆、卡拉 OK 字幕、播客 BGM 闪避及视频直传说话人区分转写。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-voice",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-voice",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9792
+}
