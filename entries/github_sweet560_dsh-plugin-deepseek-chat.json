@@ -1,0 +1,20 @@
+{
+  "id": "github:sweet560/dsh-plugin-deepseek-chat",
+  "kind": "plugin",
+  "name": "dsh-plugin-deepseek-chat",
+  "description": "将 DeepSeek/豆包 网页聊天嵌入 DSH 桌面会话，桌面⇄网页双向桥接、条件触发自动闭环与半自动带回；全自动投递通道（初步真机验证通过，持续完善）按定界区块提炼审查意见、自动提交下一轮，命中条件弹原生 Modal 决策卡由你掌控。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sweet560/dsh-plugin-deepseek-chat",
+  "repositoryUrl": "https://github.com/sweet560/dsh-plugin-deepseek-chat",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9671
+}
