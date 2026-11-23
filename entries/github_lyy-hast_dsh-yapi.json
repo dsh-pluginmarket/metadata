@@ -1,0 +1,20 @@
+{
+  "id": "github:lyy-hast/dsh-yapi",
+  "kind": "plugin",
+  "name": "dsh-yapi",
+  "description": "Related DeepSeek Harness project: lyy-hast/dsh-yapi",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lyy-hast/dsh-yapi",
+  "repositoryUrl": "https://github.com/lyy-hast/dsh-yapi",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9937
+}
