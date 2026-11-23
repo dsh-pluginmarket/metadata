@@ -1,0 +1,20 @@
+{
+  "id": "github:HFTXsws/dsh-au",
+  "kind": "plugin",
+  "name": "dsh-au",
+  "description": "DSH 多机工作区插件，内置跨设备 Todo、移动端抽屉与本机 Claude/Codex Agent 控制入口",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HFTXsws/dsh-au",
+  "repositoryUrl": "https://github.com/HFTXsws/dsh-au",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9459
+}
