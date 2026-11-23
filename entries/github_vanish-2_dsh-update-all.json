@@ -1,0 +1,20 @@
+{
+  "id": "github:vanish-2/dsh-update-all",
+  "kind": "plugin",
+  "name": "dsh-update-all",
+  "description": "One-click updates for every npm-registry plugin in DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "vanish-2/dsh-update-all",
+  "repositoryUrl": "https://github.com/vanish-2/dsh-update-all",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9673
+}
