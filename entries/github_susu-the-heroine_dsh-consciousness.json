@@ -1,0 +1,20 @@
+{
+  "id": "github:susu-the-heroine/dsh-consciousness",
+  "kind": "plugin",
+  "name": "dsh-consciousness",
+  "description": "Shihai (识海): long-term memory for any AI - 23 tools, one page, MCP and OpenAI-compatible endpoints, same core as the DSH plugin. Already running with real users; feedback keeps shaping it.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "susu-the-heroine/dsh-consciousness",
+  "repositoryUrl": "https://github.com/susu-the-heroine/dsh-consciousness",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9924
+}
