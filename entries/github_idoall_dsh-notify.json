@@ -1,0 +1,20 @@
+{
+  "id": "github:idoall/dsh-notify",
+  "kind": "plugin",
+  "name": "dsh-notify",
+  "description": "In-page task notifications for DeepSeek Harness: toast, bell history, WebAudio cue, flashing background tab title. No web push, no OS notification matrix.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "idoall/dsh-notify",
+  "repositoryUrl": "https://github.com/idoall/dsh-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9412
+}
