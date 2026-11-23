@@ -1,0 +1,20 @@
+{
+  "id": "github:x-cores/dsh-recent-sessions",
+  "kind": "plugin",
+  "name": "dsh-recent-sessions",
+  "description": "Related DeepSeek Harness project: x-cores/dsh-recent-sessions",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "x-cores/dsh-recent-sessions",
+  "repositoryUrl": "https://github.com/x-cores/dsh-recent-sessions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9446
+}
