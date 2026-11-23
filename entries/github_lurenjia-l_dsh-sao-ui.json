@@ -1,0 +1,20 @@
+{
+  "id": "github:lurenjia-l/dsh-sao-ui",
+  "kind": "plugin",
+  "name": "dsh-sao-ui",
+  "description": "SAO 风格 DSH 界面皮肤：左栏接管 + Link Start 启动画面 + Wallpaper Engine 壁纸层；素材运行时从本机读取，不随包分发。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lurenjia-l/dsh-sao-ui",
+  "repositoryUrl": "https://github.com/lurenjia-l/dsh-sao-ui",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9468
+}
