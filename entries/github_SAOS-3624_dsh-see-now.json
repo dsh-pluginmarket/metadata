@@ -1,0 +1,20 @@
+{
+  "id": "github:SAOS-3624/dsh-see-now",
+  "kind": "plugin",
+  "name": "dsh-see-now",
+  "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SAOS-3624/dsh-see-now",
+  "repositoryUrl": "https://github.com/SAOS-3624/dsh-see-now",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9529
+}
