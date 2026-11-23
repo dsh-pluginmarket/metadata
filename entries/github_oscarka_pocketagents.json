@@ -1,0 +1,20 @@
+{
+  "id": "github:oscarka/pocketagents",
+  "kind": "plugin",
+  "name": "pocketagents",
+  "description": "PocketAgents — Control Claude Code, OpenAI Codex, Antigravity IDE, DeepSeek Harness & WorkBuddy from your phone. Self-hosted, swipe approvals, voice input & 5s terminal QR.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "oscarka/pocketagents",
+  "repositoryUrl": "https://github.com/oscarka/pocketagents",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9551
+}
