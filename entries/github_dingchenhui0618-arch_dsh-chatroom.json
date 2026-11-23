@@ -1,0 +1,20 @@
+{
+  "id": "github:dingchenhui0618-arch/dsh-chatroom",
+  "kind": "plugin",
+  "name": "dsh-chatroom",
+  "description": "多人个人聊天室 for DeepSeek Harness: 你和你携带的 agent 同处一屋，三条发言规则并行，本机与 LAN 成员来源一眼可分。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dingchenhui0618-arch/dsh-chatroom",
+  "repositoryUrl": "https://github.com/dingchenhui0618-arch/dsh-chatroom",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9950
+}
