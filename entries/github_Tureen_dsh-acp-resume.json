@@ -1,0 +1,20 @@
+{
+  "id": "github:Tureen/dsh-acp-resume",
+  "kind": "plugin",
+  "name": "dsh-acp-resume",
+  "description": "Resumable ACP subagent backend for DeepSeek Harness — persistent chat pool with session/load reconnect & mid-turn steering. Tested with kiro-cli.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tureen/dsh-acp-resume",
+  "repositoryUrl": "https://github.com/Tureen/dsh-acp-resume",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9685
+}
