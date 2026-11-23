@@ -1,0 +1,20 @@
+{
+  "id": "github:Thousand-Beam/dsh-shared-memories",
+  "kind": "plugin",
+  "name": "dsh-shared-memories",
+  "description": "基于 Git 的原生外置云脑 · 全状态漫游引擎 关机即快照，开机即还原。 换台机器，你的 AI 还是同一个 AI——记忆、人格、工作区，一个字节都不差。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Thousand-Beam/dsh-shared-memories",
+  "repositoryUrl": "https://github.com/Thousand-Beam/dsh-shared-memories",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9583
+}
