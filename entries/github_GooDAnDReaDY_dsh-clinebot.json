@@ -1,0 +1,20 @@
+{
+  "id": "github:GooDAnDReaDY/dsh-clinebot",
+  "kind": "plugin",
+  "name": "dsh-clinebot",
+  "description": "Native ClineBot / ClinePass provider companion plugin for DeepSeek Harness (DSH)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GooDAnDReaDY/dsh-clinebot",
+  "repositoryUrl": "https://github.com/GooDAnDReaDY/dsh-clinebot",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9490
+}
