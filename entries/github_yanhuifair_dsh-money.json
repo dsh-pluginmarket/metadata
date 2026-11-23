@@ -1,0 +1,20 @@
+{
+  "id": "github:yanhuifair/dsh-money",
+  "kind": "plugin",
+  "name": "dsh-money",
+  "description": "一个显示回复和对话费用的 deepseek harness 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yanhuifair/dsh-money",
+  "repositoryUrl": "https://github.com/yanhuifair/dsh-money",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9732
+}
