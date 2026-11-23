@@ -1,0 +1,20 @@
+{
+  "id": "github:xua123/dsh-server-monitor",
+  "kind": "plugin",
+  "name": "dsh-server-monitor",
+  "description": "Server resource monitor for DeepSeek Harness: CPU, memory, disk, GPU/NPU/DCU, processes and Docker.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xua123/dsh-server-monitor",
+  "repositoryUrl": "https://github.com/xua123/dsh-server-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9945
+}
