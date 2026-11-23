@@ -1,0 +1,20 @@
+{
+  "id": "github:juliiiiiiiu/session-stickies-manage-your-attention",
+  "kind": "plugin",
+  "name": "session-stickies-manage-your-attention",
+  "description": "Session Stickies - Manage Your Attention: keep session notes and follow-ups beside your agent tasks.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "juliiiiiiiu/session-stickies-manage-your-attention",
+  "repositoryUrl": "https://github.com/juliiiiiiiu/session-stickies-manage-your-attention",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9495
+}
