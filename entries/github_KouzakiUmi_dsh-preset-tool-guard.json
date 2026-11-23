@@ -1,0 +1,20 @@
+{
+  "id": "github:KouzakiUmi/dsh-preset-tool-guard",
+  "kind": "plugin",
+  "name": "dsh-preset-tool-guard",
+  "description": "DeepSeek Harness 插件：按 Agent preset 限制每个 Agent 可见的工具，保留全局 provider 挂载；基于 agent/created 与 ctx.tools.restrict()。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KouzakiUmi/dsh-preset-tool-guard",
+  "repositoryUrl": "https://github.com/KouzakiUmi/dsh-preset-tool-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9650
+}
