@@ -1,0 +1,20 @@
+{
+  "id": "github:Lornatang/dsh-plugin",
+  "kind": "plugin",
+  "name": "dsh-plugin",
+  "description": "DeepSeek Harness plugins maintained by Lornatang.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lornatang/dsh-plugin",
+  "repositoryUrl": "https://github.com/Lornatang/dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9851
+}
