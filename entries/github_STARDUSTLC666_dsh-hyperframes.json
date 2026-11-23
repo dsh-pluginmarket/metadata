@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-hyperframes",
+  "kind": "plugin",
+  "name": "dsh-hyperframes",
+  "description": "DeepSeek Harness HTML 视频创作工作台：默认 OP-DSH 硬件多轨导演台（实时监看屏 / 24-LED 矩阵 / 可擦洗多轨时间轴，1 键切表单），内置官方 HyperFrames 21 项技能、模板库、素材排序、Studio 预览、本地 MP4 导出与 13 套风格 / 8 套字体。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-hyperframes",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-hyperframes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9780
+}
