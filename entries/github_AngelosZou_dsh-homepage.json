@@ -1,0 +1,20 @@
+{
+  "id": "github:AngelosZou/dsh-homepage",
+  "kind": "plugin",
+  "name": "dsh-homepage",
+  "description": "Gives DSH one place to browse and enter its auxiliary features. It adds an extra surface to DSH that presents different content as cards. Reviewing and installing an external plugin, checking the DSH core version and updating it in one click, and more. Any external plugin can register its own. The artwork, layout and motion can be customized.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AngelosZou/dsh-homepage",
+  "repositoryUrl": "https://github.com/AngelosZou/dsh-homepage",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9597
+}
