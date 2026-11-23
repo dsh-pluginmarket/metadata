@@ -1,0 +1,20 @@
+{
+  "id": "github:2-qing/dsh-aftermath",
+  "kind": "plugin",
+  "name": "dsh-aftermath",
+  "description": "DeepSeek Harness 插件（npm: dsh-aftermath）：记录每轮对话中观测目录的文件变更，事后可倒查改了什么、出自哪条命令。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "2-qing/dsh-aftermath",
+  "repositoryUrl": "https://github.com/2-qing/dsh-aftermath",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9486
+}
