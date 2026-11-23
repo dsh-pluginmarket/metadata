@@ -1,0 +1,20 @@
+{
+  "id": "github:lrzda/dsh-html-render",
+  "kind": "plugin",
+  "name": "dsh-html-render",
+  "description": "DeepSeek Harness 的 HTML 渲染插件：面板内交互预览 + 一键导出 PNG/JPG/PDF/SVG。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lrzda/dsh-html-render",
+  "repositoryUrl": "https://github.com/lrzda/dsh-html-render",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9837
+}
