@@ -1,0 +1,20 @@
+{
+  "id": "github:marchinlab/dsh-quiet-whale-girl",
+  "kind": "plugin",
+  "name": "dsh-quiet-whale-girl",
+  "description": "安静的鲸鱼娘 · Quiet Whale Girl — a DSH desktop pet plugin based on LivLiv Player and the Kujira community character.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "marchinlab/dsh-quiet-whale-girl",
+  "repositoryUrl": "https://github.com/marchinlab/dsh-quiet-whale-girl",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9538
+}
