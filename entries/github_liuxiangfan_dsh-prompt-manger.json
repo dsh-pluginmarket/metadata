@@ -1,0 +1,20 @@
+{
+  "id": "github:liuxiangfan/dsh-prompt-manger",
+  "kind": "plugin",
+  "name": "dsh-prompt-manger",
+  "description": "dsh提示词管理工具",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "liuxiangfan/dsh-prompt-manger",
+  "repositoryUrl": "https://github.com/liuxiangfan/dsh-prompt-manger",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9518
+}
