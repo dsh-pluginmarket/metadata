@@ -1,0 +1,20 @@
+{
+  "id": "github:sweet560/dsh-plugin-wechat-session",
+  "kind": "plugin",
+  "name": "dsh-plugin-wechat-session",
+  "description": "微信通道外设插件（v2.1.0）：不依赖 dsh-im、不接管会话生命周期，内置 iLink 扫码登录收发。支持 /new 薄创建会话并绑定、双向对话（最终回复按会话标题回传）、多会话并行审批与选择题回填、超时提醒、permissionPreset 降级与定时汇总；绑定持久化、零运行时依赖。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sweet560/dsh-plugin-wechat-session",
+  "repositoryUrl": "https://github.com/sweet560/dsh-plugin-wechat-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9679
+}
