@@ -1,0 +1,20 @@
+{
+  "id": "github:Light-EI/dsh-ebbing-context",
+  "kind": "plugin",
+  "name": "dsh-ebbing-context",
+  "description": "模拟记忆衰退的 DSH 分层上下文压缩插件：原文 → L1 → L2 → L3，越旧分辨率越低，但从不删除。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Light-EI/dsh-ebbing-context",
+  "repositoryUrl": "https://github.com/Light-EI/dsh-ebbing-context",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9392
+}
