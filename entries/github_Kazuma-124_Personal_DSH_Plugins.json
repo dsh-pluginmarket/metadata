@@ -1,0 +1,20 @@
+{
+  "id": "github:Kazuma-124/Personal_DSH_Plugins",
+  "kind": "plugin",
+  "name": "Personal_DSH_Plugins",
+  "description": "DeepSeek Harness (DSH) 插件集合：Token 用量统计与对话记事本。纯 JavaScript、只读、不调用模型。Installable DSH bundles: token usage statistics and a per-conversation notebook.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Kazuma-124/Personal_DSH_Plugins",
+  "repositoryUrl": "https://github.com/Kazuma-124/Personal_DSH_Plugins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9832
+}
