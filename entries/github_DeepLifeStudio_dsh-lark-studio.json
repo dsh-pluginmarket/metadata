@@ -1,0 +1,20 @@
+{
+  "id": "github:DeepLifeStudio/dsh-lark-studio",
+  "kind": "plugin",
+  "name": "dsh-lark-studio",
+  "description": "专为 DeepSeek Harness 生态打造的大模型原生（LLM-Native）飞书全域协同与多维表格智能工作台插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "DeepLifeStudio/dsh-lark-studio",
+  "repositoryUrl": "https://github.com/DeepLifeStudio/dsh-lark-studio",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9935
+}
