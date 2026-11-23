@@ -1,0 +1,20 @@
+{
+  "id": "github:nexu-io/openmotion",
+  "kind": "plugin",
+  "name": "openmotion",
+  "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "nexu-io/openmotion",
+  "repositoryUrl": "https://github.com/nexu-io/openmotion",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9390
+}
