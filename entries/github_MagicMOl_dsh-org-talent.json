@@ -1,0 +1,20 @@
+{
+  "id": "github:MagicMOl/dsh-org-talent",
+  "kind": "plugin",
+  "name": "dsh-org-talent",
+  "description": "以项目为出发点，集合各类优质人才组成团队配合完成目标",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MagicMOl/dsh-org-talent",
+  "repositoryUrl": "https://github.com/MagicMOl/dsh-org-talent",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9616
+}
