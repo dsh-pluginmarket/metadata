@@ -1,0 +1,20 @@
+{
+  "id": "github:FDE-fast/dsh-voice-recite",
+  "kind": "plugin",
+  "name": "dsh-voice-recite",
+  "description": "文本转语音，控制时长、音色、拖音、颤音",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FDE-fast/dsh-voice-recite",
+  "repositoryUrl": "https://github.com/FDE-fast/dsh-voice-recite",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9629
+}
