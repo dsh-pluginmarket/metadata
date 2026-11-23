@@ -1,0 +1,20 @@
+{
+  "id": "github:GameGeek-Saikel/dsh-archive-manager",
+  "kind": "plugin",
+  "name": "dsh-archive-manager",
+  "description": "Archived-session management (show/unarchive/permanently delete) for the DSH Web GUI, with zero changes to official packages.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GameGeek-Saikel/dsh-archive-manager",
+  "repositoryUrl": "https://github.com/GameGeek-Saikel/dsh-archive-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9639
+}
