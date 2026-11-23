@@ -1,0 +1,20 @@
+{
+  "id": "github:yjrqz777/dsh-stock-bbar",
+  "kind": "plugin",
+  "name": "dsh-stock-bbar",
+  "description": "在输入框下方显示一个 A 股、北交所、港股或指数代码的价格、涨跌箭头与涨跌幅，每 5 秒刷新，点击可切换代码。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yjrqz777/dsh-stock-bbar",
+  "repositoryUrl": "https://github.com/yjrqz777/dsh-stock-bbar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9815
+}
