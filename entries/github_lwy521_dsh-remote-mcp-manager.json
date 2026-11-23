@@ -1,0 +1,20 @@
+{
+  "id": "github:lwy521/dsh-remote-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-remote-mcp-manager",
+  "description": "DSH 插件：远程 MCP 服务器管理器，支持在 DSH Web GUI 设置面板中配置和管理远程 MCP Server",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lwy521/dsh-remote-mcp-manager",
+  "repositoryUrl": "https://github.com/lwy521/dsh-remote-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9487
+}
