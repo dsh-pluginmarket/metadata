@@ -1,0 +1,20 @@
+{
+  "id": "github:idoall/dsh-session-colors",
+  "kind": "plugin",
+  "name": "dsh-session-colors",
+  "description": "Related DeepSeek Harness project: idoall/dsh-session-colors",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "idoall/dsh-session-colors",
+  "repositoryUrl": "https://github.com/idoall/dsh-session-colors",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9420
+}
