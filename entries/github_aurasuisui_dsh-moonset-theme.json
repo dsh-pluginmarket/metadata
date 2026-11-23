@@ -1,0 +1,20 @@
+{
+  "id": "github:aurasuisui/dsh-moonset-theme",
+  "kind": "plugin",
+  "name": "dsh-moonset-theme",
+  "description": "Moonset（月落）浅/深双主题插件 for DeepSeek Harness — 228 个 --dsw-* token、跟随系统、首帧注入",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "aurasuisui/dsh-moonset-theme",
+  "repositoryUrl": "https://github.com/aurasuisui/dsh-moonset-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9680
+}
