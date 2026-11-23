@@ -1,0 +1,20 @@
+{
+  "id": "github:Tea-2026/dsh-minigame-list",
+  "kind": "plugin",
+  "name": "dsh-minigame-list",
+  "description": "等模型回复的几十秒别干瞪眼：Harness 右下角的九款小游戏，回复一到自动暂停。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Tea-2026/dsh-minigame-list",
+  "repositoryUrl": "https://github.com/Tea-2026/dsh-minigame-list",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9496
+}
