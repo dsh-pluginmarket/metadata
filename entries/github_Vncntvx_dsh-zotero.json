@@ -1,0 +1,20 @@
+{
+  "id": "github:Vncntvx/dsh-zotero",
+  "kind": "plugin",
+  "name": "dsh-zotero",
+  "description": "Zotero plugin for DeepSeek Harness: search and read papers in conversation, audit the literature trail, and browse the literature panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Vncntvx/dsh-zotero",
+  "repositoryUrl": "https://github.com/Vncntvx/dsh-zotero",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9630
+}
