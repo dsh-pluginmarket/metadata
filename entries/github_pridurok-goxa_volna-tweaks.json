@@ -1,0 +1,20 @@
+{
+  "id": "github:pridurok-goxa/volna-tweaks",
+  "kind": "plugin",
+  "name": "volna-tweaks",
+  "description": "Волна: твики DeepSeek Harness — мобильный UI, светофор, очередь, скачивание файлов и хост-твики",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pridurok-goxa/volna-tweaks",
+  "repositoryUrl": "https://github.com/pridurok-goxa/volna-tweaks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9807
+}
