@@ -1,0 +1,20 @@
+{
+  "id": "github:drdrdr666/dsh-task-report",
+  "kind": "plugin",
+  "name": "dsh-task-report",
+  "description": "DSH 任务档案：沉淀进度、副作用、待办与收尾总结成跨会话文件；收尾时强制检查缺项，并自动扫描残留凭据、调试端口与写死的旧默认值",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drdrdr666/dsh-task-report",
+  "repositoryUrl": "https://github.com/drdrdr666/dsh-task-report",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9447
+}
