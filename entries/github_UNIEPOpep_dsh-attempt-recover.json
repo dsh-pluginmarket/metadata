@@ -1,0 +1,20 @@
+{
+  "id": "github:UNIEPOpep/dsh-attempt-recover",
+  "kind": "plugin",
+  "name": "dsh-attempt-recover",
+  "description": "DeepSeek Harness 插件，将聊天界面中失败的assistant attempts (assistant/attempt) 呈现为可折叠的模块，并可选地重新注入对话上下文",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "UNIEPOpep/dsh-attempt-recover",
+  "repositoryUrl": "https://github.com/UNIEPOpep/dsh-attempt-recover",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9869
+}
