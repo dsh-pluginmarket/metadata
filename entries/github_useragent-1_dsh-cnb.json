@@ -1,0 +1,20 @@
+{
+  "id": "github:useragent-1/dsh-cnb",
+  "kind": "plugin",
+  "name": "dsh-cnb",
+  "description": "cnb",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "useragent-1/dsh-cnb",
+  "repositoryUrl": "https://github.com/useragent-1/dsh-cnb",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9613
+}
