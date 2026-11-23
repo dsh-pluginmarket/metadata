@@ -1,0 +1,20 @@
+{
+  "id": "github:Lin-Liszt/dsh-aemeath-theme",
+  "kind": "plugin",
+  "name": "dsh-aemeath-theme",
+  "description": "DeepSeek Harness 的 Aemeath（爱弥斯）主题：像素窗口框、全息卡片、4K 开屏、视频背景。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lin-Liszt/dsh-aemeath-theme",
+  "repositoryUrl": "https://github.com/Lin-Liszt/dsh-aemeath-theme",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9931
+}
