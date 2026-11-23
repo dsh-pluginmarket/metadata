@@ -1,0 +1,20 @@
+{
+  "id": "github:JevonsCode/fuli",
+  "kind": "plugin",
+  "name": "fuli",
+  "description": "Fuli preserves your taste, personality, and judgment across Codex, Claude Code, and other clients supporting MCP and Skills. Your agent picks up where it left off, so you can focus on ideas and decisions—and take a break. As AI learns to do more of the work, Fuli helps you make the transition.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JevonsCode/fuli",
+  "repositoryUrl": "https://github.com/JevonsCode/fuli",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9562
+}
