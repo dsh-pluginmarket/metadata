@@ -1,0 +1,20 @@
+{
+  "id": "github:kanekogaido/dsh-session-mailbox",
+  "kind": "plugin",
+  "name": "dsh-session-mailbox",
+  "description": "Cross-session messaging for DeepSeek Harness: send messages between top-level sessions with sender attribution.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kanekogaido/dsh-session-mailbox",
+  "repositoryUrl": "https://github.com/kanekogaido/dsh-session-mailbox",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9843
+}
