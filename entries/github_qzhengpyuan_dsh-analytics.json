@@ -1,0 +1,20 @@
+{
+  "id": "github:qzhengpyuan/dsh-analytics",
+  "kind": "plugin",
+  "name": "dsh-analytics",
+  "description": "dsh-analytics — AI-assisted statistics workbench plugin for DeepSeek Harness, built on a bundled GNU PSPP engine with an SPSS-style interface (data editor, syntax, output viewer, charts, agent tools).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "qzhengpyuan/dsh-analytics",
+  "repositoryUrl": "https://github.com/qzhengpyuan/dsh-analytics",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9425
+}
