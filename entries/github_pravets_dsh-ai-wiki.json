@@ -1,0 +1,20 @@
+{
+  "id": "github:pravets/dsh-ai-wiki",
+  "kind": "plugin",
+  "name": "dsh-ai-wiki",
+  "description": "Read-only BM25 gateway to an ai-wiki-template vault for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pravets/dsh-ai-wiki",
+  "repositoryUrl": "https://github.com/pravets/dsh-ai-wiki",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9757
+}
