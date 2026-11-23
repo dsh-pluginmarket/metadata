@@ -1,0 +1,20 @@
+{
+  "id": "github:moluz/sticky-board",
+  "kind": "plugin",
+  "name": "sticky-board",
+  "description": "DeepSeek Harness Web UI 插件：便签墙 + 任务板（自由便签墙与拖拽看板共用一份数据，附 14 个模型工具）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "moluz/sticky-board",
+  "repositoryUrl": "https://github.com/moluz/sticky-board",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9401
+}
