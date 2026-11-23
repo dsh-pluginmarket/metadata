@@ -1,0 +1,20 @@
+{
+  "id": "github:jasonz-ai-2026/dsh-scifi-story",
+  "kind": "plugin",
+  "name": "dsh-scifi-story",
+  "description": "a plugin for writing scifi stories.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jasonz-ai-2026/dsh-scifi-story",
+  "repositoryUrl": "https://github.com/jasonz-ai-2026/dsh-scifi-story",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9614
+}
