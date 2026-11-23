@@ -1,0 +1,20 @@
+{
+  "id": "github:xiaobin118/dsh-quiz-tutorial",
+  "kind": "plugin",
+  "name": "dsh-quiz-tutorial",
+  "description": "刷题场：把复习内容变成题集，题目旁给逐步手算解析，错题自动进错题本；支持 /skill 出题。A DeepSeek Harness practice-deck plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xiaobin118/dsh-quiz-tutorial",
+  "repositoryUrl": "https://github.com/xiaobin118/dsh-quiz-tutorial",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9438
+}
