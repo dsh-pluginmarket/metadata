@@ -1,0 +1,20 @@
+{
+  "id": "github:peterwangze/dsh-reasoning-level",
+  "kind": "plugin",
+  "name": "dsh-reasoning-level",
+  "description": "DSH (DeepSeek Harness) plugin: unified default reasoning level (thinking effort) for all models — per-model defaults with capability probing, live call statistics, one-command install via dsh plugin",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "peterwangze/dsh-reasoning-level",
+  "repositoryUrl": "https://github.com/peterwangze/dsh-reasoning-level",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9645
+}
