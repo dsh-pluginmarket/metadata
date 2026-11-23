@@ -1,0 +1,20 @@
+{
+  "id": "github:Heqianhong1114/dsh-work-cards",
+  "kind": "plugin",
+  "name": "dsh-work-cards",
+  "description": "Floating desktop cards for DeepSeek Harness — see what each session is doing, right on your desktop. Windows only.把 DSH 每个会话变成桌面置顶小卡片：现在在做什么、走到第几步、跑了多久、有没有卡住。只读本地会话日志，不联网不上传。Windows 专用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Heqianhong1114/dsh-work-cards",
+  "repositoryUrl": "https://github.com/Heqianhong1114/dsh-work-cards",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9737
+}
