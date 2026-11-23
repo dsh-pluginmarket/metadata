@@ -1,0 +1,20 @@
+{
+  "id": "github:Da0Mine/dsh-talk-map",
+  "kind": "plugin",
+  "name": "dsh-talk-map",
+  "description": "Visual conversation map plugin for DSH Desktop: workspace folders, session cards, digest push edges",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Da0Mine/dsh-talk-map",
+  "repositoryUrl": "https://github.com/Da0Mine/dsh-talk-map",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9654
+}
