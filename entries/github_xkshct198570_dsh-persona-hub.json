@@ -1,0 +1,20 @@
+{
+  "id": "github:xkshct198570/dsh-persona-hub",
+  "kind": "plugin",
+  "name": "dsh-persona-hub",
+  "description": "Persona routing hub for DeepSeek Harness: one asset set for web and bot subjects",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xkshct198570/dsh-persona-hub",
+  "repositoryUrl": "https://github.com/xkshct198570/dsh-persona-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9762
+}
