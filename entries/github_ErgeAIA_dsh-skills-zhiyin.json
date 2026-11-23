@@ -1,0 +1,20 @@
+{
+  "id": "github:ErgeAIA/dsh-skills-zhiyin",
+  "kind": "plugin",
+  "name": "dsh-skills-zhiyin",
+  "description": "织音：把散落的技能织成一支谱——装技能、编技能包、按需启停，让模型只奏你想要的声部。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ErgeAIA/dsh-skills-zhiyin",
+  "repositoryUrl": "https://github.com/ErgeAIA/dsh-skills-zhiyin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9696
+}
