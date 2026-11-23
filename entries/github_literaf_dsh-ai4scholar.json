@@ -1,0 +1,20 @@
+{
+  "id": "github:literaf/dsh-ai4scholar",
+  "kind": "plugin",
+  "name": "dsh-ai4scholar",
+  "description": "AI4Scholar for DeepSeek Harness (dsh): 38 native academic tools — Semantic Scholar, PubMed, Google Scholar, arXiv, bioRxiv/medRxiv, DOI, full text, auto-cite, figures, unified search. Powered by ai4scholar.net",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "literaf/dsh-ai4scholar",
+  "repositoryUrl": "https://github.com/literaf/dsh-ai4scholar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9854
+}
