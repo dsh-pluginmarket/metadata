@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-docker",
+  "kind": "plugin",
+  "name": "dsh-docker",
+  "description": "DeepSeek Harness Docker 管理插件：容器与镜像巡检、日志排障、受控执行与宿主审批确认。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-docker",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-docker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9776
+}
