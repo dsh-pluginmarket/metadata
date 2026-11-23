@@ -1,0 +1,20 @@
+{
+  "id": "github:lishize20040802-rgb/dsh-deep-ptc-mode",
+  "kind": "plugin",
+  "name": "dsh-deep-ptc-mode",
+  "description": "Deep PTC for DeepSeek Harness: interruptible jobs, selectable shells, interactive conversation cards with a precise model view, a task brief that files your goals and constraints, versioned project cards, a sortable side panel, and on-demand tools and skills.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "lishize20040802-rgb/dsh-deep-ptc-mode",
+  "repositoryUrl": "https://github.com/lishize20040802-rgb/dsh-deep-ptc-mode",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9637
+}
