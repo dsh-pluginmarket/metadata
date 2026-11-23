@@ -1,0 +1,20 @@
+{
+  "id": "github:FanetheDivine/dsh-plugin-lark-bridge",
+  "kind": "plugin",
+  "name": "dsh-plugin-lark-bridge",
+  "description": "借助 lark-cli，让 Agent 和你通信",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "FanetheDivine/dsh-plugin-lark-bridge",
+  "repositoryUrl": "https://github.com/FanetheDivine/dsh-plugin-lark-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9410
+}
