@@ -1,0 +1,20 @@
+{
+  "id": "github:Aliboder/dsh-music-panel",
+  "kind": "plugin",
+  "name": "dsh-music-panel",
+  "description": "Local music panel for DeepSeek Harness: scan a folder, browse tracks with covers and tags, and play in a sidebar player with playlists and synced lyrics.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Aliboder/dsh-music-panel",
+  "repositoryUrl": "https://github.com/Aliboder/dsh-music-panel",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9452
+}
