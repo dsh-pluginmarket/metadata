@@ -1,0 +1,20 @@
+{
+  "id": "github:TheSeeker1993/dsh-chatgpt-multi-account",
+  "kind": "plugin",
+  "name": "dsh-chatgpt-multi-account",
+  "description": "Independent development copy of the ChatGPT Multi-account plugin for DeepSeek Harness (upstream: GitFlic).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TheSeeker1993/dsh-chatgpt-multi-account",
+  "repositoryUrl": "https://github.com/TheSeeker1993/dsh-chatgpt-multi-account",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9764
+}
