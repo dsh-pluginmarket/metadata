@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-sql",
+  "kind": "plugin",
+  "name": "dsh-sql",
+  "description": "DeepSeek Harness 安全数据库插件：SQLite / MySQL / PostgreSQL 多连接管理、20 表并发结构探查、引擎级只读保护、敏感列脱敏（redactColumns）、Markdown/CSV 导出与高危 SQL 参数审批门。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-sql",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-sql",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9771
+}
