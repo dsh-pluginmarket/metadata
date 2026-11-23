@@ -1,0 +1,20 @@
+{
+  "id": "github:xkshct198570/dsh-whale-memory",
+  "kind": "plugin",
+  "name": "dsh-whale-memory",
+  "description": "Whale Memory: local long-term memory and rule source for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "xkshct198570/dsh-whale-memory",
+  "repositoryUrl": "https://github.com/xkshct198570/dsh-whale-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9605
+}
