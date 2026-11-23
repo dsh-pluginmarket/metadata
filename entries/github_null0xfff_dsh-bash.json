@@ -1,0 +1,20 @@
+{
+  "id": "github:null0xfff/dsh-bash",
+  "kind": "plugin",
+  "name": "dsh-bash",
+  "description": "DSH plugin extracted from dsh-ops: publishes ops_bash over a resolved bash with the host sandbox, spill and job semantics.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "null0xfff/dsh-bash",
+  "repositoryUrl": "https://github.com/null0xfff/dsh-bash",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9493
+}
