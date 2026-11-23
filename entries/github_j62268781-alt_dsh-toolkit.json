@@ -1,0 +1,20 @@
+{
+  "id": "github:j62268781-alt/dsh-toolkit",
+  "kind": "plugin",
+  "name": "dsh-toolkit",
+  "description": "为 DSH（DeepSeek Harness）打造的工具箱聚合包：启动动画与主题、会话归档、结构化决策、移动设备投屏、Skills/MCP 管理、会话通知、桌面宠物与灵动岛、远程连接、Git 约定，共十一个模块，可在插件管理中分别启停。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "j62268781-alt/dsh-toolkit",
+  "repositoryUrl": "https://github.com/j62268781-alt/dsh-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9863
+}
