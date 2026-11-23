@@ -1,0 +1,20 @@
+{
+  "id": "github:Amer-CN/zcode-usage-stats",
+  "kind": "plugin",
+  "name": "zcode-usage-stats",
+  "description": "非官方 DSH 插件：在 DeepSeek Harness 设置页渲染全量会话的 Token 用量统计——日历点阵热力图、多模型趋势折线、刻度环仪表盘，支持深浅主题与自定义时间范围。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Amer-CN/zcode-usage-stats",
+  "repositoryUrl": "https://github.com/Amer-CN/zcode-usage-stats",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9422
+}
