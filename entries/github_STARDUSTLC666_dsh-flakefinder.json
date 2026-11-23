@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-flakefinder",
+  "kind": "plugin",
+  "name": "dsh-flakefinder",
+  "description": "DeepSeek Harness 偶发测试诊断插件：支持 Vitest / Jest / pytest / node:test 多轮复跑、早停与并发控制、脱敏报错聚类、6 类根因画像与 95% 置信度、工作区隔离历史及审批制隔离清单。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-flakefinder",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-flakefinder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9778
+}
