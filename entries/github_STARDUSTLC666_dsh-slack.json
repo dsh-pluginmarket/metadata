@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-slack",
+  "kind": "plugin",
+  "name": "dsh-slack",
+  "description": "DeepSeek Harness Slack 集成插件：频道通知、线程回复、Socket Mode 收件箱与受控重连。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-slack",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-slack",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9767
+}
