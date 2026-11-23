@@ -1,0 +1,20 @@
+{
+  "id": "github:susirsusir/dsh-follow-up-prompts",
+  "kind": "plugin",
+  "name": "dsh-follow-up-prompts",
+  "description": "DeepSeek Harness plugin: suggests follow-up prompts above the composer after every completed turn.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "susirsusir/dsh-follow-up-prompts",
+  "repositoryUrl": "https://github.com/susirsusir/dsh-follow-up-prompts",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9428
+}
