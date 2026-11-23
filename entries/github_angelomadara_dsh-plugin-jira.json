@@ -1,0 +1,20 @@
+{
+  "id": "github:angelomadara/dsh-plugin-jira",
+  "kind": "plugin",
+  "name": "dsh-plugin-jira",
+  "description": "Jira ticket intake for DeepSeek Harness: Settings page for the site and API token, /jira-do ticket-to-branch hand-off, /jira-comment, and the jira_ticket and jira_comment tools.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "angelomadara/dsh-plugin-jira",
+  "repositoryUrl": "https://github.com/angelomadara/dsh-plugin-jira",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9456
+}
