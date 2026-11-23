@@ -1,0 +1,20 @@
+{
+  "id": "github:KAN-H/reelens",
+  "kind": "plugin",
+  "name": "reelens",
+  "description": "Video & audio breakdown for DeepSeek Harness: shots, frames, transcript, on-screen text, rhythm, audio — every field labelled by how it was measured. Ships a dependency-free Python core (CLI `reelens`) and a DSH plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KAN-H/reelens",
+  "repositoryUrl": "https://github.com/KAN-H/reelens",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9601
+}
