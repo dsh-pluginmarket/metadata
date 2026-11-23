@@ -1,0 +1,20 @@
+{
+  "id": "github:SAXEM1997/dsh-boost",
+  "kind": "plugin",
+  "name": "dsh-boost",
+  "description": "DeepSeek Harness plugin that cuts token usage by projecting tool receipts (truncate + locator + spill) and substituting repeated read-only results deterministically, with a shadow-mode admission ledger and a same-origin settings page for status, scope and rollback",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "SAXEM1997/dsh-boost",
+  "repositoryUrl": "https://github.com/SAXEM1997/dsh-boost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9585
+}
