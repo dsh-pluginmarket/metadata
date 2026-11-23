@@ -1,0 +1,20 @@
+{
+  "id": "github:pearjelly/dsh-heros",
+  "kind": "plugin",
+  "name": "dsh-heros",
+  "description": "DSH-Heros · 深度荣耀 — pick Agent Presets as heroes, equip real tools and plugins, and level up through work.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "pearjelly/dsh-heros",
+  "repositoryUrl": "https://github.com/pearjelly/dsh-heros",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9463
+}
