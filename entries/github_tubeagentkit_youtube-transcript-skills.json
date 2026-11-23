@@ -1,0 +1,20 @@
+{
+  "id": "github:tubeagentkit/youtube-transcript-skills",
+  "kind": "plugin",
+  "name": "youtube-transcript-skills",
+  "description": "YouTube transcript Agent Skill for Claude Code, Cursor, Codex and OpenClaw: fetch YouTube video transcripts, search videos, browse channels and playlists.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "tubeagentkit/youtube-transcript-skills",
+  "repositoryUrl": "https://github.com/tubeagentkit/youtube-transcript-skills",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9928
+}
