@@ -1,0 +1,20 @@
+{
+  "id": "github:yyy2556/dsh-familiar",
+  "kind": "plugin",
+  "name": "dsh-familiar",
+  "description": "Cross-session long-term memory for DeepSeek Harness: a capped always-on profile plus silent recall over facts and real session history.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yyy2556/dsh-familiar",
+  "repositoryUrl": "https://github.com/yyy2556/dsh-familiar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9575
+}
