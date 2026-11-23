@@ -1,0 +1,20 @@
+{
+  "id": "github:poco-ai/Agentero",
+  "kind": "plugin",
+  "name": "Agentero",
+  "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "poco-ai/Agentero",
+  "repositoryUrl": "https://github.com/poco-ai/Agentero",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9619
+}
