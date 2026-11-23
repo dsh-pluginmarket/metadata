@@ -1,0 +1,20 @@
+{
+  "id": "github:yankeguo/dsh-devlead",
+  "kind": "plugin",
+  "name": "dsh-devlead",
+  "description": "DevLead mode for DeepSeek Harness: turn one session into a lead that creates and steers ordinary Workspaces and Sessions, watches their state, and wakes the lead on change.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yankeguo/dsh-devlead",
+  "repositoryUrl": "https://github.com/yankeguo/dsh-devlead",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9688
+}
