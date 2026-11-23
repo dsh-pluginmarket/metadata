@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-ppt",
+  "kind": "plugin",
+  "name": "dsh-ppt",
+  "description": "DeepSeek Harness 大师级演示文稿引擎与 16:9 实体胶片灯箱工作台：三模路由（直出/8域权威深研/Mode C 本地融合+外源对标）、品牌宪章锁（SLOP-13/14）、41 种原生图谱、24 主题 / 20 范本、逆向导出 Excel/Word/QA 预案/无损双语、金页拼装、离线 R 键审阅与 13 套风格 / 8 套字体，输出离线 HTML + 100% 可编辑 PPTX。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-ppt",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-ppt",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9799
+}
