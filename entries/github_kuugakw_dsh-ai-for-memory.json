@@ -1,0 +1,20 @@
+{
+  "id": "github:kuugakw/dsh-ai-for-memory",
+  "kind": "plugin",
+  "name": "dsh-ai-for-memory",
+  "description": "Layered project memory for DeepSeek Harness: process log, archive, snapshots, context cleanup/restore, knowledge search, risk-reviewed decisions, and an optional Web panel with SQL/RAG.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "kuugakw/dsh-ai-for-memory",
+  "repositoryUrl": "https://github.com/kuugakw/dsh-ai-for-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9394
+}
