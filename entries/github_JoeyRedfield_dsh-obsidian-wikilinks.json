@@ -1,0 +1,20 @@
+{
+  "id": "github:JoeyRedfield/dsh-obsidian-wikilinks",
+  "kind": "plugin",
+  "name": "dsh-obsidian-wikilinks",
+  "description": "Clickable [[wiki links]] in DeepSeek Harness chat transcripts: open the matching note in the right sidebar, or in your default app with Cmd-click.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JoeyRedfield/dsh-obsidian-wikilinks",
+  "repositoryUrl": "https://github.com/JoeyRedfield/dsh-obsidian-wikilinks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9561
+}
