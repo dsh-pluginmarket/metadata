@@ -1,0 +1,20 @@
+{
+  "id": "github:StarWind97/dsh-fatfish-notes",
+  "kind": "plugin",
+  "name": "dsh-fatfish-notes",
+  "description": "肥鱼笔记 / Fatfish Notes：私人笔记管理，保存 DSH 会话、编辑 Markdown、导出图文，通过自己的 GitHub 私有仓库同步。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "StarWind97/dsh-fatfish-notes",
+  "repositoryUrl": "https://github.com/StarWind97/dsh-fatfish-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9936
+}
