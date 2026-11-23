@@ -1,0 +1,20 @@
+{
+  "id": "github:Lijiajin95/ForgeLoop",
+  "kind": "plugin",
+  "name": "ForgeLoop",
+  "description": "A DeepSeek Harness plugin for multi-agent software development and operations, with traceable delivery and human decisions for exceptions.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Lijiajin95/ForgeLoop",
+  "repositoryUrl": "https://github.com/Lijiajin95/ForgeLoop",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9824
+}
