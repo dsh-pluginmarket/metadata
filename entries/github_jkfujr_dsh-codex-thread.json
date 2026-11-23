@@ -1,0 +1,20 @@
+{
+  "id": "github:jkfujr/dsh-codex-thread",
+  "kind": "plugin",
+  "name": "dsh-codex-thread",
+  "description": "DeepSeek Harness plugin: read and continue existing Codex sessions (list / read / new / send / wait / cancel)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jkfujr/dsh-codex-thread",
+  "repositoryUrl": "https://github.com/jkfujr/dsh-codex-thread",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9604
+}
