@@ -1,0 +1,20 @@
+{
+  "id": "github:advance-lion/dsh-feishu-subscription",
+  "kind": "plugin",
+  "name": "dsh-feishu-subscription",
+  "description": "Windows DSH plugin for Feishu Doubao Work enterprise models, account management and usage history",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "advance-lion/dsh-feishu-subscription",
+  "repositoryUrl": "https://github.com/advance-lion/dsh-feishu-subscription",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9887
+}
