@@ -1,0 +1,20 @@
+{
+  "id": "github:wet86y/voice-terminal",
+  "kind": "plugin",
+  "name": "voice-terminal",
+  "description": "Windows 上的个人语音 Agent：低延迟语音交互、易配置、低占用。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "wet86y/voice-terminal",
+  "repositoryUrl": "https://github.com/wet86y/voice-terminal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9408
+}
