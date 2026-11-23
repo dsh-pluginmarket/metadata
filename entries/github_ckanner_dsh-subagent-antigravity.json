@@ -1,0 +1,20 @@
+{
+  "id": "github:ckanner/dsh-subagent-antigravity",
+  "kind": "plugin",
+  "name": "dsh-subagent-antigravity",
+  "description": "DeepSeek Harness plugin: Antigravity Gemini tasks through the official agy CLI, with subscription checks and durable lifecycle receipts",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ckanner/dsh-subagent-antigravity",
+  "repositoryUrl": "https://github.com/ckanner/dsh-subagent-antigravity",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9531
+}
