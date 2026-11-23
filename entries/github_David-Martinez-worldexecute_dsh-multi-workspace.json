@@ -1,0 +1,20 @@
+{
+  "id": "github:David-Martinez-worldexecute/dsh-multi-workspace",
+  "kind": "plugin",
+  "name": "dsh-multi-workspace",
+  "description": "DSH plugin: declarative writable-root fence for the agent — per-capability roots, audit log, in-chat panel (DeepSeek Harness / Cordis)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "David-Martinez-worldexecute/dsh-multi-workspace",
+  "repositoryUrl": "https://github.com/David-Martinez-worldexecute/dsh-multi-workspace",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9588
+}
