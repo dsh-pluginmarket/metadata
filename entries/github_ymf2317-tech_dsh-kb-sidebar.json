@@ -1,0 +1,20 @@
+{
+  "id": "github:ymf2317-tech/dsh-kb-sidebar",
+  "kind": "plugin",
+  "name": "dsh-kb-sidebar",
+  "description": "DSH Web 右栏「知识库」速查面板（依赖上游插件 dsh-knowledge-base-local 提供 /kb-api）：混合检索、命中高亮定位、文档目录跳转、专注阅读与断点续读",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ymf2317-tech/dsh-kb-sidebar",
+  "repositoryUrl": "https://github.com/ymf2317-tech/dsh-kb-sidebar",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9380
+}
