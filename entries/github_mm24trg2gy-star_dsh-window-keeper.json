@@ -1,0 +1,20 @@
+{
+  "id": "github:mm24trg2gy-star/dsh-window-keeper",
+  "kind": "plugin",
+  "name": "dsh-window-keeper",
+  "description": "记住 DeepSeek Harness 桌面窗口的位置/大小/最大化状态；脚本本体不依赖客户端版本。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "mm24trg2gy-star/dsh-window-keeper",
+  "repositoryUrl": "https://github.com/mm24trg2gy-star/dsh-window-keeper",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9553
+}
