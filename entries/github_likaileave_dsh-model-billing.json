@@ -1,0 +1,20 @@
+{
+  "id": "github:likaileave/dsh-model-billing",
+  "kind": "plugin",
+  "name": "dsh-model-billing",
+  "description": "Reorder models in the DSH composer picker, store three per-million-token prices, and estimate per-turn/session cost with built-in DeepSeek peak/off-peak rates.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "likaileave/dsh-model-billing",
+  "repositoryUrl": "https://github.com/likaileave/dsh-model-billing",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9938
+}
