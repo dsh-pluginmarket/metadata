@@ -1,0 +1,20 @@
+{
+  "id": "github:null0xfff/dsh-mcp-manager",
+  "kind": "plugin",
+  "name": "dsh-mcp-manager",
+  "description": "Field-based MCP server management plugin for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "null0xfff/dsh-mcp-manager",
+  "repositoryUrl": "https://github.com/null0xfff/dsh-mcp-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9379
+}
