@@ -1,0 +1,20 @@
+{
+  "id": "github:JUST-MX/claude-dsh-bridge",
+  "kind": "plugin",
+  "name": "claude-dsh-bridge",
+  "description": "Claude Code sessions panel for DeepSeek Harness.  这是一个 DSH 插件，借用DSH客户端管理Claude Code，如果你的CC用的是大肥鱼 ，让她回家不是应该的吗？",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "JUST-MX/claude-dsh-bridge",
+  "repositoryUrl": "https://github.com/JUST-MX/claude-dsh-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9910
+}
