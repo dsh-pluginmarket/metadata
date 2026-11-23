@@ -1,0 +1,20 @@
+{
+  "id": "github:TinTongogo/dsh-team-ops",
+  "kind": "plugin",
+  "name": "dsh-team-ops",
+  "description": "一人公司团队插件：给 DeepSeek Harness 装一支可叫、可查、可收口的具名角色团队",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TinTongogo/dsh-team-ops",
+  "repositoryUrl": "https://github.com/TinTongogo/dsh-team-ops",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9386
+}
