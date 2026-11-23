@@ -1,0 +1,20 @@
+{
+  "id": "github:brody715/dsh-skincare",
+  "kind": "plugin",
+  "name": "dsh-skincare",
+  "description": "DSH 护肤插件 @brody715/dsh-skincare：有出处的护肤知识库 + 分诊助手，知识底座为 AAD 公众科普",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "brody715/dsh-skincare",
+  "repositoryUrl": "https://github.com/brody715/dsh-skincare",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9430
+}
