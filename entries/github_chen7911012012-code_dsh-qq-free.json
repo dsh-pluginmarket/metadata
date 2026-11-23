@@ -1,0 +1,20 @@
+{
+  "id": "github:chen7911012012-code/dsh-qq-free",
+  "kind": "plugin",
+  "name": "dsh-qq-free",
+  "description": "QQ 官方机器人自由发言台：主动消息、DeepSeek 对话、违禁词、群管理、远程控制台 | 作者：都有文明每天，联系方式3645411938@qq.com",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chen7911012012-code/dsh-qq-free",
+  "repositoryUrl": "https://github.com/chen7911012012-code/dsh-qq-free",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9497
+}
