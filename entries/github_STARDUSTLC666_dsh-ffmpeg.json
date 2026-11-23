@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-ffmpeg",
+  "kind": "plugin",
+  "name": "dsh-ffmpeg",
+  "description": "DeepSeek Harness 音视频处理插件：本机 FFmpeg 探测、剪辑转码、字幕烧录、抽帧与 GIF 导出。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-ffmpeg",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-ffmpeg",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9779
+}
