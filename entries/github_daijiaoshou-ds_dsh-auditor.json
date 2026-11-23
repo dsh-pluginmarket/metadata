@@ -1,0 +1,20 @@
+{
+  "id": "github:daijiaoshou-ds/dsh-auditor",
+  "kind": "plugin",
+  "name": "dsh-auditor",
+  "description": "DSH 审计工作台插件：序时账清洗 / 现金流量表编写 / 对方科目分析 / 会计分录测试。A DSH plugin for Chinese accounting: journal cleaning, cash-flow statements, contra-account analysis and entry testing.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daijiaoshou-ds/dsh-auditor",
+  "repositoryUrl": "https://github.com/daijiaoshou-ds/dsh-auditor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9437
+}
