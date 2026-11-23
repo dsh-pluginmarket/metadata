@@ -1,0 +1,20 @@
+{
+  "id": "github:Thomas-zz/dsh-workbench",
+  "kind": "plugin",
+  "name": "dsh-workbench",
+  "description": "DeepSeek Harness 个人工作台插件：以 todo 为核心，DSH 与 ZCode 会话任务汇入同一看板，老板视图 / 待验收 / 每日晨报 / 灵感收件箱",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Thomas-zz/dsh-workbench",
+  "repositoryUrl": "https://github.com/Thomas-zz/dsh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9564
+}
