@@ -1,0 +1,20 @@
+{
+  "id": "github:yib0601/dsh-turn-cost",
+  "kind": "plugin",
+  "name": "dsh-turn-cost",
+  "description": "DSH 插件：逐轮/会话费用（官方单价 CNY/USD + 峰谷分时）+ 上下文洞察面板（仪表盘 / 上下文页签 / /context 命令）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yib0601/dsh-turn-cost",
+  "repositoryUrl": "https://github.com/yib0601/dsh-turn-cost",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9941
+}
