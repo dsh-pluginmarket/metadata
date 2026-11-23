@@ -1,0 +1,20 @@
+{
+  "id": "github:scottzhb-hue/dsh-ai-translation",
+  "kind": "plugin",
+  "name": "dsh-ai-translation",
+  "description": "AI-aided translation, inside DeepSeek Harness. Based on dsh-cait by JoviLecca.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "scottzhb-hue/dsh-ai-translation",
+  "repositoryUrl": "https://github.com/scottzhb-hue/dsh-ai-translation",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9521
+}
