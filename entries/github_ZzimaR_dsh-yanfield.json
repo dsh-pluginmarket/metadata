@@ -1,0 +1,20 @@
+{
+  "id": "github:ZzimaR/dsh-yanfield",
+  "kind": "plugin",
+  "name": "dsh-yanfield",
+  "description": "A long-form fiction writing desk for DeepSeek Harness: drafts, outlines, research, and reviewable AI revisions. 砚田，在 DSH 里写长篇小说。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ZzimaR/dsh-yanfield",
+  "repositoryUrl": "https://github.com/ZzimaR/dsh-yanfield",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9474
+}
