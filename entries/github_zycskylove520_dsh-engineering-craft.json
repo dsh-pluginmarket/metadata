@@ -1,0 +1,20 @@
+{
+  "id": "github:zycskylove520/dsh-engineering-craft",
+  "kind": "plugin",
+  "name": "dsh-engineering-craft",
+  "description": "DeepSeek Harness plugin suite: stage gates, handoff artifacts, project memory and a strict six-role subagent pipeline. Built on DSH built-in plugins only.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zycskylove520/dsh-engineering-craft",
+  "repositoryUrl": "https://github.com/zycskylove520/dsh-engineering-craft",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9704
+}
