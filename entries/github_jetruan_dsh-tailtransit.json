@@ -1,0 +1,20 @@
+{
+  "id": "github:jetruan/dsh-tailtransit",
+  "kind": "plugin",
+  "name": "dsh-tailtransit",
+  "description": "Route only Harness traffic through a Tailscale exit node; the rest of the machine keeps its own routes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jetruan/dsh-tailtransit",
+  "repositoryUrl": "https://github.com/jetruan/dsh-tailtransit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9713
+}
