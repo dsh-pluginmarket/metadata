@@ -1,0 +1,20 @@
+{
+  "id": "github:Genesis-ly/dsh-feishu-ping",
+  "kind": "plugin",
+  "name": "dsh-feishu-ping",
+  "description": "Sends DSH approval, turn-complete and error notifications to a Feishu/Lark bot webhook. Notify-only; credentials stay in a local secret file.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Genesis-ly/dsh-feishu-ping",
+  "repositoryUrl": "https://github.com/Genesis-ly/dsh-feishu-ping",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9374
+}
