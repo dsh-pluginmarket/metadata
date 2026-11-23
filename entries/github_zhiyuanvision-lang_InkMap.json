@@ -1,0 +1,20 @@
+{
+  "id": "github:zhiyuanvision-lang/InkMap",
+  "kind": "plugin",
+  "name": "InkMap",
+  "description": "Editable Markmap alternative: Two-way Markdown Mind Map & Mermaid Flowchart Editor for VS Code, Cursor, Claude Desktop, Codex & MCP Apps (npx -y inkmap-mcp)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhiyuanvision-lang/InkMap",
+  "repositoryUrl": "https://github.com/zhiyuanvision-lang/InkMap",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9649
+}
