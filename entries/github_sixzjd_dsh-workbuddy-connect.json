@@ -1,0 +1,20 @@
+{
+  "id": "github:sixzjd/dsh-workbuddy-connect",
+  "kind": "plugin",
+  "name": "dsh-workbuddy-connect",
+  "description": "将 WorkBuddy（国际版 / 国内版）模型接入 DeepSeek Harness — WorkBuddy models in DSH",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sixzjd/dsh-workbuddy-connect",
+  "repositoryUrl": "https://github.com/sixzjd/dsh-workbuddy-connect",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9559
+}
