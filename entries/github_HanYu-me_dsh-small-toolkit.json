@@ -1,0 +1,20 @@
+{
+  "id": "github:HanYu-me/dsh-small-toolkit",
+  "kind": "plugin",
+  "name": "dsh-small-toolkit",
+  "description": "Small DeepSeek Harness features: keep the Mac awake while dsh runs, and a macOS notification when a conversation finishes its task (click it to bring dsh forward).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HanYu-me/dsh-small-toolkit",
+  "repositoryUrl": "https://github.com/HanYu-me/dsh-small-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9391
+}
