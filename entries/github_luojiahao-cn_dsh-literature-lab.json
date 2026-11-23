@@ -1,0 +1,20 @@
+{
+  "id": "github:luojiahao-cn/dsh-literature-lab",
+  "kind": "plugin",
+  "name": "dsh-literature-lab",
+  "description": "DeepSeek Harness 的文献工作台：每天自动采集新论文，摘要判读 → 分诊 → 精读逐层筛选，取回原文并生成研究卡片入库 Zotero",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "luojiahao-cn/dsh-literature-lab",
+  "repositoryUrl": "https://github.com/luojiahao-cn/dsh-literature-lab",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9897
+}
