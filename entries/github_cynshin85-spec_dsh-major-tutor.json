@@ -1,0 +1,20 @@
+{
+  "id": "github:cynshin85-spec/dsh-major-tutor",
+  "kind": "plugin",
+  "name": "dsh-major-tutor",
+  "description": "MajorTutor — diagnosis-first learning runtime for DeepSeek Harness, covering engineering & science major courses (circuits, signals, mechanics, materials, chemical, civil, biomedical).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cynshin85-spec/dsh-major-tutor",
+  "repositoryUrl": "https://github.com/cynshin85-spec/dsh-major-tutor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9578
+}
