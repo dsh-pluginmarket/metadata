@@ -1,0 +1,20 @@
+{
+  "id": "github:gougou1993/dsh-redis-client",
+  "kind": "plugin",
+  "name": "dsh-redis-client",
+  "description": "dsh Redis客户端插件；dsh-redis-client",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gougou1993/dsh-redis-client",
+  "repositoryUrl": "https://github.com/gougou1993/dsh-redis-client",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9513
+}
