@@ -1,0 +1,20 @@
+{
+  "id": "github:MorseWayne/dsh-team-router",
+  "kind": "plugin",
+  "name": "dsh-team-router",
+  "description": "Rule-based model routing for native DeepSeek Harness Agent Teams",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "MorseWayne/dsh-team-router",
+  "repositoryUrl": "https://github.com/MorseWayne/dsh-team-router",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9908
+}
