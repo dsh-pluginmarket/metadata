@@ -1,0 +1,20 @@
+{
+  "id": "github:geml-spec/gemworks",
+  "kind": "plugin",
+  "name": "gemworks",
+  "description": "GEML workflows for coding agents: a Claude Code plugin (a band above the prompt, a board), DeepSeek Harness and Pi adapters, an MCP server and a CLI.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "geml-spec/gemworks",
+  "repositoryUrl": "https://github.com/geml-spec/gemworks",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9376
+}
