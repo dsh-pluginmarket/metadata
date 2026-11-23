@@ -1,0 +1,20 @@
+{
+  "id": "github:AFAP/dsh-message-minimap",
+  "kind": "plugin",
+  "name": "dsh-message-minimap",
+  "description": "用户消息导航条 · Message Minimap — DeepSeek Harness Web GUI 插件：聊天窗左侧 minimap 刻度定位每一条用户消息，悬停预览、点击跳转、拖动扫读",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "AFAP/dsh-message-minimap",
+  "repositoryUrl": "https://github.com/AFAP/dsh-message-minimap",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9872
+}
