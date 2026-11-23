@@ -1,0 +1,20 @@
+{
+  "id": "github:panqing0313/dsh-plugin-weixin",
+  "kind": "plugin",
+  "name": "dsh-plugin-weixin",
+  "description": "微信（iLink）通道插件：在微信里给 DSH Agent 发消息，在本机跑会话并把回复发回微信。Text, images, files and voice notes.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "panqing0313/dsh-plugin-weixin",
+  "repositoryUrl": "https://github.com/panqing0313/dsh-plugin-weixin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9707
+}
