@@ -1,0 +1,20 @@
+{
+  "id": "github:HimLeoing/dsh-progress",
+  "kind": "plugin",
+  "name": "dsh-progress",
+  "description": "Task progress for DeepSeek Harness. Local execution evidence, teammate progress, and optional AI observations.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "HimLeoing/dsh-progress",
+  "repositoryUrl": "https://github.com/HimLeoing/dsh-progress",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9723
+}
