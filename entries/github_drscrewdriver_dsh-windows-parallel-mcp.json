@@ -1,0 +1,20 @@
+{
+  "id": "github:drscrewdriver/dsh-windows-parallel-mcp",
+  "kind": "plugin",
+  "name": "dsh-windows-parallel-mcp",
+  "description": "Drive your own Windows windows without moving the cursor: one tool, five actions, and a per-call verdict that says who reported the success. DSH plugin.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drscrewdriver/dsh-windows-parallel-mcp",
+  "repositoryUrl": "https://github.com/drscrewdriver/dsh-windows-parallel-mcp",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9725
+}
