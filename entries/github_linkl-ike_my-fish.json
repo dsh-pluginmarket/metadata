@@ -1,0 +1,20 @@
+{
+  "id": "github:linkl-ike/my-fish",
+  "kind": "plugin",
+  "name": "my-fish",
+  "description": "A DeepSeek Harness plugin that runs a virtual fish companion: persona, per-person long-term memory, QQ/Bilibili/Douyin chat, voice, diary and backups — plus a 17-tab control panel.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "linkl-ike/my-fish",
+  "repositoryUrl": "https://github.com/linkl-ike/my-fish",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9722
+}
