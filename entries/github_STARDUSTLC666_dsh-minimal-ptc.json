@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-minimal-ptc",
+  "kind": "plugin",
+  "name": "dsh-minimal-ptc",
+  "description": "DeepSeek Harness 极简 PTC 预设插件：Python / TypeScript 工具编排、Windows Git Bash 适配与宿主约束保留。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-minimal-ptc",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-minimal-ptc",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9773
+}
