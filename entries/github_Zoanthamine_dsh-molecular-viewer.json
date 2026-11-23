@@ -1,0 +1,20 @@
+{
+  "id": "github:Zoanthamine/dsh-molecular-viewer",
+  "kind": "plugin",
+  "name": "dsh-molecular-viewer",
+  "description": "Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Zoanthamine/dsh-molecular-viewer",
+  "repositoryUrl": "https://github.com/Zoanthamine/dsh-molecular-viewer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9840
+}
