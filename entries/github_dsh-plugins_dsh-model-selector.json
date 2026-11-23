@@ -1,0 +1,20 @@
+{
+  "id": "github:dsh-plugins/dsh-model-selector",
+  "kind": "plugin",
+  "name": "dsh-model-selector",
+  "description": "Four model picker layouts for DeepSeek Harness",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "dsh-plugins/dsh-model-selector",
+  "repositoryUrl": "https://github.com/dsh-plugins/dsh-model-selector",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9745
+}
