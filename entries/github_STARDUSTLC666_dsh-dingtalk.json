@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-dingtalk",
+  "kind": "plugin",
+  "name": "dsh-dingtalk",
+  "description": "DeepSeek Harness 钉钉群通知插件：发送文本与 Markdown 消息，支持加签校验、凭证脱敏与配置自检。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-dingtalk",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-dingtalk",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9769
+}
