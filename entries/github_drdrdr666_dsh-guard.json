@@ -1,0 +1,20 @@
+{
+  "id": "github:drdrdr666/dsh-guard",
+  "kind": "plugin",
+  "name": "dsh-guard",
+  "description": "DSH 操作守卫：在工具执行前拦下模拟键鼠、改系统配置、不可逆删除、凭据明文外发四类操作，命中即弹确认由你决定放行",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "drdrdr666/dsh-guard",
+  "repositoryUrl": "https://github.com/drdrdr666/dsh-guard",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9539
+}
