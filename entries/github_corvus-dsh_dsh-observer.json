@@ -1,0 +1,20 @@
+{
+  "id": "github:corvus-dsh/dsh-observer",
+  "kind": "plugin",
+  "name": "dsh-observer",
+  "description": "Related DeepSeek Harness project: corvus-dsh/dsh-observer",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "corvus-dsh/dsh-observer",
+  "repositoryUrl": "https://github.com/corvus-dsh/dsh-observer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9690
+}
