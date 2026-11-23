@@ -1,0 +1,20 @@
+{
+  "id": "github:NekogamiJam/dsh-context-monitor",
+  "kind": "plugin",
+  "name": "dsh-context-monitor",
+  "description": "Read-only DSH context, usage and native compaction telemetry with optional billion-context-dsh integration",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NekogamiJam/dsh-context-monitor",
+  "repositoryUrl": "https://github.com/NekogamiJam/dsh-context-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9419
+}
