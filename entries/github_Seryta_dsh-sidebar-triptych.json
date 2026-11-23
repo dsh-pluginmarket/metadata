@@ -1,0 +1,20 @@
+{
+  "id": "github:Seryta/dsh-sidebar-triptych",
+  "kind": "plugin",
+  "name": "dsh-sidebar-triptych",
+  "description": "DSH 左侧栏三段折叠：功能区 / 工作区 / 状态区，默认只展工作区，状态存 Host 并跨设备同步",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Seryta/dsh-sidebar-triptych",
+  "repositoryUrl": "https://github.com/Seryta/dsh-sidebar-triptych",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9830
+}
