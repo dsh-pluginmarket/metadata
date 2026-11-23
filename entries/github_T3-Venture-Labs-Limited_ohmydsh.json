@@ -1,0 +1,20 @@
+{
+  "id": "github:T3-Venture-Labs-Limited/ohmydsh",
+  "kind": "plugin",
+  "name": "ohmydsh",
+  "description": "DeepSeek Harness, batteries included: an opinionated setup with 25+ plugins, one-line install and safe updates.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "T3-Venture-Labs-Limited/ohmydsh",
+  "repositoryUrl": "https://github.com/T3-Venture-Labs-Limited/ohmydsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9632
+}
