@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-codex-port",
+  "kind": "plugin",
+  "name": "dsh-codex-port",
+  "description": "DeepSeek Harness Codex 技能移植插件：离线预览导入、保留调用策略与许可、检测同名冲突。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-codex-port",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-codex-port",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9774
+}
