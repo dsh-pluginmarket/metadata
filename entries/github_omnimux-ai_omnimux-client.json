@@ -1,0 +1,20 @@
+{
+  "id": "github:omnimux-ai/omnimux-client",
+  "kind": "plugin",
+  "name": "omnimux-client",
+  "description": "OmniMux — Local AI content commerce workbench for product videos, ads, and creator workflows. Built-in product & asset library, inspiration teardown, infinite multimodal canvas, and timeline editor for macOS & Windows.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omnimux-ai/omnimux-client",
+  "repositoryUrl": "https://github.com/omnimux-ai/omnimux-client",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9443
+}
