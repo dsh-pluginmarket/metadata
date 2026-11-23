@@ -1,0 +1,20 @@
+{
+  "id": "github:cn-zhangpeng/dsh-shanhai-kanban",
+  "kind": "plugin",
+  "name": "dsh-shanhai-kanban",
+  "description": "DeepSeek Harness 任务看板插件：提前建任务、定时执行，绑定工作区与上游依赖，支持中断继续、自动补跑与状态跟踪。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "cn-zhangpeng/dsh-shanhai-kanban",
+  "repositoryUrl": "https://github.com/cn-zhangpeng/dsh-shanhai-kanban",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9457
+}
