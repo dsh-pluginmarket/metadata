@@ -1,0 +1,20 @@
+{
+  "id": "github:BrainZombie/dsh-restart-win",
+  "kind": "plugin",
+  "name": "dsh-restart-win",
+  "description": "Fail-closed safe restart for DSH on Windows: prove a throwaway instance boots before the running host is touched, then detach through a scheduled task so the restarter survives the host it restarts.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "BrainZombie/dsh-restart-win",
+  "repositoryUrl": "https://github.com/BrainZombie/dsh-restart-win",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9626
+}
