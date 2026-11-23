@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-rss",
+  "kind": "plugin",
+  "name": "dsh-rss",
+  "description": "DeepSeek Harness RSS / Atom 订阅工作台：默认「编辑部画报」12 栏封面桌面与 View Transitions 原地展开阅读（1 键切列表），支持分类目录先预览后订阅、多源检索、OPML 导入导出、AI 简报指令与 13 套风格 / 8 套字体。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-rss",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-rss",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9788
+}
