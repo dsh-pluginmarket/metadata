@@ -1,0 +1,20 @@
+{
+  "id": "github:juanweimao/dsh-long-session",
+  "kind": "plugin",
+  "name": "dsh-long-session",
+  "description": "给大肥鱼一个永远的家：会话再长也不必换新的，不用再撑爆那 4 GB 的堆，醒过来还是原来那条鱼。但是建议还是把突破4G堆的asar补丁打好！",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "juanweimao/dsh-long-session",
+  "repositoryUrl": "https://github.com/juanweimao/dsh-long-session",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9651
+}
