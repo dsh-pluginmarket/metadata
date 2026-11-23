@@ -1,0 +1,20 @@
+{
+  "id": "github:zhuobichen/zhaowen-dsh",
+  "kind": "plugin",
+  "name": "zhaowen-dsh",
+  "description": "DSH 工具集：多 Agent 团队编排插件 @zhuobichen/dsh-team + Claude Code 风格 TUI (dsh-cc-tui) + 终端客户端 (dsh-term)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zhuobichen/zhaowen-dsh",
+  "repositoryUrl": "https://github.com/zhuobichen/zhaowen-dsh",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9500
+}
