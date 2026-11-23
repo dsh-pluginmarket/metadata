@@ -1,0 +1,20 @@
+{
+  "id": "github:chentao326/dsh-four-modes",
+  "kind": "plugin",
+  "name": "dsh-four-modes",
+  "description": "在 DeepSeek Harness 会话中途切换四种内置 Agent 模式（标准 / PTC / 极简 / 创造）· Switch DSH agent modes mid-conversation",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chentao326/dsh-four-modes",
+  "repositoryUrl": "https://github.com/chentao326/dsh-four-modes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9687
+}
