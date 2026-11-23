@@ -1,0 +1,20 @@
+{
+  "id": "github:yikart/aitoearn-dsh-plugin",
+  "kind": "plugin",
+  "name": "aitoearn-dsh-plugin",
+  "description": "AiToEarn的deepSeek插件包",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yikart/aitoearn-dsh-plugin",
+  "repositoryUrl": "https://github.com/yikart/aitoearn-dsh-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9829
+}
