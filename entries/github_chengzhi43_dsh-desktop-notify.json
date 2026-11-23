@@ -1,0 +1,20 @@
+{
+  "id": "github:chengzhi43/dsh-desktop-notify",
+  "kind": "plugin",
+  "name": "dsh-desktop-notify",
+  "description": "Desktop notifications for DeepSeek Harness: turn finished, or the agent is waiting for your choice",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "chengzhi43/dsh-desktop-notify",
+  "repositoryUrl": "https://github.com/chengzhi43/dsh-desktop-notify",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9542
+}
