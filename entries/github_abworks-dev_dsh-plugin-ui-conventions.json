@@ -1,0 +1,20 @@
+{
+  "id": "github:abworks-dev/dsh-plugin-ui-conventions",
+  "kind": "plugin",
+  "name": "dsh-plugin-ui-conventions",
+  "description": "DSH 插件 UI 社区约定（非官方）：共享容器里的尺寸、间距、圆角与容量规则。含三个已采纳插件的参考实现。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "abworks-dev/dsh-plugin-ui-conventions",
+  "repositoryUrl": "https://github.com/abworks-dev/dsh-plugin-ui-conventions",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9479
+}
