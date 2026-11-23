@@ -1,0 +1,20 @@
+{
+  "id": "github:shijiezhiai/dsh-zhihu",
+  "kind": "plugin",
+  "name": "dsh-zhihu",
+  "description": "知乎热榜/推荐/搜索 + 站内阅读 + 面板内讨论 + 一键存 Obsidian，DeepSeek Harness 插件",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "shijiezhiai/dsh-zhihu",
+  "repositoryUrl": "https://github.com/shijiezhiai/dsh-zhihu",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9621
+}
