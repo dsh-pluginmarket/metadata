@@ -1,0 +1,20 @@
+{
+  "id": "github:simular-ai/box-plugin",
+  "kind": "plugin",
+  "name": "box-plugin",
+  "description": "box by Simular: plugins that add box (a cloud computer your agent drives over MCP) to Claude Code, DeepSeek Harness and other agents",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "simular-ai/box-plugin",
+  "repositoryUrl": "https://github.com/simular-ai/box-plugin",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9566
+}
