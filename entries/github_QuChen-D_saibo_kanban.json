@@ -1,0 +1,20 @@
+{
+  "id": "github:QuChen-D/saibo_kanban",
+  "kind": "plugin",
+  "name": "saibo_kanban",
+  "description": "AI ????????:????????????? token ???DeepSeek Harness ???",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "QuChen-D/saibo_kanban",
+  "repositoryUrl": "https://github.com/QuChen-D/saibo_kanban",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9677
+}
