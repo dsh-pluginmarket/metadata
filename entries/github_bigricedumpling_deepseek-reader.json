@@ -1,0 +1,20 @@
+{
+  "id": "github:bigricedumpling/deepseek-reader",
+  "kind": "plugin",
+  "name": "deepseek-reader",
+  "description": "Reader document workspace and DeepSeek Harness plugin preview",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bigricedumpling/deepseek-reader",
+  "repositoryUrl": "https://github.com/bigricedumpling/deepseek-reader",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9611
+}
