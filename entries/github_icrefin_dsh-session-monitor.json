@@ -1,0 +1,20 @@
+{
+  "id": "github:icrefin/dsh-session-monitor",
+  "kind": "plugin",
+  "name": "dsh-session-monitor",
+  "description": "A live grid for every active DeepSeek Harness session: transcript or the dsh-session-progress flow view, with a composer, answers and queue on every card.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "icrefin/dsh-session-monitor",
+  "repositoryUrl": "https://github.com/icrefin/dsh-session-monitor",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9631
+}
