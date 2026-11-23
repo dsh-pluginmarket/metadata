@@ -1,0 +1,20 @@
+{
+  "id": "github:harryzhz/dsh-lark-bridge",
+  "kind": "plugin",
+  "name": "dsh-lark-bridge",
+  "description": "Lark (Feishu) multi-agent bridge, group governance, Dreaming offline memory & proactive assistant plugin for DeepSeek Harness (Desktop & Web)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "harryzhz/dsh-lark-bridge",
+  "repositoryUrl": "https://github.com/harryzhz/dsh-lark-bridge",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9870
+}
