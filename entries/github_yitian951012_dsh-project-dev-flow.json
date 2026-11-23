@@ -1,0 +1,20 @@
+{
+  "id": "github:yitian951012/dsh-project-dev-flow",
+  "kind": "plugin",
+  "name": "dsh-project-dev-flow",
+  "description": "把一套经过真实项目校正的开发治理方法，按需加载到 agent 的上下文里。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yitian951012/dsh-project-dev-flow",
+  "repositoryUrl": "https://github.com/yitian951012/dsh-project-dev-flow",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9627
+}
