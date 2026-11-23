@@ -1,0 +1,20 @@
+{
+  "id": "github:WinterOne-hub/dsh-voice-notes",
+  "kind": "plugin",
+  "name": "dsh-voice-notes",
+  "description": "语音速记：DeepSeek Harness 本地录音转写插件，支持说话人区分、会议纪要和转写检索。macOS / Windows x64。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "WinterOne-hub/dsh-voice-notes",
+  "repositoryUrl": "https://github.com/WinterOne-hub/dsh-voice-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9568
+}
