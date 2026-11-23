@@ -1,0 +1,20 @@
+{
+  "id": "github:GTilor/dsh-session-delete",
+  "kind": "plugin",
+  "name": "dsh-session-delete",
+  "description": "Minimal Delete-session action for the DeepSeek Harness sidebar. 给 DSH 侧栏补上「删除会话」的最小插件。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "GTilor/dsh-session-delete",
+  "repositoryUrl": "https://github.com/GTilor/dsh-session-delete",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9647
+}
