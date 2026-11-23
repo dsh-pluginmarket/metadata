@@ -1,0 +1,20 @@
+{
+  "id": "github:ikevss/dsh-ima",
+  "kind": "plugin",
+  "name": "dsh-ima",
+  "description": "把腾讯 ima 知识库接进 DeepSeek Harness：侧边栏浏览、跨库搜正文、上传文件。agent 能读也能写。npm: ik-dsh-ima",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "ikevss/dsh-ima",
+  "repositoryUrl": "https://github.com/ikevss/dsh-ima",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9876
+}
