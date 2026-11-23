@@ -1,0 +1,20 @@
+{
+  "id": "github:yann9/dsh-git-workbench",
+  "kind": "plugin",
+  "name": "dsh-git-workbench",
+  "description": "JetBrains-style Git workbench plugin for DeepSeek Harness: hunk/line staging, side-by-side diff, commit graph, three-way conflict view.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "yann9/dsh-git-workbench",
+  "repositoryUrl": "https://github.com/yann9/dsh-git-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9515
+}
