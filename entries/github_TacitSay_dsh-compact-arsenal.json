@@ -1,0 +1,20 @@
+{
+  "id": "github:TacitSay/dsh-compact-arsenal",
+  "kind": "plugin",
+  "name": "dsh-compact-arsenal",
+  "description": "对上下文的不同内容提供不同的压缩方式,可配置的压缩触发阈值",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TacitSay/dsh-compact-arsenal",
+  "repositoryUrl": "https://github.com/TacitSay/dsh-compact-arsenal",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9838
+}
