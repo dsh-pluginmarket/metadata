@@ -1,0 +1,20 @@
+{
+  "id": "github:zlun-yan/dsh-python-manager",
+  "kind": "plugin",
+  "name": "dsh-python-manager",
+  "description": "为每个工作区和技能绑定一个 Miniconda 环境，并可在侧边栏页面创建或删除 conda 环境、安装或卸载 pip 包。 | Binds one Miniconda environment to each workspace and skill, and creates or deletes conda environments or installs and removes pip packages from a sidebar page.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "zlun-yan/dsh-python-manager",
+  "repositoryUrl": "https://github.com/zlun-yan/dsh-python-manager",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9806
+}
