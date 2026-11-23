@@ -1,0 +1,20 @@
+{
+  "id": "github:hanjiahe123/dsh-plugin-sticker",
+  "kind": "plugin",
+  "name": "dsh-plugin-sticker",
+  "description": "给 DSH 插件贴中文工牌：设置页点一点改名，或让 agent 按用途起名；插件更新冲掉后能检测并一键恢复。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "hanjiahe123/dsh-plugin-sticker",
+  "repositoryUrl": "https://github.com/hanjiahe123/dsh-plugin-sticker",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9706
+}
