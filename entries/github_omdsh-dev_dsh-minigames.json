@@ -1,0 +1,20 @@
+{
+  "id": "github:omdsh-dev/dsh-minigames",
+  "kind": "plugin",
+  "name": "dsh-minigames",
+  "description": "DSH 小游戏面板：223 款离线小游戏（六类分类+经典策展），像素地牢、行星征服、火柴谜题、Clue 式侦探、达芬奇密码、Nikoli 磁极等原创机制，等模型回复时的摸鱼神器。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "omdsh-dev/dsh-minigames",
+  "repositoryUrl": "https://github.com/omdsh-dev/dsh-minigames",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9415
+}
