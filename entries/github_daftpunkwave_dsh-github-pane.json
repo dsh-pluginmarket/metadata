@@ -1,0 +1,20 @@
+{
+  "id": "github:daftpunkwave/dsh-github-pane",
+  "kind": "plugin",
+  "name": "dsh-github-pane",
+  "description": "GitHub review pane for DeepSeek Harness: read and review pull requests, issues, and discussions of the current session repository in the right sidebar, with GitHub-grade Markdown, unified/split diffs, inline review threads, and review submission.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "daftpunkwave/dsh-github-pane",
+  "repositoryUrl": "https://github.com/daftpunkwave/dsh-github-pane",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9726
+}
