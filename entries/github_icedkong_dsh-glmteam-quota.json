@@ -1,0 +1,20 @@
+{
+  "id": "github:icedkong/dsh-glmteam-quota",
+  "kind": "plugin",
+  "name": "dsh-glmteam-quota",
+  "description": "Related DeepSeek Harness project: icedkong/dsh-glmteam-quota",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "icedkong/dsh-glmteam-quota",
+  "repositoryUrl": "https://github.com/icedkong/dsh-glmteam-quota",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9701
+}
