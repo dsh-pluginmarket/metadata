@@ -1,0 +1,20 @@
+{
+  "id": "github:soffits/dsh-media-hub",
+  "kind": "plugin",
+  "name": "dsh-media-hub",
+  "description": "Media hub for DeepSeek Harness: search shows, novels, ebooks and papers across sources, watch together in sync, download books in the format you want.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "soffits/dsh-media-hub",
+  "repositoryUrl": "https://github.com/soffits/dsh-media-hub",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9536
+}
