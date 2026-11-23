@@ -1,0 +1,20 @@
+{
+  "id": "github:NomanLord/dsh-learning-todo",
+  "kind": "plugin",
+  "name": "dsh-learning-todo",
+  "description": "A learning task list in the DeepSeek Harness left sidebar: add tasks, tick them off, and archive completed ones (local storage only).",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "NomanLord/dsh-learning-todo",
+  "repositoryUrl": "https://github.com/NomanLord/dsh-learning-todo",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9441
+}
