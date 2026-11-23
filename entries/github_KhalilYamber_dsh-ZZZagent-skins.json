@@ -1,0 +1,20 @@
+{
+  "id": "github:KhalilYamber/dsh-ZZZagent-skins",
+  "kind": "plugin",
+  "name": "dsh-ZZZagent-skins",
+  "description": "Remielle Dan —— DeepSeek Harness（DSH）Web 主题插件：深蓝玻璃外观 + 蕾米埃尔背景 + 输入区紫色强调。不依赖皮肤中心。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "KhalilYamber/dsh-ZZZagent-skins",
+  "repositoryUrl": "https://github.com/KhalilYamber/dsh-ZZZagent-skins",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9396
+}
