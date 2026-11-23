@@ -1,0 +1,20 @@
+{
+  "id": "github:femnn/dsh-plugin-remote-control",
+  "kind": "plugin",
+  "name": "dsh-plugin-remote-control",
+  "description": "DSH 右侧栏的安卓手机/电视远程操控台：自动发现连接、实时画面与点按、AI 看图操控、投屏、发文件装 APK",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "femnn/dsh-plugin-remote-control",
+  "repositoryUrl": "https://github.com/femnn/dsh-plugin-remote-control",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9929
+}
