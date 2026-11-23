@@ -1,0 +1,20 @@
+{
+  "id": "github:gluztm/dsh-chief",
+  "kind": "plugin",
+  "name": "dsh-chief",
+  "description": "蹲在 DeepSeek Harness 旁的小助手：平时歇着不打扰，你在电脑前提建议、防手滑，离开后帮你包办到底。 A quiet sidekick beside DeepSeek Harness: stays out of the way in plain chats, chimes in with tips and safety checks while you're here, and takes over when you step away.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "gluztm/dsh-chief",
+  "repositoryUrl": "https://github.com/gluztm/dsh-chief",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9483
+}
