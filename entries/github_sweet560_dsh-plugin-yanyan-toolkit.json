@@ -1,0 +1,20 @@
+{
+  "id": "github:sweet560/dsh-plugin-yanyan-toolkit",
+  "kind": "plugin",
+  "name": "dsh-plugin-yanyan-toolkit",
+  "description": "研研工具包：一次安装、五件套的 DeepSeek Harness 插件集合（插件更新 / 会话管理中心 / 子智能体管理 / 图标生成 / 找对插件），五个插件均为作者自写、可各自启停",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "sweet560/dsh-plugin-yanyan-toolkit",
+  "repositoryUrl": "https://github.com/sweet560/dsh-plugin-yanyan-toolkit",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9622
+}
