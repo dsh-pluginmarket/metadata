@@ -1,0 +1,20 @@
+{
+  "id": "github:youtulh/dsh-youtulh-workbench",
+  "kind": "plugin",
+  "name": "dsh-youtulh-workbench",
+  "description": "Youtulh 工作台：DeepSeek Harness 插件，一句话记灵感，一键成稿（标题、脚本、封面、配图、分镜）",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "youtulh/dsh-youtulh-workbench",
+  "repositoryUrl": "https://github.com/youtulh/dsh-youtulh-workbench",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9658
+}
