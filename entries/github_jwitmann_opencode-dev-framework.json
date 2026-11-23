@@ -1,0 +1,20 @@
+{
+  "id": "github:jwitmann/opencode-dev-framework",
+  "kind": "plugin",
+  "name": "opencode-dev-framework",
+  "description": "Enforcement gates for AI coding agents on OpenCode and DeepSeek Harness — guardrails, per-edit lint, and a completion gate that requires proof of done.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "jwitmann/opencode-dev-framework",
+  "repositoryUrl": "https://github.com/jwitmann/opencode-dev-framework",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9669
+}
