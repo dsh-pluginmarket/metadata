@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/dsh-code-security",
+  "kind": "plugin",
+  "name": "dsh-code-security",
+  "description": "DeepSeek Harness 代码安全工作台：默认 OP-SEC 精密雷达态势仪（OLED 屏 + 24-LED 矩阵 + 代码显微舱，1 键切列表），支持 40+ 规则静态扫描、Git 改动审查、依赖审计、SARIF 导出、修复复核与 13 套风格 / 8 套字体。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/dsh-code-security",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/dsh-code-security",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9791
+}
