@@ -1,0 +1,20 @@
+{
+  "id": "github:corvus-dsh/dsh-memory",
+  "kind": "plugin",
+  "name": "dsh-memory",
+  "description": "DSH open-source ecosystem plugin (topic: dsh-plugin): capability memory for long sessions. Consumes the handoff ledger, extracts reusable skills (SKILL.md) and negative paths (negatives.jsonl) from finished sessions, and never imports the slicing plugin. — DSH open-source ecosystem (topic: dsh-plugin)",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "corvus-dsh/dsh-memory",
+  "repositoryUrl": "https://github.com/corvus-dsh/dsh-memory",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9600
+}
