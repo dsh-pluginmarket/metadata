@@ -1,0 +1,20 @@
+{
+  "id": "github:bubble-xd/dsh-connect-qoder",
+  "kind": "plugin",
+  "name": "dsh-connect-qoder",
+  "description": "A DeepSeek Harness plugin that adds Qoder CN and Qoder Global as model providers, keeps tool execution local, and shows account quotas and available models in a sidebar.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "bubble-xd/dsh-connect-qoder",
+  "repositoryUrl": "https://github.com/bubble-xd/dsh-connect-qoder",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9899
+}
