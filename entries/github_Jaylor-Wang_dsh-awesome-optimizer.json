@@ -1,0 +1,20 @@
+{
+  "id": "github:Jaylor-Wang/dsh-awesome-optimizer",
+  "kind": "plugin",
+  "name": "dsh-awesome-optimizer",
+  "description": "Runtime policy guards that block repeated failing tool calls, oversized shell commands and network commands chained with local ones, composite batch tools (read_batch/edit_batch), SYSTEM.md replacement mode, soft convergence notices, and turn telemetry for DeepSeek Harness.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Jaylor-Wang/dsh-awesome-optimizer",
+  "repositoryUrl": "https://github.com/Jaylor-Wang/dsh-awesome-optimizer",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9643
+}
