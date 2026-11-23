@@ -1,0 +1,20 @@
+{
+  "id": "github:TaikongWalker/dsh-babel-notes",
+  "kind": "plugin",
+  "name": "dsh-babel-notes",
+  "description": "DeepSeek Harness plugin for Chinese long-form translation workflows: scaffold, glossary checks, LaTeX metadata, progress status.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "TaikongWalker/dsh-babel-notes",
+  "repositoryUrl": "https://github.com/TaikongWalker/dsh-babel-notes",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9465
+}
