@@ -1,0 +1,20 @@
+{
+  "id": "github:STARDUSTLC666/deepseek-computer-use",
+  "kind": "plugin",
+  "name": "deepseek-computer-use",
+  "description": "DeepSeek Harness Windows 桌面自动化插件与「电脑控制」工作台：窗口/区域截图、UIA 控件树、DPI 精准键鼠、/cu 直控、17 工具 + TS PTC（cua_run_code）、会话应用授权与操作审计。欢迎提交 issues 和 PR。",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "STARDUSTLC666/deepseek-computer-use",
+  "repositoryUrl": "https://github.com/STARDUSTLC666/deepseek-computer-use",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "deepseek-harness-plugin[bot]",
+  "issueNumber": 9786
+}
