@@ -1,0 +1,20 @@
+{
+  "id": "github:Yamashigure/dsh-listen-together",
+  "kind": "plugin",
+  "name": "dsh-listen-together",
+  "description": "Windows only. Reads the system loopback audio, names the playing track from the active browser window title, and hands it to the session through the listen_now, listen_feel and listen_control tools. Ships a native topmost overlay for pause and volume, and local SenseVoice dictation as a rough lyrics reference.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yamashigure/dsh-listen-together",
+  "repositoryUrl": "https://github.com/Yamashigure/dsh-listen-together",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "Yamashigure",
+  "issueNumber": 10004
+}
