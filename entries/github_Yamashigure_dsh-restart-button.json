@@ -1,0 +1,20 @@
+{
+  "id": "github:Yamashigure/dsh-restart-button",
+  "kind": "plugin",
+  "name": "dsh-restart-button",
+  "description": "Adds a red restart button in the Windows caption row. One click ends the running app processes, waits for the local port and single-instance lock to release, then relaunches the same executable, retrying up to three times. The same action is also exposed as the /dsh-restart command. Desktop only; nothing renders in a plain dsh web tab.",
+  "source": "github",
+  "sources": [
+    "github"
+  ],
+  "githubRepo": "Yamashigure/dsh-restart-button",
+  "repositoryUrl": "https://github.com/Yamashigure/dsh-restart-button",
+  "tags": [
+    "dsh-plugin",
+    "community"
+  ],
+  "status": "active",
+  "official": false,
+  "submittedBy": "Yamashigure",
+  "issueNumber": 10005
+}
